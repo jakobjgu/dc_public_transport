@@ -1,0 +1,175 @@
+version: 2
+
+models:
+  - name: base_wmata_ridership__weekday
+    description: Base model for WMATA ridership data on weekdays.
+    columns:
+      - name: ridership_key
+        description: Surrogate key for the ridership record.
+        tests:
+          - not_null
+          - unique
+      - name: ent_station
+        description: Entry station name.
+        tests:
+          - not_null
+      - name: ext_station
+        description: Exit station name.
+        tests:
+          - not_null
+      - name: ent_time_period
+        description: Time period of entry (e.g., AM Peak, PM Peak).
+        tests:
+          - accepted_values:
+             values: ['PM Peak', 'AM Peak', 'Evening', 'Midday', 'Late Night']
+      - name: day_type
+        description: Day type label (fixed to 'weekday' for this model).
+        tests:
+          - accepted_values:
+              values: ['weekday']
+      - name: riders
+        description: Average number of riders for the specified period.
+        tests:
+          - not_null
+      - name: trip_length
+        description: Length of the trip in number of stops.
+        tests:
+          - not_null
+  - name: base_wmata_ridership__sat
+    description: Base model for WMATA ridership data on Saturdays.
+    columns:
+      - name: ridership_key
+        description: Surrogate key for the ridership record.
+        tests:
+          - not_null
+          - unique
+      - name: ent_station
+        description: Entry station name.
+        tests:
+          - not_null
+      - name: ext_station
+        description: Exit station name.
+        tests:
+          - not_null
+      - name: ent_time_period
+        description: Time period of entry (e.g., AM Peak, PM Peak).
+        tests:
+          - accepted_values:
+             values: ['PM Peak', 'AM Peak', 'Evening', 'Midday', 'Late Night']
+      - name: day_type
+        description: Day type label (fixed to 'saturday' for this model).
+        tests:
+          - accepted_values:
+              values: ['saturday']
+      - name: riders
+        description: Average number of riders for the specified period.
+        tests:
+          - not_null
+      - name: trip_length
+        description: Length of the trip in number of stops.
+        tests:
+          - not_null
+  - name: base_wmata_ridership__sun
+    description: Base model for WMATA ridership data on Sundays.
+    columns:
+      - name: ridership_key
+        description: Surrogate key for the ridership record.
+        tests:
+          - not_null
+          - unique
+      - name: ent_station
+        description: Entry station name.
+        tests:
+          - not_null
+      - name: ext_station
+        description: Exit station name.
+        tests:
+          - not_null
+      - name: ent_time_period
+        description: Time period of entry (e.g., AM Peak, PM Peak).
+        tests:
+          - accepted_values:
+             values: ['PM Peak', 'AM Peak', 'Evening', 'Midday', 'Late Night']
+      - name: day_type
+        description: Day type label (fixed to 'sunday' for this model).
+        tests:
+          - accepted_values:
+              values: ['sunday']
+      - name: riders
+        description: Average number of riders for the specified period.
+        tests:
+          - not_null
+      - name: trip_length
+        description: Length of the trip in number of stops.
+        tests:
+          - not_null
+  - name: base_wmata_ridership__late
+    description: Base model for WMATA ridership data for late night hours.
+    columns:
+      - name: ridership_key
+        description: Surrogate key for the ridership record.
+        tests:
+          - not_null
+          - unique
+      - name: ent_station
+        description: Entry station name.
+        tests:
+          - not_null
+      - name: ext_station
+        description: Exit station name.
+        tests:
+          - not_null
+      - name: ent_time_period
+        description: Time period of entry (e.g., Late Night).
+        tests:
+          - accepted_values:
+             values: ['PM Peak', 'AM Peak', 'Evening', 'Midday', 'Late Night']
+      - name: day_type
+        description: Day type label (fixed to 'weekday' for this model).
+        tests:
+          - accepted_values:
+              values: ['weekday']
+      - name: riders
+        description: Average number of riders for the specified period.
+        tests:
+          - not_null
+      - name: trip_length
+        description: Length of the trip in number of stops.
+        tests:
+          - not_null
+  - name: stg_wmata_ridership__all_days
+    description: >
+      Staging model that combines WMATA ridership data from all day types 
+      (weekday, saturday, sunday, and late night) into a unified structure.
+    columns:
+      - name: ridership_key
+        description: Surrogate key for the ridership record.
+        tests:
+          - not_null
+          - unique
+      - name: ent_station
+        description: Entry station name.
+        tests:
+          - not_null
+      - name: ext_station
+        description: Exit station name.
+        tests:
+          - not_null
+      - name: ent_time_period
+        description: Time period of entry (e.g., AM Peak, PM Peak, Late Night).
+        tests:
+          - accepted_values:
+             values: ['PM Peak', 'AM Peak', 'Evening', 'Midday', 'Late Night']
+      - name: day_type
+        description: Type of day the ridership occurred on (e.g., weekday, saturday, saturday).
+        tests:
+          - accepted_values:
+              values: ['weekday', 'saturday', 'sunday']
+      - name: riders
+        description: Average number of riders for the specified period and day type.
+        tests:
+          - not_null
+      - name: trip_length
+        description: Length of the trip in number of stops.
+        tests:
+          - not_null

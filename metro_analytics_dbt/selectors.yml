@@ -1,0 +1,16 @@
+selectors:
+  - name: base
+    definition:
+      union:
+        - method: path
+          value: "models/staging/wmata_ridership/base"
+  - name: staging
+    definition:
+      union:
+        - method: path
+          value: "models/staging"
+  - name: marts
+    definition:
+      union:
+        - method: path
+          value: "models/marts"

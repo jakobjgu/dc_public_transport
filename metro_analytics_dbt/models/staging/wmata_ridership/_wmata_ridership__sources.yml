@@ -1,0 +1,26 @@
+version: 2
+
+sources:
+  - name: external_source_weekday_ridership
+    meta: 
+      external_location: "{{ env_var('S3_METRO_RIDERSHIP_WEEKDAY_PATH') }}"
+    tables:
+      - name: weekday_ridership
+
+  - name: external_source_saturday_ridership
+    meta: 
+      external_location: "{{ env_var('S3_METRO_RIDERSHIP_SATURDAY_PATH') }}"
+    tables:
+      - name: saturday_ridership
+
+  - name: external_source_sunday_ridership
+    meta: 
+      external_location: "{{ env_var('S3_METRO_RIDERSHIP_SUNDAY_PATH') }}"
+    tables:
+      - name: sunday_ridership
+
+  - name: external_source_late_night_ridership
+    meta: 
+      external_location: "{{ env_var('S3_METRO_RIDERSHIP_LATE_NIGHT_PATH') }}"
+    tables:
+      - name: late_night_ridership

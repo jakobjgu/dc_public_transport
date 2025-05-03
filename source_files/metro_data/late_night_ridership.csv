@@ -1,0 +1,5216 @@
+ent_station,ext_station,riders_average_weekday_late_night
+Addison Road,Addison Road,1.625
+Addison Road,Anacostia,0.875
+Addison Road,Archives-Navy Memorial,0.125
+Addison Road,Ballston,0.125
+Addison Road,Benning Road,1.875
+Addison Road,Braddock Road,0.125
+Addison Road,Branch Avenue,0.5
+Addison Road,Brookland,0.125
+Addison Road,Capitol Heights,1.375
+Addison Road,Clarendon,0.125
+Addison Road,Congress Heights,0.75
+Addison Road,Crystal City,0.125
+Addison Road,Deanwood,0.125
+Addison Road,Eastern Market,0.875
+Addison Road,Fort Totten,0.25
+Addison Road,Franconia-Springfield,0.125
+Addison Road,Gallery Place-Chinatown,0.25
+Addison Road,Georgia Avenue-Petworth,0.375
+Addison Road,Glenmont,0.125
+Addison Road,King Street,0.5
+Addison Road,L'Enfant Plaza,0.125
+Addison Road,Landover,0.5
+Addison Road,Largo Town Center,2.125
+Addison Road,McPherson Square,0.125
+Addison Road,Metro Center,0.25
+Addison Road,Morgan Blvd.,1.25
+Addison Road,Mt. Vernon Square-UDC,0.125
+Addison Road,Navy Yard,0.125
+Addison Road,Naylor Road,0.75
+Addison Road,New Carrollton,0.625
+Addison Road,New York Ave,0.25
+Addison Road,Pentagon,0.25
+Addison Road,Pentagon City,0.25
+Addison Road,Potomac Avenue,1.75
+Addison Road,Prince George's Plaza,0.375
+Addison Road,Reagan Washington National Airport,0.25
+Addison Road,Rhode Island Avenue,0.875
+Addison Road,Shady Grove,0.875
+Addison Road,Shaw-Howard University,0.25
+Addison Road,Silver Spring,0.125
+Addison Road,Southern Avenue,0.5
+Addison Road,Stadium-Armory,1.375
+Addison Road,Suitland,0.625
+Addison Road,Takoma,0.125
+Addison Road,Tenleytown-AU,0.125
+Addison Road,U Street-Cardozo,0.125
+Addison Road,Union Station,0.125
+Addison Road,Waterfront,0.125
+Anacostia,Addison Road,0.75
+Anacostia,Anacostia,7.375
+Anacostia,Archives-Navy Memorial,0.625
+Anacostia,Ballston,0.25
+Anacostia,Benning Road,1.5
+Anacostia,Braddock Road,0.375
+Anacostia,Branch Avenue,2.75
+Anacostia,Brookland,1.625
+Anacostia,Capitol Heights,1.375
+Anacostia,Capitol South,0.125
+Anacostia,College Park-U of MD,0.5
+Anacostia,Columbia Heights,6.125
+Anacostia,Congress Heights,3.5
+Anacostia,Court House,0.125
+Anacostia,Crystal City,0.125
+Anacostia,Deanwood,1.0
+Anacostia,Dupont Circle,0.375
+Anacostia,East Falls Church,0.25
+Anacostia,Farragut West,0.375
+Anacostia,Federal Center SW,0.125
+Anacostia,Foggy Bottom,0.625
+Anacostia,Fort Totten,4.25
+Anacostia,Gallery Place-Chinatown,7.5
+Anacostia,Georgia Avenue-Petworth,4.5
+Anacostia,Glenmont,0.625
+Anacostia,Greenbelt,0.375
+Anacostia,Huntington,0.625
+Anacostia,Judiciary Square,0.125
+Anacostia,King Street,0.25
+Anacostia,L'Enfant Plaza,0.375
+Anacostia,Landover,1.0
+Anacostia,Largo Town Center,0.75
+Anacostia,Metro Center,0.25
+Anacostia,Minnesota Avenue,3.125
+Anacostia,Morgan Blvd.,0.25
+Anacostia,Mt. Vernon Square-UDC,0.625
+Anacostia,Navy Yard,2.625
+Anacostia,Naylor Road,4.375
+Anacostia,New Carrollton,1.0
+Anacostia,New York Ave,2.875
+Anacostia,Pentagon,0.375
+Anacostia,Pentagon City,0.375
+Anacostia,Potomac Avenue,0.375
+Anacostia,Prince George's Plaza,0.125
+Anacostia,Reagan Washington National Airport,0.375
+Anacostia,Rhode Island Avenue,2.25
+Anacostia,Rockville,0.125
+Anacostia,Shaw-Howard University,2.125
+Anacostia,Silver Spring,0.625
+Anacostia,Southern Avenue,2.375
+Anacostia,Stadium-Armory,1.125
+Anacostia,Suitland,7.75
+Anacostia,Takoma,0.125
+Anacostia,U Street-Cardozo,4.25
+Anacostia,Union Station,0.875
+Anacostia,Waterfront,2.125
+Anacostia,West Hyattsville,0.5
+Anacostia,Wheaton,0.125
+Anacostia,Woodley Park-Zoo,0.875
+Archives-Navy Memorial,Anacostia,4.75
+Archives-Navy Memorial,Archives-Navy Memorial,5.625
+Archives-Navy Memorial,Ballston,1.5
+Archives-Navy Memorial,Benning Road,1.625
+Archives-Navy Memorial,Bethesda,0.25
+Archives-Navy Memorial,Braddock Road,0.75
+Archives-Navy Memorial,Branch Avenue,1.625
+Archives-Navy Memorial,Capitol Heights,0.5
+Archives-Navy Memorial,Capitol South,0.375
+Archives-Navy Memorial,Cheverly,0.5
+Archives-Navy Memorial,Cleveland Park,0.625
+Archives-Navy Memorial,College Park-U of MD,1.875
+Archives-Navy Memorial,Columbia Heights,14.0
+Archives-Navy Memorial,Congress Heights,2.0
+Archives-Navy Memorial,Court House,0.875
+Archives-Navy Memorial,Crystal City,5.125
+Archives-Navy Memorial,Deanwood,0.375
+Archives-Navy Memorial,Dunn Loring,0.125
+Archives-Navy Memorial,Dupont Circle,0.75
+Archives-Navy Memorial,East Falls Church,0.625
+Archives-Navy Memorial,Eastern Market,2.125
+Archives-Navy Memorial,Eisenhower Avenue,1.5
+Archives-Navy Memorial,Farragut North,0.25
+Archives-Navy Memorial,Farragut West,0.25
+Archives-Navy Memorial,Federal Center SW,0.125
+Archives-Navy Memorial,Foggy Bottom,0.25
+Archives-Navy Memorial,Fort Totten,5.875
+Archives-Navy Memorial,Franconia-Springfield,2.0
+Archives-Navy Memorial,Friendship Heights,0.125
+Archives-Navy Memorial,Gallery Place-Chinatown,0.25
+Archives-Navy Memorial,Georgia Avenue-Petworth,6.375
+Archives-Navy Memorial,Greenbelt,2.5
+Archives-Navy Memorial,Huntington,6.125
+Archives-Navy Memorial,King Street,3.0
+Archives-Navy Memorial,L'Enfant Plaza,0.375
+Archives-Navy Memorial,Landover,0.125
+Archives-Navy Memorial,Largo Town Center,0.875
+Archives-Navy Memorial,McPherson Square,0.125
+Archives-Navy Memorial,Metro Center,0.375
+Archives-Navy Memorial,Minnesota Avenue,0.625
+Archives-Navy Memorial,Morgan Blvd.,0.25
+Archives-Navy Memorial,Mt. Vernon Square-UDC,2.75
+Archives-Navy Memorial,Navy Yard,3.625
+Archives-Navy Memorial,Naylor Road,2.0
+Archives-Navy Memorial,New Carrollton,1.0
+Archives-Navy Memorial,New York Ave,1.125
+Archives-Navy Memorial,Pentagon,1.5
+Archives-Navy Memorial,Pentagon City,9.25
+Archives-Navy Memorial,Potomac Avenue,1.0
+Archives-Navy Memorial,Prince George's Plaza,2.625
+Archives-Navy Memorial,Reagan Washington National Airport,0.625
+Archives-Navy Memorial,Rosslyn,0.5
+Archives-Navy Memorial,Shady Grove,0.5
+Archives-Navy Memorial,Shaw-Howard University,1.125
+Archives-Navy Memorial,Silver Spring,1.0
+Archives-Navy Memorial,Southern Avenue,2.625
+Archives-Navy Memorial,Stadium-Armory,0.75
+Archives-Navy Memorial,Suitland,2.125
+Archives-Navy Memorial,Takoma,0.25
+Archives-Navy Memorial,Tenleytown-AU,0.125
+Archives-Navy Memorial,U Street-Cardozo,3.875
+Archives-Navy Memorial,Union Station,2.125
+Archives-Navy Memorial,Van Dorn Street,1.375
+Archives-Navy Memorial,Van Ness-UDC,0.25
+Archives-Navy Memorial,Vienna,0.125
+Archives-Navy Memorial,Virginia Square-GMU,0.25
+Archives-Navy Memorial,Waterfront,4.875
+Archives-Navy Memorial,West Falls Church,0.375
+Archives-Navy Memorial,West Hyattsville,3.625
+Archives-Navy Memorial,Wheaton,0.375
+Ballston,Anacostia,2.5
+Ballston,Ballston,7.375
+Ballston,Benning Road,1.875
+Ballston,Bethesda,0.375
+Ballston,Braddock Road,0.875
+Ballston,Branch Avenue,0.125
+Ballston,Brookland,0.625
+Ballston,Capitol Heights,0.375
+Ballston,Capitol South,0.5
+Ballston,Cheverly,0.625
+Ballston,Clarendon,7.0
+Ballston,Cleveland Park,1.0
+Ballston,Columbia Heights,2.0
+Ballston,Congress Heights,0.125
+Ballston,Court House,7.875
+Ballston,Crystal City,1.375
+Ballston,Deanwood,0.25
+Ballston,Dunn Loring,12.125
+Ballston,Dupont Circle,0.75
+Ballston,East Falls Church,13.625
+Ballston,Eastern Market,1.75
+Ballston,Eisenhower Avenue,0.25
+Ballston,Farragut West,3.875
+Ballston,Federal Center SW,0.5
+Ballston,Foggy Bottom,10.25
+Ballston,Forest Glen,1.25
+Ballston,Fort Totten,1.125
+Ballston,Franconia-Springfield,2.125
+Ballston,Friendship Heights,1.0
+Ballston,Gallery Place-Chinatown,1.625
+Ballston,Georgia Avenue-Petworth,1.125
+Ballston,Glenmont,0.375
+Ballston,Grosvenor,0.5
+Ballston,Huntington,1.625
+Ballston,Judiciary Square,0.125
+Ballston,King Street,3.375
+Ballston,L'Enfant Plaza,0.375
+Ballston,Landover,1.5
+Ballston,Largo Town Center,0.125
+Ballston,McPherson Square,8.875
+Ballston,Metro Center,4.5
+Ballston,Minnesota Avenue,1.0
+Ballston,Mt. Vernon Square-UDC,0.125
+Ballston,Navy Yard,0.125
+Ballston,Naylor Road,1.125
+Ballston,New Carrollton,1.25
+Ballston,New York Ave,1.25
+Ballston,Pentagon,0.125
+Ballston,Pentagon City,0.875
+Ballston,Potomac Avenue,0.625
+Ballston,Reagan Washington National Airport,0.375
+Ballston,Rhode Island Avenue,0.125
+Ballston,Rockville,0.125
+Ballston,Rosslyn,4.75
+Ballston,Shady Grove,0.875
+Ballston,Shaw-Howard University,0.625
+Ballston,Silver Spring,2.0
+Ballston,Southern Avenue,0.125
+Ballston,Stadium-Armory,0.875
+Ballston,Suitland,0.625
+Ballston,Takoma,0.625
+Ballston,Tenleytown-AU,0.5
+Ballston,Twinbrook,0.5
+Ballston,U Street-Cardozo,1.75
+Ballston,Union Station,2.5
+Ballston,Van Dorn Street,1.25
+Ballston,Van Ness-UDC,0.375
+Ballston,Vienna,16.5
+Ballston,Waterfront,1.0
+Ballston,West Falls Church,8.875
+Ballston,West Hyattsville,0.25
+Ballston,Wheaton,0.125
+Ballston,White Flint,0.625
+Ballston,Woodley Park-Zoo,1.25
+Benning Road,Addison Road,3.5
+Benning Road,Anacostia,1.375
+Benning Road,Archives-Navy Memorial,0.125
+Benning Road,Ballston,0.125
+Benning Road,Benning Road,2.375
+Benning Road,Braddock Road,0.375
+Benning Road,Branch Avenue,0.25
+Benning Road,Brookland,1.0
+Benning Road,Capitol Heights,1.125
+Benning Road,College Park-U of MD,0.125
+Benning Road,Columbia Heights,1.875
+Benning Road,Congress Heights,0.625
+Benning Road,Dupont Circle,0.25
+Benning Road,Eastern Market,0.875
+Benning Road,Farragut West,0.25
+Benning Road,Federal Center SW,0.125
+Benning Road,Federal Triangle,0.125
+Benning Road,Foggy Bottom,0.125
+Benning Road,Fort Totten,1.25
+Benning Road,Franconia-Springfield,0.125
+Benning Road,Gallery Place-Chinatown,0.75
+Benning Road,Georgia Avenue-Petworth,1.625
+Benning Road,Greenbelt,0.125
+Benning Road,Huntington,0.125
+Benning Road,L'Enfant Plaza,0.125
+Benning Road,Landover,0.125
+Benning Road,Largo Town Center,0.625
+Benning Road,McPherson Square,0.125
+Benning Road,Metro Center,0.125
+Benning Road,Minnesota Avenue,0.125
+Benning Road,Morgan Blvd.,1.25
+Benning Road,Mt. Vernon Square-UDC,0.75
+Benning Road,Navy Yard,0.375
+Benning Road,Naylor Road,0.875
+Benning Road,New Carrollton,0.5
+Benning Road,New York Ave,0.5
+Benning Road,Pentagon,0.375
+Benning Road,Pentagon City,1.125
+Benning Road,Potomac Avenue,1.875
+Benning Road,Prince George's Plaza,0.125
+Benning Road,Rhode Island Avenue,1.375
+Benning Road,Rosslyn,0.625
+Benning Road,Shady Grove,0.125
+Benning Road,Shaw-Howard University,0.375
+Benning Road,Silver Spring,0.25
+Benning Road,Southern Avenue,1.875
+Benning Road,Stadium-Armory,2.5
+Benning Road,Suitland,0.75
+Benning Road,Takoma,0.625
+Benning Road,U Street-Cardozo,2.0
+Benning Road,Union Station,0.125
+Benning Road,Vienna,0.125
+Benning Road,Waterfront,0.25
+Benning Road,West Hyattsville,0.125
+Benning Road,Wheaton,0.25
+Benning Road,White Flint,0.125
+Bethesda,Addison Road,0.25
+Bethesda,Archives-Navy Memorial,0.125
+Bethesda,Ballston,1.125
+Bethesda,Benning Road,0.125
+Bethesda,Bethesda,4.75
+Bethesda,Braddock Road,0.125
+Bethesda,Branch Avenue,0.625
+Bethesda,Brookland,0.5
+Bethesda,Capitol Heights,0.75
+Bethesda,Capitol South,0.25
+Bethesda,Cheverly,0.25
+Bethesda,Clarendon,0.375
+Bethesda,Cleveland Park,5.125
+Bethesda,College Park-U of MD,0.5
+Bethesda,Columbia Heights,1.0
+Bethesda,Congress Heights,0.375
+Bethesda,Court House,0.75
+Bethesda,Crystal City,0.875
+Bethesda,Deanwood,0.25
+Bethesda,Dupont Circle,16.625
+Bethesda,East Falls Church,0.375
+Bethesda,Eastern Market,1.375
+Bethesda,Farragut North,4.5
+Bethesda,Federal Center SW,0.5
+Bethesda,Foggy Bottom,1.125
+Bethesda,Forest Glen,0.25
+Bethesda,Fort Totten,2.25
+Bethesda,Franconia-Springfield,0.75
+Bethesda,Friendship Heights,8.625
+Bethesda,Gallery Place-Chinatown,4.0
+Bethesda,Georgia Avenue-Petworth,1.0
+Bethesda,Glenmont,1.25
+Bethesda,Greenbelt,0.5
+Bethesda,Grosvenor,28.75
+Bethesda,Huntington,1.125
+Bethesda,Judiciary Square,0.25
+Bethesda,King Street,1.25
+Bethesda,Landover,0.25
+Bethesda,Medical Center,1.875
+Bethesda,Metro Center,1.875
+Bethesda,Mt. Vernon Square-UDC,0.75
+Bethesda,Navy Yard,0.5
+Bethesda,Naylor Road,0.125
+Bethesda,New Carrollton,0.375
+Bethesda,New York Ave,0.75
+Bethesda,Pentagon,0.875
+Bethesda,Pentagon City,2.0
+Bethesda,Potomac Avenue,0.25
+Bethesda,Prince George's Plaza,0.125
+Bethesda,Reagan Washington National Airport,0.25
+Bethesda,Rhode Island Avenue,0.375
+Bethesda,Rockville,16.125
+Bethesda,Rosslyn,1.375
+Bethesda,Shady Grove,39.875
+Bethesda,Shaw-Howard University,0.25
+Bethesda,Silver Spring,2.125
+Bethesda,Stadium-Armory,0.375
+Bethesda,Takoma,0.875
+Bethesda,Tenleytown-AU,18.25
+Bethesda,Twinbrook,24.0
+Bethesda,U Street-Cardozo,1.875
+Bethesda,Union Station,2.75
+Bethesda,Van Dorn Street,0.125
+Bethesda,Van Ness-UDC,5.875
+Bethesda,Vienna,1.0
+Bethesda,Virginia Square-GMU,0.25
+Bethesda,Waterfront,1.625
+Bethesda,West Falls Church,0.5
+Bethesda,West Hyattsville,0.125
+Bethesda,Wheaton,0.5
+Bethesda,White Flint,16.0
+Bethesda,Woodley Park-Zoo,12.0
+Braddock Road,Addison Road,0.25
+Braddock Road,Anacostia,0.625
+Braddock Road,Archives-Navy Memorial,0.125
+Braddock Road,Ballston,0.5
+Braddock Road,Benning Road,0.375
+Braddock Road,Bethesda,0.375
+Braddock Road,Braddock Road,1.125
+Braddock Road,Branch Avenue,0.5
+Braddock Road,Capitol Heights,0.125
+Braddock Road,Capitol South,0.25
+Braddock Road,Clarendon,0.25
+Braddock Road,College Park-U of MD,0.125
+Braddock Road,Columbia Heights,1.625
+Braddock Road,Court House,0.25
+Braddock Road,Crystal City,1.25
+Braddock Road,Dunn Loring,0.125
+Braddock Road,Dupont Circle,0.5
+Braddock Road,East Falls Church,0.5
+Braddock Road,Eastern Market,0.125
+Braddock Road,Eisenhower Avenue,0.125
+Braddock Road,Farragut West,0.25
+Braddock Road,Foggy Bottom,1.375
+Braddock Road,Fort Totten,0.625
+Braddock Road,Franconia-Springfield,2.0
+Braddock Road,Friendship Heights,0.125
+Braddock Road,Gallery Place-Chinatown,0.5
+Braddock Road,Georgia Avenue-Petworth,0.125
+Braddock Road,Greenbelt,0.25
+Braddock Road,Huntington,5.5
+Braddock Road,King Street,0.625
+Braddock Road,L'Enfant Plaza,0.125
+Braddock Road,Landover,0.25
+Braddock Road,Largo Town Center,0.375
+Braddock Road,Metro Center,0.25
+Braddock Road,Minnesota Avenue,0.625
+Braddock Road,Mt. Vernon Square-UDC,1.0
+Braddock Road,Navy Yard,0.375
+Braddock Road,Naylor Road,0.125
+Braddock Road,New Carrollton,0.25
+Braddock Road,New York Ave,0.375
+Braddock Road,Pentagon,0.625
+Braddock Road,Pentagon City,0.875
+Braddock Road,Potomac Avenue,0.5
+Braddock Road,Reagan Washington National Airport,0.125
+Braddock Road,Rosslyn,0.875
+Braddock Road,Shady Grove,0.125
+Braddock Road,Shaw-Howard University,0.875
+Braddock Road,Silver Spring,0.25
+Braddock Road,Smithsonian,0.75
+Braddock Road,Southern Avenue,0.125
+Braddock Road,Stadium-Armory,0.625
+Braddock Road,Suitland,0.375
+Braddock Road,Takoma,0.375
+Braddock Road,Tenleytown-AU,0.125
+Braddock Road,U Street-Cardozo,0.875
+Braddock Road,Union Station,0.375
+Braddock Road,Van Dorn Street,2.5
+Braddock Road,Van Ness-UDC,0.25
+Braddock Road,Vienna,0.75
+Braddock Road,Virginia Square-GMU,0.125
+Braddock Road,Waterfront,0.25
+Braddock Road,West Hyattsville,0.375
+Braddock Road,Wheaton,1.0
+Braddock Road,Woodley Park-Zoo,0.375
+Branch Avenue,Anacostia,1.75
+Branch Avenue,Archives-Navy Memorial,0.25
+Branch Avenue,Benning Road,0.125
+Branch Avenue,Braddock Road,0.375
+Branch Avenue,Branch Avenue,1.75
+Branch Avenue,Cleveland Park,0.25
+Branch Avenue,College Park-U of MD,0.125
+Branch Avenue,Columbia Heights,0.375
+Branch Avenue,Congress Heights,0.125
+Branch Avenue,Deanwood,0.125
+Branch Avenue,Dupont Circle,0.25
+Branch Avenue,Eastern Market,0.125
+Branch Avenue,Farragut North,0.125
+Branch Avenue,Foggy Bottom,0.125
+Branch Avenue,Fort Totten,1.75
+Branch Avenue,Gallery Place-Chinatown,2.0
+Branch Avenue,Georgia Avenue-Petworth,1.125
+Branch Avenue,Glenmont,0.125
+Branch Avenue,Greenbelt,0.5
+Branch Avenue,Huntington,0.125
+Branch Avenue,King Street,0.125
+Branch Avenue,Largo Town Center,0.375
+Branch Avenue,Metro Center,0.125
+Branch Avenue,Minnesota Avenue,0.125
+Branch Avenue,Morgan Blvd.,0.125
+Branch Avenue,Mt. Vernon Square-UDC,0.25
+Branch Avenue,Navy Yard,0.625
+Branch Avenue,Naylor Road,1.5
+Branch Avenue,New Carrollton,0.25
+Branch Avenue,New York Ave,0.125
+Branch Avenue,Prince George's Plaza,0.375
+Branch Avenue,Reagan Washington National Airport,0.5
+Branch Avenue,Rhode Island Avenue,0.25
+Branch Avenue,Rockville,0.125
+Branch Avenue,Shady Grove,0.125
+Branch Avenue,Shaw-Howard University,0.375
+Branch Avenue,Silver Spring,0.25
+Branch Avenue,Smithsonian,0.125
+Branch Avenue,Southern Avenue,1.125
+Branch Avenue,Stadium-Armory,0.5
+Branch Avenue,Suitland,2.25
+Branch Avenue,Takoma,0.25
+Branch Avenue,U Street-Cardozo,0.75
+Branch Avenue,Van Dorn Street,0.125
+Branch Avenue,Waterfront,0.25
+Branch Avenue,West Falls Church,0.25
+Branch Avenue,Wheaton,0.25
+Branch Avenue,Woodley Park-Zoo,0.125
+Brookland,Addison Road,0.125
+Brookland,Anacostia,1.5
+Brookland,Ballston,0.125
+Brookland,Benning Road,1.75
+Brookland,Braddock Road,0.125
+Brookland,Branch Avenue,0.5
+Brookland,Brookland,1.625
+Brookland,Capitol Heights,0.875
+Brookland,Capitol South,0.125
+Brookland,Cleveland Park,0.75
+Brookland,College Park-U of MD,0.25
+Brookland,Columbia Heights,2.25
+Brookland,Congress Heights,0.625
+Brookland,Court House,0.25
+Brookland,Crystal City,0.25
+Brookland,Deanwood,0.125
+Brookland,Dunn Loring,0.25
+Brookland,Dupont Circle,3.0
+Brookland,East Falls Church,0.125
+Brookland,Eastern Market,0.125
+Brookland,Eisenhower Avenue,0.5
+Brookland,Farragut North,1.75
+Brookland,Farragut West,0.375
+Brookland,Foggy Bottom,0.125
+Brookland,Forest Glen,1.5
+Brookland,Fort Totten,6.125
+Brookland,Gallery Place-Chinatown,4.25
+Brookland,Georgia Avenue-Petworth,0.875
+Brookland,Glenmont,1.625
+Brookland,Greenbelt,0.125
+Brookland,Huntington,0.25
+Brookland,Judiciary Square,0.5
+Brookland,King Street,0.25
+Brookland,Landover,0.375
+Brookland,Largo Town Center,0.125
+Brookland,McPherson Square,0.125
+Brookland,Metro Center,1.5
+Brookland,Minnesota Avenue,0.125
+Brookland,Mt. Vernon Square-UDC,0.125
+Brookland,Navy Yard,0.25
+Brookland,Naylor Road,0.625
+Brookland,New Carrollton,0.5
+Brookland,New York Ave,3.375
+Brookland,Pentagon City,0.125
+Brookland,Potomac Avenue,0.125
+Brookland,Prince George's Plaza,0.875
+Brookland,Reagan Washington National Airport,0.25
+Brookland,Rhode Island Avenue,1.375
+Brookland,Rockville,0.25
+Brookland,Shady Grove,0.375
+Brookland,Shaw-Howard University,0.5
+Brookland,Silver Spring,7.25
+Brookland,Southern Avenue,0.375
+Brookland,Stadium-Armory,0.5
+Brookland,Suitland,0.25
+Brookland,Takoma,2.625
+Brookland,Tenleytown-AU,0.375
+Brookland,U Street-Cardozo,1.75
+Brookland,Union Station,5.0
+Brookland,Van Ness-UDC,0.625
+Brookland,Vienna,0.25
+Brookland,Waterfront,0.25
+Brookland,West Hyattsville,0.625
+Brookland,Wheaton,0.75
+Brookland,White Flint,0.125
+Brookland,Woodley Park-Zoo,1.75
+Capitol Heights,Addison Road,2.25
+Capitol Heights,Anacostia,0.625
+Capitol Heights,Benning Road,1.0
+Capitol Heights,Branch Avenue,0.25
+Capitol Heights,Capitol Heights,0.75
+Capitol Heights,Clarendon,0.125
+Capitol Heights,College Park-U of MD,0.125
+Capitol Heights,Columbia Heights,0.375
+Capitol Heights,Congress Heights,1.25
+Capitol Heights,Crystal City,0.375
+Capitol Heights,East Falls Church,0.25
+Capitol Heights,Eastern Market,0.125
+Capitol Heights,Farragut West,0.125
+Capitol Heights,Federal Center SW,0.125
+Capitol Heights,Federal Triangle,0.25
+Capitol Heights,Foggy Bottom,0.125
+Capitol Heights,Fort Totten,0.25
+Capitol Heights,Friendship Heights,0.125
+Capitol Heights,Gallery Place-Chinatown,0.75
+Capitol Heights,Georgia Avenue-Petworth,0.75
+Capitol Heights,Glenmont,0.125
+Capitol Heights,Huntington,0.125
+Capitol Heights,Largo Town Center,1.75
+Capitol Heights,McPherson Square,0.25
+Capitol Heights,Metro Center,0.125
+Capitol Heights,Minnesota Avenue,0.125
+Capitol Heights,Morgan Blvd.,0.25
+Capitol Heights,Navy Yard,0.125
+Capitol Heights,Naylor Road,0.25
+Capitol Heights,New Carrollton,0.25
+Capitol Heights,Pentagon,0.125
+Capitol Heights,Potomac Avenue,0.5
+Capitol Heights,Reagan Washington National Airport,0.25
+Capitol Heights,Shaw-Howard University,0.375
+Capitol Heights,Silver Spring,0.125
+Capitol Heights,Smithsonian,0.125
+Capitol Heights,Southern Avenue,0.375
+Capitol Heights,Stadium-Armory,1.375
+Capitol Heights,Suitland,0.125
+Capitol Heights,Union Station,0.25
+Capitol Heights,Vienna,0.125
+Capitol Heights,Waterfront,0.375
+Capitol Heights,Wheaton,0.25
+Capitol Heights,Woodley Park-Zoo,0.125
+Capitol South,Addison Road,0.5
+Capitol South,Ballston,4.25
+Capitol South,Benning Road,0.5
+Capitol South,Bethesda,0.25
+Capitol South,Braddock Road,1.25
+Capitol South,Brookland,0.375
+Capitol South,Capitol Heights,0.5
+Capitol South,Capitol South,1.75
+Capitol South,Cheverly,1.0
+Capitol South,Clarendon,1.875
+Capitol South,Cleveland Park,0.625
+Capitol South,Columbia Heights,3.375
+Capitol South,Court House,3.125
+Capitol South,Crystal City,1.5
+Capitol South,Deanwood,0.375
+Capitol South,Dunn Loring,1.0
+Capitol South,Dupont Circle,1.125
+Capitol South,East Falls Church,1.875
+Capitol South,Eastern Market,0.5
+Capitol South,Eisenhower Avenue,0.625
+Capitol South,Farragut West,0.75
+Capitol South,Federal Center SW,0.375
+Capitol South,Foggy Bottom,4.625
+Capitol South,Fort Totten,1.375
+Capitol South,Franconia-Springfield,1.125
+Capitol South,Friendship Heights,0.125
+Capitol South,Gallery Place-Chinatown,0.5
+Capitol South,Georgia Avenue-Petworth,1.125
+Capitol South,Glenmont,0.375
+Capitol South,Greenbelt,0.625
+Capitol South,Grosvenor,0.625
+Capitol South,Huntington,0.625
+Capitol South,King Street,1.375
+Capitol South,L'Enfant Plaza,0.875
+Capitol South,Largo Town Center,0.375
+Capitol South,McPherson Square,2.75
+Capitol South,Metro Center,7.625
+Capitol South,Minnesota Avenue,0.125
+Capitol South,Morgan Blvd.,0.125
+Capitol South,Mt. Vernon Square-UDC,0.875
+Capitol South,Navy Yard,0.25
+Capitol South,New Carrollton,3.375
+Capitol South,New York Ave,0.125
+Capitol South,Pentagon,0.625
+Capitol South,Pentagon City,3.625
+Capitol South,Potomac Avenue,0.5
+Capitol South,Prince George's Plaza,0.25
+Capitol South,Reagan Washington National Airport,0.5
+Capitol South,Rosslyn,6.0
+Capitol South,Shady Grove,1.0
+Capitol South,Shaw-Howard University,0.25
+Capitol South,Silver Spring,1.0
+Capitol South,Stadium-Armory,0.75
+Capitol South,Suitland,0.125
+Capitol South,Takoma,0.25
+Capitol South,Tenleytown-AU,2.25
+Capitol South,Twinbrook,0.5
+Capitol South,U Street-Cardozo,1.125
+Capitol South,Van Dorn Street,0.625
+Capitol South,Vienna,1.375
+Capitol South,Virginia Square-GMU,1.375
+Capitol South,Waterfront,0.375
+Capitol South,West Falls Church,1.0
+Capitol South,West Hyattsville,0.25
+Capitol South,Wheaton,0.375
+Capitol South,White Flint,0.25
+Capitol South,Woodley Park-Zoo,1.375
+Cheverly,Anacostia,0.125
+Cheverly,Branch Avenue,0.125
+Cheverly,Capitol Heights,0.125
+Cheverly,Cheverly,0.25
+Cheverly,Clarendon,0.125
+Cheverly,Columbia Heights,0.125
+Cheverly,Congress Heights,0.25
+Cheverly,Deanwood,0.125
+Cheverly,Dunn Loring,0.125
+Cheverly,Eastern Market,0.5
+Cheverly,Fort Totten,0.625
+Cheverly,Gallery Place-Chinatown,0.125
+Cheverly,Georgia Avenue-Petworth,0.625
+Cheverly,McPherson Square,0.25
+Cheverly,Minnesota Avenue,0.25
+Cheverly,Naylor Road,0.125
+Cheverly,New Carrollton,0.25
+Cheverly,Rosslyn,0.125
+Cheverly,Southern Avenue,0.125
+Cheverly,Stadium-Armory,0.375
+Cheverly,Suitland,0.375
+Cheverly,Takoma,0.25
+Cheverly,U Street-Cardozo,0.125
+Cheverly,Woodley Park-Zoo,0.125
+Clarendon,Addison Road,0.125
+Clarendon,Archives-Navy Memorial,0.5
+Clarendon,Ballston,47.875
+Clarendon,Bethesda,2.5
+Clarendon,Braddock Road,3.375
+Clarendon,Branch Avenue,0.75
+Clarendon,Brookland,1.125
+Clarendon,Capitol South,3.5
+Clarendon,Cheverly,1.25
+Clarendon,Clarendon,22.125
+Clarendon,Cleveland Park,1.375
+Clarendon,College Park-U of MD,0.5
+Clarendon,Columbia Heights,4.375
+Clarendon,Congress Heights,0.25
+Clarendon,Court House,2.625
+Clarendon,Crystal City,9.75
+Clarendon,Dunn Loring,42.625
+Clarendon,Dupont Circle,3.5
+Clarendon,East Falls Church,51.5
+Clarendon,Eastern Market,5.5
+Clarendon,Eisenhower Avenue,1.875
+Clarendon,Farragut North,0.375
+Clarendon,Farragut West,11.125
+Clarendon,Federal Center SW,0.875
+Clarendon,Foggy Bottom,13.125
+Clarendon,Fort Totten,1.875
+Clarendon,Franconia-Springfield,10.875
+Clarendon,Friendship Heights,1.375
+Clarendon,Gallery Place-Chinatown,0.875
+Clarendon,Georgia Avenue-Petworth,1.125
+Clarendon,Glenmont,1.125
+Clarendon,Greenbelt,0.875
+Clarendon,Grosvenor,1.375
+Clarendon,Huntington,6.875
+Clarendon,Judiciary Square,0.25
+Clarendon,King Street,8.625
+Clarendon,L'Enfant Plaza,1.875
+Clarendon,Landover,0.125
+Clarendon,Largo Town Center,0.5
+Clarendon,McPherson Square,14.125
+Clarendon,Medical Center,0.625
+Clarendon,Metro Center,8.0
+Clarendon,Minnesota Avenue,0.375
+Clarendon,Morgan Blvd.,0.25
+Clarendon,Mt. Vernon Square-UDC,1.0
+Clarendon,Navy Yard,0.625
+Clarendon,Naylor Road,0.5
+Clarendon,New Carrollton,2.625
+Clarendon,New York Ave,1.5
+Clarendon,Pentagon,0.875
+Clarendon,Pentagon City,8.75
+Clarendon,Potomac Avenue,1.625
+Clarendon,Prince George's Plaza,0.375
+Clarendon,Rhode Island Avenue,0.625
+Clarendon,Rockville,1.5
+Clarendon,Rosslyn,12.625
+Clarendon,Shady Grove,1.375
+Clarendon,Shaw-Howard University,1.625
+Clarendon,Silver Spring,2.75
+Clarendon,Smithsonian,0.5
+Clarendon,Southern Avenue,0.875
+Clarendon,Stadium-Armory,0.375
+Clarendon,Takoma,1.0
+Clarendon,Tenleytown-AU,1.5
+Clarendon,Twinbrook,0.75
+Clarendon,U Street-Cardozo,1.5
+Clarendon,Union Station,2.5
+Clarendon,Van Dorn Street,5.25
+Clarendon,Van Ness-UDC,1.875
+Clarendon,Vienna,104.5
+Clarendon,Virginia Square-GMU,6.0
+Clarendon,Waterfront,1.0
+Clarendon,West Falls Church,27.125
+Clarendon,West Hyattsville,0.375
+Clarendon,Wheaton,0.5
+Clarendon,White Flint,0.875
+Clarendon,Woodley Park-Zoo,2.75
+Cleveland Park,Addison Road,0.125
+Cleveland Park,Anacostia,0.125
+Cleveland Park,Archives-Navy Memorial,0.125
+Cleveland Park,Ballston,0.75
+Cleveland Park,Benning Road,0.25
+Cleveland Park,Bethesda,5.375
+Cleveland Park,Branch Avenue,0.125
+Cleveland Park,Brookland,0.5
+Cleveland Park,Capitol South,0.375
+Cleveland Park,Clarendon,1.125
+Cleveland Park,Cleveland Park,3.875
+Cleveland Park,College Park-U of MD,0.375
+Cleveland Park,Columbia Heights,0.375
+Cleveland Park,Congress Heights,0.125
+Cleveland Park,Court House,1.0
+Cleveland Park,Crystal City,0.625
+Cleveland Park,Dunn Loring,0.25
+Cleveland Park,Dupont Circle,8.25
+Cleveland Park,Eastern Market,1.125
+Cleveland Park,Eisenhower Avenue,0.375
+Cleveland Park,Farragut North,3.375
+Cleveland Park,Foggy Bottom,0.75
+Cleveland Park,Forest Glen,2.25
+Cleveland Park,Fort Totten,2.25
+Cleveland Park,Franconia-Springfield,0.125
+Cleveland Park,Friendship Heights,3.125
+Cleveland Park,Gallery Place-Chinatown,2.25
+Cleveland Park,Georgia Avenue-Petworth,0.375
+Cleveland Park,Glenmont,0.75
+Cleveland Park,Greenbelt,0.25
+Cleveland Park,Grosvenor,8.25
+Cleveland Park,Huntington,0.375
+Cleveland Park,Judiciary Square,0.5
+Cleveland Park,King Street,0.25
+Cleveland Park,Largo Town Center,0.125
+Cleveland Park,Medical Center,0.375
+Cleveland Park,Metro Center,0.5
+Cleveland Park,Minnesota Avenue,0.25
+Cleveland Park,Mt. Vernon Square-UDC,0.25
+Cleveland Park,Naylor Road,0.125
+Cleveland Park,New Carrollton,0.875
+Cleveland Park,New York Ave,1.625
+Cleveland Park,Pentagon City,1.375
+Cleveland Park,Potomac Avenue,0.25
+Cleveland Park,Prince George's Plaza,0.25
+Cleveland Park,Rhode Island Avenue,1.0
+Cleveland Park,Rockville,2.75
+Cleveland Park,Rosslyn,1.25
+Cleveland Park,Shady Grove,3.5
+Cleveland Park,Shaw-Howard University,0.25
+Cleveland Park,Silver Spring,2.125
+Cleveland Park,Stadium-Armory,0.25
+Cleveland Park,Suitland,1.25
+Cleveland Park,Takoma,1.625
+Cleveland Park,Tenleytown-AU,2.0
+Cleveland Park,Twinbrook,3.625
+Cleveland Park,U Street-Cardozo,0.125
+Cleveland Park,Union Station,3.75
+Cleveland Park,Van Dorn Street,0.375
+Cleveland Park,Van Ness-UDC,2.375
+Cleveland Park,Vienna,0.25
+Cleveland Park,Virginia Square-GMU,0.25
+Cleveland Park,Waterfront,0.625
+Cleveland Park,West Falls Church,0.25
+Cleveland Park,White Flint,2.625
+Cleveland Park,Woodley Park-Zoo,1.75
+College Park-U of MD,Addison Road,0.125
+College Park-U of MD,Anacostia,0.25
+College Park-U of MD,Benning Road,0.125
+College Park-U of MD,Bethesda,0.125
+College Park-U of MD,Branch Avenue,0.25
+College Park-U of MD,Brookland,0.25
+College Park-U of MD,Cleveland Park,0.125
+College Park-U of MD,College Park-U of MD,3.125
+College Park-U of MD,Columbia Heights,1.375
+College Park-U of MD,Congress Heights,0.25
+College Park-U of MD,Crystal City,0.25
+College Park-U of MD,Dupont Circle,0.125
+College Park-U of MD,East Falls Church,0.25
+College Park-U of MD,Eastern Market,0.125
+College Park-U of MD,Farragut West,0.375
+College Park-U of MD,Foggy Bottom,0.125
+College Park-U of MD,Fort Totten,1.5
+College Park-U of MD,Franconia-Springfield,0.125
+College Park-U of MD,Friendship Heights,0.125
+College Park-U of MD,Gallery Place-Chinatown,0.75
+College Park-U of MD,Georgia Avenue-Petworth,2.125
+College Park-U of MD,Glenmont,0.5
+College Park-U of MD,Greenbelt,2.625
+College Park-U of MD,Grosvenor,0.125
+College Park-U of MD,Huntington,0.25
+College Park-U of MD,Largo Town Center,0.125
+College Park-U of MD,Metro Center,0.125
+College Park-U of MD,Mt. Vernon Square-UDC,0.125
+College Park-U of MD,Naylor Road,0.375
+College Park-U of MD,New Carrollton,0.125
+College Park-U of MD,New York Ave,0.625
+College Park-U of MD,Pentagon City,0.5
+College Park-U of MD,Potomac Avenue,0.125
+College Park-U of MD,Prince George's Plaza,0.625
+College Park-U of MD,Reagan Washington National Airport,0.25
+College Park-U of MD,Rockville,0.125
+College Park-U of MD,Shady Grove,0.25
+College Park-U of MD,Shaw-Howard University,0.75
+College Park-U of MD,Silver Spring,0.875
+College Park-U of MD,Southern Avenue,0.125
+College Park-U of MD,Stadium-Armory,0.125
+College Park-U of MD,Suitland,0.125
+College Park-U of MD,Takoma,0.375
+College Park-U of MD,Tenleytown-AU,0.125
+College Park-U of MD,Twinbrook,0.125
+College Park-U of MD,U Street-Cardozo,3.0
+College Park-U of MD,Union Station,0.125
+College Park-U of MD,Virginia Square-GMU,0.125
+College Park-U of MD,West Falls Church,0.125
+College Park-U of MD,West Hyattsville,0.5
+College Park-U of MD,Wheaton,0.125
+College Park-U of MD,Woodley Park-Zoo,0.125
+Columbia Heights,Addison Road,0.875
+Columbia Heights,Anacostia,9.0
+Columbia Heights,Archives-Navy Memorial,1.0
+Columbia Heights,Ballston,2.5
+Columbia Heights,Benning Road,2.875
+Columbia Heights,Bethesda,2.0
+Columbia Heights,Braddock Road,2.5
+Columbia Heights,Branch Avenue,2.125
+Columbia Heights,Brookland,3.5
+Columbia Heights,Capitol Heights,1.125
+Columbia Heights,Capitol South,2.625
+Columbia Heights,Clarendon,1.375
+Columbia Heights,Cleveland Park,0.25
+Columbia Heights,College Park-U of MD,10.0
+Columbia Heights,Columbia Heights,8.625
+Columbia Heights,Congress Heights,4.25
+Columbia Heights,Court House,2.375
+Columbia Heights,Crystal City,6.625
+Columbia Heights,Deanwood,1.25
+Columbia Heights,Dunn Loring,0.75
+Columbia Heights,Dupont Circle,3.25
+Columbia Heights,East Falls Church,2.875
+Columbia Heights,Eastern Market,5.75
+Columbia Heights,Eisenhower Avenue,1.125
+Columbia Heights,Farragut North,0.5
+Columbia Heights,Farragut West,0.375
+Columbia Heights,Foggy Bottom,4.625
+Columbia Heights,Forest Glen,0.875
+Columbia Heights,Fort Totten,61.75
+Columbia Heights,Franconia-Springfield,1.25
+Columbia Heights,Friendship Heights,1.625
+Columbia Heights,Gallery Place-Chinatown,16.0
+Columbia Heights,Georgia Avenue-Petworth,14.125
+Columbia Heights,Glenmont,5.625
+Columbia Heights,Greenbelt,11.25
+Columbia Heights,Grosvenor,0.75
+Columbia Heights,Huntington,5.75
+Columbia Heights,Judiciary Square,0.125
+Columbia Heights,King Street,6.25
+Columbia Heights,L'Enfant Plaza,2.25
+Columbia Heights,Landover,1.0
+Columbia Heights,Largo Town Center,1.0
+Columbia Heights,McPherson Square,0.625
+Columbia Heights,Metro Center,0.375
+Columbia Heights,Minnesota Avenue,3.0
+Columbia Heights,Morgan Blvd.,0.125
+Columbia Heights,Mt. Vernon Square-UDC,9.75
+Columbia Heights,Navy Yard,6.0
+Columbia Heights,Naylor Road,3.0
+Columbia Heights,New Carrollton,3.125
+Columbia Heights,New York Ave,3.5
+Columbia Heights,Pentagon,1.0
+Columbia Heights,Pentagon City,8.875
+Columbia Heights,Potomac Avenue,3.25
+Columbia Heights,Prince George's Plaza,12.5
+Columbia Heights,Reagan Washington National Airport,1.25
+Columbia Heights,Rhode Island Avenue,2.125
+Columbia Heights,Rockville,0.625
+Columbia Heights,Rosslyn,3.75
+Columbia Heights,Shady Grove,2.375
+Columbia Heights,Shaw-Howard University,13.5
+Columbia Heights,Silver Spring,13.5
+Columbia Heights,Southern Avenue,3.375
+Columbia Heights,Stadium-Armory,2.75
+Columbia Heights,Suitland,4.0
+Columbia Heights,Takoma,6.125
+Columbia Heights,Tenleytown-AU,2.5
+Columbia Heights,Twinbrook,1.0
+Columbia Heights,U Street-Cardozo,12.875
+Columbia Heights,Union Station,4.125
+Columbia Heights,Van Dorn Street,0.875
+Columbia Heights,Van Ness-UDC,1.625
+Columbia Heights,Vienna,2.75
+Columbia Heights,Virginia Square-GMU,1.0
+Columbia Heights,Waterfront,11.125
+Columbia Heights,West Falls Church,1.0
+Columbia Heights,West Hyattsville,16.5
+Columbia Heights,Wheaton,4.25
+Columbia Heights,White Flint,0.5
+Columbia Heights,Woodley Park-Zoo,0.25
+Congress Heights,Addison Road,0.375
+Congress Heights,Anacostia,1.125
+Congress Heights,Archives-Navy Memorial,0.25
+Congress Heights,Benning Road,0.625
+Congress Heights,Braddock Road,0.25
+Congress Heights,Branch Avenue,1.25
+Congress Heights,Brookland,0.25
+Congress Heights,Capitol Heights,0.5
+Congress Heights,College Park-U of MD,0.375
+Congress Heights,Columbia Heights,2.625
+Congress Heights,Congress Heights,2.0
+Congress Heights,Crystal City,0.375
+Congress Heights,Deanwood,0.625
+Congress Heights,Dupont Circle,0.625
+Congress Heights,East Falls Church,0.125
+Congress Heights,Farragut West,0.375
+Congress Heights,Foggy Bottom,0.5
+Congress Heights,Fort Totten,1.875
+Congress Heights,Gallery Place-Chinatown,1.5
+Congress Heights,Georgia Avenue-Petworth,0.75
+Congress Heights,Glenmont,0.5
+Congress Heights,Greenbelt,0.125
+Congress Heights,Huntington,0.25
+Congress Heights,Landover,0.5
+Congress Heights,Largo Town Center,0.375
+Congress Heights,Metro Center,0.375
+Congress Heights,Minnesota Avenue,0.5
+Congress Heights,Navy Yard,0.625
+Congress Heights,Naylor Road,2.25
+Congress Heights,New Carrollton,0.5
+Congress Heights,New York Ave,0.375
+Congress Heights,Pentagon City,0.25
+Congress Heights,Potomac Avenue,0.25
+Congress Heights,Reagan Washington National Airport,0.5
+Congress Heights,Rhode Island Avenue,1.75
+Congress Heights,Shady Grove,0.125
+Congress Heights,Shaw-Howard University,0.625
+Congress Heights,Silver Spring,0.125
+Congress Heights,Southern Avenue,1.375
+Congress Heights,Stadium-Armory,1.125
+Congress Heights,Suitland,4.25
+Congress Heights,Takoma,0.125
+Congress Heights,U Street-Cardozo,1.125
+Congress Heights,Waterfront,0.625
+Congress Heights,West Falls Church,0.125
+Congress Heights,West Hyattsville,0.25
+Congress Heights,Woodley Park-Zoo,0.25
+Court House,Addison Road,0.625
+Court House,Ballston,9.75
+Court House,Benning Road,0.875
+Court House,Bethesda,1.125
+Court House,Braddock Road,0.75
+Court House,Brookland,0.25
+Court House,Capitol South,1.0
+Court House,Clarendon,1.125
+Court House,Cleveland Park,0.875
+Court House,College Park-U of MD,0.125
+Court House,Columbia Heights,1.125
+Court House,Congress Heights,0.125
+Court House,Court House,3.0
+Court House,Crystal City,1.625
+Court House,Deanwood,0.125
+Court House,Dunn Loring,6.25
+Court House,Dupont Circle,1.25
+Court House,East Falls Church,7.25
+Court House,Eastern Market,2.5
+Court House,Eisenhower Avenue,0.5
+Court House,Farragut West,3.875
+Court House,Foggy Bottom,5.0
+Court House,Forest Glen,0.375
+Court House,Fort Totten,0.75
+Court House,Franconia-Springfield,1.875
+Court House,Friendship Heights,0.625
+Court House,Gallery Place-Chinatown,0.875
+Court House,Georgia Avenue-Petworth,1.125
+Court House,Grosvenor,0.375
+Court House,Huntington,2.0
+Court House,Judiciary Square,0.5
+Court House,King Street,2.25
+Court House,L'Enfant Plaza,0.625
+Court House,McPherson Square,5.5
+Court House,Metro Center,2.5
+Court House,Minnesota Avenue,0.125
+Court House,Morgan Blvd.,0.125
+Court House,Mt. Vernon Square-UDC,0.875
+Court House,Navy Yard,0.25
+Court House,Naylor Road,0.125
+Court House,New Carrollton,0.375
+Court House,New York Ave,0.625
+Court House,Pentagon,0.5
+Court House,Pentagon City,1.875
+Court House,Potomac Avenue,0.625
+Court House,Prince George's Plaza,0.25
+Court House,Rhode Island Avenue,0.125
+Court House,Rockville,0.375
+Court House,Rosslyn,2.875
+Court House,Shady Grove,0.625
+Court House,Shaw-Howard University,0.75
+Court House,Silver Spring,0.625
+Court House,Smithsonian,0.25
+Court House,Southern Avenue,0.5
+Court House,Stadium-Armory,0.125
+Court House,Suitland,0.125
+Court House,Takoma,0.25
+Court House,Tenleytown-AU,0.625
+Court House,Twinbrook,0.25
+Court House,U Street-Cardozo,1.0
+Court House,Union Station,1.5
+Court House,Van Dorn Street,0.875
+Court House,Van Ness-UDC,1.375
+Court House,Vienna,8.125
+Court House,Virginia Square-GMU,1.375
+Court House,Waterfront,0.375
+Court House,West Falls Church,3.25
+Court House,West Hyattsville,0.125
+Court House,White Flint,0.5
+Court House,Woodley Park-Zoo,0.625
+Crystal City,Addison Road,0.625
+Crystal City,Anacostia,2.625
+Crystal City,Archives-Navy Memorial,0.625
+Crystal City,Ballston,2.75
+Crystal City,Benning Road,1.75
+Crystal City,Bethesda,1.375
+Crystal City,Braddock Road,4.125
+Crystal City,Branch Avenue,1.75
+Crystal City,Brookland,0.75
+Crystal City,Capitol Heights,0.75
+Crystal City,Capitol South,0.25
+Crystal City,Cheverly,0.25
+Crystal City,Clarendon,1.125
+Crystal City,Cleveland Park,0.875
+Crystal City,College Park-U of MD,0.75
+Crystal City,Columbia Heights,10.375
+Crystal City,Congress Heights,1.0
+Crystal City,Court House,3.25
+Crystal City,Crystal City,4.0
+Crystal City,Deanwood,0.375
+Crystal City,Dunn Loring,1.375
+Crystal City,Dupont Circle,3.0
+Crystal City,East Falls Church,2.25
+Crystal City,Eastern Market,3.125
+Crystal City,Eisenhower Avenue,2.5
+Crystal City,Farragut West,3.0
+Crystal City,Federal Center SW,0.25
+Crystal City,Foggy Bottom,6.25
+Crystal City,Forest Glen,0.5
+Crystal City,Fort Totten,5.0
+Crystal City,Franconia-Springfield,4.375
+Crystal City,Friendship Heights,0.875
+Crystal City,Gallery Place-Chinatown,7.5
+Crystal City,Georgia Avenue-Petworth,3.5
+Crystal City,Glenmont,0.875
+Crystal City,Greenbelt,0.875
+Crystal City,Grosvenor,0.625
+Crystal City,Huntington,7.875
+Crystal City,King Street,6.75
+Crystal City,L'Enfant Plaza,1.875
+Crystal City,Landover,0.125
+Crystal City,Largo Town Center,0.75
+Crystal City,McPherson Square,3.25
+Crystal City,Medical Center,0.875
+Crystal City,Metro Center,2.875
+Crystal City,Minnesota Avenue,0.125
+Crystal City,Morgan Blvd.,0.25
+Crystal City,Mt. Vernon Square-UDC,7.25
+Crystal City,Navy Yard,1.5
+Crystal City,Naylor Road,1.375
+Crystal City,New Carrollton,0.875
+Crystal City,New York Ave,1.125
+Crystal City,Pentagon,1.25
+Crystal City,Pentagon City,3.5
+Crystal City,Potomac Avenue,1.25
+Crystal City,Prince George's Plaza,0.5
+Crystal City,Reagan Washington National Airport,2.375
+Crystal City,Rhode Island Avenue,0.75
+Crystal City,Rockville,0.5
+Crystal City,Rosslyn,7.125
+Crystal City,Shady Grove,1.125
+Crystal City,Shaw-Howard University,4.5
+Crystal City,Silver Spring,2.875
+Crystal City,Southern Avenue,0.625
+Crystal City,Stadium-Armory,0.625
+Crystal City,Suitland,0.875
+Crystal City,Takoma,3.375
+Crystal City,Tenleytown-AU,0.5
+Crystal City,Twinbrook,0.5
+Crystal City,U Street-Cardozo,10.25
+Crystal City,Union Station,1.75
+Crystal City,Van Dorn Street,5.75
+Crystal City,Van Ness-UDC,1.5
+Crystal City,Vienna,3.5
+Crystal City,Virginia Square-GMU,1.375
+Crystal City,Waterfront,0.875
+Crystal City,West Falls Church,1.375
+Crystal City,West Hyattsville,1.0
+Crystal City,Wheaton,0.375
+Crystal City,White Flint,0.125
+Crystal City,Woodley Park-Zoo,2.0
+Deanwood,Addison Road,0.375
+Deanwood,Anacostia,1.5
+Deanwood,Benning Road,0.125
+Deanwood,Braddock Road,1.0
+Deanwood,Brookland,0.25
+Deanwood,Cheverly,0.875
+Deanwood,Columbia Heights,0.5
+Deanwood,Congress Heights,0.375
+Deanwood,Deanwood,1.5
+Deanwood,Eastern Market,0.125
+Deanwood,Farragut West,0.375
+Deanwood,Foggy Bottom,0.125
+Deanwood,Gallery Place-Chinatown,0.25
+Deanwood,Georgia Avenue-Petworth,0.375
+Deanwood,Huntington,0.375
+Deanwood,King Street,0.25
+Deanwood,Landover,1.75
+Deanwood,Largo Town Center,0.5
+Deanwood,Minnesota Avenue,1.5
+Deanwood,Morgan Blvd.,0.125
+Deanwood,Mt. Vernon Square-UDC,0.25
+Deanwood,Navy Yard,0.25
+Deanwood,New Carrollton,2.25
+Deanwood,New York Ave,0.125
+Deanwood,Pentagon,0.25
+Deanwood,Pentagon City,0.25
+Deanwood,Potomac Avenue,0.125
+Deanwood,Reagan Washington National Airport,0.125
+Deanwood,Rhode Island Avenue,0.625
+Deanwood,Shaw-Howard University,0.125
+Deanwood,Silver Spring,0.375
+Deanwood,Southern Avenue,0.375
+Deanwood,Stadium-Armory,1.0
+Deanwood,Takoma,0.375
+Deanwood,U Street-Cardozo,0.375
+Deanwood,Union Station,0.125
+Deanwood,Waterfront,0.125
+Deanwood,West Falls Church,0.125
+Deanwood,West Hyattsville,0.125
+Deanwood,Wheaton,0.125
+Deanwood,Woodley Park-Zoo,0.25
+Dunn Loring,Addison Road,0.125
+Dunn Loring,Ballston,3.625
+Dunn Loring,Benning Road,0.125
+Dunn Loring,Bethesda,0.125
+Dunn Loring,Capitol Heights,0.125
+Dunn Loring,Capitol South,0.375
+Dunn Loring,Clarendon,1.5
+Dunn Loring,Cleveland Park,0.125
+Dunn Loring,Columbia Heights,0.25
+Dunn Loring,Congress Heights,0.125
+Dunn Loring,Court House,0.5
+Dunn Loring,Crystal City,0.25
+Dunn Loring,Dunn Loring,4.625
+Dunn Loring,East Falls Church,0.625
+Dunn Loring,Eastern Market,0.25
+Dunn Loring,Farragut West,0.375
+Dunn Loring,Foggy Bottom,0.5
+Dunn Loring,Fort Totten,0.375
+Dunn Loring,Franconia-Springfield,0.125
+Dunn Loring,Gallery Place-Chinatown,0.375
+Dunn Loring,Glenmont,0.125
+Dunn Loring,Grosvenor,0.125
+Dunn Loring,Huntington,0.25
+Dunn Loring,King Street,0.125
+Dunn Loring,Landover,0.375
+Dunn Loring,McPherson Square,0.625
+Dunn Loring,Metro Center,1.0
+Dunn Loring,Mt. Vernon Square-UDC,0.25
+Dunn Loring,New Carrollton,0.125
+Dunn Loring,New York Ave,0.375
+Dunn Loring,Pentagon,0.25
+Dunn Loring,Pentagon City,0.5
+Dunn Loring,Rhode Island Avenue,0.625
+Dunn Loring,Rockville,0.25
+Dunn Loring,Rosslyn,2.375
+Dunn Loring,Shady Grove,0.5
+Dunn Loring,Shaw-Howard University,0.125
+Dunn Loring,Southern Avenue,0.125
+Dunn Loring,Stadium-Armory,0.25
+Dunn Loring,Suitland,1.125
+Dunn Loring,Takoma,0.125
+Dunn Loring,U Street-Cardozo,0.5
+Dunn Loring,Union Station,0.5
+Dunn Loring,Van Dorn Street,0.75
+Dunn Loring,Vienna,4.375
+Dunn Loring,Virginia Square-GMU,0.375
+Dunn Loring,Waterfront,0.25
+Dunn Loring,West Falls Church,0.375
+Dunn Loring,Woodley Park-Zoo,0.125
+Dupont Circle,Addison Road,1.375
+Dupont Circle,Anacostia,2.5
+Dupont Circle,Archives-Navy Memorial,0.25
+Dupont Circle,Ballston,16.125
+Dupont Circle,Benning Road,1.5
+Dupont Circle,Bethesda,107.75
+Dupont Circle,Braddock Road,6.75
+Dupont Circle,Branch Avenue,7.25
+Dupont Circle,Brookland,17.25
+Dupont Circle,Capitol Heights,1.875
+Dupont Circle,Capitol South,3.25
+Dupont Circle,Cheverly,1.0
+Dupont Circle,Clarendon,4.375
+Dupont Circle,Cleveland Park,27.75
+Dupont Circle,College Park-U of MD,6.25
+Dupont Circle,Columbia Heights,6.75
+Dupont Circle,Congress Heights,2.125
+Dupont Circle,Court House,9.25
+Dupont Circle,Crystal City,12.25
+Dupont Circle,Deanwood,1.25
+Dupont Circle,Dunn Loring,8.375
+Dupont Circle,Dupont Circle,18.875
+Dupont Circle,East Falls Church,12.25
+Dupont Circle,Eastern Market,5.75
+Dupont Circle,Eisenhower Avenue,2.75
+Dupont Circle,Farragut North,4.0
+Dupont Circle,Farragut West,0.375
+Dupont Circle,Federal Center SW,1.875
+Dupont Circle,Federal Triangle,0.125
+Dupont Circle,Foggy Bottom,3.0
+Dupont Circle,Forest Glen,13.125
+Dupont Circle,Fort Totten,36.125
+Dupont Circle,Franconia-Springfield,12.125
+Dupont Circle,Friendship Heights,50.625
+Dupont Circle,Gallery Place-Chinatown,27.125
+Dupont Circle,Georgia Avenue-Petworth,7.625
+Dupont Circle,Glenmont,24.625
+Dupont Circle,Greenbelt,9.0
+Dupont Circle,Grosvenor,88.625
+Dupont Circle,Huntington,15.625
+Dupont Circle,Judiciary Square,5.75
+Dupont Circle,King Street,8.5
+Dupont Circle,L'Enfant Plaza,4.25
+Dupont Circle,Landover,1.125
+Dupont Circle,Largo Town Center,2.0
+Dupont Circle,McPherson Square,0.5
+Dupont Circle,Medical Center,10.125
+Dupont Circle,Metro Center,13.25
+Dupont Circle,Minnesota Avenue,1.25
+Dupont Circle,Morgan Blvd.,1.0
+Dupont Circle,Mt. Vernon Square-UDC,2.125
+Dupont Circle,Navy Yard,4.875
+Dupont Circle,Naylor Road,1.875
+Dupont Circle,New Carrollton,9.25
+Dupont Circle,New York Ave,24.5
+Dupont Circle,Pentagon,2.375
+Dupont Circle,Pentagon City,19.0
+Dupont Circle,Potomac Avenue,3.625
+Dupont Circle,Prince George's Plaza,3.625
+Dupont Circle,Rhode Island Avenue,11.5
+Dupont Circle,Rockville,40.5
+Dupont Circle,Rosslyn,13.875
+Dupont Circle,Shady Grove,79.125
+Dupont Circle,Shaw-Howard University,2.875
+Dupont Circle,Silver Spring,60.125
+Dupont Circle,Smithsonian,0.75
+Dupont Circle,Southern Avenue,2.0
+Dupont Circle,Stadium-Armory,4.125
+Dupont Circle,Suitland,4.625
+Dupont Circle,Takoma,22.25
+Dupont Circle,Tenleytown-AU,56.25
+Dupont Circle,Twinbrook,37.5
+Dupont Circle,U Street-Cardozo,5.5
+Dupont Circle,Union Station,43.125
+Dupont Circle,Van Dorn Street,8.125
+Dupont Circle,Van Ness-UDC,52.875
+Dupont Circle,Vienna,18.75
+Dupont Circle,Virginia Square-GMU,4.625
+Dupont Circle,Waterfront,7.125
+Dupont Circle,West Falls Church,9.0
+Dupont Circle,West Hyattsville,5.125
+Dupont Circle,Wheaton,14.875
+Dupont Circle,White Flint,31.875
+Dupont Circle,Woodley Park-Zoo,30.0
+East Falls Church,Ballston,2.5
+East Falls Church,Braddock Road,0.375
+East Falls Church,Branch Avenue,0.125
+East Falls Church,Brookland,0.375
+East Falls Church,Capitol South,0.125
+East Falls Church,Cheverly,0.125
+East Falls Church,Clarendon,2.25
+East Falls Church,Cleveland Park,0.25
+East Falls Church,College Park-U of MD,1.0
+East Falls Church,Columbia Heights,0.375
+East Falls Church,Congress Heights,0.125
+East Falls Church,Court House,2.0
+East Falls Church,Crystal City,0.875
+East Falls Church,Deanwood,0.375
+East Falls Church,Dunn Loring,4.0
+East Falls Church,Dupont Circle,0.25
+East Falls Church,East Falls Church,2.75
+East Falls Church,Eisenhower Avenue,0.25
+East Falls Church,Farragut West,1.5
+East Falls Church,Federal Center SW,0.25
+East Falls Church,Federal Triangle,0.125
+East Falls Church,Foggy Bottom,1.0
+East Falls Church,Fort Totten,0.375
+East Falls Church,Franconia-Springfield,0.125
+East Falls Church,Friendship Heights,0.25
+East Falls Church,Gallery Place-Chinatown,0.375
+East Falls Church,Georgia Avenue-Petworth,0.375
+East Falls Church,Grosvenor,0.125
+East Falls Church,Huntington,0.5
+East Falls Church,McPherson Square,1.625
+East Falls Church,Metro Center,1.75
+East Falls Church,Navy Yard,0.125
+East Falls Church,Naylor Road,0.125
+East Falls Church,New York Ave,0.25
+East Falls Church,Pentagon,0.125
+East Falls Church,Pentagon City,0.375
+East Falls Church,Potomac Avenue,0.25
+East Falls Church,Prince George's Plaza,0.125
+East Falls Church,Reagan Washington National Airport,0.25
+East Falls Church,Rosslyn,1.75
+East Falls Church,Shady Grove,0.375
+East Falls Church,Shaw-Howard University,0.125
+East Falls Church,Silver Spring,0.125
+East Falls Church,Stadium-Armory,0.375
+East Falls Church,Suitland,0.125
+East Falls Church,Takoma,0.375
+East Falls Church,Tenleytown-AU,0.125
+East Falls Church,U Street-Cardozo,0.25
+East Falls Church,Union Station,1.0
+East Falls Church,Van Dorn Street,0.375
+East Falls Church,Van Ness-UDC,0.125
+East Falls Church,Vienna,3.25
+East Falls Church,Virginia Square-GMU,0.375
+East Falls Church,Waterfront,0.25
+East Falls Church,West Falls Church,1.375
+East Falls Church,Wheaton,0.25
+East Falls Church,White Flint,0.125
+East Falls Church,Woodley Park-Zoo,0.375
+Eastern Market,Addison Road,5.625
+Eastern Market,Anacostia,0.625
+Eastern Market,Archives-Navy Memorial,0.25
+Eastern Market,Ballston,6.375
+Eastern Market,Benning Road,3.125
+Eastern Market,Bethesda,1.5
+Eastern Market,Braddock Road,0.875
+Eastern Market,Branch Avenue,1.0
+Eastern Market,Brookland,1.5
+Eastern Market,Capitol Heights,1.625
+Eastern Market,Capitol South,0.75
+Eastern Market,Cheverly,1.125
+Eastern Market,Clarendon,2.5
+Eastern Market,Cleveland Park,0.875
+Eastern Market,College Park-U of MD,0.875
+Eastern Market,Columbia Heights,15.625
+Eastern Market,Congress Heights,0.25
+Eastern Market,Court House,6.375
+Eastern Market,Crystal City,5.125
+Eastern Market,Deanwood,0.75
+Eastern Market,Dunn Loring,1.5
+Eastern Market,Dupont Circle,4.375
+Eastern Market,East Falls Church,2.875
+Eastern Market,Eastern Market,3.25
+Eastern Market,Eisenhower Avenue,1.0
+Eastern Market,Farragut West,2.0
+Eastern Market,Federal Center SW,1.0
+Eastern Market,Federal Triangle,0.625
+Eastern Market,Foggy Bottom,7.625
+Eastern Market,Forest Glen,0.25
+Eastern Market,Fort Totten,4.25
+Eastern Market,Franconia-Springfield,2.0
+Eastern Market,Friendship Heights,1.5
+Eastern Market,Gallery Place-Chinatown,1.125
+Eastern Market,Georgia Avenue-Petworth,3.0
+Eastern Market,Glenmont,1.5
+Eastern Market,Greenbelt,1.25
+Eastern Market,Grosvenor,0.75
+Eastern Market,Huntington,1.625
+Eastern Market,Judiciary Square,0.125
+Eastern Market,King Street,1.5
+Eastern Market,L'Enfant Plaza,3.125
+Eastern Market,Landover,3.25
+Eastern Market,Largo Town Center,2.375
+Eastern Market,McPherson Square,4.5
+Eastern Market,Medical Center,0.125
+Eastern Market,Metro Center,9.75
+Eastern Market,Minnesota Avenue,3.375
+Eastern Market,Morgan Blvd.,0.5
+Eastern Market,Mt. Vernon Square-UDC,1.875
+Eastern Market,Navy Yard,0.125
+Eastern Market,Naylor Road,0.25
+Eastern Market,New Carrollton,5.0
+Eastern Market,New York Ave,1.125
+Eastern Market,Pentagon,1.0
+Eastern Market,Pentagon City,3.375
+Eastern Market,Potomac Avenue,2.0
+Eastern Market,Prince George's Plaza,1.0
+Eastern Market,Reagan Washington National Airport,0.375
+Eastern Market,Rhode Island Avenue,1.375
+Eastern Market,Rockville,0.125
+Eastern Market,Rosslyn,7.0
+Eastern Market,Shady Grove,2.25
+Eastern Market,Shaw-Howard University,1.375
+Eastern Market,Silver Spring,4.0
+Eastern Market,Smithsonian,0.625
+Eastern Market,Southern Avenue,0.125
+Eastern Market,Stadium-Armory,2.875
+Eastern Market,Suitland,0.875
+Eastern Market,Takoma,1.25
+Eastern Market,Tenleytown-AU,1.375
+Eastern Market,Twinbrook,1.5
+Eastern Market,U Street-Cardozo,1.625
+Eastern Market,Union Station,0.125
+Eastern Market,Van Dorn Street,1.75
+Eastern Market,Van Ness-UDC,2.0
+Eastern Market,Vienna,4.875
+Eastern Market,Virginia Square-GMU,2.375
+Eastern Market,Waterfront,0.375
+Eastern Market,West Falls Church,1.75
+Eastern Market,West Hyattsville,1.25
+Eastern Market,Wheaton,0.5
+Eastern Market,White Flint,0.875
+Eastern Market,Woodley Park-Zoo,1.875
+Eisenhower Avenue,Addison Road,2.0
+Eisenhower Avenue,Anacostia,2.875
+Eisenhower Avenue,Ballston,0.25
+Eisenhower Avenue,Benning Road,0.5
+Eisenhower Avenue,Braddock Road,2.125
+Eisenhower Avenue,Branch Avenue,1.25
+Eisenhower Avenue,Brookland,0.75
+Eisenhower Avenue,Capitol Heights,1.0
+Eisenhower Avenue,Cheverly,0.125
+Eisenhower Avenue,Clarendon,0.25
+Eisenhower Avenue,College Park-U of MD,0.125
+Eisenhower Avenue,Columbia Heights,1.5
+Eisenhower Avenue,Congress Heights,0.5
+Eisenhower Avenue,Court House,0.25
+Eisenhower Avenue,Crystal City,1.875
+Eisenhower Avenue,Deanwood,0.125
+Eisenhower Avenue,Dupont Circle,0.25
+Eisenhower Avenue,Eastern Market,0.125
+Eisenhower Avenue,Eisenhower Avenue,1.5
+Eisenhower Avenue,Fort Totten,0.5
+Eisenhower Avenue,Franconia-Springfield,0.125
+Eisenhower Avenue,Friendship Heights,0.125
+Eisenhower Avenue,Gallery Place-Chinatown,1.0
+Eisenhower Avenue,Georgia Avenue-Petworth,1.125
+Eisenhower Avenue,Glenmont,0.125
+Eisenhower Avenue,Huntington,14.5
+Eisenhower Avenue,King Street,3.25
+Eisenhower Avenue,L'Enfant Plaza,0.125
+Eisenhower Avenue,Largo Town Center,0.25
+Eisenhower Avenue,McPherson Square,0.375
+Eisenhower Avenue,Minnesota Avenue,1.5
+Eisenhower Avenue,Mt. Vernon Square-UDC,0.125
+Eisenhower Avenue,Naylor Road,1.75
+Eisenhower Avenue,New Carrollton,0.625
+Eisenhower Avenue,New York Ave,0.125
+Eisenhower Avenue,Pentagon,0.5
+Eisenhower Avenue,Pentagon City,2.0
+Eisenhower Avenue,Reagan Washington National Airport,0.5
+Eisenhower Avenue,Rhode Island Avenue,0.375
+Eisenhower Avenue,Rosslyn,0.375
+Eisenhower Avenue,Shaw-Howard University,0.875
+Eisenhower Avenue,Silver Spring,0.125
+Eisenhower Avenue,Southern Avenue,1.125
+Eisenhower Avenue,Stadium-Armory,0.125
+Eisenhower Avenue,Suitland,0.875
+Eisenhower Avenue,U Street-Cardozo,1.125
+Eisenhower Avenue,Union Station,0.5
+Eisenhower Avenue,Van Dorn Street,1.5
+Eisenhower Avenue,Vienna,0.125
+Eisenhower Avenue,Waterfront,0.375
+Eisenhower Avenue,West Hyattsville,0.375
+Eisenhower Avenue,Wheaton,0.125
+Eisenhower Avenue,Woodley Park-Zoo,0.25
+Farragut North,Addison Road,0.625
+Farragut North,Anacostia,2.75
+Farragut North,Archives-Navy Memorial,0.25
+Farragut North,Ballston,6.375
+Farragut North,Benning Road,0.75
+Farragut North,Bethesda,31.25
+Farragut North,Braddock Road,0.75
+Farragut North,Branch Avenue,1.875
+Farragut North,Brookland,11.875
+Farragut North,Capitol Heights,0.375
+Farragut North,Capitol South,1.0
+Farragut North,Cheverly,0.25
+Farragut North,Clarendon,1.875
+Farragut North,Cleveland Park,11.0
+Farragut North,College Park-U of MD,4.875
+Farragut North,Columbia Heights,5.375
+Farragut North,Congress Heights,1.625
+Farragut North,Court House,1.875
+Farragut North,Crystal City,2.625
+Farragut North,Deanwood,0.375
+Farragut North,Dunn Loring,1.75
+Farragut North,Dupont Circle,2.875
+Farragut North,East Falls Church,2.0
+Farragut North,Eastern Market,1.25
+Farragut North,Eisenhower Avenue,2.375
+Farragut North,Farragut North,18.5
+Farragut North,Federal Triangle,0.125
+Farragut North,Foggy Bottom,0.375
+Farragut North,Forest Glen,4.375
+Farragut North,Fort Totten,30.5
+Farragut North,Franconia-Springfield,2.375
+Farragut North,Friendship Heights,18.0
+Farragut North,Gallery Place-Chinatown,12.25
+Farragut North,Georgia Avenue-Petworth,7.125
+Farragut North,Glenmont,15.75
+Farragut North,Greenbelt,3.875
+Farragut North,Grosvenor,30.375
+Farragut North,Huntington,4.5
+Farragut North,Judiciary Square,2.625
+Farragut North,King Street,1.875
+Farragut North,L'Enfant Plaza,0.25
+Farragut North,Landover,0.625
+Farragut North,Largo Town Center,0.375
+Farragut North,McPherson Square,0.25
+Farragut North,Medical Center,2.875
+Farragut North,Metro Center,2.375
+Farragut North,Minnesota Avenue,0.5
+Farragut North,Morgan Blvd.,0.5
+Farragut North,Mt. Vernon Square-UDC,1.75
+Farragut North,Navy Yard,0.625
+Farragut North,Naylor Road,3.375
+Farragut North,New Carrollton,2.375
+Farragut North,New York Ave,12.75
+Farragut North,Pentagon,0.625
+Farragut North,Pentagon City,3.5
+Farragut North,Potomac Avenue,0.5
+Farragut North,Prince George's Plaza,5.5
+Farragut North,Reagan Washington National Airport,0.25
+Farragut North,Rhode Island Avenue,6.375
+Farragut North,Rockville,14.75
+Farragut North,Rosslyn,3.125
+Farragut North,Shady Grove,35.0
+Farragut North,Shaw-Howard University,2.0
+Farragut North,Silver Spring,45.625
+Farragut North,Southern Avenue,2.75
+Farragut North,Stadium-Armory,0.375
+Farragut North,Suitland,1.875
+Farragut North,Takoma,13.75
+Farragut North,Tenleytown-AU,10.625
+Farragut North,Twinbrook,13.625
+Farragut North,U Street-Cardozo,3.625
+Farragut North,Union Station,18.25
+Farragut North,Van Dorn Street,2.0
+Farragut North,Van Ness-UDC,14.25
+Farragut North,Vienna,6.125
+Farragut North,Virginia Square-GMU,0.125
+Farragut North,Waterfront,1.625
+Farragut North,West Falls Church,2.0
+Farragut North,West Hyattsville,6.375
+Farragut North,Wheaton,11.375
+Farragut North,White Flint,13.375
+Farragut North,Woodley Park-Zoo,11.625
+Farragut West,Addison Road,2.25
+Farragut West,Anacostia,1.375
+Farragut West,Archives-Navy Memorial,0.125
+Farragut West,Ballston,52.0
+Farragut West,Benning Road,2.375
+Farragut West,Bethesda,0.375
+Farragut West,Braddock Road,8.375
+Farragut West,Branch Avenue,0.875
+Farragut West,Brookland,0.5
+Farragut West,Capitol Heights,1.375
+Farragut West,Capitol South,5.375
+Farragut West,Cheverly,0.5
+Farragut West,Clarendon,22.5
+Farragut West,Cleveland Park,0.25
+Farragut West,College Park-U of MD,1.25
+Farragut West,Columbia Heights,1.625
+Farragut West,Congress Heights,0.75
+Farragut West,Court House,37.75
+Farragut West,Crystal City,18.75
+Farragut West,Deanwood,1.25
+Farragut West,Dunn Loring,23.25
+Farragut West,East Falls Church,31.5
+Farragut West,Eastern Market,11.375
+Farragut West,Eisenhower Avenue,0.125
+Farragut West,Farragut West,12.375
+Farragut West,Federal Center SW,3.125
+Farragut West,Federal Triangle,0.125
+Farragut West,Foggy Bottom,2.0
+Farragut West,Forest Glen,0.25
+Farragut West,Fort Totten,3.75
+Farragut West,Franconia-Springfield,16.375
+Farragut West,Friendship Heights,0.125
+Farragut West,Gallery Place-Chinatown,1.25
+Farragut West,Georgia Avenue-Petworth,1.0
+Farragut West,Glenmont,0.125
+Farragut West,Greenbelt,0.75
+Farragut West,Grosvenor,1.375
+Farragut West,Huntington,8.75
+Farragut West,King Street,10.25
+Farragut West,L'Enfant Plaza,2.75
+Farragut West,Landover,2.375
+Farragut West,Largo Town Center,4.25
+Farragut West,McPherson Square,0.5
+Farragut West,Medical Center,0.75
+Farragut West,Metro Center,2.125
+Farragut West,Minnesota Avenue,1.25
+Farragut West,Morgan Blvd.,0.75
+Farragut West,Mt. Vernon Square-UDC,0.25
+Farragut West,Navy Yard,0.625
+Farragut West,Naylor Road,0.75
+Farragut West,New Carrollton,9.875
+Farragut West,New York Ave,0.5
+Farragut West,Pentagon,4.625
+Farragut West,Pentagon City,25.0
+Farragut West,Potomac Avenue,8.375
+Farragut West,Prince George's Plaza,1.25
+Farragut West,Reagan Washington National Airport,0.125
+Farragut West,Rockville,0.625
+Farragut West,Rosslyn,40.125
+Farragut West,Shady Grove,1.875
+Farragut West,Shaw-Howard University,2.25
+Farragut West,Silver Spring,2.125
+Farragut West,Smithsonian,0.25
+Farragut West,Southern Avenue,0.875
+Farragut West,Stadium-Armory,3.25
+Farragut West,Suitland,2.375
+Farragut West,Takoma,0.5
+Farragut West,Tenleytown-AU,0.25
+Farragut West,Twinbrook,0.75
+Farragut West,U Street-Cardozo,1.25
+Farragut West,Union Station,0.25
+Farragut West,Van Dorn Street,11.375
+Farragut West,Vienna,40.375
+Farragut West,Virginia Square-GMU,18.375
+Farragut West,Waterfront,1.375
+Farragut West,West Falls Church,20.875
+Farragut West,West Hyattsville,0.375
+Farragut West,Wheaton,0.625
+Farragut West,White Flint,0.5
+Farragut West,Woodley Park-Zoo,1.375
+Federal Center SW,Anacostia,0.375
+Federal Center SW,Ballston,1.625
+Federal Center SW,Benning Road,0.75
+Federal Center SW,Capitol Heights,1.0
+Federal Center SW,Clarendon,0.625
+Federal Center SW,Cleveland Park,0.125
+Federal Center SW,Columbia Heights,0.125
+Federal Center SW,Court House,0.625
+Federal Center SW,Crystal City,0.25
+Federal Center SW,Dunn Loring,0.5
+Federal Center SW,Dupont Circle,0.125
+Federal Center SW,East Falls Church,0.625
+Federal Center SW,Eastern Market,0.5
+Federal Center SW,Farragut West,0.125
+Federal Center SW,Federal Center SW,0.25
+Federal Center SW,Foggy Bottom,0.375
+Federal Center SW,Gallery Place-Chinatown,0.125
+Federal Center SW,Glenmont,0.125
+Federal Center SW,Huntington,0.5
+Federal Center SW,King Street,0.25
+Federal Center SW,Landover,0.375
+Federal Center SW,Largo Town Center,0.5
+Federal Center SW,McPherson Square,0.25
+Federal Center SW,Metro Center,0.625
+Federal Center SW,Minnesota Avenue,0.125
+Federal Center SW,Morgan Blvd.,0.125
+Federal Center SW,New Carrollton,0.875
+Federal Center SW,Pentagon City,0.375
+Federal Center SW,Potomac Avenue,0.75
+Federal Center SW,Prince George's Plaza,0.125
+Federal Center SW,Rockville,0.125
+Federal Center SW,Rosslyn,1.0
+Federal Center SW,Shady Grove,0.125
+Federal Center SW,Silver Spring,0.125
+Federal Center SW,Smithsonian,0.125
+Federal Center SW,Stadium-Armory,0.625
+Federal Center SW,Twinbrook,0.375
+Federal Center SW,Union Station,0.375
+Federal Center SW,Van Dorn Street,0.125
+Federal Center SW,Vienna,0.75
+Federal Center SW,Virginia Square-GMU,0.375
+Federal Center SW,West Falls Church,0.125
+Federal Center SW,Woodley Park-Zoo,0.125
+Federal Triangle,Addison Road,0.75
+Federal Triangle,Anacostia,0.25
+Federal Triangle,Archives-Navy Memorial,0.125
+Federal Triangle,Ballston,1.75
+Federal Triangle,Benning Road,0.875
+Federal Triangle,Bethesda,0.625
+Federal Triangle,Braddock Road,0.125
+Federal Triangle,Branch Avenue,0.5
+Federal Triangle,Brookland,0.75
+Federal Triangle,Capitol Heights,0.875
+Federal Triangle,Capitol South,0.125
+Federal Triangle,Cheverly,0.125
+Federal Triangle,Clarendon,1.25
+Federal Triangle,College Park-U of MD,2.0
+Federal Triangle,Columbia Heights,0.375
+Federal Triangle,Court House,2.25
+Federal Triangle,Crystal City,0.875
+Federal Triangle,Deanwood,1.0
+Federal Triangle,Dunn Loring,1.25
+Federal Triangle,Dupont Circle,0.75
+Federal Triangle,East Falls Church,0.75
+Federal Triangle,Eastern Market,0.75
+Federal Triangle,Eisenhower Avenue,0.375
+Federal Triangle,Farragut West,0.375
+Federal Triangle,Federal Center SW,0.125
+Federal Triangle,Federal Triangle,0.75
+Federal Triangle,Foggy Bottom,1.125
+Federal Triangle,Fort Totten,0.875
+Federal Triangle,Franconia-Springfield,1.25
+Federal Triangle,Friendship Heights,0.5
+Federal Triangle,Gallery Place-Chinatown,0.25
+Federal Triangle,Georgia Avenue-Petworth,0.25
+Federal Triangle,Glenmont,0.375
+Federal Triangle,Greenbelt,0.25
+Federal Triangle,Grosvenor,0.125
+Federal Triangle,Huntington,0.375
+Federal Triangle,King Street,0.625
+Federal Triangle,L'Enfant Plaza,0.25
+Federal Triangle,Landover,1.625
+Federal Triangle,Largo Town Center,4.0
+Federal Triangle,McPherson Square,0.5
+Federal Triangle,Metro Center,0.5
+Federal Triangle,Minnesota Avenue,1.125
+Federal Triangle,Morgan Blvd.,0.875
+Federal Triangle,Mt. Vernon Square-UDC,0.25
+Federal Triangle,Navy Yard,0.5
+Federal Triangle,Naylor Road,0.5
+Federal Triangle,New Carrollton,0.5
+Federal Triangle,New York Ave,0.5
+Federal Triangle,Pentagon,0.625
+Federal Triangle,Pentagon City,1.125
+Federal Triangle,Potomac Avenue,0.75
+Federal Triangle,Prince George's Plaza,0.25
+Federal Triangle,Rhode Island Avenue,0.125
+Federal Triangle,Rosslyn,2.125
+Federal Triangle,Shady Grove,0.5
+Federal Triangle,Shaw-Howard University,0.125
+Federal Triangle,Silver Spring,0.125
+Federal Triangle,Southern Avenue,1.0
+Federal Triangle,Stadium-Armory,0.625
+Federal Triangle,Suitland,0.75
+Federal Triangle,Takoma,0.25
+Federal Triangle,Tenleytown-AU,0.5
+Federal Triangle,Twinbrook,0.375
+Federal Triangle,U Street-Cardozo,0.125
+Federal Triangle,Van Dorn Street,1.0
+Federal Triangle,Vienna,2.25
+Federal Triangle,Virginia Square-GMU,0.5
+Federal Triangle,West Falls Church,0.875
+Federal Triangle,West Hyattsville,0.625
+Federal Triangle,Wheaton,0.125
+Federal Triangle,Woodley Park-Zoo,0.875
+Foggy Bottom,Addison Road,0.5
+Foggy Bottom,Anacostia,7.125
+Foggy Bottom,Ballston,33.25
+Foggy Bottom,Benning Road,6.875
+Foggy Bottom,Bethesda,3.875
+Foggy Bottom,Braddock Road,6.375
+Foggy Bottom,Branch Avenue,3.125
+Foggy Bottom,Brookland,5.5
+Foggy Bottom,Capitol Heights,1.125
+Foggy Bottom,Capitol South,5.5
+Foggy Bottom,Cheverly,2.75
+Foggy Bottom,Clarendon,14.75
+Foggy Bottom,Cleveland Park,1.625
+Foggy Bottom,College Park-U of MD,1.625
+Foggy Bottom,Columbia Heights,7.625
+Foggy Bottom,Congress Heights,1.375
+Foggy Bottom,Court House,25.875
+Foggy Bottom,Crystal City,26.0
+Foggy Bottom,Deanwood,1.25
+Foggy Bottom,Dunn Loring,9.25
+Foggy Bottom,Dupont Circle,1.625
+Foggy Bottom,East Falls Church,17.625
+Foggy Bottom,Eastern Market,7.625
+Foggy Bottom,Eisenhower Avenue,1.25
+Foggy Bottom,Farragut West,1.875
+Foggy Bottom,Federal Center SW,2.375
+Foggy Bottom,Federal Triangle,0.5
+Foggy Bottom,Foggy Bottom,11.5
+Foggy Bottom,Forest Glen,0.75
+Foggy Bottom,Fort Totten,17.875
+Foggy Bottom,Franconia-Springfield,16.625
+Foggy Bottom,Friendship Heights,3.25
+Foggy Bottom,Gallery Place-Chinatown,4.75
+Foggy Bottom,Georgia Avenue-Petworth,9.25
+Foggy Bottom,Glenmont,7.75
+Foggy Bottom,Greenbelt,1.75
+Foggy Bottom,Grosvenor,3.5
+Foggy Bottom,Huntington,7.75
+Foggy Bottom,King Street,10.75
+Foggy Bottom,L'Enfant Plaza,2.875
+Foggy Bottom,Landover,1.375
+Foggy Bottom,Largo Town Center,2.625
+Foggy Bottom,McPherson Square,7.375
+Foggy Bottom,Medical Center,0.5
+Foggy Bottom,Metro Center,9.125
+Foggy Bottom,Minnesota Avenue,4.25
+Foggy Bottom,Morgan Blvd.,1.0
+Foggy Bottom,Mt. Vernon Square-UDC,1.5
+Foggy Bottom,Navy Yard,1.0
+Foggy Bottom,Naylor Road,1.625
+Foggy Bottom,New Carrollton,7.75
+Foggy Bottom,New York Ave,3.75
+Foggy Bottom,Pentagon,5.875
+Foggy Bottom,Pentagon City,34.375
+Foggy Bottom,Potomac Avenue,6.25
+Foggy Bottom,Prince George's Plaza,2.25
+Foggy Bottom,Reagan Washington National Airport,0.875
+Foggy Bottom,Rhode Island Avenue,2.125
+Foggy Bottom,Rockville,0.875
+Foggy Bottom,Rosslyn,25.75
+Foggy Bottom,Shady Grove,5.625
+Foggy Bottom,Shaw-Howard University,2.75
+Foggy Bottom,Silver Spring,13.0
+Foggy Bottom,Smithsonian,0.5
+Foggy Bottom,Southern Avenue,2.875
+Foggy Bottom,Stadium-Armory,3.75
+Foggy Bottom,Suitland,2.5
+Foggy Bottom,Takoma,3.875
+Foggy Bottom,Tenleytown-AU,5.375
+Foggy Bottom,Twinbrook,1.75
+Foggy Bottom,U Street-Cardozo,5.125
+Foggy Bottom,Union Station,5.5
+Foggy Bottom,Van Dorn Street,5.875
+Foggy Bottom,Van Ness-UDC,2.875
+Foggy Bottom,Vienna,28.375
+Foggy Bottom,Virginia Square-GMU,10.5
+Foggy Bottom,Waterfront,2.5
+Foggy Bottom,West Falls Church,8.0
+Foggy Bottom,West Hyattsville,2.375
+Foggy Bottom,Wheaton,3.75
+Foggy Bottom,White Flint,1.625
+Foggy Bottom,Woodley Park-Zoo,2.75
+Forest Glen,Archives-Navy Memorial,0.125
+Forest Glen,Ballston,0.25
+Forest Glen,Brookland,0.625
+Forest Glen,Capitol Heights,0.125
+Forest Glen,Clarendon,0.5
+Forest Glen,College Park-U of MD,0.25
+Forest Glen,Columbia Heights,0.125
+Forest Glen,Dupont Circle,0.75
+Forest Glen,Farragut North,0.25
+Forest Glen,Foggy Bottom,0.25
+Forest Glen,Forest Glen,1.75
+Forest Glen,Fort Totten,0.375
+Forest Glen,Friendship Heights,0.375
+Forest Glen,Gallery Place-Chinatown,0.625
+Forest Glen,Georgia Avenue-Petworth,0.25
+Forest Glen,Glenmont,1.25
+Forest Glen,Greenbelt,0.25
+Forest Glen,Huntington,0.125
+Forest Glen,Metro Center,0.375
+Forest Glen,Naylor Road,0.125
+Forest Glen,New York Ave,0.25
+Forest Glen,Pentagon City,0.375
+Forest Glen,Rhode Island Avenue,0.125
+Forest Glen,Shady Grove,0.125
+Forest Glen,Silver Spring,1.0
+Forest Glen,Takoma,0.25
+Forest Glen,Union Station,0.125
+Forest Glen,West Hyattsville,0.125
+Forest Glen,Wheaton,1.125
+Forest Glen,Woodley Park-Zoo,0.375
+Fort Totten,Addison Road,1.25
+Fort Totten,Anacostia,6.75
+Fort Totten,Archives-Navy Memorial,0.125
+Fort Totten,Ballston,0.375
+Fort Totten,Benning Road,2.125
+Fort Totten,Bethesda,0.5
+Fort Totten,Braddock Road,0.25
+Fort Totten,Branch Avenue,1.5
+Fort Totten,Brookland,4.5
+Fort Totten,Capitol Heights,1.375
+Fort Totten,Cheverly,0.25
+Fort Totten,College Park-U of MD,1.0
+Fort Totten,Columbia Heights,13.625
+Fort Totten,Congress Heights,2.0
+Fort Totten,Court House,0.125
+Fort Totten,Crystal City,0.25
+Fort Totten,Deanwood,0.875
+Fort Totten,Dunn Loring,0.125
+Fort Totten,Dupont Circle,2.125
+Fort Totten,Eastern Market,0.375
+Fort Totten,Farragut North,2.125
+Fort Totten,Farragut West,0.25
+Fort Totten,Foggy Bottom,2.75
+Fort Totten,Forest Glen,2.75
+Fort Totten,Fort Totten,8.625
+Fort Totten,Franconia-Springfield,0.375
+Fort Totten,Gallery Place-Chinatown,6.125
+Fort Totten,Georgia Avenue-Petworth,6.125
+Fort Totten,Glenmont,4.375
+Fort Totten,Greenbelt,1.875
+Fort Totten,Grosvenor,0.25
+Fort Totten,Huntington,0.375
+Fort Totten,L'Enfant Plaza,0.5
+Fort Totten,Landover,1.125
+Fort Totten,Largo Town Center,0.875
+Fort Totten,McPherson Square,0.5
+Fort Totten,Medical Center,0.125
+Fort Totten,Metro Center,0.625
+Fort Totten,Minnesota Avenue,1.25
+Fort Totten,Morgan Blvd.,0.5
+Fort Totten,Mt. Vernon Square-UDC,3.375
+Fort Totten,Navy Yard,0.25
+Fort Totten,Naylor Road,2.75
+Fort Totten,New Carrollton,0.875
+Fort Totten,New York Ave,5.0
+Fort Totten,Pentagon,0.125
+Fort Totten,Pentagon City,0.75
+Fort Totten,Potomac Avenue,1.625
+Fort Totten,Prince George's Plaza,2.0
+Fort Totten,Reagan Washington National Airport,0.375
+Fort Totten,Rhode Island Avenue,6.0
+Fort Totten,Rockville,0.375
+Fort Totten,Shady Grove,1.875
+Fort Totten,Shaw-Howard University,10.5
+Fort Totten,Silver Spring,9.0
+Fort Totten,Southern Avenue,5.625
+Fort Totten,Stadium-Armory,0.625
+Fort Totten,Suitland,4.0
+Fort Totten,Takoma,3.125
+Fort Totten,Tenleytown-AU,0.75
+Fort Totten,Twinbrook,0.25
+Fort Totten,U Street-Cardozo,21.125
+Fort Totten,Union Station,2.75
+Fort Totten,Van Dorn Street,0.125
+Fort Totten,Van Ness-UDC,0.5
+Fort Totten,Vienna,0.125
+Fort Totten,Waterfront,2.0
+Fort Totten,West Falls Church,0.125
+Fort Totten,West Hyattsville,5.125
+Fort Totten,Wheaton,3.25
+Fort Totten,Woodley Park-Zoo,1.875
+Franconia-Springfield,Addison Road,0.625
+Franconia-Springfield,Anacostia,0.375
+Franconia-Springfield,Ballston,0.125
+Franconia-Springfield,Benning Road,0.375
+Franconia-Springfield,Braddock Road,0.125
+Franconia-Springfield,Branch Avenue,0.5
+Franconia-Springfield,Capitol South,0.125
+Franconia-Springfield,Cleveland Park,0.125
+Franconia-Springfield,Court House,0.625
+Franconia-Springfield,Crystal City,0.625
+Franconia-Springfield,Dupont Circle,0.25
+Franconia-Springfield,East Falls Church,0.375
+Franconia-Springfield,Eastern Market,0.375
+Franconia-Springfield,Farragut West,0.75
+Franconia-Springfield,Federal Triangle,0.125
+Franconia-Springfield,Foggy Bottom,0.875
+Franconia-Springfield,Fort Totten,0.75
+Franconia-Springfield,Franconia-Springfield,4.5
+Franconia-Springfield,Friendship Heights,0.125
+Franconia-Springfield,Gallery Place-Chinatown,1.25
+Franconia-Springfield,Glenmont,0.375
+Franconia-Springfield,Huntington,1.5
+Franconia-Springfield,King Street,1.125
+Franconia-Springfield,L'Enfant Plaza,0.125
+Franconia-Springfield,Landover,1.375
+Franconia-Springfield,Largo Town Center,0.375
+Franconia-Springfield,McPherson Square,1.0
+Franconia-Springfield,Metro Center,1.625
+Franconia-Springfield,Minnesota Avenue,0.5
+Franconia-Springfield,Mt. Vernon Square-UDC,0.125
+Franconia-Springfield,Navy Yard,0.125
+Franconia-Springfield,Naylor Road,0.375
+Franconia-Springfield,New Carrollton,0.125
+Franconia-Springfield,New York Ave,0.5
+Franconia-Springfield,Pentagon,0.375
+Franconia-Springfield,Pentagon City,1.125
+Franconia-Springfield,Potomac Avenue,0.125
+Franconia-Springfield,Reagan Washington National Airport,1.125
+Franconia-Springfield,Rhode Island Avenue,0.125
+Franconia-Springfield,Rockville,0.375
+Franconia-Springfield,Rosslyn,1.25
+Franconia-Springfield,Shady Grove,0.75
+Franconia-Springfield,Shaw-Howard University,0.125
+Franconia-Springfield,Silver Spring,0.625
+Franconia-Springfield,Stadium-Armory,0.375
+Franconia-Springfield,Suitland,0.125
+Franconia-Springfield,Takoma,0.125
+Franconia-Springfield,Tenleytown-AU,0.125
+Franconia-Springfield,U Street-Cardozo,0.375
+Franconia-Springfield,Union Station,0.25
+Franconia-Springfield,Van Dorn Street,0.5
+Franconia-Springfield,Vienna,0.375
+Franconia-Springfield,Virginia Square-GMU,0.125
+Franconia-Springfield,West Hyattsville,0.125
+Franconia-Springfield,White Flint,0.125
+Friendship Heights,Addison Road,1.0
+Friendship Heights,Anacostia,1.75
+Friendship Heights,Ballston,0.75
+Friendship Heights,Benning Road,0.25
+Friendship Heights,Bethesda,13.875
+Friendship Heights,Braddock Road,0.375
+Friendship Heights,Branch Avenue,0.5
+Friendship Heights,Brookland,2.625
+Friendship Heights,Capitol Heights,0.25
+Friendship Heights,Capitol South,0.375
+Friendship Heights,Clarendon,0.125
+Friendship Heights,Cleveland Park,2.5
+Friendship Heights,College Park-U of MD,0.5
+Friendship Heights,Columbia Heights,0.875
+Friendship Heights,Congress Heights,0.625
+Friendship Heights,Court House,0.125
+Friendship Heights,Crystal City,0.25
+Friendship Heights,Dunn Loring,0.5
+Friendship Heights,Dupont Circle,6.625
+Friendship Heights,East Falls Church,0.75
+Friendship Heights,Eastern Market,1.25
+Friendship Heights,Eisenhower Avenue,0.125
+Friendship Heights,Farragut North,3.0
+Friendship Heights,Foggy Bottom,0.375
+Friendship Heights,Forest Glen,0.5
+Friendship Heights,Fort Totten,3.0
+Friendship Heights,Franconia-Springfield,0.5
+Friendship Heights,Friendship Heights,6.75
+Friendship Heights,Gallery Place-Chinatown,1.625
+Friendship Heights,Georgia Avenue-Petworth,1.625
+Friendship Heights,Glenmont,0.875
+Friendship Heights,Greenbelt,0.375
+Friendship Heights,Grosvenor,6.625
+Friendship Heights,Huntington,0.5
+Friendship Heights,Judiciary Square,0.375
+Friendship Heights,King Street,0.25
+Friendship Heights,McPherson Square,0.125
+Friendship Heights,Medical Center,1.625
+Friendship Heights,Metro Center,1.375
+Friendship Heights,Morgan Blvd.,0.375
+Friendship Heights,Mt. Vernon Square-UDC,1.0
+Friendship Heights,Navy Yard,0.125
+Friendship Heights,Naylor Road,0.625
+Friendship Heights,New Carrollton,0.5
+Friendship Heights,New York Ave,2.0
+Friendship Heights,Pentagon,0.125
+Friendship Heights,Pentagon City,0.5
+Friendship Heights,Potomac Avenue,0.75
+Friendship Heights,Prince George's Plaza,0.75
+Friendship Heights,Reagan Washington National Airport,0.125
+Friendship Heights,Rhode Island Avenue,1.625
+Friendship Heights,Rockville,6.25
+Friendship Heights,Rosslyn,0.5
+Friendship Heights,Shady Grove,8.25
+Friendship Heights,Shaw-Howard University,0.5
+Friendship Heights,Silver Spring,3.375
+Friendship Heights,Southern Avenue,2.0
+Friendship Heights,Stadium-Armory,0.125
+Friendship Heights,Suitland,0.75
+Friendship Heights,Takoma,1.125
+Friendship Heights,Tenleytown-AU,8.0
+Friendship Heights,Twinbrook,7.875
+Friendship Heights,U Street-Cardozo,0.375
+Friendship Heights,Union Station,1.0
+Friendship Heights,Van Ness-UDC,3.375
+Friendship Heights,Vienna,0.125
+Friendship Heights,Virginia Square-GMU,0.25
+Friendship Heights,Waterfront,0.125
+Friendship Heights,West Falls Church,0.125
+Friendship Heights,Wheaton,1.25
+Friendship Heights,White Flint,3.375
+Friendship Heights,Woodley Park-Zoo,10.625
+Gallery Place-Chinatown,Addison Road,5.125
+Gallery Place-Chinatown,Anacostia,42.625
+Gallery Place-Chinatown,Archives-Navy Memorial,0.875
+Gallery Place-Chinatown,Ballston,12.5
+Gallery Place-Chinatown,Benning Road,10.25
+Gallery Place-Chinatown,Bethesda,48.375
+Gallery Place-Chinatown,Braddock Road,16.25
+Gallery Place-Chinatown,Branch Avenue,29.5
+Gallery Place-Chinatown,Brookland,38.375
+Gallery Place-Chinatown,Capitol Heights,4.625
+Gallery Place-Chinatown,Capitol South,3.75
+Gallery Place-Chinatown,Cheverly,2.75
+Gallery Place-Chinatown,Clarendon,4.375
+Gallery Place-Chinatown,Cleveland Park,20.375
+Gallery Place-Chinatown,College Park-U of MD,28.875
+Gallery Place-Chinatown,Columbia Heights,125.625
+Gallery Place-Chinatown,Congress Heights,13.625
+Gallery Place-Chinatown,Court House,7.0
+Gallery Place-Chinatown,Crystal City,38.125
+Gallery Place-Chinatown,Deanwood,4.875
+Gallery Place-Chinatown,Dunn Loring,8.375
+Gallery Place-Chinatown,Dupont Circle,66.75
+Gallery Place-Chinatown,East Falls Church,12.75
+Gallery Place-Chinatown,Eastern Market,10.75
+Gallery Place-Chinatown,Eisenhower Avenue,12.0
+Gallery Place-Chinatown,Farragut North,19.375
+Gallery Place-Chinatown,Farragut West,0.875
+Gallery Place-Chinatown,Federal Center SW,0.375
+Gallery Place-Chinatown,Federal Triangle,0.125
+Gallery Place-Chinatown,Foggy Bottom,11.625
+Gallery Place-Chinatown,Forest Glen,17.125
+Gallery Place-Chinatown,Fort Totten,94.625
+Gallery Place-Chinatown,Franconia-Springfield,30.625
+Gallery Place-Chinatown,Friendship Heights,26.5
+Gallery Place-Chinatown,Gallery Place-Chinatown,66.0
+Gallery Place-Chinatown,Georgia Avenue-Petworth,43.5
+Gallery Place-Chinatown,Glenmont,51.0
+Gallery Place-Chinatown,Greenbelt,45.0
+Gallery Place-Chinatown,Grosvenor,50.375
+Gallery Place-Chinatown,Huntington,39.5
+Gallery Place-Chinatown,Judiciary Square,0.5
+Gallery Place-Chinatown,King Street,27.625
+Gallery Place-Chinatown,L'Enfant Plaza,12.5
+Gallery Place-Chinatown,Landover,3.875
+Gallery Place-Chinatown,Largo Town Center,5.75
+Gallery Place-Chinatown,McPherson Square,2.125
+Gallery Place-Chinatown,Medical Center,5.5
+Gallery Place-Chinatown,Metro Center,3.25
+Gallery Place-Chinatown,Minnesota Avenue,3.625
+Gallery Place-Chinatown,Morgan Blvd.,2.75
+Gallery Place-Chinatown,Mt. Vernon Square-UDC,5.0
+Gallery Place-Chinatown,Navy Yard,24.5
+Gallery Place-Chinatown,Naylor Road,21.375
+Gallery Place-Chinatown,New Carrollton,16.375
+Gallery Place-Chinatown,New York Ave,23.625
+Gallery Place-Chinatown,Pentagon,7.5
+Gallery Place-Chinatown,Pentagon City,61.375
+Gallery Place-Chinatown,Potomac Avenue,7.0
+Gallery Place-Chinatown,Prince George's Plaza,20.625
+Gallery Place-Chinatown,Reagan Washington National Airport,2.875
+Gallery Place-Chinatown,Rhode Island Avenue,16.0
+Gallery Place-Chinatown,Rockville,24.875
+Gallery Place-Chinatown,Rosslyn,12.5
+Gallery Place-Chinatown,Shady Grove,68.25
+Gallery Place-Chinatown,Shaw-Howard University,29.625
+Gallery Place-Chinatown,Silver Spring,84.75
+Gallery Place-Chinatown,Smithsonian,1.125
+Gallery Place-Chinatown,Southern Avenue,17.25
+Gallery Place-Chinatown,Stadium-Armory,4.5
+Gallery Place-Chinatown,Suitland,28.75
+Gallery Place-Chinatown,Takoma,21.0
+Gallery Place-Chinatown,Tenleytown-AU,28.875
+Gallery Place-Chinatown,Twinbrook,18.0
+Gallery Place-Chinatown,U Street-Cardozo,66.75
+Gallery Place-Chinatown,Union Station,29.0
+Gallery Place-Chinatown,Van Dorn Street,6.5
+Gallery Place-Chinatown,Van Ness-UDC,29.875
+Gallery Place-Chinatown,Vienna,24.75
+Gallery Place-Chinatown,Virginia Square-GMU,3.25
+Gallery Place-Chinatown,Waterfront,21.875
+Gallery Place-Chinatown,West Falls Church,8.125
+Gallery Place-Chinatown,West Hyattsville,24.5
+Gallery Place-Chinatown,Wheaton,28.75
+Gallery Place-Chinatown,White Flint,17.125
+Gallery Place-Chinatown,Woodley Park-Zoo,34.25
+Georgia Avenue-Petworth,Addison Road,0.5
+Georgia Avenue-Petworth,Anacostia,7.375
+Georgia Avenue-Petworth,Archives-Navy Memorial,0.375
+Georgia Avenue-Petworth,Ballston,0.75
+Georgia Avenue-Petworth,Benning Road,1.625
+Georgia Avenue-Petworth,Bethesda,0.375
+Georgia Avenue-Petworth,Braddock Road,1.375
+Georgia Avenue-Petworth,Branch Avenue,1.5
+Georgia Avenue-Petworth,Brookland,0.875
+Georgia Avenue-Petworth,Capitol Heights,1.125
+Georgia Avenue-Petworth,Capitol South,0.125
+Georgia Avenue-Petworth,Cheverly,0.125
+Georgia Avenue-Petworth,Clarendon,0.25
+Georgia Avenue-Petworth,Cleveland Park,0.125
+Georgia Avenue-Petworth,College Park-U of MD,1.625
+Georgia Avenue-Petworth,Columbia Heights,8.75
+Georgia Avenue-Petworth,Congress Heights,2.0
+Georgia Avenue-Petworth,Court House,1.25
+Georgia Avenue-Petworth,Crystal City,1.5
+Georgia Avenue-Petworth,Deanwood,0.625
+Georgia Avenue-Petworth,Dunn Loring,0.125
+Georgia Avenue-Petworth,Dupont Circle,1.5
+Georgia Avenue-Petworth,East Falls Church,0.625
+Georgia Avenue-Petworth,Eastern Market,1.75
+Georgia Avenue-Petworth,Eisenhower Avenue,0.375
+Georgia Avenue-Petworth,Farragut North,0.25
+Georgia Avenue-Petworth,Foggy Bottom,1.5
+Georgia Avenue-Petworth,Forest Glen,1.0
+Georgia Avenue-Petworth,Fort Totten,16.0
+Georgia Avenue-Petworth,Franconia-Springfield,0.25
+Georgia Avenue-Petworth,Friendship Heights,0.375
+Georgia Avenue-Petworth,Gallery Place-Chinatown,6.75
+Georgia Avenue-Petworth,Georgia Avenue-Petworth,4.875
+Georgia Avenue-Petworth,Glenmont,1.875
+Georgia Avenue-Petworth,Greenbelt,1.25
+Georgia Avenue-Petworth,Grosvenor,0.625
+Georgia Avenue-Petworth,Huntington,0.875
+Georgia Avenue-Petworth,King Street,0.875
+Georgia Avenue-Petworth,L'Enfant Plaza,0.75
+Georgia Avenue-Petworth,Landover,0.625
+Georgia Avenue-Petworth,Largo Town Center,0.5
+Georgia Avenue-Petworth,McPherson Square,0.625
+Georgia Avenue-Petworth,Medical Center,0.125
+Georgia Avenue-Petworth,Metro Center,0.25
+Georgia Avenue-Petworth,Minnesota Avenue,2.625
+Georgia Avenue-Petworth,Morgan Blvd.,0.375
+Georgia Avenue-Petworth,Mt. Vernon Square-UDC,3.75
+Georgia Avenue-Petworth,Navy Yard,2.0
+Georgia Avenue-Petworth,Naylor Road,1.25
+Georgia Avenue-Petworth,New Carrollton,2.875
+Georgia Avenue-Petworth,New York Ave,1.375
+Georgia Avenue-Petworth,Pentagon,0.625
+Georgia Avenue-Petworth,Pentagon City,0.25
+Georgia Avenue-Petworth,Potomac Avenue,1.25
+Georgia Avenue-Petworth,Prince George's Plaza,2.75
+Georgia Avenue-Petworth,Reagan Washington National Airport,0.125
+Georgia Avenue-Petworth,Rhode Island Avenue,1.75
+Georgia Avenue-Petworth,Rosslyn,1.125
+Georgia Avenue-Petworth,Shady Grove,2.25
+Georgia Avenue-Petworth,Shaw-Howard University,2.125
+Georgia Avenue-Petworth,Silver Spring,4.5
+Georgia Avenue-Petworth,Southern Avenue,1.75
+Georgia Avenue-Petworth,Stadium-Armory,1.0
+Georgia Avenue-Petworth,Suitland,1.0
+Georgia Avenue-Petworth,Takoma,1.5
+Georgia Avenue-Petworth,Tenleytown-AU,0.625
+Georgia Avenue-Petworth,Twinbrook,0.125
+Georgia Avenue-Petworth,U Street-Cardozo,10.25
+Georgia Avenue-Petworth,Union Station,1.625
+Georgia Avenue-Petworth,Van Dorn Street,0.125
+Georgia Avenue-Petworth,Van Ness-UDC,0.25
+Georgia Avenue-Petworth,Vienna,0.375
+Georgia Avenue-Petworth,Waterfront,0.75
+Georgia Avenue-Petworth,West Falls Church,0.5
+Georgia Avenue-Petworth,West Hyattsville,3.125
+Georgia Avenue-Petworth,Wheaton,0.5
+Georgia Avenue-Petworth,White Flint,0.125
+Glenmont,Anacostia,0.125
+Glenmont,Bethesda,0.625
+Glenmont,Brookland,0.875
+Glenmont,Clarendon,0.125
+Glenmont,College Park-U of MD,0.25
+Glenmont,Columbia Heights,1.25
+Glenmont,Crystal City,0.25
+Glenmont,Dupont Circle,1.0
+Glenmont,East Falls Church,0.125
+Glenmont,Eastern Market,0.125
+Glenmont,Farragut North,0.875
+Glenmont,Forest Glen,0.375
+Glenmont,Fort Totten,2.25
+Glenmont,Franconia-Springfield,0.125
+Glenmont,Gallery Place-Chinatown,1.0
+Glenmont,Georgia Avenue-Petworth,0.5
+Glenmont,Glenmont,3.375
+Glenmont,Greenbelt,0.375
+Glenmont,Largo Town Center,0.125
+Glenmont,Metro Center,0.75
+Glenmont,Minnesota Avenue,0.125
+Glenmont,Morgan Blvd.,0.25
+Glenmont,New Carrollton,0.25
+Glenmont,New York Ave,1.125
+Glenmont,Pentagon,0.25
+Glenmont,Pentagon City,0.125
+Glenmont,Prince George's Plaza,0.25
+Glenmont,Reagan Washington National Airport,0.375
+Glenmont,Rhode Island Avenue,0.875
+Glenmont,Rosslyn,0.125
+Glenmont,Shady Grove,0.5
+Glenmont,Shaw-Howard University,0.125
+Glenmont,Silver Spring,3.125
+Glenmont,Southern Avenue,0.125
+Glenmont,Suitland,0.375
+Glenmont,Takoma,0.625
+Glenmont,Tenleytown-AU,0.375
+Glenmont,Twinbrook,0.25
+Glenmont,U Street-Cardozo,0.625
+Glenmont,Union Station,0.625
+Glenmont,Wheaton,2.75
+Glenmont,White Flint,0.25
+Glenmont,Woodley Park-Zoo,0.375
+Greenbelt,Anacostia,0.25
+Greenbelt,Benning Road,0.375
+Greenbelt,Bethesda,0.125
+Greenbelt,Branch Avenue,0.5
+Greenbelt,Brookland,0.25
+Greenbelt,College Park-U of MD,0.25
+Greenbelt,Columbia Heights,1.875
+Greenbelt,Congress Heights,0.125
+Greenbelt,Court House,0.125
+Greenbelt,Deanwood,0.25
+Greenbelt,Dupont Circle,0.25
+Greenbelt,Eastern Market,0.125
+Greenbelt,Farragut North,0.375
+Greenbelt,Foggy Bottom,0.5
+Greenbelt,Fort Totten,0.875
+Greenbelt,Gallery Place-Chinatown,1.125
+Greenbelt,Georgia Avenue-Petworth,0.125
+Greenbelt,Greenbelt,1.875
+Greenbelt,Grosvenor,0.125
+Greenbelt,Largo Town Center,0.25
+Greenbelt,McPherson Square,0.125
+Greenbelt,Medical Center,0.125
+Greenbelt,Morgan Blvd.,0.125
+Greenbelt,Mt. Vernon Square-UDC,0.375
+Greenbelt,Navy Yard,0.125
+Greenbelt,Naylor Road,0.375
+Greenbelt,New Carrollton,0.125
+Greenbelt,New York Ave,0.375
+Greenbelt,Pentagon,0.125
+Greenbelt,Pentagon City,0.25
+Greenbelt,Potomac Avenue,0.125
+Greenbelt,Prince George's Plaza,0.5
+Greenbelt,Reagan Washington National Airport,0.125
+Greenbelt,Rhode Island Avenue,0.625
+Greenbelt,Rosslyn,0.375
+Greenbelt,Shady Grove,0.125
+Greenbelt,Shaw-Howard University,0.625
+Greenbelt,Silver Spring,0.5
+Greenbelt,Southern Avenue,0.5
+Greenbelt,Stadium-Armory,0.125
+Greenbelt,Suitland,0.875
+Greenbelt,Takoma,0.25
+Greenbelt,U Street-Cardozo,1.5
+Greenbelt,Union Station,0.125
+Greenbelt,West Hyattsville,1.5
+Greenbelt,Wheaton,0.25
+Greenbelt,White Flint,0.125
+Grosvenor,Bethesda,0.75
+Grosvenor,Brookland,0.125
+Grosvenor,Capitol South,0.75
+Grosvenor,Cleveland Park,0.875
+Grosvenor,Columbia Heights,0.375
+Grosvenor,Dupont Circle,3.375
+Grosvenor,Eastern Market,0.125
+Grosvenor,Farragut North,1.0
+Grosvenor,Fort Totten,0.25
+Grosvenor,Friendship Heights,1.0
+Grosvenor,Gallery Place-Chinatown,1.5
+Grosvenor,Georgia Avenue-Petworth,0.375
+Grosvenor,Grosvenor,2.0
+Grosvenor,Judiciary Square,0.25
+Grosvenor,King Street,0.125
+Grosvenor,Largo Town Center,0.125
+Grosvenor,Medical Center,0.375
+Grosvenor,Metro Center,0.25
+Grosvenor,Morgan Blvd.,0.125
+Grosvenor,Mt. Vernon Square-UDC,0.625
+Grosvenor,Navy Yard,0.125
+Grosvenor,New Carrollton,0.125
+Grosvenor,Pentagon City,0.875
+Grosvenor,Potomac Avenue,0.125
+Grosvenor,Rockville,1.125
+Grosvenor,Shady Grove,1.875
+Grosvenor,Silver Spring,0.625
+Grosvenor,Tenleytown-AU,1.5
+Grosvenor,Twinbrook,1.5
+Grosvenor,U Street-Cardozo,0.125
+Grosvenor,Union Station,0.375
+Grosvenor,Van Ness-UDC,1.0
+Grosvenor,White Flint,1.125
+Grosvenor,Woodley Park-Zoo,1.25
+Huntington,Anacostia,0.25
+Huntington,Ballston,0.125
+Huntington,Benning Road,0.625
+Huntington,Braddock Road,3.0
+Huntington,Branch Avenue,0.625
+Huntington,Capitol Heights,0.125
+Huntington,Clarendon,0.125
+Huntington,Columbia Heights,1.25
+Huntington,Congress Heights,0.125
+Huntington,Crystal City,0.75
+Huntington,Deanwood,0.25
+Huntington,East Falls Church,0.125
+Huntington,Eisenhower Avenue,0.375
+Huntington,Farragut North,0.25
+Huntington,Foggy Bottom,0.125
+Huntington,Forest Glen,0.25
+Huntington,Fort Totten,1.5
+Huntington,Franconia-Springfield,0.75
+Huntington,Friendship Heights,0.125
+Huntington,Gallery Place-Chinatown,2.125
+Huntington,Georgia Avenue-Petworth,0.875
+Huntington,Glenmont,0.125
+Huntington,Greenbelt,0.25
+Huntington,Grosvenor,0.25
+Huntington,Huntington,2.625
+Huntington,King Street,1.125
+Huntington,L'Enfant Plaza,0.25
+Huntington,Largo Town Center,0.25
+Huntington,McPherson Square,0.125
+Huntington,Medical Center,0.125
+Huntington,Minnesota Avenue,0.125
+Huntington,Morgan Blvd.,0.25
+Huntington,Mt. Vernon Square-UDC,1.375
+Huntington,Navy Yard,0.375
+Huntington,Naylor Road,0.625
+Huntington,New Carrollton,0.375
+Huntington,New York Ave,0.5
+Huntington,Pentagon,0.5
+Huntington,Pentagon City,1.5
+Huntington,Potomac Avenue,0.5
+Huntington,Reagan Washington National Airport,0.125
+Huntington,Rosslyn,0.125
+Huntington,Shady Grove,0.625
+Huntington,Shaw-Howard University,0.125
+Huntington,Silver Spring,0.125
+Huntington,Southern Avenue,0.25
+Huntington,Suitland,0.25
+Huntington,U Street-Cardozo,0.625
+Huntington,Union Station,0.625
+Huntington,Van Dorn Street,0.25
+Huntington,Van Ness-UDC,0.25
+Huntington,Vienna,0.5
+Huntington,Virginia Square-GMU,0.25
+Huntington,West Falls Church,0.125
+Huntington,Wheaton,0.25
+Huntington,Woodley Park-Zoo,0.625
+Judiciary Square,Addison Road,0.125
+Judiciary Square,Anacostia,0.125
+Judiciary Square,Ballston,0.875
+Judiciary Square,Bethesda,5.125
+Judiciary Square,Branch Avenue,0.125
+Judiciary Square,Brookland,2.0
+Judiciary Square,Clarendon,0.25
+Judiciary Square,Cleveland Park,0.25
+Judiciary Square,Columbia Heights,0.5
+Judiciary Square,Court House,1.0
+Judiciary Square,Crystal City,0.75
+Judiciary Square,Dunn Loring,0.5
+Judiciary Square,Dupont Circle,2.5
+Judiciary Square,East Falls Church,0.75
+Judiciary Square,Farragut North,1.625
+Judiciary Square,Foggy Bottom,0.25
+Judiciary Square,Forest Glen,2.25
+Judiciary Square,Fort Totten,1.25
+Judiciary Square,Friendship Heights,4.125
+Judiciary Square,Gallery Place-Chinatown,0.375
+Judiciary Square,Glenmont,2.875
+Judiciary Square,Greenbelt,0.25
+Judiciary Square,Grosvenor,4.375
+Judiciary Square,Huntington,0.375
+Judiciary Square,Judiciary Square,2.625
+Judiciary Square,King Street,0.375
+Judiciary Square,Landover,0.25
+Judiciary Square,Largo Town Center,0.375
+Judiciary Square,Medical Center,0.25
+Judiciary Square,Metro Center,0.125
+Judiciary Square,Minnesota Avenue,0.125
+Judiciary Square,Navy Yard,0.25
+Judiciary Square,Naylor Road,0.125
+Judiciary Square,New Carrollton,0.375
+Judiciary Square,New York Ave,0.375
+Judiciary Square,Pentagon,0.125
+Judiciary Square,Pentagon City,0.25
+Judiciary Square,Potomac Avenue,0.125
+Judiciary Square,Prince George's Plaza,0.5
+Judiciary Square,Reagan Washington National Airport,0.25
+Judiciary Square,Rhode Island Avenue,0.125
+Judiciary Square,Rockville,3.125
+Judiciary Square,Rosslyn,0.375
+Judiciary Square,Shady Grove,5.375
+Judiciary Square,Silver Spring,3.75
+Judiciary Square,Takoma,1.125
+Judiciary Square,Tenleytown-AU,1.875
+Judiciary Square,Twinbrook,0.625
+Judiciary Square,U Street-Cardozo,0.375
+Judiciary Square,Union Station,0.25
+Judiciary Square,Van Ness-UDC,1.375
+Judiciary Square,Vienna,1.5
+Judiciary Square,Virginia Square-GMU,0.25
+Judiciary Square,Waterfront,0.375
+Judiciary Square,Wheaton,1.125
+Judiciary Square,White Flint,1.0
+Judiciary Square,Woodley Park-Zoo,2.375
+King Street,Addison Road,1.0
+King Street,Anacostia,0.125
+King Street,Archives-Navy Memorial,0.5
+King Street,Ballston,2.875
+King Street,Benning Road,0.75
+King Street,Bethesda,0.625
+King Street,Braddock Road,2.0
+King Street,Branch Avenue,0.25
+King Street,Brookland,0.375
+King Street,Capitol Heights,0.125
+King Street,Capitol South,0.625
+King Street,Clarendon,0.5
+King Street,Cleveland Park,1.0
+King Street,Columbia Heights,3.75
+King Street,Congress Heights,0.25
+King Street,Court House,1.25
+King Street,Crystal City,7.25
+King Street,Dunn Loring,1.25
+King Street,Dupont Circle,1.875
+King Street,East Falls Church,1.0
+King Street,Eastern Market,2.25
+King Street,Eisenhower Avenue,3.875
+King Street,Farragut North,0.25
+King Street,Farragut West,2.25
+King Street,Federal Center SW,0.125
+King Street,Foggy Bottom,3.125
+King Street,Fort Totten,2.625
+King Street,Franconia-Springfield,12.875
+King Street,Friendship Heights,0.875
+King Street,Gallery Place-Chinatown,6.0
+King Street,Georgia Avenue-Petworth,0.5
+King Street,Glenmont,0.125
+King Street,Greenbelt,0.125
+King Street,Grosvenor,0.125
+King Street,Huntington,23.875
+King Street,King Street,5.0
+King Street,L'Enfant Plaza,1.375
+King Street,Landover,0.125
+King Street,Largo Town Center,0.5
+King Street,McPherson Square,1.625
+King Street,Metro Center,2.0
+King Street,Mt. Vernon Square-UDC,2.875
+King Street,Navy Yard,0.875
+King Street,Naylor Road,0.5
+King Street,New Carrollton,1.5
+King Street,New York Ave,1.375
+King Street,Pentagon,2.875
+King Street,Pentagon City,7.875
+King Street,Potomac Avenue,0.375
+King Street,Prince George's Plaza,0.25
+King Street,Reagan Washington National Airport,1.0
+King Street,Rhode Island Avenue,0.375
+King Street,Rockville,0.375
+King Street,Rosslyn,3.75
+King Street,Shady Grove,0.875
+King Street,Shaw-Howard University,0.5
+King Street,Silver Spring,0.75
+King Street,Southern Avenue,0.125
+King Street,Stadium-Armory,0.125
+King Street,Suitland,0.375
+King Street,Takoma,0.25
+King Street,Tenleytown-AU,0.25
+King Street,Twinbrook,0.5
+King Street,U Street-Cardozo,4.0
+King Street,Union Station,0.625
+King Street,Van Dorn Street,10.875
+King Street,Van Ness-UDC,0.375
+King Street,Vienna,4.375
+King Street,Virginia Square-GMU,1.0
+King Street,Waterfront,0.25
+King Street,West Falls Church,1.625
+King Street,West Hyattsville,0.375
+King Street,Wheaton,0.125
+King Street,Woodley Park-Zoo,1.0
+L'Enfant Plaza,Addison Road,1.125
+L'Enfant Plaza,Anacostia,4.0
+L'Enfant Plaza,Ballston,0.75
+L'Enfant Plaza,Benning Road,0.25
+L'Enfant Plaza,Braddock Road,2.125
+L'Enfant Plaza,Branch Avenue,1.0
+L'Enfant Plaza,Brookland,1.0
+L'Enfant Plaza,Capitol Heights,0.25
+L'Enfant Plaza,Capitol South,0.25
+L'Enfant Plaza,Cheverly,1.875
+L'Enfant Plaza,Clarendon,0.5
+L'Enfant Plaza,Cleveland Park,0.25
+L'Enfant Plaza,College Park-U of MD,0.75
+L'Enfant Plaza,Columbia Heights,7.0
+L'Enfant Plaza,Congress Heights,1.5
+L'Enfant Plaza,Court House,1.0
+L'Enfant Plaza,Crystal City,2.375
+L'Enfant Plaza,Deanwood,0.25
+L'Enfant Plaza,Dunn Loring,1.5
+L'Enfant Plaza,Dupont Circle,0.875
+L'Enfant Plaza,East Falls Church,0.875
+L'Enfant Plaza,Eastern Market,2.625
+L'Enfant Plaza,Eisenhower Avenue,1.0
+L'Enfant Plaza,Farragut West,0.125
+L'Enfant Plaza,Foggy Bottom,0.75
+L'Enfant Plaza,Forest Glen,0.375
+L'Enfant Plaza,Fort Totten,6.0
+L'Enfant Plaza,Franconia-Springfield,2.5
+L'Enfant Plaza,Friendship Heights,0.5
+L'Enfant Plaza,Gallery Place-Chinatown,2.375
+L'Enfant Plaza,Georgia Avenue-Petworth,3.625
+L'Enfant Plaza,Glenmont,1.125
+L'Enfant Plaza,Greenbelt,1.5
+L'Enfant Plaza,Grosvenor,0.125
+L'Enfant Plaza,Huntington,3.25
+L'Enfant Plaza,King Street,2.0
+L'Enfant Plaza,L'Enfant Plaza,3.0
+L'Enfant Plaza,Landover,1.0
+L'Enfant Plaza,Largo Town Center,0.875
+L'Enfant Plaza,McPherson Square,1.125
+L'Enfant Plaza,Medical Center,0.125
+L'Enfant Plaza,Metro Center,0.125
+L'Enfant Plaza,Minnesota Avenue,0.375
+L'Enfant Plaza,Morgan Blvd.,0.875
+L'Enfant Plaza,Mt. Vernon Square-UDC,2.375
+L'Enfant Plaza,Navy Yard,1.0
+L'Enfant Plaza,Naylor Road,1.125
+L'Enfant Plaza,New Carrollton,1.875
+L'Enfant Plaza,New York Ave,0.25
+L'Enfant Plaza,Pentagon,1.0
+L'Enfant Plaza,Pentagon City,4.25
+L'Enfant Plaza,Potomac Avenue,1.5
+L'Enfant Plaza,Prince George's Plaza,1.5
+L'Enfant Plaza,Reagan Washington National Airport,0.375
+L'Enfant Plaza,Rhode Island Avenue,1.0
+L'Enfant Plaza,Rockville,0.25
+L'Enfant Plaza,Rosslyn,0.875
+L'Enfant Plaza,Shady Grove,1.0
+L'Enfant Plaza,Shaw-Howard University,1.0
+L'Enfant Plaza,Silver Spring,1.25
+L'Enfant Plaza,Southern Avenue,2.0
+L'Enfant Plaza,Stadium-Armory,1.0
+L'Enfant Plaza,Suitland,1.125
+L'Enfant Plaza,Takoma,0.25
+L'Enfant Plaza,Tenleytown-AU,0.75
+L'Enfant Plaza,Twinbrook,0.25
+L'Enfant Plaza,U Street-Cardozo,3.5
+L'Enfant Plaza,Union Station,0.25
+L'Enfant Plaza,Van Dorn Street,1.625
+L'Enfant Plaza,Van Ness-UDC,0.875
+L'Enfant Plaza,Vienna,1.625
+L'Enfant Plaza,Virginia Square-GMU,0.25
+L'Enfant Plaza,Waterfront,0.375
+L'Enfant Plaza,West Falls Church,0.875
+L'Enfant Plaza,West Hyattsville,1.25
+L'Enfant Plaza,Wheaton,0.875
+L'Enfant Plaza,White Flint,0.25
+L'Enfant Plaza,Woodley Park-Zoo,0.5
+Landover,Anacostia,1.75
+Landover,Benning Road,0.5
+Landover,Branch Avenue,0.25
+Landover,Brookland,0.125
+Landover,Capitol Heights,0.625
+Landover,Columbia Heights,0.125
+Landover,Congress Heights,0.25
+Landover,Deanwood,0.75
+Landover,Eastern Market,0.125
+Landover,Farragut West,1.0
+Landover,Fort Totten,0.375
+Landover,Franconia-Springfield,0.125
+Landover,Gallery Place-Chinatown,0.125
+Landover,Glenmont,0.25
+Landover,L'Enfant Plaza,0.375
+Landover,Landover,1.125
+Landover,Largo Town Center,0.25
+Landover,McPherson Square,0.125
+Landover,Metro Center,0.125
+Landover,Minnesota Avenue,2.375
+Landover,Morgan Blvd.,0.125
+Landover,Mt. Vernon Square-UDC,0.125
+Landover,New Carrollton,2.25
+Landover,Pentagon City,0.125
+Landover,Potomac Avenue,0.375
+Landover,Prince George's Plaza,0.25
+Landover,Reagan Washington National Airport,0.375
+Landover,Rhode Island Avenue,0.125
+Landover,Shady Grove,0.125
+Landover,Shaw-Howard University,0.125
+Landover,Silver Spring,0.25
+Landover,Southern Avenue,0.5
+Landover,Stadium-Armory,0.125
+Landover,Suitland,0.25
+Landover,Union Station,0.125
+Landover,Vienna,0.125
+Landover,Virginia Square-GMU,0.25
+Landover,West Hyattsville,0.125
+Largo Town Center,Addison Road,8.0
+Largo Town Center,Anacostia,3.5
+Largo Town Center,Archives-Navy Memorial,0.25
+Largo Town Center,Benning Road,6.0
+Largo Town Center,Branch Avenue,1.75
+Largo Town Center,Brookland,0.25
+Largo Town Center,Capitol Heights,4.75
+Largo Town Center,Capitol South,0.125
+Largo Town Center,Cheverly,0.25
+Largo Town Center,Clarendon,0.125
+Largo Town Center,Columbia Heights,0.875
+Largo Town Center,Congress Heights,2.0
+Largo Town Center,Crystal City,0.125
+Largo Town Center,Deanwood,1.25
+Largo Town Center,Eastern Market,1.75
+Largo Town Center,Farragut West,0.25
+Largo Town Center,Fort Totten,1.0
+Largo Town Center,Franconia-Springfield,0.125
+Largo Town Center,Gallery Place-Chinatown,1.0
+Largo Town Center,Georgia Avenue-Petworth,1.375
+Largo Town Center,Glenmont,0.25
+Largo Town Center,Greenbelt,1.625
+Largo Town Center,L'Enfant Plaza,0.25
+Largo Town Center,Landover,0.75
+Largo Town Center,Largo Town Center,3.5
+Largo Town Center,McPherson Square,0.125
+Largo Town Center,Metro Center,1.25
+Largo Town Center,Minnesota Avenue,1.0
+Largo Town Center,Morgan Blvd.,1.625
+Largo Town Center,Mt. Vernon Square-UDC,0.625
+Largo Town Center,Naylor Road,1.875
+Largo Town Center,New Carrollton,2.125
+Largo Town Center,New York Ave,0.875
+Largo Town Center,Pentagon City,0.5
+Largo Town Center,Potomac Avenue,1.875
+Largo Town Center,Prince George's Plaza,0.75
+Largo Town Center,Reagan Washington National Airport,1.375
+Largo Town Center,Rhode Island Avenue,1.0
+Largo Town Center,Shaw-Howard University,0.5
+Largo Town Center,Silver Spring,0.125
+Largo Town Center,Southern Avenue,1.75
+Largo Town Center,Stadium-Armory,2.0
+Largo Town Center,Suitland,3.625
+Largo Town Center,U Street-Cardozo,0.375
+Largo Town Center,Union Station,1.0
+Largo Town Center,Van Dorn Street,0.125
+Largo Town Center,Van Ness-UDC,0.25
+Largo Town Center,Vienna,0.125
+Largo Town Center,West Hyattsville,0.625
+Largo Town Center,Wheaton,0.125
+McPherson Square,Addison Road,1.375
+McPherson Square,Anacostia,1.75
+McPherson Square,Ballston,27.0
+McPherson Square,Benning Road,3.5
+McPherson Square,Bethesda,2.125
+McPherson Square,Braddock Road,3.0
+McPherson Square,Branch Avenue,2.625
+McPherson Square,Brookland,0.25
+McPherson Square,Capitol Heights,1.625
+McPherson Square,Capitol South,3.25
+McPherson Square,Cheverly,1.5
+McPherson Square,Clarendon,11.625
+McPherson Square,Cleveland Park,0.625
+McPherson Square,College Park-U of MD,0.75
+McPherson Square,Columbia Heights,1.25
+McPherson Square,Congress Heights,0.25
+McPherson Square,Court House,24.875
+McPherson Square,Crystal City,9.375
+McPherson Square,Deanwood,1.5
+McPherson Square,Dunn Loring,9.625
+McPherson Square,Dupont Circle,1.5
+McPherson Square,East Falls Church,13.25
+McPherson Square,Eastern Market,7.25
+McPherson Square,Farragut North,0.625
+McPherson Square,Farragut West,0.5
+McPherson Square,Federal Center SW,1.625
+McPherson Square,Foggy Bottom,9.125
+McPherson Square,Forest Glen,0.375
+McPherson Square,Fort Totten,3.625
+McPherson Square,Franconia-Springfield,7.5
+McPherson Square,Friendship Heights,0.75
+McPherson Square,Gallery Place-Chinatown,1.0
+McPherson Square,Georgia Avenue-Petworth,1.625
+McPherson Square,Glenmont,2.5
+McPherson Square,Greenbelt,1.375
+McPherson Square,Grosvenor,1.125
+McPherson Square,Huntington,4.125
+McPherson Square,Judiciary Square,0.25
+McPherson Square,King Street,8.125
+McPherson Square,L'Enfant Plaza,1.625
+McPherson Square,Landover,0.625
+McPherson Square,Largo Town Center,5.125
+McPherson Square,McPherson Square,9.0
+McPherson Square,Medical Center,0.25
+McPherson Square,Metro Center,1.0
+McPherson Square,Minnesota Avenue,1.75
+McPherson Square,Morgan Blvd.,2.125
+McPherson Square,Mt. Vernon Square-UDC,0.25
+McPherson Square,Navy Yard,0.25
+McPherson Square,Naylor Road,1.25
+McPherson Square,New Carrollton,10.75
+McPherson Square,New York Ave,1.0
+McPherson Square,Pentagon,2.875
+McPherson Square,Pentagon City,17.875
+McPherson Square,Potomac Avenue,4.0
+McPherson Square,Prince George's Plaza,1.25
+McPherson Square,Reagan Washington National Airport,1.375
+McPherson Square,Rhode Island Avenue,0.75
+McPherson Square,Rockville,0.875
+McPherson Square,Rosslyn,20.875
+McPherson Square,Shady Grove,4.5
+McPherson Square,Shaw-Howard University,1.125
+McPherson Square,Silver Spring,4.25
+McPherson Square,Smithsonian,0.375
+McPherson Square,Southern Avenue,1.25
+McPherson Square,Stadium-Armory,2.625
+McPherson Square,Suitland,1.0
+McPherson Square,Takoma,0.375
+McPherson Square,Tenleytown-AU,0.25
+McPherson Square,Twinbrook,0.625
+McPherson Square,U Street-Cardozo,1.125
+McPherson Square,Union Station,1.125
+McPherson Square,Van Dorn Street,7.125
+McPherson Square,Van Ness-UDC,1.0
+McPherson Square,Vienna,20.75
+McPherson Square,Virginia Square-GMU,8.125
+McPherson Square,Waterfront,1.625
+McPherson Square,West Falls Church,11.0
+McPherson Square,West Hyattsville,0.75
+McPherson Square,Wheaton,2.5
+McPherson Square,White Flint,0.625
+McPherson Square,Woodley Park-Zoo,1.25
+Medical Center,Anacostia,0.25
+Medical Center,Ballston,0.125
+Medical Center,Bethesda,0.25
+Medical Center,Brookland,0.125
+Medical Center,Cleveland Park,0.125
+Medical Center,Columbia Heights,0.125
+Medical Center,Dupont Circle,0.5
+Medical Center,Farragut North,0.25
+Medical Center,Foggy Bottom,0.125
+Medical Center,Fort Totten,0.75
+Medical Center,Friendship Heights,1.625
+Medical Center,Glenmont,0.125
+Medical Center,Grosvenor,1.375
+Medical Center,Largo Town Center,0.125
+Medical Center,Medical Center,1.25
+Medical Center,Navy Yard,0.125
+Medical Center,Pentagon City,0.25
+Medical Center,Rhode Island Avenue,0.25
+Medical Center,Rockville,0.75
+Medical Center,Shady Grove,2.5
+Medical Center,Suitland,0.125
+Medical Center,Tenleytown-AU,0.125
+Medical Center,Twinbrook,2.375
+Medical Center,Union Station,0.375
+Medical Center,Van Ness-UDC,0.125
+Medical Center,Vienna,0.125
+Medical Center,Waterfront,0.125
+Medical Center,White Flint,1.625
+Medical Center,Woodley Park-Zoo,1.625
+Metro Center,Addison Road,3.25
+Metro Center,Anacostia,2.125
+Metro Center,Ballston,37.625
+Metro Center,Benning Road,2.5
+Metro Center,Bethesda,17.5
+Metro Center,Braddock Road,2.875
+Metro Center,Branch Avenue,1.75
+Metro Center,Brookland,4.875
+Metro Center,Capitol Heights,4.375
+Metro Center,Capitol South,2.625
+Metro Center,Cheverly,2.125
+Metro Center,Clarendon,18.375
+Metro Center,Cleveland Park,5.375
+Metro Center,College Park-U of MD,0.625
+Metro Center,Columbia Heights,0.875
+Metro Center,Congress Heights,0.25
+Metro Center,Court House,33.375
+Metro Center,Crystal City,5.75
+Metro Center,Deanwood,2.5
+Metro Center,Dunn Loring,17.5
+Metro Center,Dupont Circle,15.5
+Metro Center,East Falls Church,29.0
+Metro Center,Eastern Market,12.5
+Metro Center,Eisenhower Avenue,1.25
+Metro Center,Farragut North,4.0
+Metro Center,Farragut West,3.25
+Metro Center,Federal Center SW,0.625
+Metro Center,Federal Triangle,0.25
+Metro Center,Foggy Bottom,19.5
+Metro Center,Forest Glen,4.375
+Metro Center,Fort Totten,14.375
+Metro Center,Franconia-Springfield,13.75
+Metro Center,Friendship Heights,7.5
+Metro Center,Gallery Place-Chinatown,1.125
+Metro Center,Georgia Avenue-Petworth,1.375
+Metro Center,Glenmont,14.875
+Metro Center,Greenbelt,2.25
+Metro Center,Grosvenor,15.25
+Metro Center,Huntington,4.25
+Metro Center,Judiciary Square,0.5
+Metro Center,King Street,3.625
+Metro Center,L'Enfant Plaza,1.875
+Metro Center,Landover,2.5
+Metro Center,Largo Town Center,5.625
+Metro Center,McPherson Square,0.625
+Metro Center,Medical Center,1.5
+Metro Center,Metro Center,16.125
+Metro Center,Minnesota Avenue,2.125
+Metro Center,Morgan Blvd.,3.875
+Metro Center,Mt. Vernon Square-UDC,0.625
+Metro Center,Navy Yard,1.25
+Metro Center,Naylor Road,1.375
+Metro Center,New Carrollton,13.25
+Metro Center,New York Ave,3.875
+Metro Center,Pentagon,2.25
+Metro Center,Pentagon City,10.625
+Metro Center,Potomac Avenue,6.0
+Metro Center,Prince George's Plaza,4.125
+Metro Center,Reagan Washington National Airport,0.375
+Metro Center,Rhode Island Avenue,6.375
+Metro Center,Rockville,5.875
+Metro Center,Rosslyn,39.375
+Metro Center,Shady Grove,15.125
+Metro Center,Shaw-Howard University,1.875
+Metro Center,Silver Spring,21.25
+Metro Center,Smithsonian,0.75
+Metro Center,Southern Avenue,0.875
+Metro Center,Stadium-Armory,4.375
+Metro Center,Suitland,2.0
+Metro Center,Takoma,7.875
+Metro Center,Tenleytown-AU,6.0
+Metro Center,Twinbrook,7.375
+Metro Center,U Street-Cardozo,2.75
+Metro Center,Union Station,6.25
+Metro Center,Van Dorn Street,5.25
+Metro Center,Van Ness-UDC,10.625
+Metro Center,Vienna,48.625
+Metro Center,Virginia Square-GMU,17.5
+Metro Center,Waterfront,0.75
+Metro Center,West Falls Church,21.25
+Metro Center,West Hyattsville,1.75
+Metro Center,Wheaton,8.625
+Metro Center,White Flint,7.5
+Metro Center,Woodley Park-Zoo,12.625
+Minnesota Avenue,Addison Road,1.5
+Minnesota Avenue,Anacostia,2.875
+Minnesota Avenue,Ballston,0.5
+Minnesota Avenue,Benning Road,0.125
+Minnesota Avenue,Brookland,0.875
+Minnesota Avenue,Capitol South,0.125
+Minnesota Avenue,Cheverly,1.125
+Minnesota Avenue,Cleveland Park,0.125
+Minnesota Avenue,Columbia Heights,2.0
+Minnesota Avenue,Congress Heights,1.375
+Minnesota Avenue,Deanwood,4.625
+Minnesota Avenue,Eastern Market,0.375
+Minnesota Avenue,Federal Center SW,0.125
+Minnesota Avenue,Foggy Bottom,0.375
+Minnesota Avenue,Fort Totten,2.0
+Minnesota Avenue,Franconia-Springfield,0.125
+Minnesota Avenue,Gallery Place-Chinatown,0.625
+Minnesota Avenue,Georgia Avenue-Petworth,0.5
+Minnesota Avenue,Glenmont,0.125
+Minnesota Avenue,Greenbelt,0.125
+Minnesota Avenue,King Street,0.125
+Minnesota Avenue,Landover,7.875
+Minnesota Avenue,Largo Town Center,0.375
+Minnesota Avenue,McPherson Square,0.375
+Minnesota Avenue,Metro Center,0.625
+Minnesota Avenue,Minnesota Avenue,2.25
+Minnesota Avenue,Morgan Blvd.,0.125
+Minnesota Avenue,Naylor Road,0.875
+Minnesota Avenue,New Carrollton,4.5
+Minnesota Avenue,New York Ave,0.25
+Minnesota Avenue,Potomac Avenue,1.125
+Minnesota Avenue,Prince George's Plaza,0.25
+Minnesota Avenue,Reagan Washington National Airport,0.25
+Minnesota Avenue,Rhode Island Avenue,0.75
+Minnesota Avenue,Rockville,0.25
+Minnesota Avenue,Shady Grove,0.25
+Minnesota Avenue,Silver Spring,0.25
+Minnesota Avenue,Smithsonian,0.375
+Minnesota Avenue,Southern Avenue,1.0
+Minnesota Avenue,Stadium-Armory,1.25
+Minnesota Avenue,Suitland,0.5
+Minnesota Avenue,Takoma,0.125
+Minnesota Avenue,U Street-Cardozo,0.75
+Minnesota Avenue,Union Station,0.125
+Minnesota Avenue,Van Dorn Street,0.125
+Minnesota Avenue,Vienna,0.25
+Minnesota Avenue,Waterfront,0.375
+Minnesota Avenue,West Hyattsville,0.125
+Minnesota Avenue,Wheaton,0.25
+Minnesota Avenue,Woodley Park-Zoo,0.375
+Morgan Blvd.,Addison Road,0.625
+Morgan Blvd.,Anacostia,0.25
+Morgan Blvd.,Ballston,0.125
+Morgan Blvd.,Benning Road,0.625
+Morgan Blvd.,Branch Avenue,0.125
+Morgan Blvd.,College Park-U of MD,0.125
+Morgan Blvd.,Columbia Heights,0.25
+Morgan Blvd.,East Falls Church,0.125
+Morgan Blvd.,Farragut West,0.125
+Morgan Blvd.,Foggy Bottom,0.125
+Morgan Blvd.,Fort Totten,0.125
+Morgan Blvd.,Georgia Avenue-Petworth,0.125
+Morgan Blvd.,Greenbelt,0.125
+Morgan Blvd.,Largo Town Center,0.375
+Morgan Blvd.,Minnesota Avenue,0.125
+Morgan Blvd.,Morgan Blvd.,0.875
+Morgan Blvd.,Mt. Vernon Square-UDC,0.125
+Morgan Blvd.,Naylor Road,0.125
+Morgan Blvd.,New Carrollton,0.25
+Morgan Blvd.,Pentagon City,0.25
+Morgan Blvd.,Potomac Avenue,0.125
+Morgan Blvd.,Reagan Washington National Airport,0.5
+Morgan Blvd.,Rosslyn,0.125
+Morgan Blvd.,Shady Grove,0.125
+Morgan Blvd.,Stadium-Armory,0.875
+Morgan Blvd.,Suitland,0.125
+Morgan Blvd.,Vienna,0.125
+Morgan Blvd.,Woodley Park-Zoo,0.125
+Mt. Vernon Square-UDC,Addison Road,0.375
+Mt. Vernon Square-UDC,Anacostia,4.125
+Mt. Vernon Square-UDC,Archives-Navy Memorial,0.25
+Mt. Vernon Square-UDC,Ballston,1.125
+Mt. Vernon Square-UDC,Benning Road,0.375
+Mt. Vernon Square-UDC,Braddock Road,1.25
+Mt. Vernon Square-UDC,Branch Avenue,2.25
+Mt. Vernon Square-UDC,Brookland,0.125
+Mt. Vernon Square-UDC,Capitol Heights,0.375
+Mt. Vernon Square-UDC,Capitol South,0.25
+Mt. Vernon Square-UDC,Clarendon,0.375
+Mt. Vernon Square-UDC,College Park-U of MD,1.875
+Mt. Vernon Square-UDC,Columbia Heights,23.5
+Mt. Vernon Square-UDC,Congress Heights,1.375
+Mt. Vernon Square-UDC,Court House,0.875
+Mt. Vernon Square-UDC,Crystal City,5.25
+Mt. Vernon Square-UDC,Deanwood,0.375
+Mt. Vernon Square-UDC,Dunn Loring,0.375
+Mt. Vernon Square-UDC,Dupont Circle,0.75
+Mt. Vernon Square-UDC,East Falls Church,0.5
+Mt. Vernon Square-UDC,Eastern Market,0.625
+Mt. Vernon Square-UDC,Eisenhower Avenue,1.375
+Mt. Vernon Square-UDC,Farragut North,0.25
+Mt. Vernon Square-UDC,Foggy Bottom,2.0
+Mt. Vernon Square-UDC,Forest Glen,0.25
+Mt. Vernon Square-UDC,Fort Totten,14.625
+Mt. Vernon Square-UDC,Franconia-Springfield,1.25
+Mt. Vernon Square-UDC,Friendship Heights,0.25
+Mt. Vernon Square-UDC,Gallery Place-Chinatown,1.375
+Mt. Vernon Square-UDC,Georgia Avenue-Petworth,10.125
+Mt. Vernon Square-UDC,Glenmont,0.125
+Mt. Vernon Square-UDC,Greenbelt,1.75
+Mt. Vernon Square-UDC,Grosvenor,0.375
+Mt. Vernon Square-UDC,Huntington,2.625
+Mt. Vernon Square-UDC,King Street,2.75
+Mt. Vernon Square-UDC,L'Enfant Plaza,0.75
+Mt. Vernon Square-UDC,Landover,0.25
+Mt. Vernon Square-UDC,Largo Town Center,0.75
+Mt. Vernon Square-UDC,Medical Center,0.125
+Mt. Vernon Square-UDC,Metro Center,0.25
+Mt. Vernon Square-UDC,Minnesota Avenue,1.125
+Mt. Vernon Square-UDC,Morgan Blvd.,0.5
+Mt. Vernon Square-UDC,Mt. Vernon Square-UDC,5.125
+Mt. Vernon Square-UDC,Navy Yard,4.125
+Mt. Vernon Square-UDC,Naylor Road,1.375
+Mt. Vernon Square-UDC,New Carrollton,1.125
+Mt. Vernon Square-UDC,New York Ave,0.625
+Mt. Vernon Square-UDC,Pentagon,0.375
+Mt. Vernon Square-UDC,Pentagon City,3.25
+Mt. Vernon Square-UDC,Potomac Avenue,1.125
+Mt. Vernon Square-UDC,Prince George's Plaza,3.375
+Mt. Vernon Square-UDC,Reagan Washington National Airport,0.125
+Mt. Vernon Square-UDC,Rhode Island Avenue,0.5
+Mt. Vernon Square-UDC,Rosslyn,0.75
+Mt. Vernon Square-UDC,Shaw-Howard University,2.75
+Mt. Vernon Square-UDC,Silver Spring,1.75
+Mt. Vernon Square-UDC,Southern Avenue,1.25
+Mt. Vernon Square-UDC,Stadium-Armory,0.125
+Mt. Vernon Square-UDC,Suitland,2.25
+Mt. Vernon Square-UDC,Takoma,0.25
+Mt. Vernon Square-UDC,Tenleytown-AU,0.75
+Mt. Vernon Square-UDC,Twinbrook,0.75
+Mt. Vernon Square-UDC,U Street-Cardozo,14.625
+Mt. Vernon Square-UDC,Union Station,1.125
+Mt. Vernon Square-UDC,Van Dorn Street,0.5
+Mt. Vernon Square-UDC,Van Ness-UDC,0.25
+Mt. Vernon Square-UDC,Vienna,0.375
+Mt. Vernon Square-UDC,Virginia Square-GMU,0.25
+Mt. Vernon Square-UDC,Waterfront,1.625
+Mt. Vernon Square-UDC,West Falls Church,0.625
+Mt. Vernon Square-UDC,West Hyattsville,3.625
+Mt. Vernon Square-UDC,Wheaton,0.25
+Mt. Vernon Square-UDC,White Flint,0.125
+Mt. Vernon Square-UDC,Woodley Park-Zoo,0.875
+Navy Yard,Addison Road,0.625
+Navy Yard,Anacostia,11.0
+Navy Yard,Archives-Navy Memorial,2.75
+Navy Yard,Ballston,7.625
+Navy Yard,Benning Road,1.125
+Navy Yard,Bethesda,4.25
+Navy Yard,Braddock Road,1.75
+Navy Yard,Branch Avenue,2.75
+Navy Yard,Brookland,0.375
+Navy Yard,Capitol Heights,0.625
+Navy Yard,Cheverly,0.375
+Navy Yard,Clarendon,5.125
+Navy Yard,Cleveland Park,2.625
+Navy Yard,College Park-U of MD,2.375
+Navy Yard,Columbia Heights,13.25
+Navy Yard,Congress Heights,3.125
+Navy Yard,Court House,5.5
+Navy Yard,Crystal City,3.875
+Navy Yard,Dunn Loring,0.375
+Navy Yard,Dupont Circle,7.375
+Navy Yard,East Falls Church,4.625
+Navy Yard,Eastern Market,1.0
+Navy Yard,Eisenhower Avenue,2.125
+Navy Yard,Farragut North,0.5
+Navy Yard,Farragut West,0.75
+Navy Yard,Federal Center SW,0.375
+Navy Yard,Foggy Bottom,5.25
+Navy Yard,Forest Glen,1.375
+Navy Yard,Fort Totten,7.375
+Navy Yard,Franconia-Springfield,2.875
+Navy Yard,Friendship Heights,2.375
+Navy Yard,Gallery Place-Chinatown,26.875
+Navy Yard,Georgia Avenue-Petworth,3.25
+Navy Yard,Glenmont,1.5
+Navy Yard,Greenbelt,1.875
+Navy Yard,Grosvenor,3.875
+Navy Yard,Huntington,1.875
+Navy Yard,King Street,3.375
+Navy Yard,L'Enfant Plaza,4.875
+Navy Yard,Landover,0.125
+Navy Yard,Largo Town Center,0.25
+Navy Yard,McPherson Square,0.875
+Navy Yard,Medical Center,0.375
+Navy Yard,Metro Center,0.125
+Navy Yard,Minnesota Avenue,1.375
+Navy Yard,Morgan Blvd.,0.25
+Navy Yard,Mt. Vernon Square-UDC,7.625
+Navy Yard,Navy Yard,11.375
+Navy Yard,Naylor Road,2.375
+Navy Yard,New Carrollton,1.75
+Navy Yard,New York Ave,1.875
+Navy Yard,Pentagon,0.75
+Navy Yard,Pentagon City,6.75
+Navy Yard,Potomac Avenue,0.5
+Navy Yard,Prince George's Plaza,1.0
+Navy Yard,Reagan Washington National Airport,0.25
+Navy Yard,Rhode Island Avenue,1.375
+Navy Yard,Rockville,1.125
+Navy Yard,Rosslyn,4.125
+Navy Yard,Shady Grove,4.0
+Navy Yard,Shaw-Howard University,2.5
+Navy Yard,Silver Spring,5.25
+Navy Yard,Southern Avenue,3.5
+Navy Yard,Stadium-Armory,0.375
+Navy Yard,Suitland,3.625
+Navy Yard,Takoma,1.875
+Navy Yard,Tenleytown-AU,2.375
+Navy Yard,Twinbrook,0.625
+Navy Yard,U Street-Cardozo,21.875
+Navy Yard,Union Station,1.125
+Navy Yard,Van Dorn Street,1.625
+Navy Yard,Van Ness-UDC,1.875
+Navy Yard,Vienna,4.75
+Navy Yard,Virginia Square-GMU,1.75
+Navy Yard,Waterfront,0.5
+Navy Yard,West Falls Church,1.125
+Navy Yard,West Hyattsville,0.875
+Navy Yard,Wheaton,0.125
+Navy Yard,White Flint,1.0
+Navy Yard,Woodley Park-Zoo,2.75
+Naylor Road,Addison Road,1.0
+Naylor Road,Anacostia,6.25
+Naylor Road,Archives-Navy Memorial,0.25
+Naylor Road,Benning Road,1.0
+Naylor Road,Branch Avenue,3.25
+Naylor Road,Brookland,0.25
+Naylor Road,Capitol Heights,1.25
+Naylor Road,Cheverly,0.25
+Naylor Road,Clarendon,0.125
+Naylor Road,College Park-U of MD,0.25
+Naylor Road,Columbia Heights,0.875
+Naylor Road,Congress Heights,2.25
+Naylor Road,Court House,0.125
+Naylor Road,Deanwood,2.0
+Naylor Road,Dupont Circle,0.25
+Naylor Road,Farragut North,0.125
+Naylor Road,Fort Totten,1.5
+Naylor Road,Gallery Place-Chinatown,2.75
+Naylor Road,Georgia Avenue-Petworth,0.875
+Naylor Road,Glenmont,0.125
+Naylor Road,Huntington,0.625
+Naylor Road,King Street,0.5
+Naylor Road,Landover,0.125
+Naylor Road,Largo Town Center,0.625
+Naylor Road,McPherson Square,0.125
+Naylor Road,Minnesota Avenue,0.5
+Naylor Road,Mt. Vernon Square-UDC,0.125
+Naylor Road,Navy Yard,0.25
+Naylor Road,Naylor Road,1.625
+Naylor Road,New Carrollton,0.75
+Naylor Road,New York Ave,0.5
+Naylor Road,Pentagon City,0.875
+Naylor Road,Potomac Avenue,0.125
+Naylor Road,Prince George's Plaza,0.5
+Naylor Road,Rhode Island Avenue,1.75
+Naylor Road,Rockville,0.5
+Naylor Road,Rosslyn,0.25
+Naylor Road,Shady Grove,0.125
+Naylor Road,Shaw-Howard University,0.625
+Naylor Road,Silver Spring,0.375
+Naylor Road,Southern Avenue,3.25
+Naylor Road,Stadium-Armory,0.75
+Naylor Road,Suitland,4.625
+Naylor Road,Takoma,0.25
+Naylor Road,Tenleytown-AU,0.125
+Naylor Road,Twinbrook,0.125
+Naylor Road,U Street-Cardozo,1.5
+Naylor Road,Union Station,0.25
+Naylor Road,Van Dorn Street,0.125
+Naylor Road,Waterfront,1.5
+Naylor Road,West Hyattsville,0.125
+Naylor Road,Woodley Park-Zoo,0.625
+New Carrollton,Addison Road,1.0
+New Carrollton,Anacostia,1.125
+New Carrollton,Ballston,0.25
+New Carrollton,Benning Road,0.375
+New Carrollton,Branch Avenue,0.5
+New Carrollton,Brookland,0.375
+New Carrollton,Capitol Heights,0.375
+New Carrollton,Capitol South,0.125
+New Carrollton,Cheverly,0.125
+New Carrollton,Clarendon,0.125
+New Carrollton,College Park-U of MD,0.125
+New Carrollton,Columbia Heights,0.25
+New Carrollton,Congress Heights,1.0
+New Carrollton,Court House,0.25
+New Carrollton,Crystal City,0.375
+New Carrollton,Deanwood,1.375
+New Carrollton,Dupont Circle,0.125
+New Carrollton,East Falls Church,0.25
+New Carrollton,Eastern Market,0.5
+New Carrollton,Farragut West,0.125
+New Carrollton,Federal Center SW,0.375
+New Carrollton,Foggy Bottom,0.5
+New Carrollton,Fort Totten,2.0
+New Carrollton,Franconia-Springfield,0.125
+New Carrollton,Gallery Place-Chinatown,1.5
+New Carrollton,Georgia Avenue-Petworth,0.375
+New Carrollton,Glenmont,0.125
+New Carrollton,Greenbelt,0.25
+New Carrollton,Huntington,0.5
+New Carrollton,Judiciary Square,0.125
+New Carrollton,King Street,0.125
+New Carrollton,Landover,1.75
+New Carrollton,Largo Town Center,0.375
+New Carrollton,McPherson Square,0.5
+New Carrollton,Metro Center,0.25
+New Carrollton,Minnesota Avenue,2.25
+New Carrollton,Morgan Blvd.,0.125
+New Carrollton,Mt. Vernon Square-UDC,0.125
+New Carrollton,Navy Yard,0.125
+New Carrollton,Naylor Road,0.375
+New Carrollton,New Carrollton,3.5
+New Carrollton,New York Ave,0.125
+New Carrollton,Pentagon City,0.5
+New Carrollton,Potomac Avenue,1.0
+New Carrollton,Prince George's Plaza,0.125
+New Carrollton,Reagan Washington National Airport,0.125
+New Carrollton,Rhode Island Avenue,0.5
+New Carrollton,Rosslyn,0.125
+New Carrollton,Shady Grove,0.25
+New Carrollton,Shaw-Howard University,1.375
+New Carrollton,Silver Spring,0.375
+New Carrollton,Southern Avenue,0.25
+New Carrollton,Stadium-Armory,0.875
+New Carrollton,Suitland,1.0
+New Carrollton,Takoma,0.125
+New Carrollton,Tenleytown-AU,0.25
+New Carrollton,Twinbrook,0.125
+New Carrollton,U Street-Cardozo,1.25
+New Carrollton,Union Station,0.125
+New Carrollton,Van Dorn Street,0.5
+New Carrollton,Vienna,0.25
+New Carrollton,Virginia Square-GMU,0.125
+New Carrollton,West Falls Church,0.125
+New Carrollton,West Hyattsville,0.25
+New Carrollton,Wheaton,0.625
+New Carrollton,Woodley Park-Zoo,0.25
+New York Ave,Addison Road,0.5
+New York Ave,Anacostia,5.75
+New York Ave,Ballston,1.375
+New York Ave,Benning Road,1.875
+New York Ave,Bethesda,3.25
+New York Ave,Braddock Road,0.5
+New York Ave,Branch Avenue,0.75
+New York Ave,Brookland,4.5
+New York Ave,Capitol Heights,1.0
+New York Ave,Capitol South,0.125
+New York Ave,Clarendon,0.375
+New York Ave,Cleveland Park,0.875
+New York Ave,College Park-U of MD,2.5
+New York Ave,Columbia Heights,3.375
+New York Ave,Congress Heights,1.375
+New York Ave,Court House,0.5
+New York Ave,Crystal City,0.125
+New York Ave,Deanwood,0.75
+New York Ave,Dunn Loring,2.375
+New York Ave,Dupont Circle,6.125
+New York Ave,East Falls Church,1.125
+New York Ave,Eastern Market,0.375
+New York Ave,Eisenhower Avenue,0.625
+New York Ave,Farragut North,2.0
+New York Ave,Foggy Bottom,1.125
+New York Ave,Forest Glen,1.5
+New York Ave,Fort Totten,13.0
+New York Ave,Franconia-Springfield,2.125
+New York Ave,Friendship Heights,1.375
+New York Ave,Gallery Place-Chinatown,5.25
+New York Ave,Georgia Avenue-Petworth,1.375
+New York Ave,Glenmont,7.875
+New York Ave,Greenbelt,0.875
+New York Ave,Grosvenor,2.625
+New York Ave,Huntington,2.125
+New York Ave,Judiciary Square,0.875
+New York Ave,King Street,0.375
+New York Ave,L'Enfant Plaza,1.0
+New York Ave,Landover,0.875
+New York Ave,Largo Town Center,1.75
+New York Ave,McPherson Square,0.125
+New York Ave,Medical Center,1.0
+New York Ave,Metro Center,2.875
+New York Ave,Minnesota Avenue,0.875
+New York Ave,Morgan Blvd.,0.25
+New York Ave,Mt. Vernon Square-UDC,0.75
+New York Ave,Navy Yard,0.75
+New York Ave,Naylor Road,2.5
+New York Ave,New Carrollton,1.5
+New York Ave,New York Ave,4.625
+New York Ave,Pentagon,1.25
+New York Ave,Pentagon City,2.0
+New York Ave,Potomac Avenue,1.875
+New York Ave,Prince George's Plaza,1.625
+New York Ave,Reagan Washington National Airport,0.375
+New York Ave,Rhode Island Avenue,7.625
+New York Ave,Rockville,1.75
+New York Ave,Rosslyn,1.125
+New York Ave,Shady Grove,7.875
+New York Ave,Shaw-Howard University,0.875
+New York Ave,Silver Spring,12.375
+New York Ave,Southern Avenue,1.5
+New York Ave,Stadium-Armory,0.25
+New York Ave,Suitland,2.625
+New York Ave,Takoma,5.75
+New York Ave,Tenleytown-AU,4.25
+New York Ave,Twinbrook,1.0
+New York Ave,U Street-Cardozo,1.5
+New York Ave,Union Station,1.0
+New York Ave,Van Dorn Street,0.625
+New York Ave,Van Ness-UDC,1.0
+New York Ave,Vienna,6.125
+New York Ave,Virginia Square-GMU,0.625
+New York Ave,Waterfront,1.25
+New York Ave,West Falls Church,1.75
+New York Ave,West Hyattsville,1.5
+New York Ave,Wheaton,2.625
+New York Ave,White Flint,0.125
+New York Ave,Woodley Park-Zoo,2.75
+Pentagon,Addison Road,0.25
+Pentagon,Ballston,0.25
+Pentagon,Benning Road,0.25
+Pentagon,Braddock Road,2.0
+Pentagon,Cheverly,0.125
+Pentagon,Columbia Heights,0.5
+Pentagon,Crystal City,0.375
+Pentagon,Dunn Loring,0.125
+Pentagon,Dupont Circle,0.25
+Pentagon,East Falls Church,0.25
+Pentagon,Eisenhower Avenue,0.875
+Pentagon,Federal Triangle,0.125
+Pentagon,Foggy Bottom,0.125
+Pentagon,Fort Totten,0.25
+Pentagon,Franconia-Springfield,1.875
+Pentagon,Gallery Place-Chinatown,1.125
+Pentagon,Georgia Avenue-Petworth,0.625
+Pentagon,Huntington,2.25
+Pentagon,King Street,0.625
+Pentagon,McPherson Square,0.25
+Pentagon,Morgan Blvd.,0.875
+Pentagon,Mt. Vernon Square-UDC,0.125
+Pentagon,Naylor Road,0.125
+Pentagon,New Carrollton,0.125
+Pentagon,Pentagon,0.375
+Pentagon,Pentagon City,0.75
+Pentagon,Potomac Avenue,0.125
+Pentagon,Prince George's Plaza,0.125
+Pentagon,Reagan Washington National Airport,0.375
+Pentagon,Rosslyn,0.25
+Pentagon,Shaw-Howard University,0.25
+Pentagon,Silver Spring,0.375
+Pentagon,Stadium-Armory,0.125
+Pentagon,Suitland,0.375
+Pentagon,Tenleytown-AU,0.125
+Pentagon,Van Dorn Street,0.125
+Pentagon,Vienna,0.125
+Pentagon City,Addison Road,0.75
+Pentagon City,Anacostia,1.125
+Pentagon City,Archives-Navy Memorial,1.25
+Pentagon City,Ballston,1.125
+Pentagon City,Benning Road,0.5
+Pentagon City,Bethesda,0.25
+Pentagon City,Braddock Road,1.5
+Pentagon City,Branch Avenue,0.25
+Pentagon City,Brookland,0.625
+Pentagon City,Capitol Heights,0.25
+Pentagon City,Capitol South,0.25
+Pentagon City,Cheverly,1.5
+Pentagon City,Clarendon,0.25
+Pentagon City,Cleveland Park,0.5
+Pentagon City,Columbia Heights,5.375
+Pentagon City,Congress Heights,0.125
+Pentagon City,Court House,0.5
+Pentagon City,Crystal City,3.25
+Pentagon City,Deanwood,0.5
+Pentagon City,Dunn Loring,0.125
+Pentagon City,Dupont Circle,1.125
+Pentagon City,East Falls Church,0.75
+Pentagon City,Eastern Market,0.875
+Pentagon City,Eisenhower Avenue,0.125
+Pentagon City,Farragut West,2.75
+Pentagon City,Federal Center SW,0.625
+Pentagon City,Foggy Bottom,4.75
+Pentagon City,Forest Glen,0.125
+Pentagon City,Fort Totten,3.375
+Pentagon City,Franconia-Springfield,3.75
+Pentagon City,Friendship Heights,0.625
+Pentagon City,Gallery Place-Chinatown,4.75
+Pentagon City,Georgia Avenue-Petworth,1.5
+Pentagon City,Glenmont,0.125
+Pentagon City,Greenbelt,1.0
+Pentagon City,Grosvenor,0.25
+Pentagon City,Huntington,8.25
+Pentagon City,King Street,4.125
+Pentagon City,L'Enfant Plaza,1.375
+Pentagon City,Landover,0.375
+Pentagon City,Largo Town Center,0.875
+Pentagon City,McPherson Square,1.625
+Pentagon City,Medical Center,0.125
+Pentagon City,Metro Center,1.625
+Pentagon City,Minnesota Avenue,0.25
+Pentagon City,Mt. Vernon Square-UDC,2.75
+Pentagon City,Navy Yard,0.25
+Pentagon City,Naylor Road,0.625
+Pentagon City,New Carrollton,1.25
+Pentagon City,New York Ave,1.0
+Pentagon City,Pentagon,0.5
+Pentagon City,Pentagon City,3.125
+Pentagon City,Potomac Avenue,0.75
+Pentagon City,Prince George's Plaza,0.625
+Pentagon City,Reagan Washington National Airport,0.375
+Pentagon City,Rhode Island Avenue,0.5
+Pentagon City,Rosslyn,4.0
+Pentagon City,Shady Grove,0.375
+Pentagon City,Shaw-Howard University,1.25
+Pentagon City,Silver Spring,2.125
+Pentagon City,Southern Avenue,1.125
+Pentagon City,Stadium-Armory,0.25
+Pentagon City,Suitland,1.5
+Pentagon City,Takoma,0.625
+Pentagon City,Tenleytown-AU,0.875
+Pentagon City,Twinbrook,0.25
+Pentagon City,U Street-Cardozo,3.25
+Pentagon City,Union Station,1.625
+Pentagon City,Van Dorn Street,2.375
+Pentagon City,Van Ness-UDC,0.625
+Pentagon City,Vienna,1.0
+Pentagon City,Virginia Square-GMU,0.25
+Pentagon City,Waterfront,0.375
+Pentagon City,West Falls Church,0.375
+Pentagon City,West Hyattsville,0.5
+Pentagon City,Wheaton,0.875
+Pentagon City,Woodley Park-Zoo,0.625
+Potomac Avenue,Addison Road,0.75
+Potomac Avenue,Anacostia,1.125
+Potomac Avenue,Ballston,0.625
+Potomac Avenue,Benning Road,2.875
+Potomac Avenue,Bethesda,0.625
+Potomac Avenue,Braddock Road,0.125
+Potomac Avenue,Branch Avenue,0.375
+Potomac Avenue,Brookland,0.875
+Potomac Avenue,Capitol Heights,1.25
+Potomac Avenue,Capitol South,1.0
+Potomac Avenue,Cheverly,0.875
+Potomac Avenue,Clarendon,0.25
+Potomac Avenue,Cleveland Park,0.25
+Potomac Avenue,Columbia Heights,2.25
+Potomac Avenue,Congress Heights,0.5
+Potomac Avenue,Court House,1.5
+Potomac Avenue,Deanwood,0.875
+Potomac Avenue,Dunn Loring,0.25
+Potomac Avenue,Dupont Circle,0.375
+Potomac Avenue,East Falls Church,0.25
+Potomac Avenue,Eastern Market,0.125
+Potomac Avenue,Farragut West,1.875
+Potomac Avenue,Federal Triangle,0.25
+Potomac Avenue,Foggy Bottom,1.75
+Potomac Avenue,Fort Totten,2.0
+Potomac Avenue,Friendship Heights,0.25
+Potomac Avenue,Gallery Place-Chinatown,0.375
+Potomac Avenue,Georgia Avenue-Petworth,2.125
+Potomac Avenue,Greenbelt,0.25
+Potomac Avenue,Grosvenor,0.125
+Potomac Avenue,Huntington,0.625
+Potomac Avenue,King Street,0.5
+Potomac Avenue,L'Enfant Plaza,0.75
+Potomac Avenue,Landover,0.625
+Potomac Avenue,Largo Town Center,0.5
+Potomac Avenue,McPherson Square,1.5
+Potomac Avenue,Metro Center,1.0
+Potomac Avenue,Minnesota Avenue,2.125
+Potomac Avenue,Morgan Blvd.,0.25
+Potomac Avenue,Mt. Vernon Square-UDC,1.375
+Potomac Avenue,Naylor Road,0.25
+Potomac Avenue,New Carrollton,1.25
+Potomac Avenue,New York Ave,0.75
+Potomac Avenue,Pentagon,0.25
+Potomac Avenue,Pentagon City,0.625
+Potomac Avenue,Potomac Avenue,3.125
+Potomac Avenue,Reagan Washington National Airport,0.125
+Potomac Avenue,Rhode Island Avenue,0.375
+Potomac Avenue,Rockville,0.125
+Potomac Avenue,Rosslyn,0.875
+Potomac Avenue,Shady Grove,0.5
+Potomac Avenue,Shaw-Howard University,1.125
+Potomac Avenue,Silver Spring,1.375
+Potomac Avenue,Southern Avenue,0.125
+Potomac Avenue,Stadium-Armory,1.375
+Potomac Avenue,Suitland,0.625
+Potomac Avenue,Takoma,0.75
+Potomac Avenue,Tenleytown-AU,0.75
+Potomac Avenue,U Street-Cardozo,1.75
+Potomac Avenue,Union Station,0.75
+Potomac Avenue,Van Ness-UDC,0.5
+Potomac Avenue,Vienna,0.125
+Potomac Avenue,Virginia Square-GMU,0.25
+Potomac Avenue,West Falls Church,0.5
+Potomac Avenue,West Hyattsville,0.125
+Potomac Avenue,Woodley Park-Zoo,0.75
+Prince George's Plaza,Addison Road,0.125
+Prince George's Plaza,Anacostia,0.875
+Prince George's Plaza,Benning Road,0.25
+Prince George's Plaza,Bethesda,0.25
+Prince George's Plaza,Branch Avenue,0.75
+Prince George's Plaza,Brookland,0.5
+Prince George's Plaza,Cheverly,0.125
+Prince George's Plaza,College Park-U of MD,7.25
+Prince George's Plaza,Columbia Heights,3.5
+Prince George's Plaza,Congress Heights,0.125
+Prince George's Plaza,Court House,0.125
+Prince George's Plaza,Dupont Circle,0.375
+Prince George's Plaza,Eastern Market,0.125
+Prince George's Plaza,Farragut North,0.125
+Prince George's Plaza,Foggy Bottom,0.125
+Prince George's Plaza,Fort Totten,2.5
+Prince George's Plaza,Gallery Place-Chinatown,1.875
+Prince George's Plaza,Georgia Avenue-Petworth,2.625
+Prince George's Plaza,Glenmont,0.5
+Prince George's Plaza,Greenbelt,3.625
+Prince George's Plaza,Grosvenor,0.125
+Prince George's Plaza,Huntington,0.25
+Prince George's Plaza,Judiciary Square,0.125
+Prince George's Plaza,Landover,0.625
+Prince George's Plaza,McPherson Square,0.375
+Prince George's Plaza,Mt. Vernon Square-UDC,0.5
+Prince George's Plaza,Navy Yard,0.125
+Prince George's Plaza,Naylor Road,0.5
+Prince George's Plaza,New Carrollton,0.25
+Prince George's Plaza,New York Ave,0.75
+Prince George's Plaza,Pentagon City,0.125
+Prince George's Plaza,Potomac Avenue,0.125
+Prince George's Plaza,Prince George's Plaza,2.375
+Prince George's Plaza,Reagan Washington National Airport,0.125
+Prince George's Plaza,Rosslyn,0.25
+Prince George's Plaza,Shady Grove,0.25
+Prince George's Plaza,Shaw-Howard University,1.125
+Prince George's Plaza,Silver Spring,0.75
+Prince George's Plaza,Southern Avenue,1.0
+Prince George's Plaza,Suitland,2.0
+Prince George's Plaza,Takoma,0.625
+Prince George's Plaza,Tenleytown-AU,0.125
+Prince George's Plaza,U Street-Cardozo,5.625
+Prince George's Plaza,Union Station,0.25
+Prince George's Plaza,Vienna,0.125
+Prince George's Plaza,Waterfront,0.125
+Prince George's Plaza,West Hyattsville,1.25
+Prince George's Plaza,Wheaton,0.125
+Prince George's Plaza,Woodley Park-Zoo,0.5
+Reagan Washington National Airport,Addison Road,0.125
+Reagan Washington National Airport,Anacostia,0.375
+Reagan Washington National Airport,Archives-Navy Memorial,0.25
+Reagan Washington National Airport,Ballston,0.875
+Reagan Washington National Airport,Benning Road,0.375
+Reagan Washington National Airport,Bethesda,1.125
+Reagan Washington National Airport,Braddock Road,1.875
+Reagan Washington National Airport,Branch Avenue,1.0
+Reagan Washington National Airport,Brookland,0.125
+Reagan Washington National Airport,Clarendon,0.625
+Reagan Washington National Airport,Cleveland Park,0.125
+Reagan Washington National Airport,College Park-U of MD,0.25
+Reagan Washington National Airport,Columbia Heights,3.25
+Reagan Washington National Airport,Congress Heights,0.25
+Reagan Washington National Airport,Court House,0.375
+Reagan Washington National Airport,Crystal City,2.0
+Reagan Washington National Airport,Deanwood,0.125
+Reagan Washington National Airport,Dunn Loring,0.625
+Reagan Washington National Airport,Dupont Circle,1.625
+Reagan Washington National Airport,East Falls Church,0.625
+Reagan Washington National Airport,Eastern Market,0.75
+Reagan Washington National Airport,Eisenhower Avenue,0.25
+Reagan Washington National Airport,Farragut West,0.625
+Reagan Washington National Airport,Federal Center SW,0.125
+Reagan Washington National Airport,Federal Triangle,0.125
+Reagan Washington National Airport,Foggy Bottom,6.625
+Reagan Washington National Airport,Fort Totten,1.625
+Reagan Washington National Airport,Franconia-Springfield,4.625
+Reagan Washington National Airport,Friendship Heights,0.5
+Reagan Washington National Airport,Gallery Place-Chinatown,1.5
+Reagan Washington National Airport,Georgia Avenue-Petworth,1.375
+Reagan Washington National Airport,Glenmont,0.625
+Reagan Washington National Airport,Greenbelt,0.5
+Reagan Washington National Airport,Grosvenor,1.125
+Reagan Washington National Airport,Huntington,4.625
+Reagan Washington National Airport,King Street,4.5
+Reagan Washington National Airport,L'Enfant Plaza,0.25
+Reagan Washington National Airport,Landover,0.25
+Reagan Washington National Airport,Largo Town Center,0.375
+Reagan Washington National Airport,McPherson Square,1.875
+Reagan Washington National Airport,Medical Center,0.125
+Reagan Washington National Airport,Metro Center,1.75
+Reagan Washington National Airport,Mt. Vernon Square-UDC,0.875
+Reagan Washington National Airport,Navy Yard,0.25
+Reagan Washington National Airport,Naylor Road,0.125
+Reagan Washington National Airport,New Carrollton,0.125
+Reagan Washington National Airport,New York Ave,0.5
+Reagan Washington National Airport,Pentagon,0.625
+Reagan Washington National Airport,Pentagon City,1.875
+Reagan Washington National Airport,Potomac Avenue,0.5
+Reagan Washington National Airport,Prince George's Plaza,0.375
+Reagan Washington National Airport,Reagan Washington National Airport,1.25
+Reagan Washington National Airport,Rockville,0.75
+Reagan Washington National Airport,Rosslyn,3.125
+Reagan Washington National Airport,Shady Grove,1.25
+Reagan Washington National Airport,Shaw-Howard University,0.5
+Reagan Washington National Airport,Silver Spring,2.25
+Reagan Washington National Airport,Southern Avenue,0.125
+Reagan Washington National Airport,Stadium-Armory,0.125
+Reagan Washington National Airport,Suitland,0.5
+Reagan Washington National Airport,Takoma,0.125
+Reagan Washington National Airport,Tenleytown-AU,0.375
+Reagan Washington National Airport,Twinbrook,0.625
+Reagan Washington National Airport,U Street-Cardozo,0.75
+Reagan Washington National Airport,Union Station,2.0
+Reagan Washington National Airport,Van Dorn Street,2.625
+Reagan Washington National Airport,Van Ness-UDC,0.375
+Reagan Washington National Airport,Vienna,1.125
+Reagan Washington National Airport,Virginia Square-GMU,0.25
+Reagan Washington National Airport,West Falls Church,0.25
+Reagan Washington National Airport,White Flint,0.375
+Reagan Washington National Airport,Woodley Park-Zoo,1.0
+Rhode Island Avenue,Addison Road,0.75
+Rhode Island Avenue,Anacostia,3.625
+Rhode Island Avenue,Ballston,0.5
+Rhode Island Avenue,Benning Road,1.0
+Rhode Island Avenue,Bethesda,0.625
+Rhode Island Avenue,Braddock Road,0.125
+Rhode Island Avenue,Brookland,0.625
+Rhode Island Avenue,Capitol Heights,0.75
+Rhode Island Avenue,Cheverly,0.375
+Rhode Island Avenue,Cleveland Park,0.125
+Rhode Island Avenue,College Park-U of MD,0.75
+Rhode Island Avenue,Columbia Heights,1.75
+Rhode Island Avenue,Congress Heights,1.375
+Rhode Island Avenue,Court House,0.125
+Rhode Island Avenue,Crystal City,0.125
+Rhode Island Avenue,Deanwood,0.75
+Rhode Island Avenue,Dunn Loring,0.125
+Rhode Island Avenue,Dupont Circle,1.75
+Rhode Island Avenue,East Falls Church,0.125
+Rhode Island Avenue,Eastern Market,0.25
+Rhode Island Avenue,Farragut North,0.125
+Rhode Island Avenue,Foggy Bottom,1.5
+Rhode Island Avenue,Forest Glen,0.125
+Rhode Island Avenue,Fort Totten,6.75
+Rhode Island Avenue,Franconia-Springfield,0.625
+Rhode Island Avenue,Friendship Heights,0.25
+Rhode Island Avenue,Gallery Place-Chinatown,5.125
+Rhode Island Avenue,Georgia Avenue-Petworth,0.625
+Rhode Island Avenue,Glenmont,1.375
+Rhode Island Avenue,Greenbelt,0.375
+Rhode Island Avenue,Grosvenor,0.375
+Rhode Island Avenue,Judiciary Square,1.375
+Rhode Island Avenue,King Street,0.125
+Rhode Island Avenue,Landover,0.625
+Rhode Island Avenue,Largo Town Center,0.75
+Rhode Island Avenue,McPherson Square,0.25
+Rhode Island Avenue,Metro Center,0.375
+Rhode Island Avenue,Minnesota Avenue,1.25
+Rhode Island Avenue,Mt. Vernon Square-UDC,0.125
+Rhode Island Avenue,Navy Yard,0.875
+Rhode Island Avenue,Naylor Road,1.75
+Rhode Island Avenue,New Carrollton,0.25
+Rhode Island Avenue,New York Ave,2.625
+Rhode Island Avenue,Potomac Avenue,0.25
+Rhode Island Avenue,Prince George's Plaza,1.25
+Rhode Island Avenue,Reagan Washington National Airport,0.875
+Rhode Island Avenue,Rhode Island Avenue,3.5
+Rhode Island Avenue,Shady Grove,0.625
+Rhode Island Avenue,Shaw-Howard University,0.375
+Rhode Island Avenue,Silver Spring,4.125
+Rhode Island Avenue,Southern Avenue,0.625
+Rhode Island Avenue,Suitland,1.375
+Rhode Island Avenue,Takoma,1.75
+Rhode Island Avenue,Tenleytown-AU,0.5
+Rhode Island Avenue,Twinbrook,0.25
+Rhode Island Avenue,U Street-Cardozo,2.375
+Rhode Island Avenue,Union Station,1.625
+Rhode Island Avenue,Van Dorn Street,0.125
+Rhode Island Avenue,Van Ness-UDC,0.125
+Rhode Island Avenue,Vienna,0.125
+Rhode Island Avenue,Virginia Square-GMU,0.125
+Rhode Island Avenue,Waterfront,1.25
+Rhode Island Avenue,West Falls Church,0.25
+Rhode Island Avenue,West Hyattsville,0.75
+Rhode Island Avenue,Wheaton,0.75
+Rhode Island Avenue,White Flint,0.25
+Rhode Island Avenue,Woodley Park-Zoo,0.375
+Rockville,Benning Road,0.125
+Rockville,Bethesda,1.25
+Rockville,Brookland,0.25
+Rockville,Cleveland Park,0.125
+Rockville,College Park-U of MD,0.125
+Rockville,Columbia Heights,0.125
+Rockville,Congress Heights,0.25
+Rockville,Dunn Loring,0.125
+Rockville,Dupont Circle,2.875
+Rockville,East Falls Church,0.125
+Rockville,Eisenhower Avenue,0.5
+Rockville,Farragut North,0.375
+Rockville,Foggy Bottom,0.125
+Rockville,Fort Totten,0.125
+Rockville,Friendship Heights,1.0
+Rockville,Gallery Place-Chinatown,1.125
+Rockville,Glenmont,0.625
+Rockville,Grosvenor,3.0
+Rockville,King Street,0.25
+Rockville,Landover,0.25
+Rockville,Largo Town Center,0.375
+Rockville,Medical Center,0.25
+Rockville,Minnesota Avenue,0.25
+Rockville,Morgan Blvd.,0.375
+Rockville,New Carrollton,0.25
+Rockville,New York Ave,0.375
+Rockville,Pentagon City,0.25
+Rockville,Prince George's Plaza,0.125
+Rockville,Rhode Island Avenue,0.125
+Rockville,Rockville,3.625
+Rockville,Rosslyn,0.375
+Rockville,Shady Grove,9.25
+Rockville,Shaw-Howard University,0.25
+Rockville,Silver Spring,0.875
+Rockville,Smithsonian,0.125
+Rockville,Stadium-Armory,0.125
+Rockville,Takoma,0.625
+Rockville,Tenleytown-AU,0.375
+Rockville,Twinbrook,4.375
+Rockville,U Street-Cardozo,0.125
+Rockville,Union Station,0.875
+Rockville,Van Ness-UDC,1.0
+Rockville,Virginia Square-GMU,0.125
+Rockville,Waterfront,0.125
+Rockville,West Falls Church,0.125
+Rockville,Wheaton,0.125
+Rockville,White Flint,2.375
+Rockville,Woodley Park-Zoo,2.125
+Rosslyn,Addison Road,0.375
+Rosslyn,Anacostia,0.375
+Rosslyn,Ballston,9.375
+Rosslyn,Bethesda,0.5
+Rosslyn,Braddock Road,3.75
+Rosslyn,Branch Avenue,2.625
+Rosslyn,Brookland,0.125
+Rosslyn,Capitol Heights,0.25
+Rosslyn,Capitol South,0.625
+Rosslyn,Cheverly,0.75
+Rosslyn,Clarendon,1.625
+Rosslyn,Cleveland Park,0.625
+Rosslyn,College Park-U of MD,0.375
+Rosslyn,Columbia Heights,1.0
+Rosslyn,Congress Heights,0.25
+Rosslyn,Court House,2.625
+Rosslyn,Crystal City,7.5
+Rosslyn,Dunn Loring,10.5
+Rosslyn,Dupont Circle,1.625
+Rosslyn,East Falls Church,8.5
+Rosslyn,Eastern Market,1.875
+Rosslyn,Eisenhower Avenue,0.125
+Rosslyn,Farragut North,0.125
+Rosslyn,Farragut West,5.75
+Rosslyn,Federal Center SW,0.5
+Rosslyn,Foggy Bottom,5.625
+Rosslyn,Forest Glen,0.375
+Rosslyn,Fort Totten,1.75
+Rosslyn,Franconia-Springfield,6.5
+Rosslyn,Friendship Heights,1.25
+Rosslyn,Gallery Place-Chinatown,0.625
+Rosslyn,Georgia Avenue-Petworth,3.0
+Rosslyn,Glenmont,0.125
+Rosslyn,Greenbelt,0.125
+Rosslyn,Grosvenor,0.5
+Rosslyn,Huntington,2.0
+Rosslyn,Judiciary Square,0.125
+Rosslyn,King Street,6.0
+Rosslyn,L'Enfant Plaza,0.75
+Rosslyn,Largo Town Center,0.5
+Rosslyn,McPherson Square,3.75
+Rosslyn,Medical Center,0.375
+Rosslyn,Metro Center,3.375
+Rosslyn,Minnesota Avenue,0.25
+Rosslyn,Morgan Blvd.,0.375
+Rosslyn,Mt. Vernon Square-UDC,0.5
+Rosslyn,Navy Yard,0.125
+Rosslyn,Naylor Road,1.5
+Rosslyn,New Carrollton,1.125
+Rosslyn,New York Ave,1.125
+Rosslyn,Pentagon,1.875
+Rosslyn,Pentagon City,10.375
+Rosslyn,Potomac Avenue,0.875
+Rosslyn,Reagan Washington National Airport,0.125
+Rosslyn,Rhode Island Avenue,0.5
+Rosslyn,Rosslyn,7.0
+Rosslyn,Shady Grove,2.25
+Rosslyn,Shaw-Howard University,0.25
+Rosslyn,Silver Spring,2.375
+Rosslyn,Southern Avenue,1.25
+Rosslyn,Stadium-Armory,0.625
+Rosslyn,Suitland,0.25
+Rosslyn,Takoma,0.125
+Rosslyn,Tenleytown-AU,0.5
+Rosslyn,Twinbrook,0.25
+Rosslyn,U Street-Cardozo,1.0
+Rosslyn,Union Station,1.0
+Rosslyn,Van Dorn Street,5.75
+Rosslyn,Van Ness-UDC,0.375
+Rosslyn,Vienna,12.25
+Rosslyn,Virginia Square-GMU,2.875
+Rosslyn,Waterfront,1.125
+Rosslyn,West Falls Church,3.75
+Rosslyn,West Hyattsville,0.125
+Rosslyn,Wheaton,0.5
+Rosslyn,White Flint,0.125
+Rosslyn,Woodley Park-Zoo,2.625
+Shady Grove,Addison Road,0.25
+Shady Grove,Anacostia,0.375
+Shady Grove,Ballston,1.375
+Shady Grove,Benning Road,0.25
+Shady Grove,Bethesda,1.375
+Shady Grove,Braddock Road,0.25
+Shady Grove,Branch Avenue,0.625
+Shady Grove,Brookland,0.125
+Shady Grove,Cheverly,0.125
+Shady Grove,Columbia Heights,0.25
+Shady Grove,Congress Heights,0.375
+Shady Grove,Deanwood,0.25
+Shady Grove,Dunn Loring,0.125
+Shady Grove,Dupont Circle,3.5
+Shady Grove,East Falls Church,0.125
+Shady Grove,Eastern Market,0.375
+Shady Grove,Farragut North,0.5
+Shady Grove,Farragut West,0.125
+Shady Grove,Foggy Bottom,0.375
+Shady Grove,Fort Totten,0.625
+Shady Grove,Franconia-Springfield,0.25
+Shady Grove,Friendship Heights,0.875
+Shady Grove,Gallery Place-Chinatown,1.375
+Shady Grove,Georgia Avenue-Petworth,0.25
+Shady Grove,Glenmont,0.375
+Shady Grove,Grosvenor,0.875
+Shady Grove,Huntington,0.125
+Shady Grove,Judiciary Square,0.375
+Shady Grove,L'Enfant Plaza,0.125
+Shady Grove,Largo Town Center,0.625
+Shady Grove,McPherson Square,0.625
+Shady Grove,Medical Center,0.125
+Shady Grove,Metro Center,0.875
+Shady Grove,Minnesota Avenue,0.5
+Shady Grove,Morgan Blvd.,0.25
+Shady Grove,Mt. Vernon Square-UDC,0.25
+Shady Grove,Naylor Road,0.25
+Shady Grove,New Carrollton,0.125
+Shady Grove,New York Ave,0.75
+Shady Grove,Pentagon,0.125
+Shady Grove,Pentagon City,0.25
+Shady Grove,Potomac Avenue,0.25
+Shady Grove,Prince George's Plaza,0.125
+Shady Grove,Reagan Washington National Airport,0.25
+Shady Grove,Rockville,0.75
+Shady Grove,Rosslyn,0.25
+Shady Grove,Shady Grove,4.0
+Shady Grove,Shaw-Howard University,0.25
+Shady Grove,Silver Spring,0.375
+Shady Grove,Southern Avenue,0.25
+Shady Grove,Suitland,0.25
+Shady Grove,Takoma,0.625
+Shady Grove,Tenleytown-AU,0.5
+Shady Grove,Twinbrook,2.75
+Shady Grove,U Street-Cardozo,0.25
+Shady Grove,Union Station,1.25
+Shady Grove,Van Dorn Street,0.125
+Shady Grove,Van Ness-UDC,0.875
+Shady Grove,Waterfront,0.5
+Shady Grove,Wheaton,0.125
+Shady Grove,White Flint,0.5
+Shady Grove,Woodley Park-Zoo,2.125
+Shaw-Howard University,Addison Road,1.625
+Shaw-Howard University,Anacostia,5.25
+Shaw-Howard University,Archives-Navy Memorial,0.5
+Shaw-Howard University,Ballston,1.75
+Shaw-Howard University,Benning Road,2.25
+Shaw-Howard University,Bethesda,1.375
+Shaw-Howard University,Braddock Road,0.75
+Shaw-Howard University,Branch Avenue,2.25
+Shaw-Howard University,Brookland,0.5
+Shaw-Howard University,Capitol Heights,1.25
+Shaw-Howard University,Capitol South,0.375
+Shaw-Howard University,Cheverly,0.25
+Shaw-Howard University,Clarendon,0.875
+Shaw-Howard University,Cleveland Park,0.5
+Shaw-Howard University,College Park-U of MD,1.375
+Shaw-Howard University,Columbia Heights,12.75
+Shaw-Howard University,Congress Heights,2.875
+Shaw-Howard University,Court House,0.875
+Shaw-Howard University,Crystal City,1.75
+Shaw-Howard University,Deanwood,1.0
+Shaw-Howard University,Dunn Loring,1.375
+Shaw-Howard University,Dupont Circle,0.75
+Shaw-Howard University,East Falls Church,1.125
+Shaw-Howard University,Eastern Market,0.875
+Shaw-Howard University,Eisenhower Avenue,0.375
+Shaw-Howard University,Farragut North,0.375
+Shaw-Howard University,Farragut West,0.625
+Shaw-Howard University,Foggy Bottom,2.625
+Shaw-Howard University,Forest Glen,0.75
+Shaw-Howard University,Fort Totten,12.0
+Shaw-Howard University,Franconia-Springfield,1.75
+Shaw-Howard University,Friendship Heights,0.75
+Shaw-Howard University,Gallery Place-Chinatown,8.75
+Shaw-Howard University,Georgia Avenue-Petworth,6.75
+Shaw-Howard University,Glenmont,2.25
+Shaw-Howard University,Greenbelt,4.0
+Shaw-Howard University,Grosvenor,1.0
+Shaw-Howard University,Huntington,1.0
+Shaw-Howard University,King Street,2.625
+Shaw-Howard University,L'Enfant Plaza,3.125
+Shaw-Howard University,Landover,0.75
+Shaw-Howard University,Largo Town Center,0.875
+Shaw-Howard University,McPherson Square,0.25
+Shaw-Howard University,Medical Center,0.125
+Shaw-Howard University,Metro Center,0.625
+Shaw-Howard University,Minnesota Avenue,2.5
+Shaw-Howard University,Morgan Blvd.,0.375
+Shaw-Howard University,Mt. Vernon Square-UDC,1.25
+Shaw-Howard University,Navy Yard,1.625
+Shaw-Howard University,Naylor Road,3.125
+Shaw-Howard University,New Carrollton,1.5
+Shaw-Howard University,New York Ave,0.75
+Shaw-Howard University,Pentagon,0.5
+Shaw-Howard University,Pentagon City,2.0
+Shaw-Howard University,Potomac Avenue,2.5
+Shaw-Howard University,Prince George's Plaza,3.0
+Shaw-Howard University,Reagan Washington National Airport,0.375
+Shaw-Howard University,Rhode Island Avenue,0.625
+Shaw-Howard University,Rockville,0.25
+Shaw-Howard University,Rosslyn,1.375
+Shaw-Howard University,Shady Grove,2.375
+Shaw-Howard University,Shaw-Howard University,4.75
+Shaw-Howard University,Silver Spring,3.25
+Shaw-Howard University,Southern Avenue,2.0
+Shaw-Howard University,Stadium-Armory,0.875
+Shaw-Howard University,Suitland,3.875
+Shaw-Howard University,Takoma,2.125
+Shaw-Howard University,Tenleytown-AU,2.5
+Shaw-Howard University,Twinbrook,0.5
+Shaw-Howard University,U Street-Cardozo,0.875
+Shaw-Howard University,Union Station,0.625
+Shaw-Howard University,Van Dorn Street,0.5
+Shaw-Howard University,Van Ness-UDC,0.25
+Shaw-Howard University,Vienna,3.0
+Shaw-Howard University,Waterfront,2.75
+Shaw-Howard University,West Falls Church,1.125
+Shaw-Howard University,West Hyattsville,1.875
+Shaw-Howard University,Wheaton,1.0
+Shaw-Howard University,White Flint,0.25
+Shaw-Howard University,Woodley Park-Zoo,0.625
+Silver Spring,Addison Road,1.0
+Silver Spring,Anacostia,4.375
+Silver Spring,Ballston,1.25
+Silver Spring,Benning Road,1.625
+Silver Spring,Bethesda,0.5
+Silver Spring,Braddock Road,0.125
+Silver Spring,Branch Avenue,0.75
+Silver Spring,Brookland,8.125
+Silver Spring,Capitol Heights,0.25
+Silver Spring,Capitol South,0.125
+Silver Spring,Cheverly,0.5
+Silver Spring,Clarendon,1.0
+Silver Spring,Cleveland Park,0.875
+Silver Spring,College Park-U of MD,2.625
+Silver Spring,Columbia Heights,5.625
+Silver Spring,Congress Heights,1.0
+Silver Spring,Court House,0.25
+Silver Spring,Crystal City,0.625
+Silver Spring,Deanwood,1.25
+Silver Spring,Dunn Loring,0.25
+Silver Spring,Dupont Circle,3.875
+Silver Spring,East Falls Church,0.25
+Silver Spring,Eastern Market,0.75
+Silver Spring,Eisenhower Avenue,0.75
+Silver Spring,Farragut North,3.0
+Silver Spring,Foggy Bottom,0.75
+Silver Spring,Forest Glen,3.375
+Silver Spring,Fort Totten,23.625
+Silver Spring,Franconia-Springfield,0.125
+Silver Spring,Friendship Heights,0.75
+Silver Spring,Gallery Place-Chinatown,6.75
+Silver Spring,Georgia Avenue-Petworth,5.0
+Silver Spring,Glenmont,21.875
+Silver Spring,Greenbelt,2.875
+Silver Spring,Grosvenor,0.25
+Silver Spring,Huntington,0.375
+Silver Spring,Judiciary Square,0.75
+Silver Spring,King Street,1.125
+Silver Spring,L'Enfant Plaza,0.125
+Silver Spring,Landover,1.625
+Silver Spring,Largo Town Center,1.125
+Silver Spring,McPherson Square,0.25
+Silver Spring,Medical Center,0.25
+Silver Spring,Metro Center,2.125
+Silver Spring,Minnesota Avenue,1.125
+Silver Spring,Mt. Vernon Square-UDC,1.25
+Silver Spring,Naylor Road,2.75
+Silver Spring,New Carrollton,2.375
+Silver Spring,New York Ave,5.625
+Silver Spring,Pentagon,0.125
+Silver Spring,Pentagon City,0.625
+Silver Spring,Potomac Avenue,1.25
+Silver Spring,Prince George's Plaza,1.125
+Silver Spring,Reagan Washington National Airport,1.5
+Silver Spring,Rhode Island Avenue,5.75
+Silver Spring,Rockville,1.625
+Silver Spring,Rosslyn,0.5
+Silver Spring,Shady Grove,2.875
+Silver Spring,Shaw-Howard University,2.25
+Silver Spring,Silver Spring,12.375
+Silver Spring,Southern Avenue,2.5
+Silver Spring,Stadium-Armory,0.375
+Silver Spring,Suitland,2.875
+Silver Spring,Takoma,7.75
+Silver Spring,Tenleytown-AU,1.375
+Silver Spring,Twinbrook,0.375
+Silver Spring,U Street-Cardozo,4.375
+Silver Spring,Union Station,7.5
+Silver Spring,Van Ness-UDC,1.0
+Silver Spring,Vienna,0.375
+Silver Spring,Virginia Square-GMU,0.625
+Silver Spring,Waterfront,1.375
+Silver Spring,West Hyattsville,1.375
+Silver Spring,Wheaton,12.25
+Silver Spring,White Flint,0.25
+Silver Spring,Woodley Park-Zoo,2.5
+Smithsonian,Anacostia,0.5
+Smithsonian,Archives-Navy Memorial,0.125
+Smithsonian,Ballston,1.0
+Smithsonian,Benning Road,0.25
+Smithsonian,Bethesda,1.25
+Smithsonian,Braddock Road,1.0
+Smithsonian,Branch Avenue,0.375
+Smithsonian,Brookland,0.5
+Smithsonian,Capitol Heights,0.25
+Smithsonian,Capitol South,0.875
+Smithsonian,Cheverly,0.25
+Smithsonian,Clarendon,0.75
+Smithsonian,College Park-U of MD,1.0
+Smithsonian,Columbia Heights,1.5
+Smithsonian,Court House,1.375
+Smithsonian,Crystal City,2.875
+Smithsonian,Dupont Circle,1.75
+Smithsonian,East Falls Church,1.25
+Smithsonian,Eastern Market,1.25
+Smithsonian,Eisenhower Avenue,0.75
+Smithsonian,Farragut West,0.25
+Smithsonian,Federal Center SW,0.125
+Smithsonian,Federal Triangle,0.125
+Smithsonian,Foggy Bottom,2.375
+Smithsonian,Forest Glen,0.25
+Smithsonian,Fort Totten,0.5
+Smithsonian,Franconia-Springfield,0.5
+Smithsonian,Friendship Heights,1.0
+Smithsonian,Gallery Place-Chinatown,0.125
+Smithsonian,Georgia Avenue-Petworth,0.5
+Smithsonian,Glenmont,1.0
+Smithsonian,Greenbelt,0.625
+Smithsonian,Grosvenor,0.25
+Smithsonian,Huntington,1.0
+Smithsonian,King Street,1.125
+Smithsonian,L'Enfant Plaza,0.25
+Smithsonian,Landover,0.25
+Smithsonian,McPherson Square,1.25
+Smithsonian,Metro Center,1.0
+Smithsonian,Minnesota Avenue,0.125
+Smithsonian,New Carrollton,0.875
+Smithsonian,New York Ave,1.0
+Smithsonian,Pentagon,1.0
+Smithsonian,Pentagon City,2.0
+Smithsonian,Potomac Avenue,0.875
+Smithsonian,Prince George's Plaza,0.125
+Smithsonian,Reagan Washington National Airport,0.375
+Smithsonian,Rhode Island Avenue,0.375
+Smithsonian,Rockville,0.125
+Smithsonian,Rosslyn,3.0
+Smithsonian,Shady Grove,0.75
+Smithsonian,Shaw-Howard University,1.625
+Smithsonian,Silver Spring,1.5
+Smithsonian,Smithsonian,1.0
+Smithsonian,Suitland,0.375
+Smithsonian,Takoma,0.25
+Smithsonian,Tenleytown-AU,0.125
+Smithsonian,Twinbrook,0.125
+Smithsonian,U Street-Cardozo,0.75
+Smithsonian,Union Station,0.125
+Smithsonian,Van Dorn Street,0.5
+Smithsonian,Vienna,5.125
+Smithsonian,Virginia Square-GMU,1.5
+Smithsonian,Waterfront,0.125
+Smithsonian,West Falls Church,0.625
+Smithsonian,West Hyattsville,0.125
+Smithsonian,Wheaton,0.375
+Smithsonian,Woodley Park-Zoo,1.5
+Southern Avenue,Addison Road,0.375
+Southern Avenue,Anacostia,2.375
+Southern Avenue,Archives-Navy Memorial,0.125
+Southern Avenue,Benning Road,0.25
+Southern Avenue,Braddock Road,0.125
+Southern Avenue,Branch Avenue,3.0
+Southern Avenue,Brookland,0.125
+Southern Avenue,Capitol Heights,0.25
+Southern Avenue,Columbia Heights,3.0
+Southern Avenue,Congress Heights,0.625
+Southern Avenue,Deanwood,0.5
+Southern Avenue,Eastern Market,0.125
+Southern Avenue,Farragut West,0.125
+Southern Avenue,Federal Center SW,0.125
+Southern Avenue,Fort Totten,2.25
+Southern Avenue,Gallery Place-Chinatown,2.375
+Southern Avenue,Georgia Avenue-Petworth,1.125
+Southern Avenue,Glenmont,0.5
+Southern Avenue,Huntington,0.25
+Southern Avenue,Judiciary Square,0.125
+Southern Avenue,King Street,0.5
+Southern Avenue,Landover,1.625
+Southern Avenue,Largo Town Center,0.5
+Southern Avenue,Minnesota Avenue,1.625
+Southern Avenue,Morgan Blvd.,0.125
+Southern Avenue,Mt. Vernon Square-UDC,0.125
+Southern Avenue,Navy Yard,0.75
+Southern Avenue,Naylor Road,3.0
+Southern Avenue,New Carrollton,0.5
+Southern Avenue,New York Ave,0.625
+Southern Avenue,Pentagon,0.375
+Southern Avenue,Pentagon City,0.25
+Southern Avenue,Potomac Avenue,0.125
+Southern Avenue,Prince George's Plaza,0.25
+Southern Avenue,Reagan Washington National Airport,0.25
+Southern Avenue,Rhode Island Avenue,1.0
+Southern Avenue,Rockville,0.125
+Southern Avenue,Shady Grove,0.375
+Southern Avenue,Shaw-Howard University,0.875
+Southern Avenue,Silver Spring,1.0
+Southern Avenue,Southern Avenue,1.75
+Southern Avenue,Stadium-Armory,0.375
+Southern Avenue,Suitland,7.5
+Southern Avenue,U Street-Cardozo,0.75
+Southern Avenue,Union Station,0.375
+Southern Avenue,Vienna,0.25
+Southern Avenue,Waterfront,0.5
+Southern Avenue,West Hyattsville,0.125
+Southern Avenue,White Flint,0.125
+Southern Avenue,Woodley Park-Zoo,0.375
+Stadium-Armory,Addison Road,2.5
+Stadium-Armory,Anacostia,1.625
+Stadium-Armory,Ballston,0.25
+Stadium-Armory,Benning Road,4.5
+Stadium-Armory,Bethesda,0.25
+Stadium-Armory,Braddock Road,0.125
+Stadium-Armory,Brookland,0.125
+Stadium-Armory,Capitol Heights,2.0
+Stadium-Armory,Capitol South,0.125
+Stadium-Armory,Columbia Heights,2.125
+Stadium-Armory,Congress Heights,0.75
+Stadium-Armory,Court House,0.125
+Stadium-Armory,Crystal City,0.5
+Stadium-Armory,Deanwood,2.0
+Stadium-Armory,Dunn Loring,0.625
+Stadium-Armory,Dupont Circle,0.5
+Stadium-Armory,East Falls Church,0.125
+Stadium-Armory,Eastern Market,1.75
+Stadium-Armory,Farragut West,0.125
+Stadium-Armory,Federal Center SW,0.375
+Stadium-Armory,Foggy Bottom,0.75
+Stadium-Armory,Fort Totten,0.375
+Stadium-Armory,Gallery Place-Chinatown,0.25
+Stadium-Armory,Georgia Avenue-Petworth,0.375
+Stadium-Armory,Glenmont,0.125
+Stadium-Armory,L'Enfant Plaza,0.125
+Stadium-Armory,Landover,1.75
+Stadium-Armory,Largo Town Center,1.0
+Stadium-Armory,McPherson Square,1.375
+Stadium-Armory,Metro Center,0.75
+Stadium-Armory,Minnesota Avenue,0.75
+Stadium-Armory,Morgan Blvd.,0.75
+Stadium-Armory,Mt. Vernon Square-UDC,0.5
+Stadium-Armory,Navy Yard,0.125
+Stadium-Armory,Naylor Road,0.375
+Stadium-Armory,New Carrollton,2.375
+Stadium-Armory,New York Ave,0.25
+Stadium-Armory,Pentagon City,0.25
+Stadium-Armory,Potomac Avenue,1.125
+Stadium-Armory,Prince George's Plaza,0.125
+Stadium-Armory,Reagan Washington National Airport,0.125
+Stadium-Armory,Rhode Island Avenue,0.5
+Stadium-Armory,Rosslyn,0.25
+Stadium-Armory,Silver Spring,0.5
+Stadium-Armory,Southern Avenue,0.75
+Stadium-Armory,Stadium-Armory,1.25
+Stadium-Armory,Suitland,0.25
+Stadium-Armory,Tenleytown-AU,0.375
+Stadium-Armory,U Street-Cardozo,1.125
+Stadium-Armory,Union Station,0.125
+Stadium-Armory,Vienna,0.25
+Stadium-Armory,Waterfront,0.5
+Stadium-Armory,West Falls Church,0.25
+Stadium-Armory,West Hyattsville,0.125
+Stadium-Armory,Woodley Park-Zoo,0.5
+Suitland,Addison Road,0.125
+Suitland,Anacostia,5.25
+Suitland,Archives-Navy Memorial,0.125
+Suitland,Benning Road,0.75
+Suitland,Braddock Road,0.625
+Suitland,Branch Avenue,4.25
+Suitland,Brookland,0.125
+Suitland,Capitol Heights,0.375
+Suitland,College Park-U of MD,0.25
+Suitland,Columbia Heights,1.0
+Suitland,Congress Heights,2.0
+Suitland,Court House,0.125
+Suitland,Crystal City,0.125
+Suitland,Deanwood,0.125
+Suitland,Dunn Loring,0.125
+Suitland,Dupont Circle,0.25
+Suitland,Eastern Market,0.25
+Suitland,Farragut North,0.25
+Suitland,Farragut West,0.25
+Suitland,Forest Glen,0.25
+Suitland,Fort Totten,2.375
+Suitland,Franconia-Springfield,0.375
+Suitland,Gallery Place-Chinatown,1.875
+Suitland,Georgia Avenue-Petworth,0.625
+Suitland,Glenmont,0.125
+Suitland,Greenbelt,0.375
+Suitland,Grosvenor,0.125
+Suitland,Huntington,0.125
+Suitland,Judiciary Square,0.125
+Suitland,King Street,0.125
+Suitland,Landover,0.25
+Suitland,Largo Town Center,0.625
+Suitland,Morgan Blvd.,0.25
+Suitland,Mt. Vernon Square-UDC,0.25
+Suitland,Navy Yard,1.75
+Suitland,Naylor Road,2.0
+Suitland,New Carrollton,0.625
+Suitland,New York Ave,0.75
+Suitland,Pentagon,0.125
+Suitland,Potomac Avenue,0.375
+Suitland,Prince George's Plaza,0.375
+Suitland,Rhode Island Avenue,0.375
+Suitland,Rockville,0.125
+Suitland,Shady Grove,0.625
+Suitland,Shaw-Howard University,0.625
+Suitland,Silver Spring,0.25
+Suitland,Southern Avenue,1.75
+Suitland,Stadium-Armory,0.5
+Suitland,Suitland,3.5
+Suitland,Takoma,0.375
+Suitland,U Street-Cardozo,1.5
+Suitland,Union Station,0.625
+Suitland,Van Dorn Street,0.125
+Suitland,Waterfront,0.75
+Suitland,Wheaton,0.125
+Suitland,Woodley Park-Zoo,0.25
+Takoma,Addison Road,0.125
+Takoma,Anacostia,0.625
+Takoma,Ballston,0.125
+Takoma,Benning Road,0.125
+Takoma,Bethesda,0.125
+Takoma,Branch Avenue,0.25
+Takoma,Brookland,2.625
+Takoma,Capitol Heights,0.125
+Takoma,Clarendon,0.25
+Takoma,Cleveland Park,0.125
+Takoma,College Park-U of MD,0.375
+Takoma,Columbia Heights,1.75
+Takoma,Congress Heights,0.25
+Takoma,Crystal City,0.125
+Takoma,Dupont Circle,1.875
+Takoma,East Falls Church,0.25
+Takoma,Farragut North,0.125
+Takoma,Farragut West,0.25
+Takoma,Foggy Bottom,0.375
+Takoma,Forest Glen,1.375
+Takoma,Fort Totten,2.0
+Takoma,Franconia-Springfield,0.125
+Takoma,Friendship Heights,0.25
+Takoma,Gallery Place-Chinatown,0.75
+Takoma,Georgia Avenue-Petworth,1.0
+Takoma,Glenmont,3.125
+Takoma,Greenbelt,0.375
+Takoma,Grosvenor,0.375
+Takoma,Judiciary Square,0.125
+Takoma,L'Enfant Plaza,0.25
+Takoma,Landover,0.125
+Takoma,McPherson Square,0.125
+Takoma,Metro Center,0.375
+Takoma,Minnesota Avenue,0.375
+Takoma,Mt. Vernon Square-UDC,0.25
+Takoma,Naylor Road,0.375
+Takoma,New Carrollton,0.625
+Takoma,New York Ave,1.625
+Takoma,Pentagon,0.5
+Takoma,Prince George's Plaza,0.125
+Takoma,Reagan Washington National Airport,0.125
+Takoma,Rhode Island Avenue,1.25
+Takoma,Rockville,0.125
+Takoma,Rosslyn,0.125
+Takoma,Shady Grove,0.25
+Takoma,Shaw-Howard University,0.625
+Takoma,Silver Spring,1.75
+Takoma,Southern Avenue,0.125
+Takoma,Stadium-Armory,0.375
+Takoma,Suitland,0.25
+Takoma,Takoma,2.375
+Takoma,Tenleytown-AU,0.5
+Takoma,U Street-Cardozo,2.125
+Takoma,Union Station,2.0
+Takoma,Van Ness-UDC,0.25
+Takoma,Waterfront,0.125
+Takoma,West Hyattsville,1.0
+Takoma,Wheaton,3.0
+Takoma,Woodley Park-Zoo,0.875
+Tenleytown-AU,Addison Road,0.125
+Tenleytown-AU,Anacostia,0.5
+Tenleytown-AU,Ballston,0.25
+Tenleytown-AU,Bethesda,7.375
+Tenleytown-AU,Braddock Road,0.25
+Tenleytown-AU,Branch Avenue,0.375
+Tenleytown-AU,Brookland,0.75
+Tenleytown-AU,Capitol Heights,0.5
+Tenleytown-AU,Capitol South,0.375
+Tenleytown-AU,Cheverly,0.25
+Tenleytown-AU,Cleveland Park,1.75
+Tenleytown-AU,College Park-U of MD,0.25
+Tenleytown-AU,Columbia Heights,1.375
+Tenleytown-AU,Congress Heights,0.125
+Tenleytown-AU,Court House,0.25
+Tenleytown-AU,Crystal City,0.25
+Tenleytown-AU,Deanwood,0.25
+Tenleytown-AU,Dupont Circle,11.5
+Tenleytown-AU,East Falls Church,0.25
+Tenleytown-AU,Eastern Market,0.875
+Tenleytown-AU,Farragut North,2.0
+Tenleytown-AU,Federal Triangle,0.25
+Tenleytown-AU,Foggy Bottom,0.75
+Tenleytown-AU,Forest Glen,0.125
+Tenleytown-AU,Fort Totten,2.5
+Tenleytown-AU,Franconia-Springfield,0.125
+Tenleytown-AU,Friendship Heights,2.75
+Tenleytown-AU,Gallery Place-Chinatown,2.125
+Tenleytown-AU,Georgia Avenue-Petworth,0.75
+Tenleytown-AU,Glenmont,0.625
+Tenleytown-AU,Greenbelt,0.375
+Tenleytown-AU,Grosvenor,5.75
+Tenleytown-AU,Judiciary Square,0.125
+Tenleytown-AU,King Street,0.125
+Tenleytown-AU,Largo Town Center,0.125
+Tenleytown-AU,McPherson Square,0.25
+Tenleytown-AU,Medical Center,0.75
+Tenleytown-AU,Metro Center,1.375
+Tenleytown-AU,Minnesota Avenue,0.25
+Tenleytown-AU,Mt. Vernon Square-UDC,0.5
+Tenleytown-AU,Navy Yard,0.375
+Tenleytown-AU,Naylor Road,0.125
+Tenleytown-AU,New Carrollton,1.5
+Tenleytown-AU,New York Ave,1.625
+Tenleytown-AU,Pentagon City,1.375
+Tenleytown-AU,Potomac Avenue,0.125
+Tenleytown-AU,Reagan Washington National Airport,0.25
+Tenleytown-AU,Rhode Island Avenue,1.75
+Tenleytown-AU,Rockville,2.875
+Tenleytown-AU,Rosslyn,0.25
+Tenleytown-AU,Shady Grove,4.0
+Tenleytown-AU,Silver Spring,1.625
+Tenleytown-AU,Stadium-Armory,1.0
+Tenleytown-AU,Suitland,0.125
+Tenleytown-AU,Takoma,1.0
+Tenleytown-AU,Tenleytown-AU,4.25
+Tenleytown-AU,Twinbrook,3.125
+Tenleytown-AU,U Street-Cardozo,0.75
+Tenleytown-AU,Union Station,2.25
+Tenleytown-AU,Van Dorn Street,0.125
+Tenleytown-AU,Van Ness-UDC,3.0
+Tenleytown-AU,Vienna,0.875
+Tenleytown-AU,Virginia Square-GMU,0.125
+Tenleytown-AU,West Falls Church,0.625
+Tenleytown-AU,West Hyattsville,0.625
+Tenleytown-AU,Wheaton,1.125
+Tenleytown-AU,White Flint,2.5
+Tenleytown-AU,Woodley Park-Zoo,6.875
+Twinbrook,Addison Road,0.125
+Twinbrook,Ballston,0.375
+Twinbrook,Bethesda,2.875
+Twinbrook,Clarendon,0.125
+Twinbrook,Cleveland Park,0.25
+Twinbrook,Deanwood,0.125
+Twinbrook,Dunn Loring,0.125
+Twinbrook,Dupont Circle,2.625
+Twinbrook,East Falls Church,0.125
+Twinbrook,Eastern Market,0.25
+Twinbrook,Farragut North,1.125
+Twinbrook,Foggy Bottom,0.125
+Twinbrook,Fort Totten,0.25
+Twinbrook,Franconia-Springfield,0.125
+Twinbrook,Friendship Heights,1.0
+Twinbrook,Gallery Place-Chinatown,1.25
+Twinbrook,Georgia Avenue-Petworth,0.25
+Twinbrook,Glenmont,0.125
+Twinbrook,Grosvenor,0.875
+Twinbrook,Judiciary Square,0.25
+Twinbrook,Largo Town Center,0.125
+Twinbrook,Medical Center,0.125
+Twinbrook,Metro Center,0.5
+Twinbrook,Mt. Vernon Square-UDC,0.125
+Twinbrook,Navy Yard,0.125
+Twinbrook,Naylor Road,0.25
+Twinbrook,New York Ave,0.125
+Twinbrook,Pentagon City,0.125
+Twinbrook,Reagan Washington National Airport,0.5
+Twinbrook,Rhode Island Avenue,0.375
+Twinbrook,Rockville,2.0
+Twinbrook,Rosslyn,0.125
+Twinbrook,Shady Grove,9.625
+Twinbrook,Silver Spring,0.125
+Twinbrook,Suitland,0.125
+Twinbrook,Takoma,0.25
+Twinbrook,Tenleytown-AU,0.625
+Twinbrook,Twinbrook,1.0
+Twinbrook,U Street-Cardozo,0.125
+Twinbrook,Union Station,0.875
+Twinbrook,Van Ness-UDC,0.625
+Twinbrook,Vienna,0.125
+Twinbrook,West Hyattsville,0.125
+Twinbrook,Wheaton,0.125
+Twinbrook,White Flint,1.0
+Twinbrook,Woodley Park-Zoo,1.75
+U Street-Cardozo,Addison Road,2.0
+U Street-Cardozo,Anacostia,16.0
+U Street-Cardozo,Archives-Navy Memorial,3.75
+U Street-Cardozo,Ballston,20.875
+U Street-Cardozo,Benning Road,5.875
+U Street-Cardozo,Bethesda,21.375
+U Street-Cardozo,Braddock Road,17.0
+U Street-Cardozo,Branch Avenue,13.125
+U Street-Cardozo,Brookland,12.0
+U Street-Cardozo,Capitol Heights,1.625
+U Street-Cardozo,Capitol South,5.125
+U Street-Cardozo,Cheverly,2.25
+U Street-Cardozo,Clarendon,12.125
+U Street-Cardozo,Cleveland Park,4.125
+U Street-Cardozo,College Park-U of MD,36.125
+U Street-Cardozo,Columbia Heights,55.75
+U Street-Cardozo,Congress Heights,6.75
+U Street-Cardozo,Court House,16.375
+U Street-Cardozo,Crystal City,32.5
+U Street-Cardozo,Deanwood,2.875
+U Street-Cardozo,Dunn Loring,8.625
+U Street-Cardozo,Dupont Circle,9.125
+U Street-Cardozo,East Falls Church,19.125
+U Street-Cardozo,Eastern Market,10.875
+U Street-Cardozo,Eisenhower Avenue,6.875
+U Street-Cardozo,Farragut North,4.125
+U Street-Cardozo,Farragut West,3.25
+U Street-Cardozo,Federal Center SW,0.5
+U Street-Cardozo,Foggy Bottom,14.25
+U Street-Cardozo,Forest Glen,8.625
+U Street-Cardozo,Fort Totten,114.5
+U Street-Cardozo,Franconia-Springfield,17.0
+U Street-Cardozo,Friendship Heights,11.875
+U Street-Cardozo,Gallery Place-Chinatown,55.0
+U Street-Cardozo,Georgia Avenue-Petworth,56.875
+U Street-Cardozo,Glenmont,16.75
+U Street-Cardozo,Greenbelt,27.375
+U Street-Cardozo,Grosvenor,16.625
+U Street-Cardozo,Huntington,20.125
+U Street-Cardozo,Judiciary Square,0.375
+U Street-Cardozo,King Street,25.5
+U Street-Cardozo,L'Enfant Plaza,15.25
+U Street-Cardozo,Landover,1.5
+U Street-Cardozo,Largo Town Center,5.375
+U Street-Cardozo,McPherson Square,0.125
+U Street-Cardozo,Medical Center,2.125
+U Street-Cardozo,Metro Center,3.375
+U Street-Cardozo,Minnesota Avenue,2.625
+U Street-Cardozo,Morgan Blvd.,2.75
+U Street-Cardozo,Mt. Vernon Square-UDC,22.625
+U Street-Cardozo,Navy Yard,25.25
+U Street-Cardozo,Naylor Road,6.625
+U Street-Cardozo,New Carrollton,10.25
+U Street-Cardozo,New York Ave,8.75
+U Street-Cardozo,Pentagon,5.125
+U Street-Cardozo,Pentagon City,54.0
+U Street-Cardozo,Potomac Avenue,12.625
+U Street-Cardozo,Prince George's Plaza,25.5
+U Street-Cardozo,Reagan Washington National Airport,0.5
+U Street-Cardozo,Rhode Island Avenue,5.375
+U Street-Cardozo,Rockville,7.5
+U Street-Cardozo,Rosslyn,24.75
+U Street-Cardozo,Shady Grove,21.0
+U Street-Cardozo,Shaw-Howard University,4.375
+U Street-Cardozo,Silver Spring,62.75
+U Street-Cardozo,Smithsonian,0.5
+U Street-Cardozo,Southern Avenue,5.875
+U Street-Cardozo,Stadium-Armory,4.375
+U Street-Cardozo,Suitland,8.25
+U Street-Cardozo,Takoma,13.375
+U Street-Cardozo,Tenleytown-AU,15.875
+U Street-Cardozo,Twinbrook,6.625
+U Street-Cardozo,U Street-Cardozo,35.75
+U Street-Cardozo,Union Station,14.125
+U Street-Cardozo,Van Dorn Street,8.125
+U Street-Cardozo,Van Ness-UDC,10.25
+U Street-Cardozo,Vienna,25.625
+U Street-Cardozo,Virginia Square-GMU,7.0
+U Street-Cardozo,Waterfront,31.5
+U Street-Cardozo,West Falls Church,6.25
+U Street-Cardozo,West Hyattsville,19.0
+U Street-Cardozo,Wheaton,12.625
+U Street-Cardozo,White Flint,6.0
+U Street-Cardozo,Woodley Park-Zoo,5.375
+Union Station,Addison Road,0.625
+Union Station,Anacostia,3.0
+Union Station,Ballston,7.0
+Union Station,Benning Road,0.875
+Union Station,Bethesda,9.0
+Union Station,Braddock Road,1.0
+Union Station,Branch Avenue,1.75
+Union Station,Brookland,25.375
+Union Station,Capitol Heights,0.5
+Union Station,Cheverly,0.375
+Union Station,Clarendon,1.125
+Union Station,Cleveland Park,6.375
+Union Station,College Park-U of MD,2.75
+Union Station,Columbia Heights,10.75
+Union Station,Congress Heights,1.25
+Union Station,Court House,3.25
+Union Station,Crystal City,4.75
+Union Station,Deanwood,0.625
+Union Station,Dunn Loring,2.75
+Union Station,Dupont Circle,40.25
+Union Station,East Falls Church,5.125
+Union Station,Eastern Market,1.875
+Union Station,Eisenhower Avenue,2.0
+Union Station,Farragut North,7.75
+Union Station,Farragut West,0.25
+Union Station,Federal Triangle,0.125
+Union Station,Foggy Bottom,7.875
+Union Station,Forest Glen,7.625
+Union Station,Fort Totten,17.0
+Union Station,Franconia-Springfield,5.5
+Union Station,Friendship Heights,6.5
+Union Station,Gallery Place-Chinatown,10.625
+Union Station,Georgia Avenue-Petworth,5.125
+Union Station,Glenmont,11.125
+Union Station,Greenbelt,3.875
+Union Station,Grosvenor,8.0
+Union Station,Huntington,2.25
+Union Station,Judiciary Square,0.5
+Union Station,King Street,3.25
+Union Station,L'Enfant Plaza,0.5
+Union Station,Landover,0.75
+Union Station,Largo Town Center,1.125
+Union Station,McPherson Square,1.125
+Union Station,Medical Center,0.875
+Union Station,Metro Center,7.625
+Union Station,Minnesota Avenue,0.375
+Union Station,Morgan Blvd.,0.875
+Union Station,Mt. Vernon Square-UDC,1.875
+Union Station,Navy Yard,0.625
+Union Station,Naylor Road,1.625
+Union Station,New Carrollton,1.75
+Union Station,New York Ave,4.625
+Union Station,Pentagon,1.5
+Union Station,Pentagon City,4.5
+Union Station,Potomac Avenue,0.375
+Union Station,Prince George's Plaza,3.625
+Union Station,Reagan Washington National Airport,0.5
+Union Station,Rhode Island Avenue,3.25
+Union Station,Rockville,5.0
+Union Station,Rosslyn,19.75
+Union Station,Shady Grove,18.125
+Union Station,Shaw-Howard University,0.625
+Union Station,Silver Spring,34.375
+Union Station,Southern Avenue,1.875
+Union Station,Stadium-Armory,0.125
+Union Station,Suitland,1.25
+Union Station,Takoma,9.375
+Union Station,Tenleytown-AU,9.5
+Union Station,Twinbrook,3.5
+Union Station,U Street-Cardozo,4.625
+Union Station,Union Station,15.5
+Union Station,Van Dorn Street,1.0
+Union Station,Van Ness-UDC,8.75
+Union Station,Vienna,9.75
+Union Station,Virginia Square-GMU,2.0
+Union Station,Waterfront,2.0
+Union Station,West Falls Church,2.5
+Union Station,West Hyattsville,1.625
+Union Station,Wheaton,7.0
+Union Station,White Flint,2.0
+Union Station,Woodley Park-Zoo,11.75
+Van Dorn Street,Archives-Navy Memorial,0.125
+Van Dorn Street,Ballston,0.25
+Van Dorn Street,Braddock Road,0.5
+Van Dorn Street,Capitol South,0.25
+Van Dorn Street,Clarendon,1.0
+Van Dorn Street,Cleveland Park,0.5
+Van Dorn Street,Columbia Heights,0.625
+Van Dorn Street,Court House,0.125
+Van Dorn Street,Crystal City,0.75
+Van Dorn Street,East Falls Church,0.25
+Van Dorn Street,Eastern Market,0.25
+Van Dorn Street,Farragut West,0.625
+Van Dorn Street,Federal Center SW,0.125
+Van Dorn Street,Foggy Bottom,0.5
+Van Dorn Street,Fort Totten,0.375
+Van Dorn Street,Franconia-Springfield,1.375
+Van Dorn Street,Friendship Heights,0.25
+Van Dorn Street,Gallery Place-Chinatown,0.125
+Van Dorn Street,Georgia Avenue-Petworth,0.5
+Van Dorn Street,Greenbelt,0.25
+Van Dorn Street,Grosvenor,0.25
+Van Dorn Street,Huntington,1.625
+Van Dorn Street,King Street,1.0
+Van Dorn Street,Landover,0.125
+Van Dorn Street,Largo Town Center,0.375
+Van Dorn Street,McPherson Square,0.5
+Van Dorn Street,Minnesota Avenue,0.125
+Van Dorn Street,New Carrollton,0.625
+Van Dorn Street,New York Ave,0.5
+Van Dorn Street,Pentagon City,0.25
+Van Dorn Street,Potomac Avenue,0.125
+Van Dorn Street,Reagan Washington National Airport,0.25
+Van Dorn Street,Rosslyn,0.375
+Van Dorn Street,Silver Spring,0.25
+Van Dorn Street,Suitland,0.125
+Van Dorn Street,Twinbrook,0.25
+Van Dorn Street,Van Dorn Street,0.875
+Van Dorn Street,Van Ness-UDC,0.125
+Van Dorn Street,Vienna,0.375
+Van Dorn Street,Woodley Park-Zoo,0.5
+Van Ness-UDC,Ballston,0.375
+Van Ness-UDC,Bethesda,3.5
+Van Ness-UDC,Braddock Road,0.125
+Van Ness-UDC,Branch Avenue,0.125
+Van Ness-UDC,Brookland,0.625
+Van Ness-UDC,Capitol South,0.125
+Van Ness-UDC,Cleveland Park,0.25
+Van Ness-UDC,College Park-U of MD,0.25
+Van Ness-UDC,Columbia Heights,0.625
+Van Ness-UDC,Congress Heights,0.25
+Van Ness-UDC,Court House,0.375
+Van Ness-UDC,Crystal City,0.375
+Van Ness-UDC,Dupont Circle,8.875
+Van Ness-UDC,Eastern Market,0.125
+Van Ness-UDC,Farragut North,1.625
+Van Ness-UDC,Farragut West,0.125
+Van Ness-UDC,Forest Glen,0.25
+Van Ness-UDC,Fort Totten,1.125
+Van Ness-UDC,Franconia-Springfield,0.25
+Van Ness-UDC,Friendship Heights,1.125
+Van Ness-UDC,Gallery Place-Chinatown,2.125
+Van Ness-UDC,Georgia Avenue-Petworth,0.5
+Van Ness-UDC,Glenmont,0.125
+Van Ness-UDC,Greenbelt,0.625
+Van Ness-UDC,Grosvenor,1.75
+Van Ness-UDC,Huntington,0.25
+Van Ness-UDC,Judiciary Square,0.25
+Van Ness-UDC,King Street,0.25
+Van Ness-UDC,L'Enfant Plaza,0.125
+Van Ness-UDC,Largo Town Center,0.25
+Van Ness-UDC,Medical Center,0.125
+Van Ness-UDC,Metro Center,0.375
+Van Ness-UDC,Minnesota Avenue,0.125
+Van Ness-UDC,Mt. Vernon Square-UDC,0.5
+Van Ness-UDC,New York Ave,0.875
+Van Ness-UDC,Pentagon City,0.625
+Van Ness-UDC,Potomac Avenue,0.125
+Van Ness-UDC,Prince George's Plaza,0.125
+Van Ness-UDC,Reagan Washington National Airport,0.375
+Van Ness-UDC,Rhode Island Avenue,0.25
+Van Ness-UDC,Rockville,0.875
+Van Ness-UDC,Rosslyn,0.375
+Van Ness-UDC,Shady Grove,1.375
+Van Ness-UDC,Shaw-Howard University,0.5
+Van Ness-UDC,Silver Spring,0.875
+Van Ness-UDC,Stadium-Armory,0.125
+Van Ness-UDC,Takoma,0.5
+Van Ness-UDC,Tenleytown-AU,2.625
+Van Ness-UDC,Twinbrook,1.25
+Van Ness-UDC,U Street-Cardozo,0.25
+Van Ness-UDC,Union Station,2.25
+Van Ness-UDC,Van Dorn Street,0.25
+Van Ness-UDC,Van Ness-UDC,3.0
+Van Ness-UDC,Vienna,0.375
+Van Ness-UDC,West Falls Church,0.125
+Van Ness-UDC,West Hyattsville,0.625
+Van Ness-UDC,Wheaton,0.125
+Van Ness-UDC,White Flint,0.875
+Van Ness-UDC,Woodley Park-Zoo,4.5
+Vienna,Anacostia,0.25
+Vienna,Ballston,3.0
+Vienna,Bethesda,0.25
+Vienna,Braddock Road,0.125
+Vienna,Capitol South,0.125
+Vienna,Clarendon,1.875
+Vienna,College Park-U of MD,0.125
+Vienna,Columbia Heights,0.25
+Vienna,Court House,1.75
+Vienna,Crystal City,0.25
+Vienna,Dunn Loring,0.625
+Vienna,Dupont Circle,0.625
+Vienna,East Falls Church,0.5
+Vienna,Eastern Market,0.875
+Vienna,Farragut West,1.25
+Vienna,Foggy Bottom,1.5
+Vienna,Fort Totten,0.375
+Vienna,Franconia-Springfield,0.25
+Vienna,Gallery Place-Chinatown,0.25
+Vienna,Georgia Avenue-Petworth,0.25
+Vienna,Glenmont,0.125
+Vienna,Grosvenor,0.25
+Vienna,King Street,0.125
+Vienna,Largo Town Center,0.25
+Vienna,McPherson Square,2.375
+Vienna,Metro Center,1.125
+Vienna,Minnesota Avenue,0.375
+Vienna,Mt. Vernon Square-UDC,0.5
+Vienna,Navy Yard,0.125
+Vienna,Naylor Road,0.25
+Vienna,New Carrollton,0.875
+Vienna,New York Ave,0.5
+Vienna,Pentagon City,0.375
+Vienna,Reagan Washington National Airport,0.375
+Vienna,Rhode Island Avenue,0.125
+Vienna,Rockville,0.125
+Vienna,Rosslyn,1.0
+Vienna,Shady Grove,0.25
+Vienna,Shaw-Howard University,0.125
+Vienna,Silver Spring,0.375
+Vienna,Southern Avenue,0.25
+Vienna,Stadium-Armory,0.5
+Vienna,Suitland,0.25
+Vienna,Takoma,0.25
+Vienna,Tenleytown-AU,0.125
+Vienna,U Street-Cardozo,0.625
+Vienna,Union Station,0.625
+Vienna,Van Dorn Street,0.25
+Vienna,Vienna,10.0
+Vienna,Virginia Square-GMU,0.75
+Vienna,Waterfront,0.375
+Vienna,West Falls Church,1.375
+Vienna,Wheaton,0.125
+Vienna,White Flint,0.125
+Vienna,Woodley Park-Zoo,0.375
+Virginia Square-GMU,Bethesda,0.125
+Virginia Square-GMU,Braddock Road,0.5
+Virginia Square-GMU,Branch Avenue,0.125
+Virginia Square-GMU,Brookland,0.125
+Virginia Square-GMU,Capitol South,0.75
+Virginia Square-GMU,Clarendon,1.0
+Virginia Square-GMU,Cleveland Park,0.125
+Virginia Square-GMU,Columbia Heights,0.75
+Virginia Square-GMU,Court House,1.625
+Virginia Square-GMU,Crystal City,0.125
+Virginia Square-GMU,Dunn Loring,1.125
+Virginia Square-GMU,Dupont Circle,0.375
+Virginia Square-GMU,East Falls Church,1.5
+Virginia Square-GMU,Eastern Market,1.375
+Virginia Square-GMU,Eisenhower Avenue,0.25
+Virginia Square-GMU,Farragut West,0.75
+Virginia Square-GMU,Foggy Bottom,1.25
+Virginia Square-GMU,Forest Glen,0.25
+Virginia Square-GMU,Fort Totten,0.375
+Virginia Square-GMU,Franconia-Springfield,0.25
+Virginia Square-GMU,Friendship Heights,0.25
+Virginia Square-GMU,Grosvenor,0.125
+Virginia Square-GMU,Huntington,0.375
+Virginia Square-GMU,King Street,1.375
+Virginia Square-GMU,Landover,0.125
+Virginia Square-GMU,McPherson Square,2.0
+Virginia Square-GMU,Metro Center,0.75
+Virginia Square-GMU,Naylor Road,0.125
+Virginia Square-GMU,Pentagon,0.25
+Virginia Square-GMU,Pentagon City,0.5
+Virginia Square-GMU,Potomac Avenue,0.125
+Virginia Square-GMU,Rosslyn,0.875
+Virginia Square-GMU,Shady Grove,0.25
+Virginia Square-GMU,Shaw-Howard University,0.125
+Virginia Square-GMU,Silver Spring,0.125
+Virginia Square-GMU,Smithsonian,1.25
+Virginia Square-GMU,Stadium-Armory,0.25
+Virginia Square-GMU,Takoma,0.125
+Virginia Square-GMU,Tenleytown-AU,0.125
+Virginia Square-GMU,Twinbrook,0.125
+Virginia Square-GMU,Union Station,0.5
+Virginia Square-GMU,Van Dorn Street,0.25
+Virginia Square-GMU,Vienna,1.375
+Virginia Square-GMU,Virginia Square-GMU,2.5
+Virginia Square-GMU,West Falls Church,0.75
+Virginia Square-GMU,West Hyattsville,0.125
+Waterfront,Addison Road,0.375
+Waterfront,Anacostia,7.625
+Waterfront,Archives-Navy Memorial,0.75
+Waterfront,Ballston,0.875
+Waterfront,Benning Road,3.875
+Waterfront,Braddock Road,1.0
+Waterfront,Branch Avenue,0.875
+Waterfront,Brookland,0.375
+Waterfront,Capitol Heights,1.25
+Waterfront,Capitol South,0.125
+Waterfront,Cleveland Park,0.5
+Waterfront,College Park-U of MD,0.625
+Waterfront,Columbia Heights,9.375
+Waterfront,Congress Heights,1.875
+Waterfront,Court House,0.875
+Waterfront,Crystal City,0.625
+Waterfront,Deanwood,0.5
+Waterfront,Dunn Loring,0.25
+Waterfront,Dupont Circle,1.5
+Waterfront,East Falls Church,1.0
+Waterfront,Eastern Market,2.25
+Waterfront,Eisenhower Avenue,0.5
+Waterfront,Farragut North,0.5
+Waterfront,Federal Center SW,0.25
+Waterfront,Federal Triangle,0.125
+Waterfront,Foggy Bottom,0.75
+Waterfront,Forest Glen,0.375
+Waterfront,Fort Totten,4.75
+Waterfront,Franconia-Springfield,0.625
+Waterfront,Friendship Heights,0.875
+Waterfront,Gallery Place-Chinatown,9.375
+Waterfront,Georgia Avenue-Petworth,4.75
+Waterfront,Glenmont,0.75
+Waterfront,Greenbelt,0.125
+Waterfront,Grosvenor,1.375
+Waterfront,Huntington,2.125
+Waterfront,King Street,1.625
+Waterfront,L'Enfant Plaza,0.5
+Waterfront,Landover,0.125
+Waterfront,Largo Town Center,1.0
+Waterfront,McPherson Square,0.5
+Waterfront,Metro Center,0.375
+Waterfront,Minnesota Avenue,0.75
+Waterfront,Mt. Vernon Square-UDC,1.75
+Waterfront,Navy Yard,2.25
+Waterfront,Naylor Road,2.5
+Waterfront,New Carrollton,0.375
+Waterfront,New York Ave,0.5
+Waterfront,Pentagon,0.25
+Waterfront,Pentagon City,1.625
+Waterfront,Potomac Avenue,0.625
+Waterfront,Prince George's Plaza,1.25
+Waterfront,Reagan Washington National Airport,0.125
+Waterfront,Rhode Island Avenue,1.0
+Waterfront,Rockville,0.875
+Waterfront,Rosslyn,0.25
+Waterfront,Shady Grove,0.875
+Waterfront,Shaw-Howard University,3.125
+Waterfront,Silver Spring,1.625
+Waterfront,Southern Avenue,2.875
+Waterfront,Stadium-Armory,0.625
+Waterfront,Suitland,3.5
+Waterfront,Takoma,0.5
+Waterfront,Tenleytown-AU,0.875
+Waterfront,Twinbrook,0.625
+Waterfront,U Street-Cardozo,6.5
+Waterfront,Union Station,1.0
+Waterfront,Van Dorn Street,0.375
+Waterfront,Van Ness-UDC,1.0
+Waterfront,Vienna,0.375
+Waterfront,Virginia Square-GMU,0.125
+Waterfront,Waterfront,3.125
+Waterfront,West Falls Church,0.75
+Waterfront,West Hyattsville,1.0
+Waterfront,Wheaton,0.25
+Waterfront,White Flint,0.25
+Waterfront,Woodley Park-Zoo,0.625
+West Falls Church,Ballston,1.5
+West Falls Church,Braddock Road,0.125
+West Falls Church,Branch Avenue,0.25
+West Falls Church,Capitol Heights,0.125
+West Falls Church,Capitol South,0.125
+West Falls Church,Cheverly,0.25
+West Falls Church,Clarendon,0.625
+West Falls Church,College Park-U of MD,0.125
+West Falls Church,Columbia Heights,0.375
+West Falls Church,Court House,0.75
+West Falls Church,Crystal City,0.375
+West Falls Church,Deanwood,0.25
+West Falls Church,Dunn Loring,1.375
+West Falls Church,Dupont Circle,0.25
+West Falls Church,East Falls Church,1.0
+West Falls Church,Eastern Market,0.125
+West Falls Church,Farragut North,0.125
+West Falls Church,Farragut West,1.0
+West Falls Church,Foggy Bottom,1.0
+West Falls Church,Fort Totten,0.5
+West Falls Church,Friendship Heights,0.5
+West Falls Church,Gallery Place-Chinatown,0.25
+West Falls Church,Georgia Avenue-Petworth,0.5
+West Falls Church,Huntington,0.25
+West Falls Church,McPherson Square,1.375
+West Falls Church,Medical Center,0.125
+West Falls Church,Metro Center,0.875
+West Falls Church,Mt. Vernon Square-UDC,0.375
+West Falls Church,New York Ave,0.875
+West Falls Church,Reagan Washington National Airport,0.125
+West Falls Church,Rockville,0.125
+West Falls Church,Rosslyn,0.25
+West Falls Church,Shady Grove,0.375
+West Falls Church,Silver Spring,0.375
+West Falls Church,Southern Avenue,0.125
+West Falls Church,Suitland,0.125
+West Falls Church,Twinbrook,0.125
+West Falls Church,U Street-Cardozo,0.125
+West Falls Church,Union Station,0.125
+West Falls Church,Van Dorn Street,0.125
+West Falls Church,Van Ness-UDC,0.125
+West Falls Church,Vienna,3.0
+West Falls Church,Virginia Square-GMU,0.125
+West Falls Church,West Falls Church,2.375
+West Falls Church,Woodley Park-Zoo,0.75
+West Hyattsville,Addison Road,0.125
+West Hyattsville,Anacostia,0.5
+West Hyattsville,Branch Avenue,0.625
+West Hyattsville,Brookland,0.25
+West Hyattsville,College Park-U of MD,1.75
+West Hyattsville,Columbia Heights,2.25
+West Hyattsville,Congress Heights,0.375
+West Hyattsville,Deanwood,0.125
+West Hyattsville,Eastern Market,0.25
+West Hyattsville,Forest Glen,0.25
+West Hyattsville,Fort Totten,1.75
+West Hyattsville,Gallery Place-Chinatown,0.625
+West Hyattsville,Georgia Avenue-Petworth,0.75
+West Hyattsville,Glenmont,0.25
+West Hyattsville,Greenbelt,1.25
+West Hyattsville,King Street,0.25
+West Hyattsville,Landover,0.125
+West Hyattsville,Largo Town Center,0.25
+West Hyattsville,Minnesota Avenue,0.25
+West Hyattsville,Mt. Vernon Square-UDC,0.5
+West Hyattsville,Navy Yard,0.125
+West Hyattsville,Naylor Road,0.625
+West Hyattsville,New York Ave,0.25
+West Hyattsville,Pentagon City,0.5
+West Hyattsville,Potomac Avenue,0.5
+West Hyattsville,Prince George's Plaza,0.875
+West Hyattsville,Reagan Washington National Airport,0.125
+West Hyattsville,Rhode Island Avenue,0.5
+West Hyattsville,Rosslyn,0.125
+West Hyattsville,Shady Grove,0.25
+West Hyattsville,Shaw-Howard University,0.625
+West Hyattsville,Silver Spring,0.125
+West Hyattsville,Southern Avenue,0.125
+West Hyattsville,Suitland,0.5
+West Hyattsville,U Street-Cardozo,1.625
+West Hyattsville,Union Station,0.125
+West Hyattsville,Van Ness-UDC,0.25
+West Hyattsville,West Hyattsville,1.875
+West Hyattsville,Wheaton,0.375
+Wheaton,Addison Road,0.25
+Wheaton,Anacostia,0.125
+Wheaton,Bethesda,0.125
+Wheaton,Braddock Road,0.125
+Wheaton,Branch Avenue,0.125
+Wheaton,Brookland,1.25
+Wheaton,Clarendon,0.125
+Wheaton,Cleveland Park,0.125
+Wheaton,College Park-U of MD,0.25
+Wheaton,Columbia Heights,1.0
+Wheaton,Congress Heights,0.125
+Wheaton,Crystal City,0.125
+Wheaton,Deanwood,0.125
+Wheaton,Dupont Circle,1.0
+Wheaton,East Falls Church,0.125
+Wheaton,Farragut North,0.25
+Wheaton,Farragut West,0.25
+Wheaton,Forest Glen,0.625
+Wheaton,Fort Totten,2.375
+Wheaton,Friendship Heights,0.125
+Wheaton,Gallery Place-Chinatown,1.125
+Wheaton,Georgia Avenue-Petworth,0.625
+Wheaton,Glenmont,6.75
+Wheaton,Greenbelt,0.375
+Wheaton,Huntington,0.125
+Wheaton,Judiciary Square,0.125
+Wheaton,McPherson Square,0.25
+Wheaton,Metro Center,0.75
+Wheaton,Minnesota Avenue,0.25
+Wheaton,Mt. Vernon Square-UDC,0.25
+Wheaton,Naylor Road,0.125
+Wheaton,New Carrollton,0.875
+Wheaton,New York Ave,1.375
+Wheaton,Pentagon City,0.125
+Wheaton,Potomac Avenue,0.125
+Wheaton,Prince George's Plaza,0.5
+Wheaton,Rhode Island Avenue,0.75
+Wheaton,Rosslyn,0.375
+Wheaton,Shady Grove,0.625
+Wheaton,Shaw-Howard University,0.125
+Wheaton,Silver Spring,3.125
+Wheaton,Southern Avenue,0.625
+Wheaton,Suitland,0.25
+Wheaton,Takoma,1.375
+Wheaton,Tenleytown-AU,0.125
+Wheaton,Twinbrook,0.125
+Wheaton,U Street-Cardozo,1.0
+Wheaton,Union Station,1.0
+Wheaton,Van Dorn Street,0.125
+Wheaton,Van Ness-UDC,0.25
+Wheaton,Vienna,0.25
+Wheaton,West Falls Church,0.25
+Wheaton,West Hyattsville,0.625
+Wheaton,Wheaton,2.125
+Wheaton,White Flint,0.125
+Wheaton,Woodley Park-Zoo,1.125
+White Flint,Addison Road,0.375
+White Flint,Anacostia,0.375
+White Flint,Ballston,0.75
+White Flint,Benning Road,0.25
+White Flint,Bethesda,2.5
+White Flint,Branch Avenue,0.375
+White Flint,Brookland,0.25
+White Flint,Cleveland Park,0.875
+White Flint,Columbia Heights,1.0
+White Flint,Deanwood,0.125
+White Flint,Dunn Loring,0.25
+White Flint,Dupont Circle,1.75
+White Flint,East Falls Church,0.125
+White Flint,Eastern Market,1.0
+White Flint,Eisenhower Avenue,0.125
+White Flint,Farragut North,0.5
+White Flint,Forest Glen,0.125
+White Flint,Fort Totten,2.0
+White Flint,Friendship Heights,2.375
+White Flint,Gallery Place-Chinatown,1.25
+White Flint,Georgia Avenue-Petworth,0.25
+White Flint,Glenmont,0.5
+White Flint,Grosvenor,0.375
+White Flint,King Street,0.25
+White Flint,Landover,0.5
+White Flint,Largo Town Center,0.375
+White Flint,Metro Center,0.25
+White Flint,Mt. Vernon Square-UDC,0.875
+White Flint,Naylor Road,0.25
+White Flint,New Carrollton,0.75
+White Flint,New York Ave,0.5
+White Flint,Pentagon City,0.125
+White Flint,Potomac Avenue,0.5
+White Flint,Prince George's Plaza,0.375
+White Flint,Reagan Washington National Airport,0.125
+White Flint,Rhode Island Avenue,0.375
+White Flint,Rockville,5.375
+White Flint,Rosslyn,0.25
+White Flint,Shady Grove,4.5
+White Flint,Shaw-Howard University,0.875
+White Flint,Silver Spring,0.375
+White Flint,Southern Avenue,0.375
+White Flint,Suitland,0.125
+White Flint,Takoma,0.125
+White Flint,Tenleytown-AU,0.625
+White Flint,Twinbrook,2.75
+White Flint,U Street-Cardozo,0.875
+White Flint,Union Station,1.375
+White Flint,Van Dorn Street,0.125
+White Flint,Van Ness-UDC,0.875
+White Flint,Virginia Square-GMU,0.125
+White Flint,West Hyattsville,0.125
+White Flint,Wheaton,0.375
+White Flint,White Flint,1.625
+White Flint,Woodley Park-Zoo,1.5
+Woodley Park-Zoo,Addison Road,1.375
+Woodley Park-Zoo,Anacostia,1.875
+Woodley Park-Zoo,Ballston,7.5
+Woodley Park-Zoo,Benning Road,1.0
+Woodley Park-Zoo,Bethesda,38.875
+Woodley Park-Zoo,Braddock Road,1.0
+Woodley Park-Zoo,Branch Avenue,3.375
+Woodley Park-Zoo,Brookland,3.625
+Woodley Park-Zoo,Capitol Heights,0.5
+Woodley Park-Zoo,Capitol South,0.25
+Woodley Park-Zoo,Cheverly,1.5
+Woodley Park-Zoo,Clarendon,2.5
+Woodley Park-Zoo,Cleveland Park,4.875
+Woodley Park-Zoo,College Park-U of MD,2.5
+Woodley Park-Zoo,Columbia Heights,0.5
+Woodley Park-Zoo,Congress Heights,0.875
+Woodley Park-Zoo,Court House,3.625
+Woodley Park-Zoo,Crystal City,4.375
+Woodley Park-Zoo,Deanwood,0.25
+Woodley Park-Zoo,Dunn Loring,4.0
+Woodley Park-Zoo,Dupont Circle,12.125
+Woodley Park-Zoo,East Falls Church,5.875
+Woodley Park-Zoo,Eastern Market,2.5
+Woodley Park-Zoo,Eisenhower Avenue,0.875
+Woodley Park-Zoo,Farragut North,5.125
+Woodley Park-Zoo,Federal Center SW,0.125
+Woodley Park-Zoo,Foggy Bottom,2.375
+Woodley Park-Zoo,Forest Glen,2.375
+Woodley Park-Zoo,Fort Totten,6.75
+Woodley Park-Zoo,Franconia-Springfield,5.25
+Woodley Park-Zoo,Friendship Heights,20.625
+Woodley Park-Zoo,Gallery Place-Chinatown,7.75
+Woodley Park-Zoo,Georgia Avenue-Petworth,0.875
+Woodley Park-Zoo,Glenmont,7.0
+Woodley Park-Zoo,Greenbelt,1.5
+Woodley Park-Zoo,Grosvenor,35.25
+Woodley Park-Zoo,Huntington,2.25
+Woodley Park-Zoo,Judiciary Square,1.375
+Woodley Park-Zoo,King Street,5.0
+Woodley Park-Zoo,L'Enfant Plaza,0.25
+Woodley Park-Zoo,Landover,1.375
+Woodley Park-Zoo,Largo Town Center,2.25
+Woodley Park-Zoo,McPherson Square,0.25
+Woodley Park-Zoo,Medical Center,3.625
+Woodley Park-Zoo,Metro Center,5.875
+Woodley Park-Zoo,Minnesota Avenue,0.25
+Woodley Park-Zoo,Morgan Blvd.,0.5
+Woodley Park-Zoo,Mt. Vernon Square-UDC,0.875
+Woodley Park-Zoo,Navy Yard,1.125
+Woodley Park-Zoo,Naylor Road,1.25
+Woodley Park-Zoo,New Carrollton,6.875
+Woodley Park-Zoo,New York Ave,5.375
+Woodley Park-Zoo,Pentagon,1.75
+Woodley Park-Zoo,Pentagon City,5.125
+Woodley Park-Zoo,Potomac Avenue,1.75
+Woodley Park-Zoo,Prince George's Plaza,1.5
+Woodley Park-Zoo,Reagan Washington National Airport,1.0
+Woodley Park-Zoo,Rhode Island Avenue,2.25
+Woodley Park-Zoo,Rockville,18.5
+Woodley Park-Zoo,Rosslyn,5.875
+Woodley Park-Zoo,Shady Grove,38.625
+Woodley Park-Zoo,Shaw-Howard University,0.375
+Woodley Park-Zoo,Silver Spring,20.625
+Woodley Park-Zoo,Southern Avenue,1.375
+Woodley Park-Zoo,Stadium-Armory,0.625
+Woodley Park-Zoo,Suitland,4.0
+Woodley Park-Zoo,Takoma,6.125
+Woodley Park-Zoo,Tenleytown-AU,24.5
+Woodley Park-Zoo,Twinbrook,15.625
+Woodley Park-Zoo,U Street-Cardozo,0.625
+Woodley Park-Zoo,Union Station,11.625
+Woodley Park-Zoo,Van Dorn Street,3.25
+Woodley Park-Zoo,Van Ness-UDC,18.625
+Woodley Park-Zoo,Vienna,12.75
+Woodley Park-Zoo,Virginia Square-GMU,1.5
+Woodley Park-Zoo,Waterfront,0.875
+Woodley Park-Zoo,West Falls Church,2.125
+Woodley Park-Zoo,West Hyattsville,0.375
+Woodley Park-Zoo,Wheaton,4.875
+Woodley Park-Zoo,White Flint,12.875
+Woodley Park-Zoo,Woodley Park-Zoo,11.875

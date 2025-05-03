@@ -1,0 +1,21 @@
+version: 2
+
+exposures:
+  - name: metro_ridership_dashboard
+    label: "Metro Ridership Dashboard"
+    type: dashboard
+    maturity: high
+    url: https://lookerstudio.google.com/u/0/reporting/YOUR_REPORT_ID
+    description: >
+      Dashboard showing average metro ridership by time of day, station, and day type.
+      Built in Looker Studio using the `mart__entry_volume_by_station_and_period` and 
+      `mart__exit_volume_by_station_and_period` models.
+
+    depends_on:
+      - ref('mart_entry_volume_by_station_and_period')
+      - ref('mart_exit_volume_by_station_and_period')
+      - ref('dim_stations')
+
+    owner:
+      name: Jakob Gutzmann
+      email: your.email@example.com

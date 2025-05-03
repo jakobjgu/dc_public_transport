@@ -1,0 +1,150 @@
+Station Name,Station ID,Metroline
+Shady Grove,A15,red
+Rockville,A14,red
+Twinbrook,A13,red
+North Bethesda,A12,red
+Grosvenor–Strathmore,A11,red
+Medical Center,A10,red
+Bethesda,A09,red
+Friendship Heights,A08,red
+Tenleytown–AU,A07,red
+Van Ness–UDC,A06,red
+Cleveland Park,A05,red
+Woodley Park,A04,red
+Dupont Circle,A03,red
+Farragut North,A02,red
+Metro Center,A01,red
+Gallery Place,B01,red
+Judiciary Square,B02,red
+Union Station,B03,red
+NoMa–Gallaudet U,B35,red
+Rhode Island Avenue,B04,red
+Brookland–CUA,B05,red
+Fort Totten,B06,red
+Takoma,B07,red
+Silver Spring,B08,red
+Forest Glen,B09,red
+Wheaton,B10,red
+Glenmont,B11,red
+Vienna,K08,orange
+Dunn Loring,K07,orange
+West Falls Church,K06,orange
+East Falls Church,K05,orange
+Ballston–MU,K04,orange
+Virginia Square–GMU,K03,orange
+Clarendon,K02,orange
+Court House,K01,orange
+Rosslyn,C05,orange
+Foggy Bottom–GWU,C04,orange
+Farragut West,C03,orange
+McPherson Square,C02,orange
+Metro Center,C01,orange
+Federal Triangle,D01,orange
+Smithsonian,D02,orange
+L'Enfant Plaza,D03,orange
+Federal Center SW,D04,orange
+Capitol South,D05,orange
+Eastern Market,D06,orange
+Potomac Avenue,D07,orange
+Stadium–Armory,D08,orange
+Minnesota Avenue,D09,orange
+Deanwood,D10,orange
+Cheverly,D11,orange
+Landover,D12,orange
+New Carrollton,D13,orange
+Branch Avenue,F11,green
+Suitland,F10,green
+Naylor Road,F09,green
+Southern Avenue,F08,green
+Congress Heights,F07,green
+Anacostia,F06,green
+Navy Yard–Ballpark,F05,green
+Waterfront,F04,green
+L'Enfant Plaza,F03,green
+Archives,F02,green
+Gallery Place,F01,green
+Mount Vernon Square,E01,green
+Shaw–Howard University,E02,green
+U Street,E03,green
+Columbia Heights,E04,green
+Georgia Avenue–Petworth,E05,green
+Fort Totten,E06,green
+West Hyattsville,E07,green
+Hyattsville Crossing,E08,green
+College Park–University of Maryland,E09,green
+Greenbelt,E10,green
+Ashburn,N12,silver
+Loudoun Gateway,N11,silver
+Dulles International Airport,N10,silver
+Innovation Center,N09,silver
+Herndon,N08,silver
+Reston Town Center,N07,silver
+Wiehle–Reston East,N06,silver
+Spring Hill,N04,silver
+Greensboro,N03,silver
+Tysons,N02,silver
+McLean,N01,silver
+East Falls Church,K05,silver
+Ballston-MU,K04,silver
+Virginia Square–GMU,K03,silver
+Clarendon,K02,silver
+Court House,K01,silver
+Rosslyn,C05,silver
+Foggy Bottom–GWU,C04,silver
+Farragut West,C03,silver
+McPherson Square,C02,silver
+Metro Center,C01,silver
+Federal Triangle,D01,silver
+Smithsonian,D02,silver
+L'Enfant Plaza,D03,silver
+Federal Center SW,D04,silver
+Capitol South,D05,silver
+Eastern Market,D06,silver
+Potomac Avenue,D07,silver
+Stadium–Armory,D08,silver
+Benning Road,G01,silver
+Capitol Heights,G02,silver
+Addison Road,G03,silver
+Morgan Boulevard,G04,silver
+Largo,G05,silver
+Huntington,C15,yellow
+Eisenhower Avenue,C14,yellow
+King Street–Old Town,C13,yellow
+Braddock Road,C12,yellow
+Potomac Yard,C11,yellow
+National Airport,C10,yellow
+Crystal City,C09,yellow
+Pentagon City,C08,yellow
+Pentagon,C07,yellow
+L'Enfant Plaza,F03,yellow
+Archives,F02,yellow
+Gallery Place,F01,yellow
+Mount Vernon Square,E01,yellow
+Franconia–Springfield,J03,blue
+Van Dorn Street,J02,blue
+King Street–Old Town,C13,blue
+Braddock Road,C12,blue
+Potomac Yard,C11,blue
+National Airport,C10,blue
+Crystal City,C09,blue
+Pentagon City,C08,blue
+Pentagon,C07,blue
+Arlington Cemetery,C06,blue
+Rosslyn,C05,blue
+Foggy Bottom–GWU,C04,blue
+Farragut West,C03,blue
+McPherson Square,C02,blue
+Metro Center,C01,blue
+Federal Triangle,D01,blue
+Smithsonian,D02,blue
+L'Enfant Plaza,D03,blue
+Federal Center SW,D04,blue
+Capitol South,D05,blue
+Eastern Market,D06,blue
+Potomac Avenue,D07,blue
+Stadium–Armory,D08,blue
+Benning Road,G01,blue
+Capitol Heights,G02,blue
+Addison Road,G03,blue
+Morgan Boulevard,G04,blue
+Largo,G05,blue

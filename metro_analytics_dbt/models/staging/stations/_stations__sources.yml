@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: external_source_station_lines
+    meta:
+      external_location: "{{ env_var('S3_STATION_LINE_MAP_PATH') }}"
+    tables:
+      - name: station_line_map

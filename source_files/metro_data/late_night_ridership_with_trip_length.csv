@@ -1,0 +1,5216 @@
+ent_station,ext_station,riders_average_weekday_late_night,trip_length
+addison road,addison road,1.625,0
+addison road,anacostia,0.875,11
+addison road,archives,0.125,9
+addison road,ballston-mu,0.125,15
+addison road,benning road,1.875,2
+addison road,braddock road,0.125,14
+addison road,branch avenue,0.5,16
+addison road,brookland cua,0.125,15
+addison road,capitol heights,1.375,1
+addison road,clarendon,0.125,13
+addison road,congress heights,0.75,12
+addison road,crystal city,0.125,11
+addison road,deanwood,0.125,5
+addison road,eastern market,0.875,5
+addison road,fort totten,0.25,16
+addison road,franconia springfield,0.125,17
+addison road,gallery place,0.25,10
+addison road,georgia avenue petworth,0.375,15
+addison road,glenmont,0.125,21
+addison road,king street old town,0.5,15
+addison road,l'enfant plaza,0.125,8
+addison road,landover,0.5,7
+addison road,largo,2.125,2
+addison road,mcpherson square,0.125,12
+addison road,metro center,0.25,11
+addison road,morgan boulevard,1.25,1
+addison road,mount vernon square,0.125,11
+addison road,navy yard ballpark,0.125,10
+addison road,naylor road,0.75,14
+addison road,new carrollton,0.625,8
+addison road,noma gallaudet u,0.25,13
+addison road,pentagon,0.25,9
+addison road,pentagon city,0.25,10
+addison road,potomac avenue,1.75,4
+addison road,hyattsville crossing,0.375,18
+addison road,national airport,0.25,12
+addison road,rhode island avenue,0.875,14
+addison road,shady grove,0.875,25
+addison road,shaw howard university,0.25,12
+addison road,silver spring,0.125,18
+addison road,southern avenue,0.5,13
+addison road,stadium armory,1.375,3
+addison road,suitland,0.625,15
+addison road,takoma,0.125,17
+addison road,tenleytown au,0.125,17
+addison road,u street,0.125,13
+addison road,union station,0.125,12
+addison road,waterfront,0.125,9
+anacostia,addison road,0.75,11
+anacostia,anacostia,7.375,0
+anacostia,archives,0.625,4
+anacostia,ballston-mu,0.25,10
+anacostia,benning road,1.5,9
+anacostia,braddock road,0.375,9
+anacostia,branch avenue,2.75,5
+anacostia,brookland cua,1.625,10
+anacostia,capitol heights,1.375,10
+anacostia,capitol south,0.125,5
+anacostia,college park university of maryland,0.5,14
+anacostia,columbia heights,6.125,9
+anacostia,congress heights,3.5,1
+anacostia,court house,0.125,7
+anacostia,crystal city,0.125,6
+anacostia,deanwood,1.0,10
+anacostia,dupont circle,0.375,8
+anacostia,east falls church,0.25,11
+anacostia,farragut west,0.375,8
+anacostia,federal center sw,0.125,4
+anacostia,foggy bottom gwu,0.625,7
+anacostia,fort totten,4.25,11
+anacostia,gallery place,7.5,5
+anacostia,georgia avenue petworth,4.5,10
+anacostia,glenmont,0.625,16
+anacostia,greenbelt,0.375,15
+anacostia,huntington,0.625,12
+anacostia,judiciary square,0.125,6
+anacostia,king street old town,0.25,10
+anacostia,l'enfant plaza,0.375,3
+anacostia,landover,1.0,12
+anacostia,largo,0.75,13
+anacostia,metro center,0.25,6
+anacostia,minnesota avenue,3.125,9
+anacostia,morgan boulevard,0.25,12
+anacostia,mount vernon square,0.625,6
+anacostia,navy yard ballpark,2.625,1
+anacostia,naylor road,4.375,3
+anacostia,new carrollton,1.0,13
+anacostia,noma gallaudet u,2.875,8
+anacostia,pentagon,0.375,4
+anacostia,pentagon city,0.375,5
+anacostia,potomac avenue,0.375,7
+anacostia,hyattsville crossing,0.125,13
+anacostia,national airport,0.375,7
+anacostia,rhode island avenue,2.25,9
+anacostia,rockville,0.125,19
+anacostia,shaw howard university,2.125,7
+anacostia,silver spring,0.625,13
+anacostia,southern avenue,2.375,2
+anacostia,stadium armory,1.125,8
+anacostia,suitland,7.75,4
+anacostia,takoma,0.125,12
+anacostia,u street,4.25,8
+anacostia,union station,0.875,7
+anacostia,waterfront,2.125,2
+anacostia,west hyattsville,0.5,12
+anacostia,wheaton,0.125,15
+anacostia,woodley park,0.875,9
+archives,anacostia,4.75,4
+archives,archives,5.625,0
+archives,ballston-mu,1.5,8
+archives,benning road,1.625,7
+archives,bethesda,0.25,10
+archives,braddock road,0.75,7
+archives,branch avenue,1.625,9
+archives,capitol heights,0.5,8
+archives,capitol south,0.375,3
+archives,cheverly,0.5,9
+archives,cleveland park,0.625,6
+archives,college park university of maryland,1.875,10
+archives,columbia heights,14.0,5
+archives,congress heights,2.0,5
+archives,court house,0.875,5
+archives,crystal city,5.125,4
+archives,deanwood,0.375,8
+archives,dunn loring,0.125,11
+archives,dupont circle,0.75,4
+archives,east falls church,0.625,9
+archives,eastern market,2.125,4
+archives,eisenhower avenue,1.5,9
+archives,farragut north,0.25,3
+archives,farragut west,0.25,4
+archives,federal center sw,0.125,2
+archives,foggy bottom gwu,0.25,5
+archives,fort totten,5.875,7
+archives,franconia springfield,2.0,10
+archives,friendship heights,0.125,9
+archives,gallery place,0.25,1
+archives,georgia avenue petworth,6.375,6
+archives,greenbelt,2.5,11
+archives,huntington,6.125,10
+archives,king street old town,3.0,8
+archives,l'enfant plaza,0.375,1
+archives,landover,0.125,10
+archives,largo,0.875,11
+archives,mcpherson square,0.125,3
+archives,metro center,0.375,2
+archives,minnesota avenue,0.625,7
+archives,morgan boulevard,0.25,10
+archives,mount vernon square,2.75,2
+archives,navy yard ballpark,3.625,3
+archives,naylor road,2.0,7
+archives,new carrollton,1.0,11
+archives,noma gallaudet u,1.125,4
+archives,pentagon,1.5,2
+archives,pentagon city,9.25,3
+archives,potomac avenue,1.0,5
+archives,hyattsville crossing,2.625,9
+archives,national airport,0.625,5
+archives,rosslyn,0.5,4
+archives,shady grove,0.5,16
+archives,shaw howard university,1.125,3
+archives,silver spring,1.0,9
+archives,southern avenue,2.625,6
+archives,stadium armory,0.75,6
+archives,suitland,2.125,8
+archives,takoma,0.25,8
+archives,tenleytown au,0.125,8
+archives,u street,3.875,4
+archives,union station,2.125,3
+archives,van dorn street,1.375,9
+archives,van ness udc,0.25,7
+archives,vienna,0.125,12
+archives,virginia square gmu,0.25,7
+archives,waterfront,4.875,2
+archives,west falls church,0.375,10
+archives,west hyattsville,3.625,8
+archives,wheaton,0.375,11
+ballston-mu,anacostia,2.5,10
+ballston-mu,ballston-mu,7.375,0
+ballston-mu,benning road,1.875,13
+ballston-mu,bethesda,0.375,16
+ballston-mu,braddock road,0.875,11
+ballston-mu,branch avenue,0.125,15
+ballston-mu,brookland cua,0.625,14
+ballston-mu,capitol heights,0.375,14
+ballston-mu,capitol south,0.5,9
+ballston-mu,cheverly,0.625,15
+ballston-mu,clarendon,7.0,2
+ballston-mu,cleveland park,1.0,12
+ballston-mu,columbia heights,2.0,13
+ballston-mu,congress heights,0.125,11
+ballston-mu,court house,7.875,3
+ballston-mu,crystal city,1.375,8
+ballston-mu,deanwood,0.25,14
+ballston-mu,dunn loring,12.125,3
+ballston-mu,dupont circle,0.75,10
+ballston-mu,east falls church,13.625,1
+ballston-mu,eastern market,1.75,10
+ballston-mu,eisenhower avenue,0.25,13
+ballston-mu,farragut west,3.875,6
+ballston-mu,federal center sw,0.5,8
+ballston-mu,foggy bottom gwu,10.25,5
+ballston-mu,forest glen,1.25,18
+ballston-mu,fort totten,1.125,15
+ballston-mu,franconia springfield,2.125,14
+ballston-mu,friendship heights,1.0,15
+ballston-mu,gallery place,1.625,9
+ballston-mu,georgia avenue petworth,1.125,14
+ballston-mu,glenmont,0.375,20
+ballston-mu,grosvenor strathmore,0.5,18
+ballston-mu,huntington,1.625,14
+ballston-mu,judiciary square,0.125,10
+ballston-mu,king street old town,3.375,12
+ballston-mu,l'enfant plaza,0.375,7
+ballston-mu,landover,1.5,16
+ballston-mu,largo,0.125,17
+ballston-mu,mcpherson square,8.875,7
+ballston-mu,metro center,4.5,8
+ballston-mu,minnesota avenue,1.0,13
+ballston-mu,mount vernon square,0.125,10
+ballston-mu,navy yard ballpark,0.125,9
+ballston-mu,naylor road,1.125,13
+ballston-mu,new carrollton,1.25,17
+ballston-mu,noma gallaudet u,1.25,12
+ballston-mu,pentagon,0.125,6
+ballston-mu,pentagon city,0.875,7
+ballston-mu,potomac avenue,0.625,11
+ballston-mu,national airport,0.375,9
+ballston-mu,rhode island avenue,0.125,13
+ballston-mu,rockville,0.125,21
+ballston-mu,rosslyn,4.75,4
+ballston-mu,shady grove,0.875,22
+ballston-mu,shaw howard university,0.625,11
+ballston-mu,silver spring,2.0,17
+ballston-mu,southern avenue,0.125,12
+ballston-mu,stadium armory,0.875,12
+ballston-mu,suitland,0.625,14
+ballston-mu,takoma,0.625,16
+ballston-mu,tenleytown au,0.5,14
+ballston-mu,twinbrook,0.5,20
+ballston-mu,u street,1.75,12
+ballston-mu,union station,2.5,11
+ballston-mu,van dorn street,1.25,13
+ballston-mu,van ness udc,0.375,13
+ballston-mu,vienna,16.5,4
+ballston-mu,waterfront,1.0,8
+ballston-mu,west falls church,8.875,2
+ballston-mu,west hyattsville,0.25,16
+ballston-mu,wheaton,0.125,19
+ballston-mu,north bethesda,0.625,19
+ballston-mu,woodley park,1.25,11
+benning road,addison road,3.5,2
+benning road,anacostia,1.375,9
+benning road,archives,0.125,7
+benning road,ballston-mu,0.125,13
+benning road,benning road,2.375,0
+benning road,braddock road,0.375,12
+benning road,branch avenue,0.25,14
+benning road,brookland cua,1.0,13
+benning road,capitol heights,1.125,1
+benning road,college park university of maryland,0.125,17
+benning road,columbia heights,1.875,12
+benning road,congress heights,0.625,10
+benning road,dupont circle,0.25,11
+benning road,eastern market,0.875,3
+benning road,farragut west,0.25,11
+benning road,federal center sw,0.125,5
+benning road,federal triangle,0.125,8
+benning road,foggy bottom gwu,0.125,10
+benning road,fort totten,1.25,14
+benning road,franconia springfield,0.125,15
+benning road,gallery place,0.75,8
+benning road,georgia avenue petworth,1.625,13
+benning road,greenbelt,0.125,18
+benning road,huntington,0.125,15
+benning road,l'enfant plaza,0.125,6
+benning road,landover,0.125,5
+benning road,largo,0.625,4
+benning road,mcpherson square,0.125,10
+benning road,metro center,0.125,9
+benning road,minnesota avenue,0.125,2
+benning road,morgan boulevard,1.25,3
+benning road,mount vernon square,0.75,9
+benning road,navy yard ballpark,0.375,8
+benning road,naylor road,0.875,12
+benning road,new carrollton,0.5,6
+benning road,noma gallaudet u,0.5,11
+benning road,pentagon,0.375,7
+benning road,pentagon city,1.125,8
+benning road,potomac avenue,1.875,2
+benning road,hyattsville crossing,0.125,16
+benning road,rhode island avenue,1.375,12
+benning road,rosslyn,0.625,9
+benning road,shady grove,0.125,23
+benning road,shaw howard university,0.375,10
+benning road,silver spring,0.25,16
+benning road,southern avenue,1.875,11
+benning road,stadium armory,2.5,1
+benning road,suitland,0.75,13
+benning road,takoma,0.625,15
+benning road,u street,2.0,11
+benning road,union station,0.125,10
+benning road,vienna,0.125,17
+benning road,waterfront,0.25,7
+benning road,west hyattsville,0.125,15
+benning road,wheaton,0.25,18
+benning road,north bethesda,0.125,20
+bethesda,addison road,0.25,19
+bethesda,archives,0.125,10
+bethesda,ballston-mu,1.125,16
+bethesda,benning road,0.125,17
+bethesda,bethesda,4.75,0
+bethesda,braddock road,0.125,17
+bethesda,branch avenue,0.625,19
+bethesda,brookland cua,0.5,14
+bethesda,capitol heights,0.75,18
+bethesda,capitol south,0.25,13
+bethesda,cheverly,0.25,19
+bethesda,clarendon,0.375,14
+bethesda,cleveland park,5.125,4
+bethesda,college park university of maryland,0.5,18
+bethesda,columbia heights,1.0,13
+bethesda,congress heights,0.375,15
+bethesda,court house,0.75,13
+bethesda,crystal city,0.875,14
+bethesda,deanwood,0.25,18
+bethesda,dupont circle,16.625,6
+bethesda,east falls church,0.375,17
+bethesda,eastern market,1.375,14
+bethesda,farragut north,4.5,7
+bethesda,federal center sw,0.5,12
+bethesda,foggy bottom gwu,1.125,11
+bethesda,forest glen,0.25,18
+bethesda,fort totten,2.25,15
+bethesda,franconia springfield,0.75,20
+bethesda,friendship heights,8.625,1
+bethesda,gallery place,4.0,9
+bethesda,georgia avenue petworth,1.0,14
+bethesda,glenmont,1.25,20
+bethesda,greenbelt,0.5,19
+bethesda,grosvenor strathmore,28.75,2
+bethesda,huntington,1.125,20
+bethesda,judiciary square,0.25,10
+bethesda,king street old town,1.25,18
+bethesda,landover,0.25,20
+bethesda,medical center,1.875,1
+bethesda,metro center,1.875,8
+bethesda,mount vernon square,0.75,10
+bethesda,navy yard ballpark,0.5,13
+bethesda,naylor road,0.125,17
+bethesda,new carrollton,0.375,21
+bethesda,noma gallaudet u,0.75,12
+bethesda,pentagon,0.875,12
+bethesda,pentagon city,2.0,13
+bethesda,potomac avenue,0.25,15
+bethesda,hyattsville crossing,0.125,17
+bethesda,national airport,0.25,15
+bethesda,rhode island avenue,0.375,13
+bethesda,rockville,16.125,5
+bethesda,rosslyn,1.375,12
+bethesda,shady grove,39.875,6
+bethesda,shaw howard university,0.25,11
+bethesda,silver spring,2.125,17
+bethesda,stadium armory,0.375,16
+bethesda,takoma,0.875,16
+bethesda,tenleytown au,18.25,2
+bethesda,twinbrook,24.0,4
+bethesda,u street,1.875,12
+bethesda,union station,2.75,11
+bethesda,van dorn street,0.125,19
+bethesda,van ness udc,5.875,3
+bethesda,vienna,1.0,20
+bethesda,virginia square gmu,0.25,15
+bethesda,waterfront,1.625,12
+bethesda,west falls church,0.5,18
+bethesda,west hyattsville,0.125,16
+bethesda,wheaton,0.5,19
+bethesda,north bethesda,16.0,3
+bethesda,woodley park,12.0,5
+braddock road,addison road,0.25,14
+braddock road,anacostia,0.625,9
+braddock road,archives,0.125,7
+braddock road,ballston-mu,0.5,11
+braddock road,benning road,0.375,12
+braddock road,bethesda,0.375,17
+braddock road,braddock road,1.125,0
+braddock road,branch avenue,0.5,14
+braddock road,capitol heights,0.125,13
+braddock road,capitol south,0.25,8
+braddock road,clarendon,0.25,9
+braddock road,college park university of maryland,0.125,17
+braddock road,columbia heights,1.625,12
+braddock road,court house,0.25,8
+braddock road,crystal city,1.25,3
+braddock road,dunn loring,0.125,14
+braddock road,dupont circle,0.5,11
+braddock road,east falls church,0.5,12
+braddock road,eastern market,0.125,9
+braddock road,eisenhower avenue,0.125,2
+braddock road,farragut west,0.25,9
+braddock road,foggy bottom gwu,1.375,8
+braddock road,fort totten,0.625,14
+braddock road,franconia springfield,2.0,3
+braddock road,friendship heights,0.125,16
+braddock road,gallery place,0.5,8
+braddock road,georgia avenue petworth,0.125,13
+braddock road,greenbelt,0.25,18
+braddock road,huntington,5.5,3
+braddock road,king street old town,0.625,1
+braddock road,l'enfant plaza,0.125,6
+braddock road,landover,0.25,15
+braddock road,largo,0.375,16
+braddock road,metro center,0.25,9
+braddock road,minnesota avenue,0.625,12
+braddock road,mount vernon square,1.0,9
+braddock road,navy yard ballpark,0.375,8
+braddock road,naylor road,0.125,12
+braddock road,new carrollton,0.25,16
+braddock road,noma gallaudet u,0.375,11
+braddock road,pentagon,0.625,5
+braddock road,pentagon city,0.875,4
+braddock road,potomac avenue,0.5,10
+braddock road,national airport,0.125,2
+braddock road,rosslyn,0.875,7
+braddock road,shady grove,0.125,23
+braddock road,shaw howard university,0.875,10
+braddock road,silver spring,0.25,16
+braddock road,smithsonian,0.75,7
+braddock road,southern avenue,0.125,11
+braddock road,stadium armory,0.625,11
+braddock road,suitland,0.375,13
+braddock road,takoma,0.375,15
+braddock road,tenleytown au,0.125,15
+braddock road,u street,0.875,11
+braddock road,union station,0.375,10
+braddock road,van dorn street,2.5,2
+braddock road,van ness udc,0.25,14
+braddock road,vienna,0.75,15
+braddock road,virginia square gmu,0.125,10
+braddock road,waterfront,0.25,7
+braddock road,west hyattsville,0.375,15
+braddock road,wheaton,1.0,18
+braddock road,woodley park,0.375,12
+branch avenue,anacostia,1.75,5
+branch avenue,archives,0.25,9
+branch avenue,benning road,0.125,14
+branch avenue,braddock road,0.375,14
+branch avenue,branch avenue,1.75,0
+branch avenue,cleveland park,0.25,15
+branch avenue,college park university of maryland,0.125,19
+branch avenue,columbia heights,0.375,14
+branch avenue,congress heights,0.125,4
+branch avenue,deanwood,0.125,15
+branch avenue,dupont circle,0.25,13
+branch avenue,eastern market,0.125,11
+branch avenue,farragut north,0.125,12
+branch avenue,foggy bottom gwu,0.125,12
+branch avenue,fort totten,1.75,16
+branch avenue,gallery place,2.0,10
+branch avenue,georgia avenue petworth,1.125,15
+branch avenue,glenmont,0.125,21
+branch avenue,greenbelt,0.5,20
+branch avenue,huntington,0.125,17
+branch avenue,king street old town,0.125,15
+branch avenue,largo,0.375,18
+branch avenue,metro center,0.125,11
+branch avenue,minnesota avenue,0.125,14
+branch avenue,morgan boulevard,0.125,17
+branch avenue,mount vernon square,0.25,11
+branch avenue,navy yard ballpark,0.625,6
+branch avenue,naylor road,1.5,2
+branch avenue,new carrollton,0.25,18
+branch avenue,noma gallaudet u,0.125,13
+branch avenue,hyattsville crossing,0.375,18
+branch avenue,national airport,0.5,12
+branch avenue,rhode island avenue,0.25,14
+branch avenue,rockville,0.125,24
+branch avenue,shady grove,0.125,25
+branch avenue,shaw howard university,0.375,12
+branch avenue,silver spring,0.25,18
+branch avenue,smithsonian,0.125,9
+branch avenue,southern avenue,1.125,3
+branch avenue,stadium armory,0.5,13
+branch avenue,suitland,2.25,1
+branch avenue,takoma,0.25,17
+branch avenue,u street,0.75,13
+branch avenue,van dorn street,0.125,16
+branch avenue,waterfront,0.25,7
+branch avenue,west falls church,0.25,17
+branch avenue,wheaton,0.25,20
+branch avenue,woodley park,0.125,14
+brookland cua,addison road,0.125,15
+brookland cua,anacostia,1.5,10
+brookland cua,ballston-mu,0.125,14
+brookland cua,benning road,1.75,13
+brookland cua,braddock road,0.125,13
+brookland cua,branch avenue,0.5,15
+brookland cua,brookland cua,1.625,0
+brookland cua,capitol heights,0.875,14
+brookland cua,capitol south,0.125,9
+brookland cua,cleveland park,0.75,10
+brookland cua,college park university of maryland,0.25,4
+brookland cua,columbia heights,2.25,3
+brookland cua,congress heights,0.625,11
+brookland cua,court house,0.25,11
+brookland cua,crystal city,0.25,10
+brookland cua,deanwood,0.125,14
+brookland cua,dunn loring,0.25,17
+brookland cua,dupont circle,3.0,8
+brookland cua,east falls church,0.125,15
+brookland cua,eastern market,0.125,10
+brookland cua,eisenhower avenue,0.5,15
+brookland cua,farragut north,1.75,7
+brookland cua,farragut west,0.375,8
+brookland cua,foggy bottom gwu,0.125,9
+brookland cua,forest glen,1.5,4
+brookland cua,fort totten,6.125,1
+brookland cua,gallery place,4.25,5
+brookland cua,georgia avenue petworth,0.875,2
+brookland cua,glenmont,1.625,6
+brookland cua,greenbelt,0.125,5
+brookland cua,huntington,0.25,16
+brookland cua,judiciary square,0.5,4
+brookland cua,king street old town,0.25,14
+brookland cua,landover,0.375,16
+brookland cua,largo,0.125,17
+brookland cua,mcpherson square,0.125,7
+brookland cua,metro center,1.5,6
+brookland cua,minnesota avenue,0.125,13
+brookland cua,mount vernon square,0.125,6
+brookland cua,navy yard ballpark,0.25,9
+brookland cua,naylor road,0.625,13
+brookland cua,new carrollton,0.5,17
+brookland cua,noma gallaudet u,3.375,2
+brookland cua,pentagon city,0.125,9
+brookland cua,potomac avenue,0.125,11
+brookland cua,hyattsville crossing,0.875,3
+brookland cua,national airport,0.25,11
+brookland cua,rhode island avenue,1.375,1
+brookland cua,rockville,0.25,19
+brookland cua,shady grove,0.375,20
+brookland cua,shaw howard university,0.5,5
+brookland cua,silver spring,7.25,3
+brookland cua,southern avenue,0.375,12
+brookland cua,stadium armory,0.5,12
+brookland cua,suitland,0.25,14
+brookland cua,takoma,2.625,2
+brookland cua,tenleytown au,0.375,12
+brookland cua,u street,1.75,4
+brookland cua,union station,5.0,3
+brookland cua,van ness udc,0.625,11
+brookland cua,vienna,0.25,18
+brookland cua,waterfront,0.25,8
+brookland cua,west hyattsville,0.625,2
+brookland cua,wheaton,0.75,5
+brookland cua,north bethesda,0.125,17
+brookland cua,woodley park,1.75,9
+capitol heights,addison road,2.25,1
+capitol heights,anacostia,0.625,10
+capitol heights,benning road,1.0,1
+capitol heights,branch avenue,0.25,15
+capitol heights,capitol heights,0.75,0
+capitol heights,clarendon,0.125,12
+capitol heights,college park university of maryland,0.125,18
+capitol heights,columbia heights,0.375,13
+capitol heights,congress heights,1.25,11
+capitol heights,crystal city,0.375,10
+capitol heights,east falls church,0.25,15
+capitol heights,eastern market,0.125,4
+capitol heights,farragut west,0.125,12
+capitol heights,federal center sw,0.125,6
+capitol heights,federal triangle,0.25,9
+capitol heights,foggy bottom gwu,0.125,11
+capitol heights,fort totten,0.25,15
+capitol heights,friendship heights,0.125,17
+capitol heights,gallery place,0.75,9
+capitol heights,georgia avenue petworth,0.75,14
+capitol heights,glenmont,0.125,20
+capitol heights,huntington,0.125,16
+capitol heights,largo,1.75,3
+capitol heights,mcpherson square,0.25,11
+capitol heights,metro center,0.125,10
+capitol heights,minnesota avenue,0.125,3
+capitol heights,morgan boulevard,0.25,2
+capitol heights,navy yard ballpark,0.125,9
+capitol heights,naylor road,0.25,13
+capitol heights,new carrollton,0.25,7
+capitol heights,pentagon,0.125,8
+capitol heights,potomac avenue,0.5,3
+capitol heights,national airport,0.25,11
+capitol heights,shaw howard university,0.375,11
+capitol heights,silver spring,0.125,17
+capitol heights,smithsonian,0.125,8
+capitol heights,southern avenue,0.375,12
+capitol heights,stadium armory,1.375,2
+capitol heights,suitland,0.125,14
+capitol heights,union station,0.25,11
+capitol heights,vienna,0.125,18
+capitol heights,waterfront,0.375,8
+capitol heights,wheaton,0.25,19
+capitol heights,woodley park,0.125,13
+capitol south,addison road,0.5,6
+capitol south,ballston-mu,4.25,9
+capitol south,benning road,0.5,4
+capitol south,bethesda,0.25,13
+capitol south,braddock road,1.25,8
+capitol south,brookland cua,0.375,9
+capitol south,capitol heights,0.5,5
+capitol south,capitol south,1.75,0
+capitol south,cheverly,1.0,6
+capitol south,clarendon,1.875,7
+capitol south,cleveland park,0.625,9
+capitol south,columbia heights,3.375,8
+capitol south,court house,3.125,6
+capitol south,crystal city,1.5,5
+capitol south,deanwood,0.375,5
+capitol south,dunn loring,1.0,12
+capitol south,dupont circle,1.125,7
+capitol south,east falls church,1.875,10
+capitol south,eastern market,0.5,1
+capitol south,eisenhower avenue,0.625,10
+capitol south,farragut west,0.75,7
+capitol south,federal center sw,0.375,1
+capitol south,foggy bottom gwu,4.625,6
+capitol south,fort totten,1.375,10
+capitol south,franconia springfield,1.125,11
+capitol south,friendship heights,0.125,12
+capitol south,gallery place,0.5,4
+capitol south,georgia avenue petworth,1.125,9
+capitol south,glenmont,0.375,15
+capitol south,greenbelt,0.625,14
+capitol south,grosvenor strathmore,0.625,15
+capitol south,huntington,0.625,11
+capitol south,king street old town,1.375,9
+capitol south,l'enfant plaza,0.875,2
+capitol south,largo,0.375,8
+capitol south,mcpherson square,2.75,6
+capitol south,metro center,7.625,5
+capitol south,minnesota avenue,0.125,4
+capitol south,morgan boulevard,0.125,7
+capitol south,mount vernon square,0.875,5
+capitol south,navy yard ballpark,0.25,4
+capitol south,new carrollton,3.375,8
+capitol south,noma gallaudet u,0.125,7
+capitol south,pentagon,0.625,3
+capitol south,pentagon city,3.625,4
+capitol south,potomac avenue,0.5,2
+capitol south,hyattsville crossing,0.25,12
+capitol south,national airport,0.5,6
+capitol south,rosslyn,6.0,5
+capitol south,shady grove,1.0,19
+capitol south,shaw howard university,0.25,6
+capitol south,silver spring,1.0,12
+capitol south,stadium armory,0.75,3
+capitol south,suitland,0.125,9
+capitol south,takoma,0.25,11
+capitol south,tenleytown au,2.25,11
+capitol south,twinbrook,0.5,17
+capitol south,u street,1.125,7
+capitol south,van dorn street,0.625,10
+capitol south,vienna,1.375,13
+capitol south,virginia square gmu,1.375,8
+capitol south,waterfront,0.375,3
+capitol south,west falls church,1.0,11
+capitol south,west hyattsville,0.25,11
+capitol south,wheaton,0.375,14
+capitol south,north bethesda,0.25,16
+capitol south,woodley park,1.375,8
+cheverly,anacostia,0.125,11
+cheverly,branch avenue,0.125,16
+cheverly,capitol heights,0.125,5
+cheverly,cheverly,0.25,0
+cheverly,clarendon,0.125,13
+cheverly,columbia heights,0.125,14
+cheverly,congress heights,0.25,12
+cheverly,deanwood,0.125,1
+cheverly,dunn loring,0.125,18
+cheverly,eastern market,0.5,5
+cheverly,fort totten,0.625,16
+cheverly,gallery place,0.125,10
+cheverly,georgia avenue petworth,0.625,15
+cheverly,mcpherson square,0.25,12
+cheverly,minnesota avenue,0.25,2
+cheverly,naylor road,0.125,14
+cheverly,new carrollton,0.25,2
+cheverly,rosslyn,0.125,11
+cheverly,southern avenue,0.125,13
+cheverly,stadium armory,0.375,3
+cheverly,suitland,0.375,15
+cheverly,takoma,0.25,17
+cheverly,u street,0.125,13
+cheverly,woodley park,0.125,14
+clarendon,addison road,0.125,13
+clarendon,archives,0.5,6
+clarendon,ballston-mu,47.875,2
+clarendon,bethesda,2.5,14
+clarendon,braddock road,3.375,9
+clarendon,branch avenue,0.75,13
+clarendon,brookland cua,1.125,12
+clarendon,capitol south,3.5,7
+clarendon,cheverly,1.25,13
+clarendon,clarendon,22.125,0
+clarendon,cleveland park,1.375,10
+clarendon,college park university of maryland,0.5,16
+clarendon,columbia heights,4.375,11
+clarendon,congress heights,0.25,9
+clarendon,court house,2.625,1
+clarendon,crystal city,9.75,6
+clarendon,dunn loring,42.625,5
+clarendon,dupont circle,3.5,8
+clarendon,east falls church,51.5,3
+clarendon,eastern market,5.5,8
+clarendon,eisenhower avenue,1.875,11
+clarendon,farragut north,0.375,7
+clarendon,farragut west,11.125,4
+clarendon,federal center sw,0.875,6
+clarendon,foggy bottom gwu,13.125,3
+clarendon,fort totten,1.875,13
+clarendon,franconia springfield,10.875,12
+clarendon,friendship heights,1.375,13
+clarendon,gallery place,0.875,7
+clarendon,georgia avenue petworth,1.125,12
+clarendon,glenmont,1.125,18
+clarendon,greenbelt,0.875,17
+clarendon,grosvenor strathmore,1.375,16
+clarendon,huntington,6.875,12
+clarendon,judiciary square,0.25,8
+clarendon,king street old town,8.625,10
+clarendon,l'enfant plaza,1.875,5
+clarendon,landover,0.125,14
+clarendon,largo,0.5,15
+clarendon,mcpherson square,14.125,5
+clarendon,medical center,0.625,15
+clarendon,metro center,8.0,6
+clarendon,minnesota avenue,0.375,11
+clarendon,morgan boulevard,0.25,14
+clarendon,mount vernon square,1.0,8
+clarendon,navy yard ballpark,0.625,7
+clarendon,naylor road,0.5,11
+clarendon,new carrollton,2.625,15
+clarendon,noma gallaudet u,1.5,10
+clarendon,pentagon,0.875,4
+clarendon,pentagon city,8.75,5
+clarendon,potomac avenue,1.625,9
+clarendon,hyattsville crossing,0.375,15
+clarendon,rhode island avenue,0.625,11
+clarendon,rockville,1.5,19
+clarendon,rosslyn,12.625,2
+clarendon,shady grove,1.375,20
+clarendon,shaw howard university,1.625,9
+clarendon,silver spring,2.75,15
+clarendon,smithsonian,0.5,6
+clarendon,southern avenue,0.875,10
+clarendon,stadium armory,0.375,10
+clarendon,takoma,1.0,14
+clarendon,tenleytown au,1.5,12
+clarendon,twinbrook,0.75,18
+clarendon,u street,1.5,10
+clarendon,union station,2.5,9
+clarendon,van dorn street,5.25,11
+clarendon,van ness udc,1.875,11
+clarendon,vienna,104.5,6
+clarendon,virginia square gmu,6.0,1
+clarendon,waterfront,1.0,6
+clarendon,west falls church,27.125,4
+clarendon,west hyattsville,0.375,14
+clarendon,wheaton,0.5,17
+clarendon,north bethesda,0.875,17
+clarendon,woodley park,2.75,9
+cleveland park,addison road,0.125,15
+cleveland park,anacostia,0.125,10
+cleveland park,archives,0.125,6
+cleveland park,ballston-mu,0.75,12
+cleveland park,benning road,0.25,13
+cleveland park,bethesda,5.375,4
+cleveland park,branch avenue,0.125,15
+cleveland park,brookland cua,0.5,10
+cleveland park,capitol south,0.375,9
+cleveland park,clarendon,1.125,10
+cleveland park,cleveland park,3.875,0
+cleveland park,college park university of maryland,0.375,14
+cleveland park,columbia heights,0.375,9
+cleveland park,congress heights,0.125,11
+cleveland park,court house,1.0,9
+cleveland park,crystal city,0.625,10
+cleveland park,dunn loring,0.25,15
+cleveland park,dupont circle,8.25,2
+cleveland park,eastern market,1.125,10
+cleveland park,eisenhower avenue,0.375,15
+cleveland park,farragut north,3.375,3
+cleveland park,foggy bottom gwu,0.75,7
+cleveland park,forest glen,2.25,14
+cleveland park,fort totten,2.25,11
+cleveland park,franconia springfield,0.125,16
+cleveland park,friendship heights,3.125,3
+cleveland park,gallery place,2.25,5
+cleveland park,georgia avenue petworth,0.375,10
+cleveland park,glenmont,0.75,16
+cleveland park,greenbelt,0.25,15
+cleveland park,grosvenor strathmore,8.25,6
+cleveland park,huntington,0.375,16
+cleveland park,judiciary square,0.5,6
+cleveland park,king street old town,0.25,14
+cleveland park,largo,0.125,17
+cleveland park,medical center,0.375,5
+cleveland park,metro center,0.5,4
+cleveland park,minnesota avenue,0.25,13
+cleveland park,mount vernon square,0.25,6
+cleveland park,naylor road,0.125,13
+cleveland park,new carrollton,0.875,17
+cleveland park,noma gallaudet u,1.625,8
+cleveland park,pentagon city,1.375,9
+cleveland park,potomac avenue,0.25,11
+cleveland park,hyattsville crossing,0.25,13
+cleveland park,rhode island avenue,1.0,9
+cleveland park,rockville,2.75,9
+cleveland park,rosslyn,1.25,8
+cleveland park,shady grove,3.5,10
+cleveland park,shaw howard university,0.25,7
+cleveland park,silver spring,2.125,13
+cleveland park,stadium armory,0.25,12
+cleveland park,suitland,1.25,14
+cleveland park,takoma,1.625,12
+cleveland park,tenleytown au,2.0,2
+cleveland park,twinbrook,3.625,8
+cleveland park,u street,0.125,8
+cleveland park,union station,3.75,7
+cleveland park,van dorn street,0.375,15
+cleveland park,van ness udc,2.375,1
+cleveland park,vienna,0.25,16
+cleveland park,virginia square gmu,0.25,11
+cleveland park,waterfront,0.625,8
+cleveland park,west falls church,0.25,14
+cleveland park,north bethesda,2.625,7
+cleveland park,woodley park,1.75,1
+college park university of maryland,addison road,0.125,19
+college park university of maryland,anacostia,0.25,14
+college park university of maryland,benning road,0.125,17
+college park university of maryland,bethesda,0.125,18
+college park university of maryland,branch avenue,0.25,19
+college park university of maryland,brookland cua,0.25,4
+college park university of maryland,cleveland park,0.125,14
+college park university of maryland,college park university of maryland,3.125,0
+college park university of maryland,columbia heights,1.375,5
+college park university of maryland,congress heights,0.25,15
+college park university of maryland,crystal city,0.25,14
+college park university of maryland,dupont circle,0.125,12
+college park university of maryland,east falls church,0.25,19
+college park university of maryland,eastern market,0.125,14
+college park university of maryland,farragut west,0.375,12
+college park university of maryland,foggy bottom gwu,0.125,13
+college park university of maryland,fort totten,1.5,3
+college park university of maryland,franconia springfield,0.125,20
+college park university of maryland,friendship heights,0.125,17
+college park university of maryland,gallery place,0.75,9
+college park university of maryland,georgia avenue petworth,2.125,4
+college park university of maryland,glenmont,0.5,8
+college park university of maryland,greenbelt,2.625,1
+college park university of maryland,grosvenor strathmore,0.125,20
+college park university of maryland,huntington,0.25,20
+college park university of maryland,largo,0.125,21
+college park university of maryland,metro center,0.125,10
+college park university of maryland,mount vernon square,0.125,8
+college park university of maryland,naylor road,0.375,17
+college park university of maryland,new carrollton,0.125,21
+college park university of maryland,noma gallaudet u,0.625,6
+college park university of maryland,pentagon city,0.5,13
+college park university of maryland,potomac avenue,0.125,15
+college park university of maryland,hyattsville crossing,0.625,1
+college park university of maryland,national airport,0.25,15
+college park university of maryland,rockville,0.125,23
+college park university of maryland,shady grove,0.25,24
+college park university of maryland,shaw howard university,0.75,7
+college park university of maryland,silver spring,0.875,5
+college park university of maryland,southern avenue,0.125,16
+college park university of maryland,stadium armory,0.125,16
+college park university of maryland,suitland,0.125,18
+college park university of maryland,takoma,0.375,4
+college park university of maryland,tenleytown au,0.125,16
+college park university of maryland,twinbrook,0.125,22
+college park university of maryland,u street,3.0,6
+college park university of maryland,union station,0.125,7
+college park university of maryland,virginia square gmu,0.125,17
+college park university of maryland,west falls church,0.125,20
+college park university of maryland,west hyattsville,0.5,2
+college park university of maryland,wheaton,0.125,7
+college park university of maryland,woodley park,0.125,13
+columbia heights,addison road,0.875,14
+columbia heights,anacostia,9.0,9
+columbia heights,archives,1.0,5
+columbia heights,ballston-mu,2.5,13
+columbia heights,benning road,2.875,12
+columbia heights,bethesda,2.0,13
+columbia heights,braddock road,2.5,12
+columbia heights,branch avenue,2.125,14
+columbia heights,brookland cua,3.5,3
+columbia heights,capitol heights,1.125,13
+columbia heights,capitol south,2.625,8
+columbia heights,clarendon,1.375,11
+columbia heights,cleveland park,0.25,9
+columbia heights,college park university of maryland,10.0,5
+columbia heights,columbia heights,8.625,0
+columbia heights,congress heights,4.25,10
+columbia heights,court house,2.375,10
+columbia heights,crystal city,6.625,9
+columbia heights,deanwood,1.25,13
+columbia heights,dunn loring,0.75,16
+columbia heights,dupont circle,3.25,7
+columbia heights,east falls church,2.875,14
+columbia heights,eastern market,5.75,9
+columbia heights,eisenhower avenue,1.125,14
+columbia heights,farragut north,0.5,6
+columbia heights,farragut west,0.375,7
+columbia heights,foggy bottom gwu,4.625,8
+columbia heights,forest glen,0.875,5
+columbia heights,fort totten,61.75,2
+columbia heights,franconia springfield,1.25,15
+columbia heights,friendship heights,1.625,12
+columbia heights,gallery place,16.0,4
+columbia heights,georgia avenue petworth,14.125,1
+columbia heights,glenmont,5.625,7
+columbia heights,greenbelt,11.25,6
+columbia heights,grosvenor strathmore,0.75,15
+columbia heights,huntington,5.75,15
+columbia heights,judiciary square,0.125,5
+columbia heights,king street old town,6.25,13
+columbia heights,l'enfant plaza,2.25,6
+columbia heights,landover,1.0,15
+columbia heights,largo,1.0,16
+columbia heights,mcpherson square,0.625,6
+columbia heights,metro center,0.375,5
+columbia heights,minnesota avenue,3.0,12
+columbia heights,morgan boulevard,0.125,15
+columbia heights,mount vernon square,9.75,3
+columbia heights,navy yard ballpark,6.0,8
+columbia heights,naylor road,3.0,12
+columbia heights,new carrollton,3.125,16
+columbia heights,noma gallaudet u,3.5,5
+columbia heights,pentagon,1.0,7
+columbia heights,pentagon city,8.875,8
+columbia heights,potomac avenue,3.25,10
+columbia heights,hyattsville crossing,12.5,4
+columbia heights,national airport,1.25,10
+columbia heights,rhode island avenue,2.125,4
+columbia heights,rockville,0.625,18
+columbia heights,rosslyn,3.75,9
+columbia heights,shady grove,2.375,19
+columbia heights,shaw howard university,13.5,2
+columbia heights,silver spring,13.5,4
+columbia heights,southern avenue,3.375,11
+columbia heights,stadium armory,2.75,11
+columbia heights,suitland,4.0,13
+columbia heights,takoma,6.125,3
+columbia heights,tenleytown au,2.5,11
+columbia heights,twinbrook,1.0,17
+columbia heights,u street,12.875,1
+columbia heights,union station,4.125,6
+columbia heights,van dorn street,0.875,14
+columbia heights,van ness udc,1.625,10
+columbia heights,vienna,2.75,17
+columbia heights,virginia square gmu,1.0,12
+columbia heights,waterfront,11.125,7
+columbia heights,west falls church,1.0,15
+columbia heights,west hyattsville,16.5,3
+columbia heights,wheaton,4.25,6
+columbia heights,north bethesda,0.5,16
+columbia heights,woodley park,0.25,8
+congress heights,addison road,0.375,12
+congress heights,anacostia,1.125,1
+congress heights,archives,0.25,5
+congress heights,benning road,0.625,10
+congress heights,braddock road,0.25,10
+congress heights,branch avenue,1.25,4
+congress heights,brookland cua,0.25,11
+congress heights,capitol heights,0.5,11
+congress heights,college park university of maryland,0.375,15
+congress heights,columbia heights,2.625,10
+congress heights,congress heights,2.0,0
+congress heights,crystal city,0.375,7
+congress heights,deanwood,0.625,11
+congress heights,dupont circle,0.625,9
+congress heights,east falls church,0.125,12
+congress heights,farragut west,0.375,9
+congress heights,foggy bottom gwu,0.5,8
+congress heights,fort totten,1.875,12
+congress heights,gallery place,1.5,6
+congress heights,georgia avenue petworth,0.75,11
+congress heights,glenmont,0.5,17
+congress heights,greenbelt,0.125,16
+congress heights,huntington,0.25,13
+congress heights,landover,0.5,13
+congress heights,largo,0.375,14
+congress heights,metro center,0.375,7
+congress heights,minnesota avenue,0.5,10
+congress heights,navy yard ballpark,0.625,2
+congress heights,naylor road,2.25,2
+congress heights,new carrollton,0.5,14
+congress heights,noma gallaudet u,0.375,9
+congress heights,pentagon city,0.25,6
+congress heights,potomac avenue,0.25,8
+congress heights,national airport,0.5,8
+congress heights,rhode island avenue,1.75,10
+congress heights,shady grove,0.125,21
+congress heights,shaw howard university,0.625,8
+congress heights,silver spring,0.125,14
+congress heights,southern avenue,1.375,1
+congress heights,stadium armory,1.125,9
+congress heights,suitland,4.25,3
+congress heights,takoma,0.125,13
+congress heights,u street,1.125,9
+congress heights,waterfront,0.625,3
+congress heights,west falls church,0.125,13
+congress heights,west hyattsville,0.25,13
+congress heights,woodley park,0.25,10
+court house,addison road,0.625,12
+court house,ballston-mu,9.75,3
+court house,benning road,0.875,10
+court house,bethesda,1.125,13
+court house,braddock road,0.75,8
+court house,brookland cua,0.25,11
+court house,capitol south,1.0,6
+court house,clarendon,1.125,1
+court house,cleveland park,0.875,9
+court house,college park university of maryland,0.125,15
+court house,columbia heights,1.125,10
+court house,congress heights,0.125,8
+court house,court house,3.0,0
+court house,crystal city,1.625,5
+court house,deanwood,0.125,11
+court house,dunn loring,6.25,6
+court house,dupont circle,1.25,7
+court house,east falls church,7.25,4
+court house,eastern market,2.5,7
+court house,eisenhower avenue,0.5,10
+court house,farragut west,3.875,3
+court house,foggy bottom gwu,5.0,2
+court house,forest glen,0.375,15
+court house,fort totten,0.75,12
+court house,franconia springfield,1.875,11
+court house,friendship heights,0.625,12
+court house,gallery place,0.875,6
+court house,georgia avenue petworth,1.125,11
+court house,grosvenor strathmore,0.375,15
+court house,huntington,2.0,11
+court house,judiciary square,0.5,7
+court house,king street old town,2.25,9
+court house,l'enfant plaza,0.625,4
+court house,mcpherson square,5.5,4
+court house,metro center,2.5,5
+court house,minnesota avenue,0.125,10
+court house,morgan boulevard,0.125,13
+court house,mount vernon square,0.875,7
+court house,navy yard ballpark,0.25,6
+court house,naylor road,0.125,10
+court house,new carrollton,0.375,14
+court house,noma gallaudet u,0.625,9
+court house,pentagon,0.5,3
+court house,pentagon city,1.875,4
+court house,potomac avenue,0.625,8
+court house,hyattsville crossing,0.25,14
+court house,rhode island avenue,0.125,10
+court house,rockville,0.375,18
+court house,rosslyn,2.875,1
+court house,shady grove,0.625,19
+court house,shaw howard university,0.75,8
+court house,silver spring,0.625,14
+court house,smithsonian,0.25,5
+court house,southern avenue,0.5,9
+court house,stadium armory,0.125,9
+court house,suitland,0.125,11
+court house,takoma,0.25,13
+court house,tenleytown au,0.625,11
+court house,twinbrook,0.25,17
+court house,u street,1.0,9
+court house,union station,1.5,8
+court house,van dorn street,0.875,10
+court house,van ness udc,1.375,10
+court house,vienna,8.125,7
+court house,virginia square gmu,1.375,2
+court house,waterfront,0.375,5
+court house,west falls church,3.25,5
+court house,west hyattsville,0.125,13
+court house,north bethesda,0.5,16
+court house,woodley park,0.625,8
+crystal city,addison road,0.625,11
+crystal city,anacostia,2.625,6
+crystal city,archives,0.625,4
+crystal city,ballston-mu,2.75,8
+crystal city,benning road,1.75,9
+crystal city,bethesda,1.375,14
+crystal city,braddock road,4.125,3
+crystal city,branch avenue,1.75,11
+crystal city,brookland cua,0.75,10
+crystal city,capitol heights,0.75,10
+crystal city,capitol south,0.25,5
+crystal city,cheverly,0.25,11
+crystal city,clarendon,1.125,6
+crystal city,cleveland park,0.875,10
+crystal city,college park university of maryland,0.75,14
+crystal city,columbia heights,10.375,9
+crystal city,congress heights,1.0,7
+crystal city,court house,3.25,5
+crystal city,crystal city,4.0,0
+crystal city,deanwood,0.375,10
+crystal city,dunn loring,1.375,11
+crystal city,dupont circle,3.0,8
+crystal city,east falls church,2.25,9
+crystal city,eastern market,3.125,6
+crystal city,eisenhower avenue,2.5,5
+crystal city,farragut west,3.0,6
+crystal city,federal center sw,0.25,4
+crystal city,foggy bottom gwu,6.25,5
+crystal city,forest glen,0.5,14
+crystal city,fort totten,5.0,11
+crystal city,franconia springfield,4.375,6
+crystal city,friendship heights,0.875,13
+crystal city,gallery place,7.5,5
+crystal city,georgia avenue petworth,3.5,10
+crystal city,glenmont,0.875,16
+crystal city,greenbelt,0.875,15
+crystal city,grosvenor strathmore,0.625,16
+crystal city,huntington,7.875,6
+crystal city,king street old town,6.75,4
+crystal city,l'enfant plaza,1.875,3
+crystal city,landover,0.125,12
+crystal city,largo,0.75,13
+crystal city,mcpherson square,3.25,7
+crystal city,medical center,0.875,15
+crystal city,metro center,2.875,6
+crystal city,minnesota avenue,0.125,9
+crystal city,morgan boulevard,0.25,12
+crystal city,mount vernon square,7.25,6
+crystal city,navy yard ballpark,1.5,5
+crystal city,naylor road,1.375,9
+crystal city,new carrollton,0.875,13
+crystal city,noma gallaudet u,1.125,8
+crystal city,pentagon,1.25,2
+crystal city,pentagon city,3.5,1
+crystal city,potomac avenue,1.25,7
+crystal city,hyattsville crossing,0.5,13
+crystal city,national airport,2.375,1
+crystal city,rhode island avenue,0.75,9
+crystal city,rockville,0.5,19
+crystal city,rosslyn,7.125,4
+crystal city,shady grove,1.125,20
+crystal city,shaw howard university,4.5,7
+crystal city,silver spring,2.875,13
+crystal city,southern avenue,0.625,8
+crystal city,stadium armory,0.625,8
+crystal city,suitland,0.875,10
+crystal city,takoma,3.375,12
+crystal city,tenleytown au,0.5,12
+crystal city,twinbrook,0.5,18
+crystal city,u street,10.25,8
+crystal city,union station,1.75,7
+crystal city,van dorn street,5.75,5
+crystal city,van ness udc,1.5,11
+crystal city,vienna,3.5,12
+crystal city,virginia square gmu,1.375,7
+crystal city,waterfront,0.875,4
+crystal city,west falls church,1.375,10
+crystal city,west hyattsville,1.0,12
+crystal city,wheaton,0.375,15
+crystal city,north bethesda,0.125,17
+crystal city,woodley park,2.0,9
+deanwood,addison road,0.375,5
+deanwood,anacostia,1.5,10
+deanwood,benning road,0.125,3
+deanwood,braddock road,1.0,13
+deanwood,brookland cua,0.25,14
+deanwood,cheverly,0.875,1
+deanwood,columbia heights,0.5,13
+deanwood,congress heights,0.375,11
+deanwood,deanwood,1.5,0
+deanwood,eastern market,0.125,4
+deanwood,farragut west,0.375,12
+deanwood,foggy bottom gwu,0.125,11
+deanwood,gallery place,0.25,9
+deanwood,georgia avenue petworth,0.375,14
+deanwood,huntington,0.375,16
+deanwood,king street old town,0.25,14
+deanwood,landover,1.75,2
+deanwood,largo,0.5,7
+deanwood,minnesota avenue,1.5,1
+deanwood,morgan boulevard,0.125,6
+deanwood,mount vernon square,0.25,10
+deanwood,navy yard ballpark,0.25,9
+deanwood,new carrollton,2.25,3
+deanwood,noma gallaudet u,0.125,12
+deanwood,pentagon,0.25,8
+deanwood,pentagon city,0.25,9
+deanwood,potomac avenue,0.125,3
+deanwood,national airport,0.125,11
+deanwood,rhode island avenue,0.625,13
+deanwood,shaw howard university,0.125,11
+deanwood,silver spring,0.375,17
+deanwood,southern avenue,0.375,12
+deanwood,stadium armory,1.0,2
+deanwood,takoma,0.375,16
+deanwood,u street,0.375,12
+deanwood,union station,0.125,11
+deanwood,waterfront,0.125,8
+deanwood,west falls church,0.125,16
+deanwood,west hyattsville,0.125,16
+deanwood,wheaton,0.125,19
+deanwood,woodley park,0.25,13
+dunn loring,addison road,0.125,18
+dunn loring,ballston-mu,3.625,3
+dunn loring,benning road,0.125,16
+dunn loring,bethesda,0.125,19
+dunn loring,capitol heights,0.125,17
+dunn loring,capitol south,0.375,12
+dunn loring,clarendon,1.5,5
+dunn loring,cleveland park,0.125,15
+dunn loring,columbia heights,0.25,16
+dunn loring,congress heights,0.125,14
+dunn loring,court house,0.5,6
+dunn loring,crystal city,0.25,11
+dunn loring,dunn loring,4.625,0
+dunn loring,east falls church,0.625,2
+dunn loring,eastern market,0.25,13
+dunn loring,farragut west,0.375,9
+dunn loring,foggy bottom gwu,0.5,8
+dunn loring,fort totten,0.375,18
+dunn loring,franconia springfield,0.125,17
+dunn loring,gallery place,0.375,12
+dunn loring,glenmont,0.125,23
+dunn loring,grosvenor strathmore,0.125,21
+dunn loring,huntington,0.25,17
+dunn loring,king street old town,0.125,15
+dunn loring,landover,0.375,19
+dunn loring,mcpherson square,0.625,10
+dunn loring,metro center,1.0,11
+dunn loring,mount vernon square,0.25,13
+dunn loring,new carrollton,0.125,20
+dunn loring,noma gallaudet u,0.375,15
+dunn loring,pentagon,0.25,9
+dunn loring,pentagon city,0.5,10
+dunn loring,rhode island avenue,0.625,16
+dunn loring,rockville,0.25,24
+dunn loring,rosslyn,2.375,7
+dunn loring,shady grove,0.5,25
+dunn loring,shaw howard university,0.125,14
+dunn loring,southern avenue,0.125,15
+dunn loring,stadium armory,0.25,15
+dunn loring,suitland,1.125,17
+dunn loring,takoma,0.125,19
+dunn loring,u street,0.5,15
+dunn loring,union station,0.5,14
+dunn loring,van dorn street,0.75,16
+dunn loring,vienna,4.375,1
+dunn loring,virginia square gmu,0.375,4
+dunn loring,waterfront,0.25,11
+dunn loring,west falls church,0.375,1
+dunn loring,woodley park,0.125,14
+dupont circle,addison road,1.375,13
+dupont circle,anacostia,2.5,8
+dupont circle,archives,0.25,4
+dupont circle,ballston-mu,16.125,10
+dupont circle,benning road,1.5,11
+dupont circle,bethesda,107.75,6
+dupont circle,braddock road,6.75,11
+dupont circle,branch avenue,7.25,13
+dupont circle,brookland cua,17.25,8
+dupont circle,capitol heights,1.875,12
+dupont circle,capitol south,3.25,7
+dupont circle,cheverly,1.0,13
+dupont circle,clarendon,4.375,8
+dupont circle,cleveland park,27.75,2
+dupont circle,college park university of maryland,6.25,12
+dupont circle,columbia heights,6.75,7
+dupont circle,congress heights,2.125,9
+dupont circle,court house,9.25,7
+dupont circle,crystal city,12.25,8
+dupont circle,deanwood,1.25,12
+dupont circle,dunn loring,8.375,13
+dupont circle,dupont circle,18.875,0
+dupont circle,east falls church,12.25,11
+dupont circle,eastern market,5.75,8
+dupont circle,eisenhower avenue,2.75,13
+dupont circle,farragut north,4.0,1
+dupont circle,farragut west,0.375,4
+dupont circle,federal center sw,1.875,6
+dupont circle,federal triangle,0.125,3
+dupont circle,foggy bottom gwu,3.0,5
+dupont circle,forest glen,13.125,12
+dupont circle,fort totten,36.125,9
+dupont circle,franconia springfield,12.125,14
+dupont circle,friendship heights,50.625,5
+dupont circle,gallery place,27.125,3
+dupont circle,georgia avenue petworth,7.625,8
+dupont circle,glenmont,24.625,14
+dupont circle,greenbelt,9.0,13
+dupont circle,grosvenor strathmore,88.625,8
+dupont circle,huntington,15.625,14
+dupont circle,judiciary square,5.75,4
+dupont circle,king street old town,8.5,12
+dupont circle,l'enfant plaza,4.25,5
+dupont circle,landover,1.125,14
+dupont circle,largo,2.0,15
+dupont circle,mcpherson square,0.5,3
+dupont circle,medical center,10.125,7
+dupont circle,metro center,13.25,2
+dupont circle,minnesota avenue,1.25,11
+dupont circle,morgan boulevard,1.0,14
+dupont circle,mount vernon square,2.125,4
+dupont circle,navy yard ballpark,4.875,7
+dupont circle,naylor road,1.875,11
+dupont circle,new carrollton,9.25,15
+dupont circle,noma gallaudet u,24.5,6
+dupont circle,pentagon,2.375,6
+dupont circle,pentagon city,19.0,7
+dupont circle,potomac avenue,3.625,9
+dupont circle,hyattsville crossing,3.625,11
+dupont circle,rhode island avenue,11.5,7
+dupont circle,rockville,40.5,11
+dupont circle,rosslyn,13.875,6
+dupont circle,shady grove,79.125,12
+dupont circle,shaw howard university,2.875,5
+dupont circle,silver spring,60.125,11
+dupont circle,smithsonian,0.75,4
+dupont circle,southern avenue,2.0,10
+dupont circle,stadium armory,4.125,10
+dupont circle,suitland,4.625,12
+dupont circle,takoma,22.25,10
+dupont circle,tenleytown au,56.25,4
+dupont circle,twinbrook,37.5,10
+dupont circle,u street,5.5,6
+dupont circle,union station,43.125,5
+dupont circle,van dorn street,8.125,13
+dupont circle,van ness udc,52.875,3
+dupont circle,vienna,18.75,14
+dupont circle,virginia square gmu,4.625,9
+dupont circle,waterfront,7.125,6
+dupont circle,west falls church,9.0,12
+dupont circle,west hyattsville,5.125,10
+dupont circle,wheaton,14.875,13
+dupont circle,north bethesda,31.875,9
+dupont circle,woodley park,30.0,1
+east falls church,ballston-mu,2.5,1
+east falls church,braddock road,0.375,12
+east falls church,branch avenue,0.125,16
+east falls church,brookland cua,0.375,15
+east falls church,capitol south,0.125,10
+east falls church,cheverly,0.125,16
+east falls church,clarendon,2.25,3
+east falls church,cleveland park,0.25,13
+east falls church,college park university of maryland,1.0,19
+east falls church,columbia heights,0.375,14
+east falls church,congress heights,0.125,12
+east falls church,court house,2.0,4
+east falls church,crystal city,0.875,9
+east falls church,deanwood,0.375,15
+east falls church,dunn loring,4.0,2
+east falls church,dupont circle,0.25,11
+east falls church,east falls church,2.75,0
+east falls church,eisenhower avenue,0.25,14
+east falls church,farragut west,1.5,7
+east falls church,federal center sw,0.25,9
+east falls church,federal triangle,0.125,10
+east falls church,foggy bottom gwu,1.0,6
+east falls church,fort totten,0.375,16
+east falls church,franconia springfield,0.125,15
+east falls church,friendship heights,0.25,16
+east falls church,gallery place,0.375,10
+east falls church,georgia avenue petworth,0.375,15
+east falls church,grosvenor strathmore,0.125,19
+east falls church,huntington,0.5,15
+east falls church,mcpherson square,1.625,8
+east falls church,metro center,1.75,9
+east falls church,navy yard ballpark,0.125,10
+east falls church,naylor road,0.125,14
+east falls church,noma gallaudet u,0.25,13
+east falls church,pentagon,0.125,7
+east falls church,pentagon city,0.375,8
+east falls church,potomac avenue,0.25,12
+east falls church,hyattsville crossing,0.125,18
+east falls church,national airport,0.25,10
+east falls church,rosslyn,1.75,5
+east falls church,shady grove,0.375,23
+east falls church,shaw howard university,0.125,12
+east falls church,silver spring,0.125,18
+east falls church,stadium armory,0.375,13
+east falls church,suitland,0.125,15
+east falls church,takoma,0.375,17
+east falls church,tenleytown au,0.125,15
+east falls church,u street,0.25,13
+east falls church,union station,1.0,12
+east falls church,van dorn street,0.375,14
+east falls church,van ness udc,0.125,14
+east falls church,vienna,3.25,3
+east falls church,virginia square gmu,0.375,2
+east falls church,waterfront,0.25,9
+east falls church,west falls church,1.375,1
+east falls church,wheaton,0.25,20
+east falls church,north bethesda,0.125,20
+east falls church,woodley park,0.375,12
+eastern market,addison road,5.625,5
+eastern market,anacostia,0.625,6
+eastern market,archives,0.25,4
+eastern market,ballston-mu,6.375,10
+eastern market,benning road,3.125,3
+eastern market,bethesda,1.5,14
+eastern market,braddock road,0.875,9
+eastern market,branch avenue,1.0,11
+eastern market,brookland cua,1.5,10
+eastern market,capitol heights,1.625,4
+eastern market,capitol south,0.75,1
+eastern market,cheverly,1.125,5
+eastern market,clarendon,2.5,8
+eastern market,cleveland park,0.875,10
+eastern market,college park university of maryland,0.875,14
+eastern market,columbia heights,15.625,9
+eastern market,congress heights,0.25,7
+eastern market,court house,6.375,7
+eastern market,crystal city,5.125,6
+eastern market,deanwood,0.75,4
+eastern market,dunn loring,1.5,13
+eastern market,dupont circle,4.375,8
+eastern market,east falls church,2.875,11
+eastern market,eastern market,3.25,0
+eastern market,eisenhower avenue,1.0,11
+eastern market,farragut west,2.0,8
+eastern market,federal center sw,1.0,2
+eastern market,federal triangle,0.625,5
+eastern market,foggy bottom gwu,7.625,7
+eastern market,forest glen,0.25,14
+eastern market,fort totten,4.25,11
+eastern market,franconia springfield,2.0,12
+eastern market,friendship heights,1.5,13
+eastern market,gallery place,1.125,5
+eastern market,georgia avenue petworth,3.0,10
+eastern market,glenmont,1.5,16
+eastern market,greenbelt,1.25,15
+eastern market,grosvenor strathmore,0.75,16
+eastern market,huntington,1.625,12
+eastern market,judiciary square,0.125,6
+eastern market,king street old town,1.5,10
+eastern market,l'enfant plaza,3.125,3
+eastern market,landover,3.25,6
+eastern market,largo,2.375,7
+eastern market,mcpherson square,4.5,7
+eastern market,medical center,0.125,15
+eastern market,metro center,9.75,6
+eastern market,minnesota avenue,3.375,3
+eastern market,morgan boulevard,0.5,6
+eastern market,mount vernon square,1.875,6
+eastern market,navy yard ballpark,0.125,5
+eastern market,naylor road,0.25,9
+eastern market,new carrollton,5.0,7
+eastern market,noma gallaudet u,1.125,8
+eastern market,pentagon,1.0,4
+eastern market,pentagon city,3.375,5
+eastern market,potomac avenue,2.0,1
+eastern market,hyattsville crossing,1.0,13
+eastern market,national airport,0.375,7
+eastern market,rhode island avenue,1.375,9
+eastern market,rockville,0.125,19
+eastern market,rosslyn,7.0,6
+eastern market,shady grove,2.25,20
+eastern market,shaw howard university,1.375,7
+eastern market,silver spring,4.0,13
+eastern market,smithsonian,0.625,4
+eastern market,southern avenue,0.125,8
+eastern market,stadium armory,2.875,2
+eastern market,suitland,0.875,10
+eastern market,takoma,1.25,12
+eastern market,tenleytown au,1.375,12
+eastern market,twinbrook,1.5,18
+eastern market,u street,1.625,8
+eastern market,union station,0.125,7
+eastern market,van dorn street,1.75,11
+eastern market,van ness udc,2.0,11
+eastern market,vienna,4.875,14
+eastern market,virginia square gmu,2.375,9
+eastern market,waterfront,0.375,4
+eastern market,west falls church,1.75,12
+eastern market,west hyattsville,1.25,12
+eastern market,wheaton,0.5,15
+eastern market,north bethesda,0.875,17
+eastern market,woodley park,1.875,9
+eisenhower avenue,addison road,2.0,16
+eisenhower avenue,anacostia,2.875,11
+eisenhower avenue,ballston-mu,0.25,13
+eisenhower avenue,benning road,0.5,14
+eisenhower avenue,braddock road,2.125,2
+eisenhower avenue,branch avenue,1.25,16
+eisenhower avenue,brookland cua,0.75,15
+eisenhower avenue,capitol heights,1.0,15
+eisenhower avenue,cheverly,0.125,16
+eisenhower avenue,clarendon,0.25,11
+eisenhower avenue,college park university of maryland,0.125,19
+eisenhower avenue,columbia heights,1.5,14
+eisenhower avenue,congress heights,0.5,12
+eisenhower avenue,court house,0.25,10
+eisenhower avenue,crystal city,1.875,5
+eisenhower avenue,deanwood,0.125,15
+eisenhower avenue,dupont circle,0.25,13
+eisenhower avenue,eastern market,0.125,11
+eisenhower avenue,eisenhower avenue,1.5,0
+eisenhower avenue,fort totten,0.5,16
+eisenhower avenue,franconia springfield,0.125,3
+eisenhower avenue,friendship heights,0.125,18
+eisenhower avenue,gallery place,1.0,10
+eisenhower avenue,georgia avenue petworth,1.125,15
+eisenhower avenue,glenmont,0.125,21
+eisenhower avenue,huntington,14.5,1
+eisenhower avenue,king street old town,3.25,1
+eisenhower avenue,l'enfant plaza,0.125,8
+eisenhower avenue,largo,0.25,18
+eisenhower avenue,mcpherson square,0.375,12
+eisenhower avenue,minnesota avenue,1.5,14
+eisenhower avenue,mount vernon square,0.125,11
+eisenhower avenue,naylor road,1.75,14
+eisenhower avenue,new carrollton,0.625,18
+eisenhower avenue,noma gallaudet u,0.125,13
+eisenhower avenue,pentagon,0.5,7
+eisenhower avenue,pentagon city,2.0,6
+eisenhower avenue,national airport,0.5,4
+eisenhower avenue,rhode island avenue,0.375,14
+eisenhower avenue,rosslyn,0.375,9
+eisenhower avenue,shaw howard university,0.875,12
+eisenhower avenue,silver spring,0.125,18
+eisenhower avenue,southern avenue,1.125,13
+eisenhower avenue,stadium armory,0.125,13
+eisenhower avenue,suitland,0.875,15
+eisenhower avenue,u street,1.125,13
+eisenhower avenue,union station,0.5,12
+eisenhower avenue,van dorn street,1.5,2
+eisenhower avenue,vienna,0.125,17
+eisenhower avenue,waterfront,0.375,9
+eisenhower avenue,west hyattsville,0.375,17
+eisenhower avenue,wheaton,0.125,20
+eisenhower avenue,woodley park,0.25,14
+farragut north,addison road,0.625,12
+farragut north,anacostia,2.75,7
+farragut north,archives,0.25,3
+farragut north,ballston-mu,6.375,9
+farragut north,benning road,0.75,10
+farragut north,bethesda,31.25,7
+farragut north,braddock road,0.75,10
+farragut north,branch avenue,1.875,12
+farragut north,brookland cua,11.875,7
+farragut north,capitol heights,0.375,11
+farragut north,capitol south,1.0,6
+farragut north,cheverly,0.25,12
+farragut north,clarendon,1.875,7
+farragut north,cleveland park,11.0,3
+farragut north,college park university of maryland,4.875,11
+farragut north,columbia heights,5.375,6
+farragut north,congress heights,1.625,8
+farragut north,court house,1.875,6
+farragut north,crystal city,2.625,7
+farragut north,deanwood,0.375,11
+farragut north,dunn loring,1.75,12
+farragut north,dupont circle,2.875,1
+farragut north,east falls church,2.0,10
+farragut north,eastern market,1.25,7
+farragut north,eisenhower avenue,2.375,12
+farragut north,farragut north,18.5,0
+farragut north,federal triangle,0.125,2
+farragut north,foggy bottom gwu,0.375,4
+farragut north,forest glen,4.375,11
+farragut north,fort totten,30.5,8
+farragut north,franconia springfield,2.375,13
+farragut north,friendship heights,18.0,6
+farragut north,gallery place,12.25,2
+farragut north,georgia avenue petworth,7.125,7
+farragut north,glenmont,15.75,13
+farragut north,greenbelt,3.875,12
+farragut north,grosvenor strathmore,30.375,9
+farragut north,huntington,4.5,13
+farragut north,judiciary square,2.625,3
+farragut north,king street old town,1.875,11
+farragut north,l'enfant plaza,0.25,4
+farragut north,landover,0.625,13
+farragut north,largo,0.375,14
+farragut north,mcpherson square,0.25,2
+farragut north,medical center,2.875,8
+farragut north,metro center,2.375,1
+farragut north,minnesota avenue,0.5,10
+farragut north,morgan boulevard,0.5,13
+farragut north,mount vernon square,1.75,3
+farragut north,navy yard ballpark,0.625,6
+farragut north,naylor road,3.375,10
+farragut north,new carrollton,2.375,14
+farragut north,noma gallaudet u,12.75,5
+farragut north,pentagon,0.625,5
+farragut north,pentagon city,3.5,6
+farragut north,potomac avenue,0.5,8
+farragut north,hyattsville crossing,5.5,10
+farragut north,national airport,0.25,8
+farragut north,rhode island avenue,6.375,6
+farragut north,rockville,14.75,12
+farragut north,rosslyn,3.125,5
+farragut north,shady grove,35.0,13
+farragut north,shaw howard university,2.0,4
+farragut north,silver spring,45.625,10
+farragut north,southern avenue,2.75,9
+farragut north,stadium armory,0.375,9
+farragut north,suitland,1.875,11
+farragut north,takoma,13.75,9
+farragut north,tenleytown au,10.625,5
+farragut north,twinbrook,13.625,11
+farragut north,u street,3.625,5
+farragut north,union station,18.25,4
+farragut north,van dorn street,2.0,12
+farragut north,van ness udc,14.25,4
+farragut north,vienna,6.125,13
+farragut north,virginia square gmu,0.125,8
+farragut north,waterfront,1.625,5
+farragut north,west falls church,2.0,11
+farragut north,west hyattsville,6.375,9
+farragut north,wheaton,11.375,12
+farragut north,north bethesda,13.375,10
+farragut north,woodley park,11.625,2
+farragut west,addison road,2.25,13
+farragut west,anacostia,1.375,8
+farragut west,archives,0.125,4
+farragut west,ballston-mu,52.0,6
+farragut west,benning road,2.375,11
+farragut west,bethesda,0.375,10
+farragut west,braddock road,8.375,9
+farragut west,branch avenue,0.875,13
+farragut west,brookland cua,0.5,8
+farragut west,capitol heights,1.375,12
+farragut west,capitol south,5.375,7
+farragut west,cheverly,0.5,13
+farragut west,clarendon,22.5,4
+farragut west,cleveland park,0.25,6
+farragut west,college park university of maryland,1.25,12
+farragut west,columbia heights,1.625,7
+farragut west,congress heights,0.75,9
+farragut west,court house,37.75,3
+farragut west,crystal city,18.75,6
+farragut west,deanwood,1.25,12
+farragut west,dunn loring,23.25,9
+farragut west,east falls church,31.5,7
+farragut west,eastern market,11.375,8
+farragut west,eisenhower avenue,0.125,11
+farragut west,farragut west,12.375,0
+farragut west,federal center sw,3.125,6
+farragut west,federal triangle,0.125,3
+farragut west,foggy bottom gwu,2.0,1
+farragut west,forest glen,0.25,12
+farragut west,fort totten,3.75,9
+farragut west,franconia springfield,16.375,12
+farragut west,friendship heights,0.125,9
+farragut west,gallery place,1.25,3
+farragut west,georgia avenue petworth,1.0,8
+farragut west,glenmont,0.125,14
+farragut west,greenbelt,0.75,13
+farragut west,grosvenor strathmore,1.375,12
+farragut west,huntington,8.75,12
+farragut west,king street old town,10.25,10
+farragut west,l'enfant plaza,2.75,5
+farragut west,landover,2.375,14
+farragut west,largo,4.25,15
+farragut west,mcpherson square,0.5,1
+farragut west,medical center,0.75,11
+farragut west,metro center,2.125,2
+farragut west,minnesota avenue,1.25,11
+farragut west,morgan boulevard,0.75,14
+farragut west,mount vernon square,0.25,4
+farragut west,navy yard ballpark,0.625,7
+farragut west,naylor road,0.75,11
+farragut west,new carrollton,9.875,15
+farragut west,noma gallaudet u,0.5,6
+farragut west,pentagon,4.625,4
+farragut west,pentagon city,25.0,5
+farragut west,potomac avenue,8.375,9
+farragut west,hyattsville crossing,1.25,11
+farragut west,national airport,0.125,7
+farragut west,rockville,0.625,15
+farragut west,rosslyn,40.125,2
+farragut west,shady grove,1.875,16
+farragut west,shaw howard university,2.25,5
+farragut west,silver spring,2.125,11
+farragut west,smithsonian,0.25,4
+farragut west,southern avenue,0.875,10
+farragut west,stadium armory,3.25,10
+farragut west,suitland,2.375,12
+farragut west,takoma,0.5,10
+farragut west,tenleytown au,0.25,8
+farragut west,twinbrook,0.75,14
+farragut west,u street,1.25,6
+farragut west,union station,0.25,5
+farragut west,van dorn street,11.375,11
+farragut west,vienna,40.375,10
+farragut west,virginia square gmu,18.375,5
+farragut west,waterfront,1.375,6
+farragut west,west falls church,20.875,8
+farragut west,west hyattsville,0.375,10
+farragut west,wheaton,0.625,13
+farragut west,north bethesda,0.5,13
+farragut west,woodley park,1.375,5
+federal center sw,anacostia,0.375,4
+federal center sw,ballston-mu,1.625,8
+federal center sw,benning road,0.75,5
+federal center sw,capitol heights,1.0,6
+federal center sw,clarendon,0.625,6
+federal center sw,cleveland park,0.125,8
+federal center sw,columbia heights,0.125,7
+federal center sw,court house,0.625,5
+federal center sw,crystal city,0.25,4
+federal center sw,dunn loring,0.5,11
+federal center sw,dupont circle,0.125,6
+federal center sw,east falls church,0.625,9
+federal center sw,eastern market,0.5,2
+federal center sw,farragut west,0.125,6
+federal center sw,federal center sw,0.25,0
+federal center sw,foggy bottom gwu,0.375,5
+federal center sw,gallery place,0.125,3
+federal center sw,glenmont,0.125,14
+federal center sw,huntington,0.5,10
+federal center sw,king street old town,0.25,8
+federal center sw,landover,0.375,8
+federal center sw,largo,0.5,9
+federal center sw,mcpherson square,0.25,5
+federal center sw,metro center,0.625,4
+federal center sw,minnesota avenue,0.125,5
+federal center sw,morgan boulevard,0.125,8
+federal center sw,new carrollton,0.875,9
+federal center sw,pentagon city,0.375,3
+federal center sw,potomac avenue,0.75,3
+federal center sw,hyattsville crossing,0.125,11
+federal center sw,rockville,0.125,17
+federal center sw,rosslyn,1.0,4
+federal center sw,shady grove,0.125,18
+federal center sw,silver spring,0.125,11
+federal center sw,smithsonian,0.125,2
+federal center sw,stadium armory,0.625,4
+federal center sw,twinbrook,0.375,16
+federal center sw,union station,0.375,5
+federal center sw,van dorn street,0.125,9
+federal center sw,vienna,0.75,12
+federal center sw,virginia square gmu,0.375,7
+federal center sw,west falls church,0.125,10
+federal center sw,woodley park,0.125,7
+federal triangle,addison road,0.75,10
+federal triangle,anacostia,0.25,5
+federal triangle,archives,0.125,3
+federal triangle,ballston-mu,1.75,9
+federal triangle,benning road,0.875,8
+federal triangle,bethesda,0.625,9
+federal triangle,braddock road,0.125,8
+federal triangle,branch avenue,0.5,10
+federal triangle,brookland cua,0.75,7
+federal triangle,capitol heights,0.875,9
+federal triangle,capitol south,0.125,4
+federal triangle,cheverly,0.125,10
+federal triangle,clarendon,1.25,7
+federal triangle,college park university of maryland,2.0,11
+federal triangle,columbia heights,0.375,6
+federal triangle,court house,2.25,6
+federal triangle,crystal city,0.875,5
+federal triangle,deanwood,1.0,9
+federal triangle,dunn loring,1.25,12
+federal triangle,dupont circle,0.75,3
+federal triangle,east falls church,0.75,10
+federal triangle,eastern market,0.75,5
+federal triangle,eisenhower avenue,0.375,10
+federal triangle,farragut west,0.375,3
+federal triangle,federal center sw,0.125,3
+federal triangle,federal triangle,0.75,0
+federal triangle,foggy bottom gwu,1.125,4
+federal triangle,fort totten,0.875,8
+federal triangle,franconia springfield,1.25,11
+federal triangle,friendship heights,0.5,8
+federal triangle,gallery place,0.25,2
+federal triangle,georgia avenue petworth,0.25,7
+federal triangle,glenmont,0.375,13
+federal triangle,greenbelt,0.25,12
+federal triangle,grosvenor strathmore,0.125,11
+federal triangle,huntington,0.375,11
+federal triangle,king street old town,0.625,9
+federal triangle,l'enfant plaza,0.25,2
+federal triangle,landover,1.625,11
+federal triangle,largo,4.0,12
+federal triangle,mcpherson square,0.5,2
+federal triangle,metro center,0.5,1
+federal triangle,minnesota avenue,1.125,8
+federal triangle,morgan boulevard,0.875,11
+federal triangle,mount vernon square,0.25,3
+federal triangle,navy yard ballpark,0.5,4
+federal triangle,naylor road,0.5,8
+federal triangle,new carrollton,0.5,12
+federal triangle,noma gallaudet u,0.5,5
+federal triangle,pentagon,0.625,3
+federal triangle,pentagon city,1.125,4
+federal triangle,potomac avenue,0.75,6
+federal triangle,hyattsville crossing,0.25,10
+federal triangle,rhode island avenue,0.125,6
+federal triangle,rosslyn,2.125,5
+federal triangle,shady grove,0.5,15
+federal triangle,shaw howard university,0.125,4
+federal triangle,silver spring,0.125,10
+federal triangle,southern avenue,1.0,7
+federal triangle,stadium armory,0.625,7
+federal triangle,suitland,0.75,9
+federal triangle,takoma,0.25,9
+federal triangle,tenleytown au,0.5,7
+federal triangle,twinbrook,0.375,13
+federal triangle,u street,0.125,5
+federal triangle,van dorn street,1.0,10
+federal triangle,vienna,2.25,13
+federal triangle,virginia square gmu,0.5,8
+federal triangle,west falls church,0.875,11
+federal triangle,west hyattsville,0.625,9
+federal triangle,wheaton,0.125,12
+federal triangle,woodley park,0.875,4
+foggy bottom gwu,addison road,0.5,12
+foggy bottom gwu,anacostia,7.125,7
+foggy bottom gwu,ballston-mu,33.25,5
+foggy bottom gwu,benning road,6.875,10
+foggy bottom gwu,bethesda,3.875,11
+foggy bottom gwu,braddock road,6.375,8
+foggy bottom gwu,branch avenue,3.125,12
+foggy bottom gwu,brookland cua,5.5,9
+foggy bottom gwu,capitol heights,1.125,11
+foggy bottom gwu,capitol south,5.5,6
+foggy bottom gwu,cheverly,2.75,12
+foggy bottom gwu,clarendon,14.75,3
+foggy bottom gwu,cleveland park,1.625,7
+foggy bottom gwu,college park university of maryland,1.625,13
+foggy bottom gwu,columbia heights,7.625,8
+foggy bottom gwu,congress heights,1.375,8
+foggy bottom gwu,court house,25.875,2
+foggy bottom gwu,crystal city,26.0,5
+foggy bottom gwu,deanwood,1.25,11
+foggy bottom gwu,dunn loring,9.25,8
+foggy bottom gwu,dupont circle,1.625,5
+foggy bottom gwu,east falls church,17.625,6
+foggy bottom gwu,eastern market,7.625,7
+foggy bottom gwu,eisenhower avenue,1.25,10
+foggy bottom gwu,farragut west,1.875,1
+foggy bottom gwu,federal center sw,2.375,5
+foggy bottom gwu,federal triangle,0.5,4
+foggy bottom gwu,foggy bottom gwu,11.5,0
+foggy bottom gwu,forest glen,0.75,13
+foggy bottom gwu,fort totten,17.875,10
+foggy bottom gwu,franconia springfield,16.625,11
+foggy bottom gwu,friendship heights,3.25,10
+foggy bottom gwu,gallery place,4.75,4
+foggy bottom gwu,georgia avenue petworth,9.25,9
+foggy bottom gwu,glenmont,7.75,15
+foggy bottom gwu,greenbelt,1.75,14
+foggy bottom gwu,grosvenor strathmore,3.5,13
+foggy bottom gwu,huntington,7.75,11
+foggy bottom gwu,king street old town,10.75,9
+foggy bottom gwu,l'enfant plaza,2.875,4
+foggy bottom gwu,landover,1.375,13
+foggy bottom gwu,largo,2.625,14
+foggy bottom gwu,mcpherson square,7.375,2
+foggy bottom gwu,medical center,0.5,12
+foggy bottom gwu,metro center,9.125,3
+foggy bottom gwu,minnesota avenue,4.25,10
+foggy bottom gwu,morgan boulevard,1.0,13
+foggy bottom gwu,mount vernon square,1.5,5
+foggy bottom gwu,navy yard ballpark,1.0,6
+foggy bottom gwu,naylor road,1.625,10
+foggy bottom gwu,new carrollton,7.75,14
+foggy bottom gwu,noma gallaudet u,3.75,7
+foggy bottom gwu,pentagon,5.875,3
+foggy bottom gwu,pentagon city,34.375,4
+foggy bottom gwu,potomac avenue,6.25,8
+foggy bottom gwu,hyattsville crossing,2.25,12
+foggy bottom gwu,national airport,0.875,6
+foggy bottom gwu,rhode island avenue,2.125,8
+foggy bottom gwu,rockville,0.875,16
+foggy bottom gwu,rosslyn,25.75,1
+foggy bottom gwu,shady grove,5.625,17
+foggy bottom gwu,shaw howard university,2.75,6
+foggy bottom gwu,silver spring,13.0,12
+foggy bottom gwu,smithsonian,0.5,5
+foggy bottom gwu,southern avenue,2.875,9
+foggy bottom gwu,stadium armory,3.75,9
+foggy bottom gwu,suitland,2.5,11
+foggy bottom gwu,takoma,3.875,11
+foggy bottom gwu,tenleytown au,5.375,9
+foggy bottom gwu,twinbrook,1.75,15
+foggy bottom gwu,u street,5.125,7
+foggy bottom gwu,union station,5.5,6
+foggy bottom gwu,van dorn street,5.875,10
+foggy bottom gwu,van ness udc,2.875,8
+foggy bottom gwu,vienna,28.375,9
+foggy bottom gwu,virginia square gmu,10.5,4
+foggy bottom gwu,waterfront,2.5,5
+foggy bottom gwu,west falls church,8.0,7
+foggy bottom gwu,west hyattsville,2.375,11
+foggy bottom gwu,wheaton,3.75,14
+foggy bottom gwu,north bethesda,1.625,14
+foggy bottom gwu,woodley park,2.75,6
+forest glen,archives,0.125,10
+forest glen,ballston-mu,0.25,18
+forest glen,brookland cua,0.625,4
+forest glen,capitol heights,0.125,18
+forest glen,clarendon,0.5,16
+forest glen,college park university of maryland,0.25,6
+forest glen,columbia heights,0.125,5
+forest glen,dupont circle,0.75,12
+forest glen,farragut north,0.25,11
+forest glen,foggy bottom gwu,0.25,13
+forest glen,forest glen,1.75,0
+forest glen,fort totten,0.375,3
+forest glen,friendship heights,0.375,17
+forest glen,gallery place,0.625,9
+forest glen,georgia avenue petworth,0.25,4
+forest glen,glenmont,1.25,2
+forest glen,greenbelt,0.25,7
+forest glen,huntington,0.125,20
+forest glen,metro center,0.375,10
+forest glen,naylor road,0.125,17
+forest glen,noma gallaudet u,0.25,6
+forest glen,pentagon city,0.375,13
+forest glen,rhode island avenue,0.125,5
+forest glen,shady grove,0.125,24
+forest glen,silver spring,1.0,1
+forest glen,takoma,0.25,2
+forest glen,union station,0.125,7
+forest glen,west hyattsville,0.125,4
+forest glen,wheaton,1.125,1
+forest glen,woodley park,0.375,13
+fort totten,addison road,1.25,16
+fort totten,anacostia,6.75,11
+fort totten,archives,0.125,7
+fort totten,ballston-mu,0.375,15
+fort totten,benning road,2.125,14
+fort totten,bethesda,0.5,15
+fort totten,braddock road,0.25,14
+fort totten,branch avenue,1.5,16
+fort totten,brookland cua,4.5,1
+fort totten,capitol heights,1.375,15
+fort totten,cheverly,0.25,16
+fort totten,college park university of maryland,1.0,3
+fort totten,columbia heights,13.625,2
+fort totten,congress heights,2.0,12
+fort totten,court house,0.125,12
+fort totten,crystal city,0.25,11
+fort totten,deanwood,0.875,15
+fort totten,dunn loring,0.125,18
+fort totten,dupont circle,2.125,9
+fort totten,eastern market,0.375,11
+fort totten,farragut north,2.125,8
+fort totten,farragut west,0.25,9
+fort totten,foggy bottom gwu,2.75,10
+fort totten,forest glen,2.75,3
+fort totten,fort totten,8.625,0
+fort totten,franconia springfield,0.375,17
+fort totten,gallery place,6.125,6
+fort totten,georgia avenue petworth,6.125,1
+fort totten,glenmont,4.375,5
+fort totten,greenbelt,1.875,4
+fort totten,grosvenor strathmore,0.25,17
+fort totten,huntington,0.375,17
+fort totten,l'enfant plaza,0.5,8
+fort totten,landover,1.125,17
+fort totten,largo,0.875,18
+fort totten,mcpherson square,0.5,8
+fort totten,medical center,0.125,16
+fort totten,metro center,0.625,7
+fort totten,minnesota avenue,1.25,14
+fort totten,morgan boulevard,0.5,17
+fort totten,mount vernon square,3.375,5
+fort totten,navy yard ballpark,0.25,10
+fort totten,naylor road,2.75,14
+fort totten,new carrollton,0.875,18
+fort totten,noma gallaudet u,5.0,3
+fort totten,pentagon,0.125,9
+fort totten,pentagon city,0.75,10
+fort totten,potomac avenue,1.625,12
+fort totten,hyattsville crossing,2.0,2
+fort totten,national airport,0.375,12
+fort totten,rhode island avenue,6.0,2
+fort totten,rockville,0.375,20
+fort totten,shady grove,1.875,21
+fort totten,shaw howard university,10.5,4
+fort totten,silver spring,9.0,2
+fort totten,southern avenue,5.625,13
+fort totten,stadium armory,0.625,13
+fort totten,suitland,4.0,15
+fort totten,takoma,3.125,1
+fort totten,tenleytown au,0.75,13
+fort totten,twinbrook,0.25,19
+fort totten,u street,21.125,3
+fort totten,union station,2.75,4
+fort totten,van dorn street,0.125,16
+fort totten,van ness udc,0.5,12
+fort totten,vienna,0.125,19
+fort totten,waterfront,2.0,9
+fort totten,west falls church,0.125,17
+fort totten,west hyattsville,5.125,1
+fort totten,wheaton,3.25,4
+fort totten,woodley park,1.875,10
+franconia springfield,addison road,0.625,17
+franconia springfield,anacostia,0.375,12
+franconia springfield,ballston-mu,0.125,14
+franconia springfield,benning road,0.375,15
+franconia springfield,braddock road,0.125,3
+franconia springfield,branch avenue,0.5,17
+franconia springfield,capitol south,0.125,11
+franconia springfield,cleveland park,0.125,16
+franconia springfield,court house,0.625,11
+franconia springfield,crystal city,0.625,6
+franconia springfield,dupont circle,0.25,14
+franconia springfield,east falls church,0.375,15
+franconia springfield,eastern market,0.375,12
+franconia springfield,farragut west,0.75,12
+franconia springfield,federal triangle,0.125,11
+franconia springfield,foggy bottom gwu,0.875,11
+franconia springfield,fort totten,0.75,17
+franconia springfield,franconia springfield,4.5,0
+franconia springfield,friendship heights,0.125,19
+franconia springfield,gallery place,1.25,11
+franconia springfield,glenmont,0.375,22
+franconia springfield,huntington,1.5,4
+franconia springfield,king street old town,1.125,2
+franconia springfield,l'enfant plaza,0.125,9
+franconia springfield,landover,1.375,18
+franconia springfield,largo,0.375,19
+franconia springfield,mcpherson square,1.0,13
+franconia springfield,metro center,1.625,12
+franconia springfield,minnesota avenue,0.5,15
+franconia springfield,mount vernon square,0.125,12
+franconia springfield,navy yard ballpark,0.125,11
+franconia springfield,naylor road,0.375,15
+franconia springfield,new carrollton,0.125,19
+franconia springfield,noma gallaudet u,0.5,14
+franconia springfield,pentagon,0.375,8
+franconia springfield,pentagon city,1.125,7
+franconia springfield,potomac avenue,0.125,13
+franconia springfield,national airport,1.125,5
+franconia springfield,rhode island avenue,0.125,15
+franconia springfield,rockville,0.375,25
+franconia springfield,rosslyn,1.25,10
+franconia springfield,shady grove,0.75,26
+franconia springfield,shaw howard university,0.125,13
+franconia springfield,silver spring,0.625,19
+franconia springfield,stadium armory,0.375,14
+franconia springfield,suitland,0.125,16
+franconia springfield,takoma,0.125,18
+franconia springfield,tenleytown au,0.125,18
+franconia springfield,u street,0.375,14
+franconia springfield,union station,0.25,13
+franconia springfield,van dorn street,0.5,1
+franconia springfield,vienna,0.375,18
+franconia springfield,virginia square gmu,0.125,13
+franconia springfield,west hyattsville,0.125,18
+franconia springfield,north bethesda,0.125,23
+friendship heights,addison road,1.0,18
+friendship heights,anacostia,1.75,13
+friendship heights,ballston-mu,0.75,15
+friendship heights,benning road,0.25,16
+friendship heights,bethesda,13.875,1
+friendship heights,braddock road,0.375,16
+friendship heights,branch avenue,0.5,18
+friendship heights,brookland cua,2.625,13
+friendship heights,capitol heights,0.25,17
+friendship heights,capitol south,0.375,12
+friendship heights,clarendon,0.125,13
+friendship heights,cleveland park,2.5,3
+friendship heights,college park university of maryland,0.5,17
+friendship heights,columbia heights,0.875,12
+friendship heights,congress heights,0.625,14
+friendship heights,court house,0.125,12
+friendship heights,crystal city,0.25,13
+friendship heights,dunn loring,0.5,18
+friendship heights,dupont circle,6.625,5
+friendship heights,east falls church,0.75,16
+friendship heights,eastern market,1.25,13
+friendship heights,eisenhower avenue,0.125,18
+friendship heights,farragut north,3.0,6
+friendship heights,foggy bottom gwu,0.375,10
+friendship heights,forest glen,0.5,17
+friendship heights,fort totten,3.0,14
+friendship heights,franconia springfield,0.5,19
+friendship heights,friendship heights,6.75,0
+friendship heights,gallery place,1.625,8
+friendship heights,georgia avenue petworth,1.625,13
+friendship heights,glenmont,0.875,19
+friendship heights,greenbelt,0.375,18
+friendship heights,grosvenor strathmore,6.625,3
+friendship heights,huntington,0.5,19
+friendship heights,judiciary square,0.375,9
+friendship heights,king street old town,0.25,17
+friendship heights,mcpherson square,0.125,8
+friendship heights,medical center,1.625,2
+friendship heights,metro center,1.375,7
+friendship heights,morgan boulevard,0.375,19
+friendship heights,mount vernon square,1.0,9
+friendship heights,navy yard ballpark,0.125,12
+friendship heights,naylor road,0.625,16
+friendship heights,new carrollton,0.5,20
+friendship heights,noma gallaudet u,2.0,11
+friendship heights,pentagon,0.125,11
+friendship heights,pentagon city,0.5,12
+friendship heights,potomac avenue,0.75,14
+friendship heights,hyattsville crossing,0.75,16
+friendship heights,national airport,0.125,14
+friendship heights,rhode island avenue,1.625,12
+friendship heights,rockville,6.25,6
+friendship heights,rosslyn,0.5,11
+friendship heights,shady grove,8.25,7
+friendship heights,shaw howard university,0.5,10
+friendship heights,silver spring,3.375,16
+friendship heights,southern avenue,2.0,15
+friendship heights,stadium armory,0.125,15
+friendship heights,suitland,0.75,17
+friendship heights,takoma,1.125,15
+friendship heights,tenleytown au,8.0,1
+friendship heights,twinbrook,7.875,5
+friendship heights,u street,0.375,11
+friendship heights,union station,1.0,10
+friendship heights,van ness udc,3.375,2
+friendship heights,vienna,0.125,19
+friendship heights,virginia square gmu,0.25,14
+friendship heights,waterfront,0.125,11
+friendship heights,west falls church,0.125,17
+friendship heights,wheaton,1.25,18
+friendship heights,north bethesda,3.375,4
+friendship heights,woodley park,10.625,4
+gallery place,addison road,5.125,10
+gallery place,anacostia,42.625,5
+gallery place,archives,0.875,1
+gallery place,ballston-mu,12.5,9
+gallery place,benning road,10.25,8
+gallery place,bethesda,48.375,9
+gallery place,braddock road,16.25,8
+gallery place,branch avenue,29.5,10
+gallery place,brookland cua,38.375,5
+gallery place,capitol heights,4.625,9
+gallery place,capitol south,3.75,4
+gallery place,cheverly,2.75,10
+gallery place,clarendon,4.375,7
+gallery place,cleveland park,20.375,5
+gallery place,college park university of maryland,28.875,9
+gallery place,columbia heights,125.625,4
+gallery place,congress heights,13.625,6
+gallery place,court house,7.0,6
+gallery place,crystal city,38.125,5
+gallery place,deanwood,4.875,9
+gallery place,dunn loring,8.375,12
+gallery place,dupont circle,66.75,3
+gallery place,east falls church,12.75,10
+gallery place,eastern market,10.75,5
+gallery place,eisenhower avenue,12.0,10
+gallery place,farragut north,19.375,2
+gallery place,farragut west,0.875,3
+gallery place,federal center sw,0.375,3
+gallery place,federal triangle,0.125,2
+gallery place,foggy bottom gwu,11.625,4
+gallery place,forest glen,17.125,9
+gallery place,fort totten,94.625,6
+gallery place,franconia springfield,30.625,11
+gallery place,friendship heights,26.5,8
+gallery place,gallery place,66.0,0
+gallery place,georgia avenue petworth,43.5,5
+gallery place,glenmont,51.0,11
+gallery place,greenbelt,45.0,10
+gallery place,grosvenor strathmore,50.375,11
+gallery place,huntington,39.5,11
+gallery place,judiciary square,0.5,1
+gallery place,king street old town,27.625,9
+gallery place,l'enfant plaza,12.5,2
+gallery place,landover,3.875,11
+gallery place,largo,5.75,12
+gallery place,mcpherson square,2.125,2
+gallery place,medical center,5.5,10
+gallery place,metro center,3.25,1
+gallery place,minnesota avenue,3.625,8
+gallery place,morgan boulevard,2.75,11
+gallery place,mount vernon square,5.0,1
+gallery place,navy yard ballpark,24.5,4
+gallery place,naylor road,21.375,8
+gallery place,new carrollton,16.375,12
+gallery place,noma gallaudet u,23.625,3
+gallery place,pentagon,7.5,3
+gallery place,pentagon city,61.375,4
+gallery place,potomac avenue,7.0,6
+gallery place,hyattsville crossing,20.625,8
+gallery place,national airport,2.875,6
+gallery place,rhode island avenue,16.0,4
+gallery place,rockville,24.875,14
+gallery place,rosslyn,12.5,5
+gallery place,shady grove,68.25,15
+gallery place,shaw howard university,29.625,2
+gallery place,silver spring,84.75,8
+gallery place,smithsonian,1.125,3
+gallery place,southern avenue,17.25,7
+gallery place,stadium armory,4.5,7
+gallery place,suitland,28.75,9
+gallery place,takoma,21.0,7
+gallery place,tenleytown au,28.875,7
+gallery place,twinbrook,18.0,13
+gallery place,u street,66.75,3
+gallery place,union station,29.0,2
+gallery place,van dorn street,6.5,10
+gallery place,van ness udc,29.875,6
+gallery place,vienna,24.75,13
+gallery place,virginia square gmu,3.25,8
+gallery place,waterfront,21.875,3
+gallery place,west falls church,8.125,11
+gallery place,west hyattsville,24.5,7
+gallery place,wheaton,28.75,10
+gallery place,north bethesda,17.125,12
+gallery place,woodley park,34.25,4
+georgia avenue petworth,addison road,0.5,15
+georgia avenue petworth,anacostia,7.375,10
+georgia avenue petworth,archives,0.375,6
+georgia avenue petworth,ballston-mu,0.75,14
+georgia avenue petworth,benning road,1.625,13
+georgia avenue petworth,bethesda,0.375,14
+georgia avenue petworth,braddock road,1.375,13
+georgia avenue petworth,branch avenue,1.5,15
+georgia avenue petworth,brookland cua,0.875,2
+georgia avenue petworth,capitol heights,1.125,14
+georgia avenue petworth,capitol south,0.125,9
+georgia avenue petworth,cheverly,0.125,15
+georgia avenue petworth,clarendon,0.25,12
+georgia avenue petworth,cleveland park,0.125,10
+georgia avenue petworth,college park university of maryland,1.625,4
+georgia avenue petworth,columbia heights,8.75,1
+georgia avenue petworth,congress heights,2.0,11
+georgia avenue petworth,court house,1.25,11
+georgia avenue petworth,crystal city,1.5,10
+georgia avenue petworth,deanwood,0.625,14
+georgia avenue petworth,dunn loring,0.125,17
+georgia avenue petworth,dupont circle,1.5,8
+georgia avenue petworth,east falls church,0.625,15
+georgia avenue petworth,eastern market,1.75,10
+georgia avenue petworth,eisenhower avenue,0.375,15
+georgia avenue petworth,farragut north,0.25,7
+georgia avenue petworth,foggy bottom gwu,1.5,9
+georgia avenue petworth,forest glen,1.0,4
+georgia avenue petworth,fort totten,16.0,1
+georgia avenue petworth,franconia springfield,0.25,16
+georgia avenue petworth,friendship heights,0.375,13
+georgia avenue petworth,gallery place,6.75,5
+georgia avenue petworth,georgia avenue petworth,4.875,0
+georgia avenue petworth,glenmont,1.875,6
+georgia avenue petworth,greenbelt,1.25,5
+georgia avenue petworth,grosvenor strathmore,0.625,16
+georgia avenue petworth,huntington,0.875,16
+georgia avenue petworth,king street old town,0.875,14
+georgia avenue petworth,l'enfant plaza,0.75,7
+georgia avenue petworth,landover,0.625,16
+georgia avenue petworth,largo,0.5,17
+georgia avenue petworth,mcpherson square,0.625,7
+georgia avenue petworth,medical center,0.125,15
+georgia avenue petworth,metro center,0.25,6
+georgia avenue petworth,minnesota avenue,2.625,13
+georgia avenue petworth,morgan boulevard,0.375,16
+georgia avenue petworth,mount vernon square,3.75,4
+georgia avenue petworth,navy yard ballpark,2.0,9
+georgia avenue petworth,naylor road,1.25,13
+georgia avenue petworth,new carrollton,2.875,17
+georgia avenue petworth,noma gallaudet u,1.375,4
+georgia avenue petworth,pentagon,0.625,8
+georgia avenue petworth,pentagon city,0.25,9
+georgia avenue petworth,potomac avenue,1.25,11
+georgia avenue petworth,hyattsville crossing,2.75,3
+georgia avenue petworth,national airport,0.125,11
+georgia avenue petworth,rhode island avenue,1.75,3
+georgia avenue petworth,rosslyn,1.125,10
+georgia avenue petworth,shady grove,2.25,20
+georgia avenue petworth,shaw howard university,2.125,3
+georgia avenue petworth,silver spring,4.5,3
+georgia avenue petworth,southern avenue,1.75,12
+georgia avenue petworth,stadium armory,1.0,12
+georgia avenue petworth,suitland,1.0,14
+georgia avenue petworth,takoma,1.5,2
+georgia avenue petworth,tenleytown au,0.625,12
+georgia avenue petworth,twinbrook,0.125,18
+georgia avenue petworth,u street,10.25,2
+georgia avenue petworth,union station,1.625,5
+georgia avenue petworth,van dorn street,0.125,15
+georgia avenue petworth,van ness udc,0.25,11
+georgia avenue petworth,vienna,0.375,18
+georgia avenue petworth,waterfront,0.75,8
+georgia avenue petworth,west falls church,0.5,16
+georgia avenue petworth,west hyattsville,3.125,2
+georgia avenue petworth,wheaton,0.5,5
+georgia avenue petworth,north bethesda,0.125,17
+glenmont,anacostia,0.125,16
+glenmont,bethesda,0.625,20
+glenmont,brookland cua,0.875,6
+glenmont,clarendon,0.125,18
+glenmont,college park university of maryland,0.25,8
+glenmont,columbia heights,1.25,7
+glenmont,crystal city,0.25,16
+glenmont,dupont circle,1.0,14
+glenmont,east falls church,0.125,21
+glenmont,eastern market,0.125,16
+glenmont,farragut north,0.875,13
+glenmont,forest glen,0.375,2
+glenmont,fort totten,2.25,5
+glenmont,franconia springfield,0.125,22
+glenmont,gallery place,1.0,11
+glenmont,georgia avenue petworth,0.5,6
+glenmont,glenmont,3.375,0
+glenmont,greenbelt,0.375,9
+glenmont,largo,0.125,23
+glenmont,metro center,0.75,12
+glenmont,minnesota avenue,0.125,19
+glenmont,morgan boulevard,0.25,22
+glenmont,new carrollton,0.25,23
+glenmont,noma gallaudet u,1.125,8
+glenmont,pentagon,0.25,14
+glenmont,pentagon city,0.125,15
+glenmont,hyattsville crossing,0.25,7
+glenmont,national airport,0.375,17
+glenmont,rhode island avenue,0.875,7
+glenmont,rosslyn,0.125,16
+glenmont,shady grove,0.5,26
+glenmont,shaw howard university,0.125,9
+glenmont,silver spring,3.125,3
+glenmont,southern avenue,0.125,18
+glenmont,suitland,0.375,20
+glenmont,takoma,0.625,4
+glenmont,tenleytown au,0.375,18
+glenmont,twinbrook,0.25,24
+glenmont,u street,0.625,8
+glenmont,union station,0.625,9
+glenmont,wheaton,2.75,1
+glenmont,north bethesda,0.25,23
+glenmont,woodley park,0.375,15
+greenbelt,anacostia,0.25,15
+greenbelt,benning road,0.375,18
+greenbelt,bethesda,0.125,19
+greenbelt,branch avenue,0.5,20
+greenbelt,brookland cua,0.25,5
+greenbelt,college park university of maryland,0.25,1
+greenbelt,columbia heights,1.875,6
+greenbelt,congress heights,0.125,16
+greenbelt,court house,0.125,16
+greenbelt,deanwood,0.25,19
+greenbelt,dupont circle,0.25,13
+greenbelt,eastern market,0.125,15
+greenbelt,farragut north,0.375,12
+greenbelt,foggy bottom gwu,0.5,14
+greenbelt,fort totten,0.875,4
+greenbelt,gallery place,1.125,10
+greenbelt,georgia avenue petworth,0.125,5
+greenbelt,greenbelt,1.875,0
+greenbelt,grosvenor strathmore,0.125,21
+greenbelt,largo,0.25,22
+greenbelt,mcpherson square,0.125,12
+greenbelt,medical center,0.125,20
+greenbelt,morgan boulevard,0.125,21
+greenbelt,mount vernon square,0.375,9
+greenbelt,navy yard ballpark,0.125,14
+greenbelt,naylor road,0.375,18
+greenbelt,new carrollton,0.125,22
+greenbelt,noma gallaudet u,0.375,7
+greenbelt,pentagon,0.125,13
+greenbelt,pentagon city,0.25,14
+greenbelt,potomac avenue,0.125,16
+greenbelt,hyattsville crossing,0.5,2
+greenbelt,national airport,0.125,16
+greenbelt,rhode island avenue,0.625,6
+greenbelt,rosslyn,0.375,15
+greenbelt,shady grove,0.125,25
+greenbelt,shaw howard university,0.625,8
+greenbelt,silver spring,0.5,6
+greenbelt,southern avenue,0.5,17
+greenbelt,stadium armory,0.125,17
+greenbelt,suitland,0.875,19
+greenbelt,takoma,0.25,5
+greenbelt,u street,1.5,7
+greenbelt,union station,0.125,8
+greenbelt,west hyattsville,1.5,3
+greenbelt,wheaton,0.25,8
+greenbelt,north bethesda,0.125,22
+grosvenor strathmore,bethesda,0.75,2
+grosvenor strathmore,brookland cua,0.125,16
+grosvenor strathmore,capitol south,0.75,15
+grosvenor strathmore,cleveland park,0.875,6
+grosvenor strathmore,columbia heights,0.375,15
+grosvenor strathmore,dupont circle,3.375,8
+grosvenor strathmore,eastern market,0.125,16
+grosvenor strathmore,farragut north,1.0,9
+grosvenor strathmore,fort totten,0.25,17
+grosvenor strathmore,friendship heights,1.0,3
+grosvenor strathmore,gallery place,1.5,11
+grosvenor strathmore,georgia avenue petworth,0.375,16
+grosvenor strathmore,grosvenor strathmore,2.0,0
+grosvenor strathmore,judiciary square,0.25,12
+grosvenor strathmore,king street old town,0.125,20
+grosvenor strathmore,largo,0.125,23
+grosvenor strathmore,medical center,0.375,1
+grosvenor strathmore,metro center,0.25,10
+grosvenor strathmore,morgan boulevard,0.125,22
+grosvenor strathmore,mount vernon square,0.625,12
+grosvenor strathmore,navy yard ballpark,0.125,15
+grosvenor strathmore,new carrollton,0.125,23
+grosvenor strathmore,pentagon city,0.875,15
+grosvenor strathmore,potomac avenue,0.125,17
+grosvenor strathmore,rockville,1.125,3
+grosvenor strathmore,shady grove,1.875,4
+grosvenor strathmore,silver spring,0.625,19
+grosvenor strathmore,tenleytown au,1.5,4
+grosvenor strathmore,twinbrook,1.5,2
+grosvenor strathmore,u street,0.125,14
+grosvenor strathmore,union station,0.375,13
+grosvenor strathmore,van ness udc,1.0,5
+grosvenor strathmore,north bethesda,1.125,1
+grosvenor strathmore,woodley park,1.25,7
+huntington,anacostia,0.25,12
+huntington,ballston-mu,0.125,14
+huntington,benning road,0.625,15
+huntington,braddock road,3.0,3
+huntington,branch avenue,0.625,17
+huntington,capitol heights,0.125,16
+huntington,clarendon,0.125,12
+huntington,columbia heights,1.25,15
+huntington,congress heights,0.125,13
+huntington,crystal city,0.75,6
+huntington,deanwood,0.25,16
+huntington,east falls church,0.125,15
+huntington,eisenhower avenue,0.375,1
+huntington,farragut north,0.25,13
+huntington,foggy bottom gwu,0.125,11
+huntington,forest glen,0.25,20
+huntington,fort totten,1.5,17
+huntington,franconia springfield,0.75,4
+huntington,friendship heights,0.125,19
+huntington,gallery place,2.125,11
+huntington,georgia avenue petworth,0.875,16
+huntington,glenmont,0.125,22
+huntington,greenbelt,0.25,21
+huntington,grosvenor strathmore,0.25,22
+huntington,huntington,2.625,0
+huntington,king street old town,1.125,2
+huntington,l'enfant plaza,0.25,9
+huntington,largo,0.25,19
+huntington,mcpherson square,0.125,13
+huntington,medical center,0.125,21
+huntington,minnesota avenue,0.125,15
+huntington,morgan boulevard,0.25,18
+huntington,mount vernon square,1.375,12
+huntington,navy yard ballpark,0.375,11
+huntington,naylor road,0.625,15
+huntington,new carrollton,0.375,19
+huntington,noma gallaudet u,0.5,14
+huntington,pentagon,0.5,8
+huntington,pentagon city,1.5,7
+huntington,potomac avenue,0.5,13
+huntington,national airport,0.125,5
+huntington,rosslyn,0.125,10
+huntington,shady grove,0.625,26
+huntington,shaw howard university,0.125,13
+huntington,silver spring,0.125,19
+huntington,southern avenue,0.25,14
+huntington,suitland,0.25,16
+huntington,u street,0.625,14
+huntington,union station,0.625,13
+huntington,van dorn street,0.25,3
+huntington,van ness udc,0.25,17
+huntington,vienna,0.5,18
+huntington,virginia square gmu,0.25,13
+huntington,west falls church,0.125,16
+huntington,wheaton,0.25,21
+huntington,woodley park,0.625,15
+judiciary square,addison road,0.125,11
+judiciary square,anacostia,0.125,6
+judiciary square,ballston-mu,0.875,10
+judiciary square,bethesda,5.125,10
+judiciary square,branch avenue,0.125,11
+judiciary square,brookland cua,2.0,4
+judiciary square,clarendon,0.25,8
+judiciary square,cleveland park,0.25,6
+judiciary square,columbia heights,0.5,5
+judiciary square,court house,1.0,7
+judiciary square,crystal city,0.75,6
+judiciary square,dunn loring,0.5,13
+judiciary square,dupont circle,2.5,4
+judiciary square,east falls church,0.75,11
+judiciary square,farragut north,1.625,3
+judiciary square,foggy bottom gwu,0.25,5
+judiciary square,forest glen,2.25,8
+judiciary square,fort totten,1.25,5
+judiciary square,friendship heights,4.125,9
+judiciary square,gallery place,0.375,1
+judiciary square,glenmont,2.875,10
+judiciary square,greenbelt,0.25,9
+judiciary square,grosvenor strathmore,4.375,12
+judiciary square,huntington,0.375,12
+judiciary square,judiciary square,2.625,0
+judiciary square,king street old town,0.375,10
+judiciary square,landover,0.25,12
+judiciary square,largo,0.375,13
+judiciary square,medical center,0.25,11
+judiciary square,metro center,0.125,2
+judiciary square,minnesota avenue,0.125,9
+judiciary square,navy yard ballpark,0.25,5
+judiciary square,naylor road,0.125,9
+judiciary square,new carrollton,0.375,13
+judiciary square,noma gallaudet u,0.375,2
+judiciary square,pentagon,0.125,4
+judiciary square,pentagon city,0.25,5
+judiciary square,potomac avenue,0.125,7
+judiciary square,hyattsville crossing,0.5,7
+judiciary square,national airport,0.25,7
+judiciary square,rhode island avenue,0.125,3
+judiciary square,rockville,3.125,15
+judiciary square,rosslyn,0.375,6
+judiciary square,shady grove,5.375,16
+judiciary square,silver spring,3.75,7
+judiciary square,takoma,1.125,6
+judiciary square,tenleytown au,1.875,8
+judiciary square,twinbrook,0.625,14
+judiciary square,u street,0.375,4
+judiciary square,union station,0.25,1
+judiciary square,van ness udc,1.375,7
+judiciary square,vienna,1.5,14
+judiciary square,virginia square gmu,0.25,9
+judiciary square,waterfront,0.375,4
+judiciary square,wheaton,1.125,9
+judiciary square,north bethesda,1.0,13
+judiciary square,woodley park,2.375,5
+king street old town,addison road,1.0,15
+king street old town,anacostia,0.125,10
+king street old town,archives,0.5,8
+king street old town,ballston-mu,2.875,12
+king street old town,benning road,0.75,13
+king street old town,bethesda,0.625,18
+king street old town,braddock road,2.0,1
+king street old town,branch avenue,0.25,15
+king street old town,brookland cua,0.375,14
+king street old town,capitol heights,0.125,14
+king street old town,capitol south,0.625,9
+king street old town,clarendon,0.5,10
+king street old town,cleveland park,1.0,14
+king street old town,columbia heights,3.75,13
+king street old town,congress heights,0.25,11
+king street old town,court house,1.25,9
+king street old town,crystal city,7.25,4
+king street old town,dunn loring,1.25,15
+king street old town,dupont circle,1.875,12
+king street old town,east falls church,1.0,13
+king street old town,eastern market,2.25,10
+king street old town,eisenhower avenue,3.875,1
+king street old town,farragut north,0.25,11
+king street old town,farragut west,2.25,10
+king street old town,federal center sw,0.125,8
+king street old town,foggy bottom gwu,3.125,9
+king street old town,fort totten,2.625,15
+king street old town,franconia springfield,12.875,2
+king street old town,friendship heights,0.875,17
+king street old town,gallery place,6.0,9
+king street old town,georgia avenue petworth,0.5,14
+king street old town,glenmont,0.125,20
+king street old town,greenbelt,0.125,19
+king street old town,grosvenor strathmore,0.125,20
+king street old town,huntington,23.875,2
+king street old town,king street old town,5.0,0
+king street old town,l'enfant plaza,1.375,7
+king street old town,landover,0.125,16
+king street old town,largo,0.5,17
+king street old town,mcpherson square,1.625,11
+king street old town,metro center,2.0,10
+king street old town,mount vernon square,2.875,10
+king street old town,navy yard ballpark,0.875,9
+king street old town,naylor road,0.5,13
+king street old town,new carrollton,1.5,17
+king street old town,noma gallaudet u,1.375,12
+king street old town,pentagon,2.875,6
+king street old town,pentagon city,7.875,5
+king street old town,potomac avenue,0.375,11
+king street old town,hyattsville crossing,0.25,17
+king street old town,national airport,1.0,3
+king street old town,rhode island avenue,0.375,13
+king street old town,rockville,0.375,23
+king street old town,rosslyn,3.75,8
+king street old town,shady grove,0.875,24
+king street old town,shaw howard university,0.5,11
+king street old town,silver spring,0.75,17
+king street old town,southern avenue,0.125,12
+king street old town,stadium armory,0.125,12
+king street old town,suitland,0.375,14
+king street old town,takoma,0.25,16
+king street old town,tenleytown au,0.25,16
+king street old town,twinbrook,0.5,22
+king street old town,u street,4.0,12
+king street old town,union station,0.625,11
+king street old town,van dorn street,10.875,1
+king street old town,van ness udc,0.375,15
+king street old town,vienna,4.375,16
+king street old town,virginia square gmu,1.0,11
+king street old town,waterfront,0.25,8
+king street old town,west falls church,1.625,14
+king street old town,west hyattsville,0.375,16
+king street old town,wheaton,0.125,19
+king street old town,woodley park,1.0,13
+l'enfant plaza,addison road,1.125,8
+l'enfant plaza,anacostia,4.0,3
+l'enfant plaza,ballston-mu,0.75,7
+l'enfant plaza,benning road,0.25,6
+l'enfant plaza,braddock road,2.125,6
+l'enfant plaza,branch avenue,1.0,8
+l'enfant plaza,brookland cua,1.0,7
+l'enfant plaza,capitol heights,0.25,7
+l'enfant plaza,capitol south,0.25,2
+l'enfant plaza,cheverly,1.875,8
+l'enfant plaza,clarendon,0.5,5
+l'enfant plaza,cleveland park,0.25,7
+l'enfant plaza,college park university of maryland,0.75,11
+l'enfant plaza,columbia heights,7.0,6
+l'enfant plaza,congress heights,1.5,4
+l'enfant plaza,court house,1.0,4
+l'enfant plaza,crystal city,2.375,3
+l'enfant plaza,deanwood,0.25,7
+l'enfant plaza,dunn loring,1.5,10
+l'enfant plaza,dupont circle,0.875,5
+l'enfant plaza,east falls church,0.875,8
+l'enfant plaza,eastern market,2.625,3
+l'enfant plaza,eisenhower avenue,1.0,8
+l'enfant plaza,farragut west,0.125,5
+l'enfant plaza,foggy bottom gwu,0.75,4
+l'enfant plaza,forest glen,0.375,11
+l'enfant plaza,fort totten,6.0,8
+l'enfant plaza,franconia springfield,2.5,9
+l'enfant plaza,friendship heights,0.5,10
+l'enfant plaza,gallery place,2.375,2
+l'enfant plaza,georgia avenue petworth,3.625,7
+l'enfant plaza,glenmont,1.125,13
+l'enfant plaza,greenbelt,1.5,12
+l'enfant plaza,grosvenor strathmore,0.125,13
+l'enfant plaza,huntington,3.25,9
+l'enfant plaza,king street old town,2.0,7
+l'enfant plaza,l'enfant plaza,3.0,0
+l'enfant plaza,landover,1.0,9
+l'enfant plaza,largo,0.875,10
+l'enfant plaza,mcpherson square,1.125,4
+l'enfant plaza,medical center,0.125,12
+l'enfant plaza,metro center,0.125,3
+l'enfant plaza,minnesota avenue,0.375,6
+l'enfant plaza,morgan boulevard,0.875,9
+l'enfant plaza,mount vernon square,2.375,3
+l'enfant plaza,navy yard ballpark,1.0,2
+l'enfant plaza,naylor road,1.125,6
+l'enfant plaza,new carrollton,1.875,10
+l'enfant plaza,noma gallaudet u,0.25,5
+l'enfant plaza,pentagon,1.0,1
+l'enfant plaza,pentagon city,4.25,2
+l'enfant plaza,potomac avenue,1.5,4
+l'enfant plaza,hyattsville crossing,1.5,10
+l'enfant plaza,national airport,0.375,4
+l'enfant plaza,rhode island avenue,1.0,6
+l'enfant plaza,rockville,0.25,16
+l'enfant plaza,rosslyn,0.875,3
+l'enfant plaza,shady grove,1.0,17
+l'enfant plaza,shaw howard university,1.0,4
+l'enfant plaza,silver spring,1.25,10
+l'enfant plaza,southern avenue,2.0,5
+l'enfant plaza,stadium armory,1.0,5
+l'enfant plaza,suitland,1.125,7
+l'enfant plaza,takoma,0.25,9
+l'enfant plaza,tenleytown au,0.75,9
+l'enfant plaza,twinbrook,0.25,15
+l'enfant plaza,u street,3.5,5
+l'enfant plaza,union station,0.25,4
+l'enfant plaza,van dorn street,1.625,8
+l'enfant plaza,van ness udc,0.875,8
+l'enfant plaza,vienna,1.625,11
+l'enfant plaza,virginia square gmu,0.25,6
+l'enfant plaza,waterfront,0.375,1
+l'enfant plaza,west falls church,0.875,9
+l'enfant plaza,west hyattsville,1.25,9
+l'enfant plaza,wheaton,0.875,12
+l'enfant plaza,north bethesda,0.25,14
+l'enfant plaza,woodley park,0.5,6
+landover,anacostia,1.75,12
+landover,benning road,0.5,5
+landover,branch avenue,0.25,17
+landover,brookland cua,0.125,16
+landover,capitol heights,0.625,6
+landover,columbia heights,0.125,15
+landover,congress heights,0.25,13
+landover,deanwood,0.75,2
+landover,eastern market,0.125,6
+landover,farragut west,1.0,14
+landover,fort totten,0.375,17
+landover,franconia springfield,0.125,18
+landover,gallery place,0.125,11
+landover,glenmont,0.25,22
+landover,l'enfant plaza,0.375,9
+landover,landover,1.125,0
+landover,largo,0.25,9
+landover,mcpherson square,0.125,13
+landover,metro center,0.125,12
+landover,minnesota avenue,2.375,3
+landover,morgan boulevard,0.125,8
+landover,mount vernon square,0.125,12
+landover,new carrollton,2.25,1
+landover,pentagon city,0.125,11
+landover,potomac avenue,0.375,5
+landover,hyattsville crossing,0.25,19
+landover,national airport,0.375,13
+landover,rhode island avenue,0.125,15
+landover,shady grove,0.125,26
+landover,shaw howard university,0.125,13
+landover,silver spring,0.25,19
+landover,southern avenue,0.5,14
+landover,stadium armory,0.125,4
+landover,suitland,0.25,16
+landover,union station,0.125,13
+landover,vienna,0.125,20
+landover,virginia square gmu,0.25,15
+landover,west hyattsville,0.125,18
+largo,addison road,8.0,2
+largo,anacostia,3.5,13
+largo,archives,0.25,11
+largo,benning road,6.0,4
+largo,branch avenue,1.75,18
+largo,brookland cua,0.25,17
+largo,capitol heights,4.75,3
+largo,capitol south,0.125,8
+largo,cheverly,0.25,8
+largo,clarendon,0.125,15
+largo,columbia heights,0.875,16
+largo,congress heights,2.0,14
+largo,crystal city,0.125,13
+largo,deanwood,1.25,7
+largo,eastern market,1.75,7
+largo,farragut west,0.25,15
+largo,fort totten,1.0,18
+largo,franconia springfield,0.125,19
+largo,gallery place,1.0,12
+largo,georgia avenue petworth,1.375,17
+largo,glenmont,0.25,23
+largo,greenbelt,1.625,22
+largo,l'enfant plaza,0.25,10
+largo,landover,0.75,9
+largo,largo,3.5,0
+largo,mcpherson square,0.125,14
+largo,metro center,1.25,13
+largo,minnesota avenue,1.0,6
+largo,morgan boulevard,1.625,1
+largo,mount vernon square,0.625,13
+largo,naylor road,1.875,16
+largo,new carrollton,2.125,10
+largo,noma gallaudet u,0.875,15
+largo,pentagon city,0.5,12
+largo,potomac avenue,1.875,6
+largo,hyattsville crossing,0.75,20
+largo,national airport,1.375,14
+largo,rhode island avenue,1.0,16
+largo,shaw howard university,0.5,14
+largo,silver spring,0.125,20
+largo,southern avenue,1.75,15
+largo,stadium armory,2.0,5
+largo,suitland,3.625,17
+largo,u street,0.375,15
+largo,union station,1.0,14
+largo,van dorn street,0.125,18
+largo,van ness udc,0.25,18
+largo,vienna,0.125,21
+largo,west hyattsville,0.625,19
+largo,wheaton,0.125,22
+mcpherson square,addison road,1.375,12
+mcpherson square,anacostia,1.75,7
+mcpherson square,ballston-mu,27.0,7
+mcpherson square,benning road,3.5,10
+mcpherson square,bethesda,2.125,9
+mcpherson square,braddock road,3.0,10
+mcpherson square,branch avenue,2.625,12
+mcpherson square,brookland cua,0.25,7
+mcpherson square,capitol heights,1.625,11
+mcpherson square,capitol south,3.25,6
+mcpherson square,cheverly,1.5,12
+mcpherson square,clarendon,11.625,5
+mcpherson square,cleveland park,0.625,5
+mcpherson square,college park university of maryland,0.75,11
+mcpherson square,columbia heights,1.25,6
+mcpherson square,congress heights,0.25,8
+mcpherson square,court house,24.875,4
+mcpherson square,crystal city,9.375,7
+mcpherson square,deanwood,1.5,11
+mcpherson square,dunn loring,9.625,10
+mcpherson square,dupont circle,1.5,3
+mcpherson square,east falls church,13.25,8
+mcpherson square,eastern market,7.25,7
+mcpherson square,farragut north,0.625,2
+mcpherson square,farragut west,0.5,1
+mcpherson square,federal center sw,1.625,5
+mcpherson square,foggy bottom gwu,9.125,2
+mcpherson square,forest glen,0.375,11
+mcpherson square,fort totten,3.625,8
+mcpherson square,franconia springfield,7.5,13
+mcpherson square,friendship heights,0.75,8
+mcpherson square,gallery place,1.0,2
+mcpherson square,georgia avenue petworth,1.625,7
+mcpherson square,glenmont,2.5,13
+mcpherson square,greenbelt,1.375,12
+mcpherson square,grosvenor strathmore,1.125,11
+mcpherson square,huntington,4.125,13
+mcpherson square,judiciary square,0.25,3
+mcpherson square,king street old town,8.125,11
+mcpherson square,l'enfant plaza,1.625,4
+mcpherson square,landover,0.625,13
+mcpherson square,largo,5.125,14
+mcpherson square,mcpherson square,9.0,0
+mcpherson square,medical center,0.25,10
+mcpherson square,metro center,1.0,1
+mcpherson square,minnesota avenue,1.75,10
+mcpherson square,morgan boulevard,2.125,13
+mcpherson square,mount vernon square,0.25,3
+mcpherson square,navy yard ballpark,0.25,6
+mcpherson square,naylor road,1.25,10
+mcpherson square,new carrollton,10.75,14
+mcpherson square,noma gallaudet u,1.0,5
+mcpherson square,pentagon,2.875,5
+mcpherson square,pentagon city,17.875,6
+mcpherson square,potomac avenue,4.0,8
+mcpherson square,hyattsville crossing,1.25,10
+mcpherson square,national airport,1.375,8
+mcpherson square,rhode island avenue,0.75,6
+mcpherson square,rockville,0.875,14
+mcpherson square,rosslyn,20.875,3
+mcpherson square,shady grove,4.5,15
+mcpherson square,shaw howard university,1.125,4
+mcpherson square,silver spring,4.25,10
+mcpherson square,smithsonian,0.375,3
+mcpherson square,southern avenue,1.25,9
+mcpherson square,stadium armory,2.625,9
+mcpherson square,suitland,1.0,11
+mcpherson square,takoma,0.375,9
+mcpherson square,tenleytown au,0.25,7
+mcpherson square,twinbrook,0.625,13
+mcpherson square,u street,1.125,5
+mcpherson square,union station,1.125,4
+mcpherson square,van dorn street,7.125,12
+mcpherson square,van ness udc,1.0,6
+mcpherson square,vienna,20.75,11
+mcpherson square,virginia square gmu,8.125,6
+mcpherson square,waterfront,1.625,5
+mcpherson square,west falls church,11.0,9
+mcpherson square,west hyattsville,0.75,9
+mcpherson square,wheaton,2.5,12
+mcpherson square,north bethesda,0.625,12
+mcpherson square,woodley park,1.25,4
+medical center,anacostia,0.25,15
+medical center,ballston-mu,0.125,17
+medical center,bethesda,0.25,1
+medical center,brookland cua,0.125,15
+medical center,cleveland park,0.125,5
+medical center,columbia heights,0.125,14
+medical center,dupont circle,0.5,7
+medical center,farragut north,0.25,8
+medical center,foggy bottom gwu,0.125,12
+medical center,fort totten,0.75,16
+medical center,friendship heights,1.625,2
+medical center,glenmont,0.125,21
+medical center,grosvenor strathmore,1.375,1
+medical center,largo,0.125,22
+medical center,medical center,1.25,0
+medical center,navy yard ballpark,0.125,14
+medical center,pentagon city,0.25,14
+medical center,rhode island avenue,0.25,14
+medical center,rockville,0.75,4
+medical center,shady grove,2.5,5
+medical center,suitland,0.125,19
+medical center,tenleytown au,0.125,3
+medical center,twinbrook,2.375,3
+medical center,union station,0.375,12
+medical center,van ness udc,0.125,4
+medical center,vienna,0.125,21
+medical center,waterfront,0.125,13
+medical center,north bethesda,1.625,2
+medical center,woodley park,1.625,6
+metro center,addison road,3.25,11
+metro center,anacostia,2.125,6
+metro center,ballston-mu,37.625,8
+metro center,benning road,2.5,9
+metro center,bethesda,17.5,8
+metro center,braddock road,2.875,9
+metro center,branch avenue,1.75,11
+metro center,brookland cua,4.875,6
+metro center,capitol heights,4.375,10
+metro center,capitol south,2.625,5
+metro center,cheverly,2.125,11
+metro center,clarendon,18.375,6
+metro center,cleveland park,5.375,4
+metro center,college park university of maryland,0.625,10
+metro center,columbia heights,0.875,5
+metro center,congress heights,0.25,7
+metro center,court house,33.375,5
+metro center,crystal city,5.75,6
+metro center,deanwood,2.5,10
+metro center,dunn loring,17.5,11
+metro center,dupont circle,15.5,2
+metro center,east falls church,29.0,9
+metro center,eastern market,12.5,6
+metro center,eisenhower avenue,1.25,11
+metro center,farragut north,4.0,1
+metro center,farragut west,3.25,2
+metro center,federal center sw,0.625,4
+metro center,federal triangle,0.25,1
+metro center,foggy bottom gwu,19.5,3
+metro center,forest glen,4.375,10
+metro center,fort totten,14.375,7
+metro center,franconia springfield,13.75,12
+metro center,friendship heights,7.5,7
+metro center,gallery place,1.125,1
+metro center,georgia avenue petworth,1.375,6
+metro center,glenmont,14.875,12
+metro center,greenbelt,2.25,11
+metro center,grosvenor strathmore,15.25,10
+metro center,huntington,4.25,12
+metro center,judiciary square,0.5,2
+metro center,king street old town,3.625,10
+metro center,l'enfant plaza,1.875,3
+metro center,landover,2.5,12
+metro center,largo,5.625,13
+metro center,mcpherson square,0.625,1
+metro center,medical center,1.5,9
+metro center,metro center,16.125,0
+metro center,minnesota avenue,2.125,9
+metro center,morgan boulevard,3.875,12
+metro center,mount vernon square,0.625,2
+metro center,navy yard ballpark,1.25,5
+metro center,naylor road,1.375,9
+metro center,new carrollton,13.25,13
+metro center,noma gallaudet u,3.875,4
+metro center,pentagon,2.25,4
+metro center,pentagon city,10.625,5
+metro center,potomac avenue,6.0,7
+metro center,hyattsville crossing,4.125,9
+metro center,national airport,0.375,7
+metro center,rhode island avenue,6.375,5
+metro center,rockville,5.875,13
+metro center,rosslyn,39.375,4
+metro center,shady grove,15.125,14
+metro center,shaw howard university,1.875,3
+metro center,silver spring,21.25,9
+metro center,smithsonian,0.75,2
+metro center,southern avenue,0.875,8
+metro center,stadium armory,4.375,8
+metro center,suitland,2.0,10
+metro center,takoma,7.875,8
+metro center,tenleytown au,6.0,6
+metro center,twinbrook,7.375,12
+metro center,u street,2.75,4
+metro center,union station,6.25,3
+metro center,van dorn street,5.25,11
+metro center,van ness udc,10.625,5
+metro center,vienna,48.625,12
+metro center,virginia square gmu,17.5,7
+metro center,waterfront,0.75,4
+metro center,west falls church,21.25,10
+metro center,west hyattsville,1.75,8
+metro center,wheaton,8.625,11
+metro center,north bethesda,7.5,11
+metro center,woodley park,12.625,3
+minnesota avenue,addison road,1.5,4
+minnesota avenue,anacostia,2.875,9
+minnesota avenue,ballston-mu,0.5,13
+minnesota avenue,benning road,0.125,2
+minnesota avenue,brookland cua,0.875,13
+minnesota avenue,capitol south,0.125,4
+minnesota avenue,cheverly,1.125,2
+minnesota avenue,cleveland park,0.125,13
+minnesota avenue,columbia heights,2.0,12
+minnesota avenue,congress heights,1.375,10
+minnesota avenue,deanwood,4.625,1
+minnesota avenue,eastern market,0.375,3
+minnesota avenue,federal center sw,0.125,5
+minnesota avenue,foggy bottom gwu,0.375,10
+minnesota avenue,fort totten,2.0,14
+minnesota avenue,franconia springfield,0.125,15
+minnesota avenue,gallery place,0.625,8
+minnesota avenue,georgia avenue petworth,0.5,13
+minnesota avenue,glenmont,0.125,19
+minnesota avenue,greenbelt,0.125,18
+minnesota avenue,king street old town,0.125,13
+minnesota avenue,landover,7.875,3
+minnesota avenue,largo,0.375,6
+minnesota avenue,mcpherson square,0.375,10
+minnesota avenue,metro center,0.625,9
+minnesota avenue,minnesota avenue,2.25,0
+minnesota avenue,morgan boulevard,0.125,5
+minnesota avenue,naylor road,0.875,12
+minnesota avenue,new carrollton,4.5,4
+minnesota avenue,noma gallaudet u,0.25,11
+minnesota avenue,potomac avenue,1.125,2
+minnesota avenue,hyattsville crossing,0.25,16
+minnesota avenue,national airport,0.25,10
+minnesota avenue,rhode island avenue,0.75,12
+minnesota avenue,rockville,0.25,22
+minnesota avenue,shady grove,0.25,23
+minnesota avenue,silver spring,0.25,16
+minnesota avenue,smithsonian,0.375,7
+minnesota avenue,southern avenue,1.0,11
+minnesota avenue,stadium armory,1.25,1
+minnesota avenue,suitland,0.5,13
+minnesota avenue,takoma,0.125,15
+minnesota avenue,u street,0.75,11
+minnesota avenue,union station,0.125,10
+minnesota avenue,van dorn street,0.125,14
+minnesota avenue,vienna,0.25,17
+minnesota avenue,waterfront,0.375,7
+minnesota avenue,west hyattsville,0.125,15
+minnesota avenue,wheaton,0.25,18
+minnesota avenue,woodley park,0.375,12
+morgan boulevard,addison road,0.625,1
+morgan boulevard,anacostia,0.25,12
+morgan boulevard,ballston-mu,0.125,16
+morgan boulevard,benning road,0.625,3
+morgan boulevard,branch avenue,0.125,17
+morgan boulevard,college park university of maryland,0.125,20
+morgan boulevard,columbia heights,0.25,15
+morgan boulevard,east falls church,0.125,17
+morgan boulevard,farragut west,0.125,14
+morgan boulevard,foggy bottom gwu,0.125,13
+morgan boulevard,fort totten,0.125,17
+morgan boulevard,georgia avenue petworth,0.125,16
+morgan boulevard,greenbelt,0.125,21
+morgan boulevard,largo,0.375,1
+morgan boulevard,minnesota avenue,0.125,5
+morgan boulevard,morgan boulevard,0.875,0
+morgan boulevard,mount vernon square,0.125,12
+morgan boulevard,naylor road,0.125,15
+morgan boulevard,new carrollton,0.25,9
+morgan boulevard,pentagon city,0.25,11
+morgan boulevard,potomac avenue,0.125,5
+morgan boulevard,national airport,0.5,13
+morgan boulevard,rosslyn,0.125,12
+morgan boulevard,shady grove,0.125,26
+morgan boulevard,stadium armory,0.875,4
+morgan boulevard,suitland,0.125,16
+morgan boulevard,vienna,0.125,20
+morgan boulevard,woodley park,0.125,15
+mount vernon square,addison road,0.375,11
+mount vernon square,anacostia,4.125,6
+mount vernon square,archives,0.25,2
+mount vernon square,ballston-mu,1.125,10
+mount vernon square,benning road,0.375,9
+mount vernon square,braddock road,1.25,9
+mount vernon square,branch avenue,2.25,11
+mount vernon square,brookland cua,0.125,6
+mount vernon square,capitol heights,0.375,10
+mount vernon square,capitol south,0.25,5
+mount vernon square,clarendon,0.375,8
+mount vernon square,college park university of maryland,1.875,8
+mount vernon square,columbia heights,23.5,3
+mount vernon square,congress heights,1.375,7
+mount vernon square,court house,0.875,7
+mount vernon square,crystal city,5.25,6
+mount vernon square,deanwood,0.375,10
+mount vernon square,dunn loring,0.375,13
+mount vernon square,dupont circle,0.75,4
+mount vernon square,east falls church,0.5,11
+mount vernon square,eastern market,0.625,6
+mount vernon square,eisenhower avenue,1.375,11
+mount vernon square,farragut north,0.25,3
+mount vernon square,foggy bottom gwu,2.0,5
+mount vernon square,forest glen,0.25,8
+mount vernon square,fort totten,14.625,5
+mount vernon square,franconia springfield,1.25,12
+mount vernon square,friendship heights,0.25,9
+mount vernon square,gallery place,1.375,1
+mount vernon square,georgia avenue petworth,10.125,4
+mount vernon square,glenmont,0.125,10
+mount vernon square,greenbelt,1.75,9
+mount vernon square,grosvenor strathmore,0.375,12
+mount vernon square,huntington,2.625,12
+mount vernon square,king street old town,2.75,10
+mount vernon square,l'enfant plaza,0.75,3
+mount vernon square,landover,0.25,12
+mount vernon square,largo,0.75,13
+mount vernon square,medical center,0.125,11
+mount vernon square,metro center,0.25,2
+mount vernon square,minnesota avenue,1.125,9
+mount vernon square,morgan boulevard,0.5,12
+mount vernon square,mount vernon square,5.125,0
+mount vernon square,navy yard ballpark,4.125,5
+mount vernon square,naylor road,1.375,9
+mount vernon square,new carrollton,1.125,13
+mount vernon square,noma gallaudet u,0.625,4
+mount vernon square,pentagon,0.375,4
+mount vernon square,pentagon city,3.25,5
+mount vernon square,potomac avenue,1.125,7
+mount vernon square,hyattsville crossing,3.375,7
+mount vernon square,national airport,0.125,7
+mount vernon square,rhode island avenue,0.5,5
+mount vernon square,rosslyn,0.75,6
+mount vernon square,shaw howard university,2.75,1
+mount vernon square,silver spring,1.75,7
+mount vernon square,southern avenue,1.25,8
+mount vernon square,stadium armory,0.125,8
+mount vernon square,suitland,2.25,10
+mount vernon square,takoma,0.25,6
+mount vernon square,tenleytown au,0.75,8
+mount vernon square,twinbrook,0.75,14
+mount vernon square,u street,14.625,2
+mount vernon square,union station,1.125,3
+mount vernon square,van dorn street,0.5,11
+mount vernon square,van ness udc,0.25,7
+mount vernon square,vienna,0.375,14
+mount vernon square,virginia square gmu,0.25,9
+mount vernon square,waterfront,1.625,4
+mount vernon square,west falls church,0.625,12
+mount vernon square,west hyattsville,3.625,6
+mount vernon square,wheaton,0.25,9
+mount vernon square,north bethesda,0.125,13
+mount vernon square,woodley park,0.875,5
+navy yard ballpark,addison road,0.625,10
+navy yard ballpark,anacostia,11.0,1
+navy yard ballpark,archives,2.75,3
+navy yard ballpark,ballston-mu,7.625,9
+navy yard ballpark,benning road,1.125,8
+navy yard ballpark,bethesda,4.25,13
+navy yard ballpark,braddock road,1.75,8
+navy yard ballpark,branch avenue,2.75,6
+navy yard ballpark,brookland cua,0.375,9
+navy yard ballpark,capitol heights,0.625,9
+navy yard ballpark,cheverly,0.375,10
+navy yard ballpark,clarendon,5.125,7
+navy yard ballpark,cleveland park,2.625,9
+navy yard ballpark,college park university of maryland,2.375,13
+navy yard ballpark,columbia heights,13.25,8
+navy yard ballpark,congress heights,3.125,2
+navy yard ballpark,court house,5.5,6
+navy yard ballpark,crystal city,3.875,5
+navy yard ballpark,dunn loring,0.375,12
+navy yard ballpark,dupont circle,7.375,7
+navy yard ballpark,east falls church,4.625,10
+navy yard ballpark,eastern market,1.0,5
+navy yard ballpark,eisenhower avenue,2.125,10
+navy yard ballpark,farragut north,0.5,6
+navy yard ballpark,farragut west,0.75,7
+navy yard ballpark,federal center sw,0.375,3
+navy yard ballpark,foggy bottom gwu,5.25,6
+navy yard ballpark,forest glen,1.375,13
+navy yard ballpark,fort totten,7.375,10
+navy yard ballpark,franconia springfield,2.875,11
+navy yard ballpark,friendship heights,2.375,12
+navy yard ballpark,gallery place,26.875,4
+navy yard ballpark,georgia avenue petworth,3.25,9
+navy yard ballpark,glenmont,1.5,15
+navy yard ballpark,greenbelt,1.875,14
+navy yard ballpark,grosvenor strathmore,3.875,15
+navy yard ballpark,huntington,1.875,11
+navy yard ballpark,king street old town,3.375,9
+navy yard ballpark,l'enfant plaza,4.875,2
+navy yard ballpark,landover,0.125,11
+navy yard ballpark,largo,0.25,12
+navy yard ballpark,mcpherson square,0.875,6
+navy yard ballpark,medical center,0.375,14
+navy yard ballpark,metro center,0.125,5
+navy yard ballpark,minnesota avenue,1.375,8
+navy yard ballpark,morgan boulevard,0.25,11
+navy yard ballpark,mount vernon square,7.625,5
+navy yard ballpark,navy yard ballpark,11.375,0
+navy yard ballpark,naylor road,2.375,4
+navy yard ballpark,new carrollton,1.75,12
+navy yard ballpark,noma gallaudet u,1.875,7
+navy yard ballpark,pentagon,0.75,3
+navy yard ballpark,pentagon city,6.75,4
+navy yard ballpark,potomac avenue,0.5,6
+navy yard ballpark,hyattsville crossing,1.0,12
+navy yard ballpark,national airport,0.25,6
+navy yard ballpark,rhode island avenue,1.375,8
+navy yard ballpark,rockville,1.125,18
+navy yard ballpark,rosslyn,4.125,5
+navy yard ballpark,shady grove,4.0,19
+navy yard ballpark,shaw howard university,2.5,6
+navy yard ballpark,silver spring,5.25,12
+navy yard ballpark,southern avenue,3.5,3
+navy yard ballpark,stadium armory,0.375,7
+navy yard ballpark,suitland,3.625,5
+navy yard ballpark,takoma,1.875,11
+navy yard ballpark,tenleytown au,2.375,11
+navy yard ballpark,twinbrook,0.625,17
+navy yard ballpark,u street,21.875,7
+navy yard ballpark,union station,1.125,6
+navy yard ballpark,van dorn street,1.625,10
+navy yard ballpark,van ness udc,1.875,10
+navy yard ballpark,vienna,4.75,13
+navy yard ballpark,virginia square gmu,1.75,8
+navy yard ballpark,waterfront,0.5,1
+navy yard ballpark,west falls church,1.125,11
+navy yard ballpark,west hyattsville,0.875,11
+navy yard ballpark,wheaton,0.125,14
+navy yard ballpark,north bethesda,1.0,16
+navy yard ballpark,woodley park,2.75,8
+naylor road,addison road,1.0,14
+naylor road,anacostia,6.25,3
+naylor road,archives,0.25,7
+naylor road,benning road,1.0,12
+naylor road,branch avenue,3.25,2
+naylor road,brookland cua,0.25,13
+naylor road,capitol heights,1.25,13
+naylor road,cheverly,0.25,14
+naylor road,clarendon,0.125,11
+naylor road,college park university of maryland,0.25,17
+naylor road,columbia heights,0.875,12
+naylor road,congress heights,2.25,2
+naylor road,court house,0.125,10
+naylor road,deanwood,2.0,13
+naylor road,dupont circle,0.25,11
+naylor road,farragut north,0.125,10
+naylor road,fort totten,1.5,14
+naylor road,gallery place,2.75,8
+naylor road,georgia avenue petworth,0.875,13
+naylor road,glenmont,0.125,19
+naylor road,huntington,0.625,15
+naylor road,king street old town,0.5,13
+naylor road,landover,0.125,15
+naylor road,largo,0.625,16
+naylor road,mcpherson square,0.125,10
+naylor road,minnesota avenue,0.5,12
+naylor road,mount vernon square,0.125,9
+naylor road,navy yard ballpark,0.25,4
+naylor road,naylor road,1.625,0
+naylor road,new carrollton,0.75,16
+naylor road,noma gallaudet u,0.5,11
+naylor road,pentagon city,0.875,8
+naylor road,potomac avenue,0.125,10
+naylor road,hyattsville crossing,0.5,16
+naylor road,rhode island avenue,1.75,12
+naylor road,rockville,0.5,22
+naylor road,rosslyn,0.25,9
+naylor road,shady grove,0.125,23
+naylor road,shaw howard university,0.625,10
+naylor road,silver spring,0.375,16
+naylor road,southern avenue,3.25,1
+naylor road,stadium armory,0.75,11
+naylor road,suitland,4.625,1
+naylor road,takoma,0.25,15
+naylor road,tenleytown au,0.125,15
+naylor road,twinbrook,0.125,21
+naylor road,u street,1.5,11
+naylor road,union station,0.25,10
+naylor road,van dorn street,0.125,14
+naylor road,waterfront,1.5,5
+naylor road,west hyattsville,0.125,15
+naylor road,woodley park,0.625,12
+new carrollton,addison road,1.0,8
+new carrollton,anacostia,1.125,13
+new carrollton,ballston-mu,0.25,17
+new carrollton,benning road,0.375,6
+new carrollton,branch avenue,0.5,18
+new carrollton,brookland cua,0.375,17
+new carrollton,capitol heights,0.375,7
+new carrollton,capitol south,0.125,8
+new carrollton,cheverly,0.125,2
+new carrollton,clarendon,0.125,15
+new carrollton,college park university of maryland,0.125,21
+new carrollton,columbia heights,0.25,16
+new carrollton,congress heights,1.0,14
+new carrollton,court house,0.25,14
+new carrollton,crystal city,0.375,13
+new carrollton,deanwood,1.375,3
+new carrollton,dupont circle,0.125,15
+new carrollton,east falls church,0.25,18
+new carrollton,eastern market,0.5,7
+new carrollton,farragut west,0.125,15
+new carrollton,federal center sw,0.375,9
+new carrollton,foggy bottom gwu,0.5,14
+new carrollton,fort totten,2.0,18
+new carrollton,franconia springfield,0.125,19
+new carrollton,gallery place,1.5,12
+new carrollton,georgia avenue petworth,0.375,17
+new carrollton,glenmont,0.125,23
+new carrollton,greenbelt,0.25,22
+new carrollton,huntington,0.5,19
+new carrollton,judiciary square,0.125,13
+new carrollton,king street old town,0.125,17
+new carrollton,landover,1.75,1
+new carrollton,largo,0.375,10
+new carrollton,mcpherson square,0.5,14
+new carrollton,metro center,0.25,13
+new carrollton,minnesota avenue,2.25,4
+new carrollton,morgan boulevard,0.125,9
+new carrollton,mount vernon square,0.125,13
+new carrollton,navy yard ballpark,0.125,12
+new carrollton,naylor road,0.375,16
+new carrollton,new carrollton,3.5,0
+new carrollton,noma gallaudet u,0.125,15
+new carrollton,pentagon city,0.5,12
+new carrollton,potomac avenue,1.0,6
+new carrollton,hyattsville crossing,0.125,20
+new carrollton,national airport,0.125,14
+new carrollton,rhode island avenue,0.5,16
+new carrollton,rosslyn,0.125,13
+new carrollton,shady grove,0.25,27
+new carrollton,shaw howard university,1.375,14
+new carrollton,silver spring,0.375,20
+new carrollton,southern avenue,0.25,15
+new carrollton,stadium armory,0.875,5
+new carrollton,suitland,1.0,17
+new carrollton,takoma,0.125,19
+new carrollton,tenleytown au,0.25,19
+new carrollton,twinbrook,0.125,25
+new carrollton,u street,1.25,15
+new carrollton,union station,0.125,14
+new carrollton,van dorn street,0.5,18
+new carrollton,vienna,0.25,21
+new carrollton,virginia square gmu,0.125,16
+new carrollton,west falls church,0.125,19
+new carrollton,west hyattsville,0.25,19
+new carrollton,wheaton,0.625,22
+new carrollton,woodley park,0.25,16
+noma gallaudet u,addison road,0.5,13
+noma gallaudet u,anacostia,5.75,8
+noma gallaudet u,ballston-mu,1.375,12
+noma gallaudet u,benning road,1.875,11
+noma gallaudet u,bethesda,3.25,12
+noma gallaudet u,braddock road,0.5,11
+noma gallaudet u,branch avenue,0.75,13
+noma gallaudet u,brookland cua,4.5,2
+noma gallaudet u,capitol heights,1.0,12
+noma gallaudet u,capitol south,0.125,7
+noma gallaudet u,clarendon,0.375,10
+noma gallaudet u,cleveland park,0.875,8
+noma gallaudet u,college park university of maryland,2.5,6
+noma gallaudet u,columbia heights,3.375,5
+noma gallaudet u,congress heights,1.375,9
+noma gallaudet u,court house,0.5,9
+noma gallaudet u,crystal city,0.125,8
+noma gallaudet u,deanwood,0.75,12
+noma gallaudet u,dunn loring,2.375,15
+noma gallaudet u,dupont circle,6.125,6
+noma gallaudet u,east falls church,1.125,13
+noma gallaudet u,eastern market,0.375,8
+noma gallaudet u,eisenhower avenue,0.625,13
+noma gallaudet u,farragut north,2.0,5
+noma gallaudet u,foggy bottom gwu,1.125,7
+noma gallaudet u,forest glen,1.5,6
+noma gallaudet u,fort totten,13.0,3
+noma gallaudet u,franconia springfield,2.125,14
+noma gallaudet u,friendship heights,1.375,11
+noma gallaudet u,gallery place,5.25,3
+noma gallaudet u,georgia avenue petworth,1.375,4
+noma gallaudet u,glenmont,7.875,8
+noma gallaudet u,greenbelt,0.875,7
+noma gallaudet u,grosvenor strathmore,2.625,14
+noma gallaudet u,huntington,2.125,14
+noma gallaudet u,judiciary square,0.875,2
+noma gallaudet u,king street old town,0.375,12
+noma gallaudet u,l'enfant plaza,1.0,5
+noma gallaudet u,landover,0.875,14
+noma gallaudet u,largo,1.75,15
+noma gallaudet u,mcpherson square,0.125,5
+noma gallaudet u,medical center,1.0,13
+noma gallaudet u,metro center,2.875,4
+noma gallaudet u,minnesota avenue,0.875,11
+noma gallaudet u,morgan boulevard,0.25,14
+noma gallaudet u,mount vernon square,0.75,4
+noma gallaudet u,navy yard ballpark,0.75,7
+noma gallaudet u,naylor road,2.5,11
+noma gallaudet u,new carrollton,1.5,15
+noma gallaudet u,noma gallaudet u,4.625,0
+noma gallaudet u,pentagon,1.25,6
+noma gallaudet u,pentagon city,2.0,7
+noma gallaudet u,potomac avenue,1.875,9
+noma gallaudet u,hyattsville crossing,1.625,5
+noma gallaudet u,national airport,0.375,9
+noma gallaudet u,rhode island avenue,7.625,1
+noma gallaudet u,rockville,1.75,17
+noma gallaudet u,rosslyn,1.125,8
+noma gallaudet u,shady grove,7.875,18
+noma gallaudet u,shaw howard university,0.875,5
+noma gallaudet u,silver spring,12.375,5
+noma gallaudet u,southern avenue,1.5,10
+noma gallaudet u,stadium armory,0.25,10
+noma gallaudet u,suitland,2.625,12
+noma gallaudet u,takoma,5.75,4
+noma gallaudet u,tenleytown au,4.25,10
+noma gallaudet u,twinbrook,1.0,16
+noma gallaudet u,u street,1.5,6
+noma gallaudet u,union station,1.0,1
+noma gallaudet u,van dorn street,0.625,13
+noma gallaudet u,van ness udc,1.0,9
+noma gallaudet u,vienna,6.125,16
+noma gallaudet u,virginia square gmu,0.625,11
+noma gallaudet u,waterfront,1.25,6
+noma gallaudet u,west falls church,1.75,14
+noma gallaudet u,west hyattsville,1.5,4
+noma gallaudet u,wheaton,2.625,7
+noma gallaudet u,north bethesda,0.125,15
+noma gallaudet u,woodley park,2.75,7
+pentagon,addison road,0.25,9
+pentagon,ballston-mu,0.25,6
+pentagon,benning road,0.25,7
+pentagon,braddock road,2.0,5
+pentagon,cheverly,0.125,9
+pentagon,columbia heights,0.5,7
+pentagon,crystal city,0.375,2
+pentagon,dunn loring,0.125,9
+pentagon,dupont circle,0.25,6
+pentagon,east falls church,0.25,7
+pentagon,eisenhower avenue,0.875,7
+pentagon,federal triangle,0.125,3
+pentagon,foggy bottom gwu,0.125,3
+pentagon,fort totten,0.25,9
+pentagon,franconia springfield,1.875,8
+pentagon,gallery place,1.125,3
+pentagon,georgia avenue petworth,0.625,8
+pentagon,huntington,2.25,8
+pentagon,king street old town,0.625,6
+pentagon,mcpherson square,0.25,5
+pentagon,morgan boulevard,0.875,10
+pentagon,mount vernon square,0.125,4
+pentagon,naylor road,0.125,7
+pentagon,new carrollton,0.125,11
+pentagon,pentagon,0.375,0
+pentagon,pentagon city,0.75,1
+pentagon,potomac avenue,0.125,5
+pentagon,hyattsville crossing,0.125,11
+pentagon,national airport,0.375,3
+pentagon,rosslyn,0.25,2
+pentagon,shaw howard university,0.25,5
+pentagon,silver spring,0.375,11
+pentagon,stadium armory,0.125,6
+pentagon,suitland,0.375,8
+pentagon,tenleytown au,0.125,10
+pentagon,van dorn street,0.125,7
+pentagon,vienna,0.125,10
+pentagon city,addison road,0.75,10
+pentagon city,anacostia,1.125,5
+pentagon city,archives,1.25,3
+pentagon city,ballston-mu,1.125,7
+pentagon city,benning road,0.5,8
+pentagon city,bethesda,0.25,13
+pentagon city,braddock road,1.5,4
+pentagon city,branch avenue,0.25,10
+pentagon city,brookland cua,0.625,9
+pentagon city,capitol heights,0.25,9
+pentagon city,capitol south,0.25,4
+pentagon city,cheverly,1.5,10
+pentagon city,clarendon,0.25,5
+pentagon city,cleveland park,0.5,9
+pentagon city,columbia heights,5.375,8
+pentagon city,congress heights,0.125,6
+pentagon city,court house,0.5,4
+pentagon city,crystal city,3.25,1
+pentagon city,deanwood,0.5,9
+pentagon city,dunn loring,0.125,10
+pentagon city,dupont circle,1.125,7
+pentagon city,east falls church,0.75,8
+pentagon city,eastern market,0.875,5
+pentagon city,eisenhower avenue,0.125,6
+pentagon city,farragut west,2.75,5
+pentagon city,federal center sw,0.625,3
+pentagon city,foggy bottom gwu,4.75,4
+pentagon city,forest glen,0.125,13
+pentagon city,fort totten,3.375,10
+pentagon city,franconia springfield,3.75,7
+pentagon city,friendship heights,0.625,12
+pentagon city,gallery place,4.75,4
+pentagon city,georgia avenue petworth,1.5,9
+pentagon city,glenmont,0.125,15
+pentagon city,greenbelt,1.0,14
+pentagon city,grosvenor strathmore,0.25,15
+pentagon city,huntington,8.25,7
+pentagon city,king street old town,4.125,5
+pentagon city,l'enfant plaza,1.375,2
+pentagon city,landover,0.375,11
+pentagon city,largo,0.875,12
+pentagon city,mcpherson square,1.625,6
+pentagon city,medical center,0.125,14
+pentagon city,metro center,1.625,5
+pentagon city,minnesota avenue,0.25,8
+pentagon city,mount vernon square,2.75,5
+pentagon city,navy yard ballpark,0.25,4
+pentagon city,naylor road,0.625,8
+pentagon city,new carrollton,1.25,12
+pentagon city,noma gallaudet u,1.0,7
+pentagon city,pentagon,0.5,1
+pentagon city,pentagon city,3.125,0
+pentagon city,potomac avenue,0.75,6
+pentagon city,hyattsville crossing,0.625,12
+pentagon city,national airport,0.375,2
+pentagon city,rhode island avenue,0.5,8
+pentagon city,rosslyn,4.0,3
+pentagon city,shady grove,0.375,19
+pentagon city,shaw howard university,1.25,6
+pentagon city,silver spring,2.125,12
+pentagon city,southern avenue,1.125,7
+pentagon city,stadium armory,0.25,7
+pentagon city,suitland,1.5,9
+pentagon city,takoma,0.625,11
+pentagon city,tenleytown au,0.875,11
+pentagon city,twinbrook,0.25,17
+pentagon city,u street,3.25,7
+pentagon city,union station,1.625,6
+pentagon city,van dorn street,2.375,6
+pentagon city,van ness udc,0.625,10
+pentagon city,vienna,1.0,11
+pentagon city,virginia square gmu,0.25,6
+pentagon city,waterfront,0.375,3
+pentagon city,west falls church,0.375,9
+pentagon city,west hyattsville,0.5,11
+pentagon city,wheaton,0.875,14
+pentagon city,woodley park,0.625,8
+potomac avenue,addison road,0.75,4
+potomac avenue,anacostia,1.125,7
+potomac avenue,ballston-mu,0.625,11
+potomac avenue,benning road,2.875,2
+potomac avenue,bethesda,0.625,15
+potomac avenue,braddock road,0.125,10
+potomac avenue,branch avenue,0.375,12
+potomac avenue,brookland cua,0.875,11
+potomac avenue,capitol heights,1.25,3
+potomac avenue,capitol south,1.0,2
+potomac avenue,cheverly,0.875,4
+potomac avenue,clarendon,0.25,9
+potomac avenue,cleveland park,0.25,11
+potomac avenue,columbia heights,2.25,10
+potomac avenue,congress heights,0.5,8
+potomac avenue,court house,1.5,8
+potomac avenue,deanwood,0.875,3
+potomac avenue,dunn loring,0.25,14
+potomac avenue,dupont circle,0.375,9
+potomac avenue,east falls church,0.25,12
+potomac avenue,eastern market,0.125,1
+potomac avenue,farragut west,1.875,9
+potomac avenue,federal triangle,0.25,6
+potomac avenue,foggy bottom gwu,1.75,8
+potomac avenue,fort totten,2.0,12
+potomac avenue,friendship heights,0.25,14
+potomac avenue,gallery place,0.375,6
+potomac avenue,georgia avenue petworth,2.125,11
+potomac avenue,greenbelt,0.25,16
+potomac avenue,grosvenor strathmore,0.125,17
+potomac avenue,huntington,0.625,13
+potomac avenue,king street old town,0.5,11
+potomac avenue,l'enfant plaza,0.75,4
+potomac avenue,landover,0.625,5
+potomac avenue,largo,0.5,6
+potomac avenue,mcpherson square,1.5,8
+potomac avenue,metro center,1.0,7
+potomac avenue,minnesota avenue,2.125,2
+potomac avenue,morgan boulevard,0.25,5
+potomac avenue,mount vernon square,1.375,7
+potomac avenue,naylor road,0.25,10
+potomac avenue,new carrollton,1.25,6
+potomac avenue,noma gallaudet u,0.75,9
+potomac avenue,pentagon,0.25,5
+potomac avenue,pentagon city,0.625,6
+potomac avenue,potomac avenue,3.125,0
+potomac avenue,national airport,0.125,8
+potomac avenue,rhode island avenue,0.375,10
+potomac avenue,rockville,0.125,20
+potomac avenue,rosslyn,0.875,7
+potomac avenue,shady grove,0.5,21
+potomac avenue,shaw howard university,1.125,8
+potomac avenue,silver spring,1.375,14
+potomac avenue,southern avenue,0.125,9
+potomac avenue,stadium armory,1.375,1
+potomac avenue,suitland,0.625,11
+potomac avenue,takoma,0.75,13
+potomac avenue,tenleytown au,0.75,13
+potomac avenue,u street,1.75,9
+potomac avenue,union station,0.75,8
+potomac avenue,van ness udc,0.5,12
+potomac avenue,vienna,0.125,15
+potomac avenue,virginia square gmu,0.25,10
+potomac avenue,west falls church,0.5,13
+potomac avenue,west hyattsville,0.125,13
+potomac avenue,woodley park,0.75,10
+hyattsville crossing,addison road,0.125,18
+hyattsville crossing,anacostia,0.875,13
+hyattsville crossing,benning road,0.25,16
+hyattsville crossing,bethesda,0.25,17
+hyattsville crossing,branch avenue,0.75,18
+hyattsville crossing,brookland cua,0.5,3
+hyattsville crossing,cheverly,0.125,18
+hyattsville crossing,college park university of maryland,7.25,1
+hyattsville crossing,columbia heights,3.5,4
+hyattsville crossing,congress heights,0.125,14
+hyattsville crossing,court house,0.125,14
+hyattsville crossing,dupont circle,0.375,11
+hyattsville crossing,eastern market,0.125,13
+hyattsville crossing,farragut north,0.125,10
+hyattsville crossing,foggy bottom gwu,0.125,12
+hyattsville crossing,fort totten,2.5,2
+hyattsville crossing,gallery place,1.875,8
+hyattsville crossing,georgia avenue petworth,2.625,3
+hyattsville crossing,glenmont,0.5,7
+hyattsville crossing,greenbelt,3.625,2
+hyattsville crossing,grosvenor strathmore,0.125,19
+hyattsville crossing,huntington,0.25,19
+hyattsville crossing,judiciary square,0.125,7
+hyattsville crossing,landover,0.625,19
+hyattsville crossing,mcpherson square,0.375,10
+hyattsville crossing,mount vernon square,0.5,7
+hyattsville crossing,navy yard ballpark,0.125,12
+hyattsville crossing,naylor road,0.5,16
+hyattsville crossing,new carrollton,0.25,20
+hyattsville crossing,noma gallaudet u,0.75,5
+hyattsville crossing,pentagon city,0.125,12
+hyattsville crossing,potomac avenue,0.125,14
+hyattsville crossing,hyattsville crossing,2.375,0
+hyattsville crossing,national airport,0.125,14
+hyattsville crossing,rosslyn,0.25,13
+hyattsville crossing,shady grove,0.25,23
+hyattsville crossing,shaw howard university,1.125,6
+hyattsville crossing,silver spring,0.75,4
+hyattsville crossing,southern avenue,1.0,15
+hyattsville crossing,suitland,2.0,17
+hyattsville crossing,takoma,0.625,3
+hyattsville crossing,tenleytown au,0.125,15
+hyattsville crossing,u street,5.625,5
+hyattsville crossing,union station,0.25,6
+hyattsville crossing,vienna,0.125,21
+hyattsville crossing,waterfront,0.125,11
+hyattsville crossing,west hyattsville,1.25,1
+hyattsville crossing,wheaton,0.125,6
+hyattsville crossing,woodley park,0.5,12
+national airport,addison road,0.125,12
+national airport,anacostia,0.375,7
+national airport,archives,0.25,5
+national airport,ballston-mu,0.875,9
+national airport,benning road,0.375,10
+national airport,bethesda,1.125,15
+national airport,braddock road,1.875,2
+national airport,branch avenue,1.0,12
+national airport,brookland cua,0.125,11
+national airport,clarendon,0.625,7
+national airport,cleveland park,0.125,11
+national airport,college park university of maryland,0.25,15
+national airport,columbia heights,3.25,10
+national airport,congress heights,0.25,8
+national airport,court house,0.375,6
+national airport,crystal city,2.0,1
+national airport,deanwood,0.125,11
+national airport,dunn loring,0.625,12
+national airport,dupont circle,1.625,9
+national airport,east falls church,0.625,10
+national airport,eastern market,0.75,7
+national airport,eisenhower avenue,0.25,4
+national airport,farragut west,0.625,7
+national airport,federal center sw,0.125,5
+national airport,federal triangle,0.125,6
+national airport,foggy bottom gwu,6.625,6
+national airport,fort totten,1.625,12
+national airport,franconia springfield,4.625,5
+national airport,friendship heights,0.5,14
+national airport,gallery place,1.5,6
+national airport,georgia avenue petworth,1.375,11
+national airport,glenmont,0.625,17
+national airport,greenbelt,0.5,16
+national airport,grosvenor strathmore,1.125,17
+national airport,huntington,4.625,5
+national airport,king street old town,4.5,3
+national airport,l'enfant plaza,0.25,4
+national airport,landover,0.25,13
+national airport,largo,0.375,14
+national airport,mcpherson square,1.875,8
+national airport,medical center,0.125,16
+national airport,metro center,1.75,7
+national airport,mount vernon square,0.875,7
+national airport,navy yard ballpark,0.25,6
+national airport,naylor road,0.125,10
+national airport,new carrollton,0.125,14
+national airport,noma gallaudet u,0.5,9
+national airport,pentagon,0.625,3
+national airport,pentagon city,1.875,2
+national airport,potomac avenue,0.5,8
+national airport,hyattsville crossing,0.375,14
+national airport,national airport,1.25,0
+national airport,rockville,0.75,20
+national airport,rosslyn,3.125,5
+national airport,shady grove,1.25,21
+national airport,shaw howard university,0.5,8
+national airport,silver spring,2.25,14
+national airport,southern avenue,0.125,9
+national airport,stadium armory,0.125,9
+national airport,suitland,0.5,11
+national airport,takoma,0.125,13
+national airport,tenleytown au,0.375,13
+national airport,twinbrook,0.625,19
+national airport,u street,0.75,9
+national airport,union station,2.0,8
+national airport,van dorn street,2.625,4
+national airport,van ness udc,0.375,12
+national airport,vienna,1.125,13
+national airport,virginia square gmu,0.25,8
+national airport,west falls church,0.25,11
+national airport,north bethesda,0.375,18
+national airport,woodley park,1.0,10
+rhode island avenue,addison road,0.75,14
+rhode island avenue,anacostia,3.625,9
+rhode island avenue,ballston-mu,0.5,13
+rhode island avenue,benning road,1.0,12
+rhode island avenue,bethesda,0.625,13
+rhode island avenue,braddock road,0.125,12
+rhode island avenue,brookland cua,0.625,1
+rhode island avenue,capitol heights,0.75,13
+rhode island avenue,cheverly,0.375,14
+rhode island avenue,cleveland park,0.125,9
+rhode island avenue,college park university of maryland,0.75,5
+rhode island avenue,columbia heights,1.75,4
+rhode island avenue,congress heights,1.375,10
+rhode island avenue,court house,0.125,10
+rhode island avenue,crystal city,0.125,9
+rhode island avenue,deanwood,0.75,13
+rhode island avenue,dunn loring,0.125,16
+rhode island avenue,dupont circle,1.75,7
+rhode island avenue,east falls church,0.125,14
+rhode island avenue,eastern market,0.25,9
+rhode island avenue,farragut north,0.125,6
+rhode island avenue,foggy bottom gwu,1.5,8
+rhode island avenue,forest glen,0.125,5
+rhode island avenue,fort totten,6.75,2
+rhode island avenue,franconia springfield,0.625,15
+rhode island avenue,friendship heights,0.25,12
+rhode island avenue,gallery place,5.125,4
+rhode island avenue,georgia avenue petworth,0.625,3
+rhode island avenue,glenmont,1.375,7
+rhode island avenue,greenbelt,0.375,6
+rhode island avenue,grosvenor strathmore,0.375,15
+rhode island avenue,judiciary square,1.375,3
+rhode island avenue,king street old town,0.125,13
+rhode island avenue,landover,0.625,15
+rhode island avenue,largo,0.75,16
+rhode island avenue,mcpherson square,0.25,6
+rhode island avenue,metro center,0.375,5
+rhode island avenue,minnesota avenue,1.25,12
+rhode island avenue,mount vernon square,0.125,5
+rhode island avenue,navy yard ballpark,0.875,8
+rhode island avenue,naylor road,1.75,12
+rhode island avenue,new carrollton,0.25,16
+rhode island avenue,noma gallaudet u,2.625,1
+rhode island avenue,potomac avenue,0.25,10
+rhode island avenue,hyattsville crossing,1.25,4
+rhode island avenue,national airport,0.875,10
+rhode island avenue,rhode island avenue,3.5,0
+rhode island avenue,shady grove,0.625,19
+rhode island avenue,shaw howard university,0.375,6
+rhode island avenue,silver spring,4.125,4
+rhode island avenue,southern avenue,0.625,11
+rhode island avenue,suitland,1.375,13
+rhode island avenue,takoma,1.75,3
+rhode island avenue,tenleytown au,0.5,11
+rhode island avenue,twinbrook,0.25,17
+rhode island avenue,u street,2.375,5
+rhode island avenue,union station,1.625,2
+rhode island avenue,van dorn street,0.125,14
+rhode island avenue,van ness udc,0.125,10
+rhode island avenue,vienna,0.125,17
+rhode island avenue,virginia square gmu,0.125,12
+rhode island avenue,waterfront,1.25,7
+rhode island avenue,west falls church,0.25,15
+rhode island avenue,west hyattsville,0.75,3
+rhode island avenue,wheaton,0.75,6
+rhode island avenue,north bethesda,0.25,16
+rhode island avenue,woodley park,0.375,8
+rockville,benning road,0.125,22
+rockville,bethesda,1.25,5
+rockville,brookland cua,0.25,19
+rockville,cleveland park,0.125,9
+rockville,college park university of maryland,0.125,23
+rockville,columbia heights,0.125,18
+rockville,congress heights,0.25,20
+rockville,dunn loring,0.125,24
+rockville,dupont circle,2.875,11
+rockville,east falls church,0.125,22
+rockville,eisenhower avenue,0.5,24
+rockville,farragut north,0.375,12
+rockville,foggy bottom gwu,0.125,16
+rockville,fort totten,0.125,20
+rockville,friendship heights,1.0,6
+rockville,gallery place,1.125,14
+rockville,glenmont,0.625,25
+rockville,grosvenor strathmore,3.0,3
+rockville,king street old town,0.25,23
+rockville,landover,0.25,25
+rockville,largo,0.375,26
+rockville,medical center,0.25,4
+rockville,minnesota avenue,0.25,22
+rockville,morgan boulevard,0.375,25
+rockville,new carrollton,0.25,26
+rockville,noma gallaudet u,0.375,17
+rockville,pentagon city,0.25,18
+rockville,hyattsville crossing,0.125,22
+rockville,rhode island avenue,0.125,18
+rockville,rockville,3.625,0
+rockville,rosslyn,0.375,17
+rockville,shady grove,9.25,1
+rockville,shaw howard university,0.25,16
+rockville,silver spring,0.875,22
+rockville,smithsonian,0.125,15
+rockville,stadium armory,0.125,21
+rockville,takoma,0.625,21
+rockville,tenleytown au,0.375,7
+rockville,twinbrook,4.375,1
+rockville,u street,0.125,17
+rockville,union station,0.875,16
+rockville,van ness udc,1.0,8
+rockville,virginia square gmu,0.125,20
+rockville,waterfront,0.125,17
+rockville,west falls church,0.125,23
+rockville,wheaton,0.125,24
+rockville,north bethesda,2.375,2
+rockville,woodley park,2.125,10
+rosslyn,addison road,0.375,11
+rosslyn,anacostia,0.375,6
+rosslyn,ballston-mu,9.375,4
+rosslyn,bethesda,0.5,12
+rosslyn,braddock road,3.75,7
+rosslyn,branch avenue,2.625,11
+rosslyn,brookland cua,0.125,10
+rosslyn,capitol heights,0.25,10
+rosslyn,capitol south,0.625,5
+rosslyn,cheverly,0.75,11
+rosslyn,clarendon,1.625,2
+rosslyn,cleveland park,0.625,8
+rosslyn,college park university of maryland,0.375,14
+rosslyn,columbia heights,1.0,9
+rosslyn,congress heights,0.25,7
+rosslyn,court house,2.625,1
+rosslyn,crystal city,7.5,4
+rosslyn,dunn loring,10.5,7
+rosslyn,dupont circle,1.625,6
+rosslyn,east falls church,8.5,5
+rosslyn,eastern market,1.875,6
+rosslyn,eisenhower avenue,0.125,9
+rosslyn,farragut north,0.125,5
+rosslyn,farragut west,5.75,2
+rosslyn,federal center sw,0.5,4
+rosslyn,foggy bottom gwu,5.625,1
+rosslyn,forest glen,0.375,14
+rosslyn,fort totten,1.75,11
+rosslyn,franconia springfield,6.5,10
+rosslyn,friendship heights,1.25,11
+rosslyn,gallery place,0.625,5
+rosslyn,georgia avenue petworth,3.0,10
+rosslyn,glenmont,0.125,16
+rosslyn,greenbelt,0.125,15
+rosslyn,grosvenor strathmore,0.5,14
+rosslyn,huntington,2.0,10
+rosslyn,judiciary square,0.125,6
+rosslyn,king street old town,6.0,8
+rosslyn,l'enfant plaza,0.75,3
+rosslyn,largo,0.5,13
+rosslyn,mcpherson square,3.75,3
+rosslyn,medical center,0.375,13
+rosslyn,metro center,3.375,4
+rosslyn,minnesota avenue,0.25,9
+rosslyn,morgan boulevard,0.375,12
+rosslyn,mount vernon square,0.5,6
+rosslyn,navy yard ballpark,0.125,5
+rosslyn,naylor road,1.5,9
+rosslyn,new carrollton,1.125,13
+rosslyn,noma gallaudet u,1.125,8
+rosslyn,pentagon,1.875,2
+rosslyn,pentagon city,10.375,3
+rosslyn,potomac avenue,0.875,7
+rosslyn,national airport,0.125,5
+rosslyn,rhode island avenue,0.5,9
+rosslyn,rosslyn,7.0,0
+rosslyn,shady grove,2.25,18
+rosslyn,shaw howard university,0.25,7
+rosslyn,silver spring,2.375,13
+rosslyn,southern avenue,1.25,8
+rosslyn,stadium armory,0.625,8
+rosslyn,suitland,0.25,10
+rosslyn,takoma,0.125,12
+rosslyn,tenleytown au,0.5,10
+rosslyn,twinbrook,0.25,16
+rosslyn,u street,1.0,8
+rosslyn,union station,1.0,7
+rosslyn,van dorn street,5.75,9
+rosslyn,van ness udc,0.375,9
+rosslyn,vienna,12.25,8
+rosslyn,virginia square gmu,2.875,3
+rosslyn,waterfront,1.125,4
+rosslyn,west falls church,3.75,6
+rosslyn,west hyattsville,0.125,12
+rosslyn,wheaton,0.5,15
+rosslyn,north bethesda,0.125,15
+rosslyn,woodley park,2.625,7
+shady grove,addison road,0.25,25
+shady grove,anacostia,0.375,20
+shady grove,ballston-mu,1.375,22
+shady grove,benning road,0.25,23
+shady grove,bethesda,1.375,6
+shady grove,braddock road,0.25,23
+shady grove,branch avenue,0.625,25
+shady grove,brookland cua,0.125,20
+shady grove,cheverly,0.125,25
+shady grove,columbia heights,0.25,19
+shady grove,congress heights,0.375,21
+shady grove,deanwood,0.25,24
+shady grove,dunn loring,0.125,25
+shady grove,dupont circle,3.5,12
+shady grove,east falls church,0.125,23
+shady grove,eastern market,0.375,20
+shady grove,farragut north,0.5,13
+shady grove,farragut west,0.125,16
+shady grove,foggy bottom gwu,0.375,17
+shady grove,fort totten,0.625,21
+shady grove,franconia springfield,0.25,26
+shady grove,friendship heights,0.875,7
+shady grove,gallery place,1.375,15
+shady grove,georgia avenue petworth,0.25,20
+shady grove,glenmont,0.375,26
+shady grove,grosvenor strathmore,0.875,4
+shady grove,huntington,0.125,26
+shady grove,judiciary square,0.375,16
+shady grove,l'enfant plaza,0.125,17
+shady grove,largo,0.625,27
+shady grove,mcpherson square,0.625,15
+shady grove,medical center,0.125,5
+shady grove,metro center,0.875,14
+shady grove,minnesota avenue,0.5,23
+shady grove,morgan boulevard,0.25,26
+shady grove,mount vernon square,0.25,16
+shady grove,naylor road,0.25,23
+shady grove,new carrollton,0.125,27
+shady grove,noma gallaudet u,0.75,18
+shady grove,pentagon,0.125,18
+shady grove,pentagon city,0.25,19
+shady grove,potomac avenue,0.25,21
+shady grove,hyattsville crossing,0.125,23
+shady grove,national airport,0.25,21
+shady grove,rockville,0.75,1
+shady grove,rosslyn,0.25,18
+shady grove,shady grove,4.0,0
+shady grove,shaw howard university,0.25,17
+shady grove,silver spring,0.375,23
+shady grove,southern avenue,0.25,22
+shady grove,suitland,0.25,24
+shady grove,takoma,0.625,22
+shady grove,tenleytown au,0.5,8
+shady grove,twinbrook,2.75,2
+shady grove,u street,0.25,18
+shady grove,union station,1.25,17
+shady grove,van dorn street,0.125,25
+shady grove,van ness udc,0.875,9
+shady grove,waterfront,0.5,18
+shady grove,wheaton,0.125,25
+shady grove,north bethesda,0.5,3
+shady grove,woodley park,2.125,11
+shaw howard university,addison road,1.625,12
+shaw howard university,anacostia,5.25,7
+shaw howard university,archives,0.5,3
+shaw howard university,ballston-mu,1.75,11
+shaw howard university,benning road,2.25,10
+shaw howard university,bethesda,1.375,11
+shaw howard university,braddock road,0.75,10
+shaw howard university,branch avenue,2.25,12
+shaw howard university,brookland cua,0.5,5
+shaw howard university,capitol heights,1.25,11
+shaw howard university,capitol south,0.375,6
+shaw howard university,cheverly,0.25,12
+shaw howard university,clarendon,0.875,9
+shaw howard university,cleveland park,0.5,7
+shaw howard university,college park university of maryland,1.375,7
+shaw howard university,columbia heights,12.75,2
+shaw howard university,congress heights,2.875,8
+shaw howard university,court house,0.875,8
+shaw howard university,crystal city,1.75,7
+shaw howard university,deanwood,1.0,11
+shaw howard university,dunn loring,1.375,14
+shaw howard university,dupont circle,0.75,5
+shaw howard university,east falls church,1.125,12
+shaw howard university,eastern market,0.875,7
+shaw howard university,eisenhower avenue,0.375,12
+shaw howard university,farragut north,0.375,4
+shaw howard university,farragut west,0.625,5
+shaw howard university,foggy bottom gwu,2.625,6
+shaw howard university,forest glen,0.75,7
+shaw howard university,fort totten,12.0,4
+shaw howard university,franconia springfield,1.75,13
+shaw howard university,friendship heights,0.75,10
+shaw howard university,gallery place,8.75,2
+shaw howard university,georgia avenue petworth,6.75,3
+shaw howard university,glenmont,2.25,9
+shaw howard university,greenbelt,4.0,8
+shaw howard university,grosvenor strathmore,1.0,13
+shaw howard university,huntington,1.0,13
+shaw howard university,king street old town,2.625,11
+shaw howard university,l'enfant plaza,3.125,4
+shaw howard university,landover,0.75,13
+shaw howard university,largo,0.875,14
+shaw howard university,mcpherson square,0.25,4
+shaw howard university,medical center,0.125,12
+shaw howard university,metro center,0.625,3
+shaw howard university,minnesota avenue,2.5,10
+shaw howard university,morgan boulevard,0.375,13
+shaw howard university,mount vernon square,1.25,1
+shaw howard university,navy yard ballpark,1.625,6
+shaw howard university,naylor road,3.125,10
+shaw howard university,new carrollton,1.5,14
+shaw howard university,noma gallaudet u,0.75,5
+shaw howard university,pentagon,0.5,5
+shaw howard university,pentagon city,2.0,6
+shaw howard university,potomac avenue,2.5,8
+shaw howard university,hyattsville crossing,3.0,6
+shaw howard university,national airport,0.375,8
+shaw howard university,rhode island avenue,0.625,6
+shaw howard university,rockville,0.25,16
+shaw howard university,rosslyn,1.375,7
+shaw howard university,shady grove,2.375,17
+shaw howard university,shaw howard university,4.75,0
+shaw howard university,silver spring,3.25,6
+shaw howard university,southern avenue,2.0,9
+shaw howard university,stadium armory,0.875,9
+shaw howard university,suitland,3.875,11
+shaw howard university,takoma,2.125,5
+shaw howard university,tenleytown au,2.5,9
+shaw howard university,twinbrook,0.5,15
+shaw howard university,u street,0.875,1
+shaw howard university,union station,0.625,4
+shaw howard university,van dorn street,0.5,12
+shaw howard university,van ness udc,0.25,8
+shaw howard university,vienna,3.0,15
+shaw howard university,waterfront,2.75,5
+shaw howard university,west falls church,1.125,13
+shaw howard university,west hyattsville,1.875,5
+shaw howard university,wheaton,1.0,8
+shaw howard university,north bethesda,0.25,14
+shaw howard university,woodley park,0.625,6
+silver spring,addison road,1.0,18
+silver spring,anacostia,4.375,13
+silver spring,ballston-mu,1.25,17
+silver spring,benning road,1.625,16
+silver spring,bethesda,0.5,17
+silver spring,braddock road,0.125,16
+silver spring,branch avenue,0.75,18
+silver spring,brookland cua,8.125,3
+silver spring,capitol heights,0.25,17
+silver spring,capitol south,0.125,12
+silver spring,cheverly,0.5,18
+silver spring,clarendon,1.0,15
+silver spring,cleveland park,0.875,13
+silver spring,college park university of maryland,2.625,5
+silver spring,columbia heights,5.625,4
+silver spring,congress heights,1.0,14
+silver spring,court house,0.25,14
+silver spring,crystal city,0.625,13
+silver spring,deanwood,1.25,17
+silver spring,dunn loring,0.25,20
+silver spring,dupont circle,3.875,11
+silver spring,east falls church,0.25,18
+silver spring,eastern market,0.75,13
+silver spring,eisenhower avenue,0.75,18
+silver spring,farragut north,3.0,10
+silver spring,foggy bottom gwu,0.75,12
+silver spring,forest glen,3.375,1
+silver spring,fort totten,23.625,2
+silver spring,franconia springfield,0.125,19
+silver spring,friendship heights,0.75,16
+silver spring,gallery place,6.75,8
+silver spring,georgia avenue petworth,5.0,3
+silver spring,glenmont,21.875,3
+silver spring,greenbelt,2.875,6
+silver spring,grosvenor strathmore,0.25,19
+silver spring,huntington,0.375,19
+silver spring,judiciary square,0.75,7
+silver spring,king street old town,1.125,17
+silver spring,l'enfant plaza,0.125,10
+silver spring,landover,1.625,19
+silver spring,largo,1.125,20
+silver spring,mcpherson square,0.25,10
+silver spring,medical center,0.25,18
+silver spring,metro center,2.125,9
+silver spring,minnesota avenue,1.125,16
+silver spring,mount vernon square,1.25,7
+silver spring,naylor road,2.75,16
+silver spring,new carrollton,2.375,20
+silver spring,noma gallaudet u,5.625,5
+silver spring,pentagon,0.125,11
+silver spring,pentagon city,0.625,12
+silver spring,potomac avenue,1.25,14
+silver spring,hyattsville crossing,1.125,4
+silver spring,national airport,1.5,14
+silver spring,rhode island avenue,5.75,4
+silver spring,rockville,1.625,22
+silver spring,rosslyn,0.5,13
+silver spring,shady grove,2.875,23
+silver spring,shaw howard university,2.25,6
+silver spring,silver spring,12.375,0
+silver spring,southern avenue,2.5,15
+silver spring,stadium armory,0.375,15
+silver spring,suitland,2.875,17
+silver spring,takoma,7.75,1
+silver spring,tenleytown au,1.375,15
+silver spring,twinbrook,0.375,21
+silver spring,u street,4.375,5
+silver spring,union station,7.5,6
+silver spring,van ness udc,1.0,14
+silver spring,vienna,0.375,21
+silver spring,virginia square gmu,0.625,16
+silver spring,waterfront,1.375,11
+silver spring,west hyattsville,1.375,3
+silver spring,wheaton,12.25,2
+silver spring,north bethesda,0.25,20
+silver spring,woodley park,2.5,12
+smithsonian,anacostia,0.5,4
+smithsonian,archives,0.125,2
+smithsonian,ballston-mu,1.0,8
+smithsonian,benning road,0.25,7
+smithsonian,bethesda,1.25,10
+smithsonian,braddock road,1.0,7
+smithsonian,branch avenue,0.375,9
+smithsonian,brookland cua,0.5,8
+smithsonian,capitol heights,0.25,8
+smithsonian,capitol south,0.875,3
+smithsonian,cheverly,0.25,9
+smithsonian,clarendon,0.75,6
+smithsonian,college park university of maryland,1.0,12
+smithsonian,columbia heights,1.5,7
+smithsonian,court house,1.375,5
+smithsonian,crystal city,2.875,4
+smithsonian,dupont circle,1.75,4
+smithsonian,east falls church,1.25,9
+smithsonian,eastern market,1.25,4
+smithsonian,eisenhower avenue,0.75,9
+smithsonian,farragut west,0.25,4
+smithsonian,federal center sw,0.125,2
+smithsonian,federal triangle,0.125,1
+smithsonian,foggy bottom gwu,2.375,5
+smithsonian,forest glen,0.25,12
+smithsonian,fort totten,0.5,9
+smithsonian,franconia springfield,0.5,10
+smithsonian,friendship heights,1.0,9
+smithsonian,gallery place,0.125,3
+smithsonian,georgia avenue petworth,0.5,8
+smithsonian,glenmont,1.0,14
+smithsonian,greenbelt,0.625,13
+smithsonian,grosvenor strathmore,0.25,12
+smithsonian,huntington,1.0,10
+smithsonian,king street old town,1.125,8
+smithsonian,l'enfant plaza,0.25,1
+smithsonian,landover,0.25,10
+smithsonian,mcpherson square,1.25,3
+smithsonian,metro center,1.0,2
+smithsonian,minnesota avenue,0.125,7
+smithsonian,new carrollton,0.875,11
+smithsonian,noma gallaudet u,1.0,6
+smithsonian,pentagon,1.0,2
+smithsonian,pentagon city,2.0,3
+smithsonian,potomac avenue,0.875,5
+smithsonian,hyattsville crossing,0.125,11
+smithsonian,national airport,0.375,5
+smithsonian,rhode island avenue,0.375,7
+smithsonian,rockville,0.125,15
+smithsonian,rosslyn,3.0,4
+smithsonian,shady grove,0.75,16
+smithsonian,shaw howard university,1.625,5
+smithsonian,silver spring,1.5,11
+smithsonian,smithsonian,1.0,0
+smithsonian,suitland,0.375,8
+smithsonian,takoma,0.25,10
+smithsonian,tenleytown au,0.125,8
+smithsonian,twinbrook,0.125,14
+smithsonian,u street,0.75,6
+smithsonian,union station,0.125,5
+smithsonian,van dorn street,0.5,9
+smithsonian,vienna,5.125,12
+smithsonian,virginia square gmu,1.5,7
+smithsonian,waterfront,0.125,2
+smithsonian,west falls church,0.625,10
+smithsonian,west hyattsville,0.125,10
+smithsonian,wheaton,0.375,13
+smithsonian,woodley park,1.5,5
+southern avenue,addison road,0.375,13
+southern avenue,anacostia,2.375,2
+southern avenue,archives,0.125,6
+southern avenue,benning road,0.25,11
+southern avenue,braddock road,0.125,11
+southern avenue,branch avenue,3.0,3
+southern avenue,brookland cua,0.125,12
+southern avenue,capitol heights,0.25,12
+southern avenue,columbia heights,3.0,11
+southern avenue,congress heights,0.625,1
+southern avenue,deanwood,0.5,12
+southern avenue,eastern market,0.125,8
+southern avenue,farragut west,0.125,10
+southern avenue,federal center sw,0.125,6
+southern avenue,fort totten,2.25,13
+southern avenue,gallery place,2.375,7
+southern avenue,georgia avenue petworth,1.125,12
+southern avenue,glenmont,0.5,18
+southern avenue,huntington,0.25,14
+southern avenue,judiciary square,0.125,8
+southern avenue,king street old town,0.5,12
+southern avenue,landover,1.625,14
+southern avenue,largo,0.5,15
+southern avenue,minnesota avenue,1.625,11
+southern avenue,morgan boulevard,0.125,14
+southern avenue,mount vernon square,0.125,8
+southern avenue,navy yard ballpark,0.75,3
+southern avenue,naylor road,3.0,1
+southern avenue,new carrollton,0.5,15
+southern avenue,noma gallaudet u,0.625,10
+southern avenue,pentagon,0.375,6
+southern avenue,pentagon city,0.25,7
+southern avenue,potomac avenue,0.125,9
+southern avenue,hyattsville crossing,0.25,15
+southern avenue,national airport,0.25,9
+southern avenue,rhode island avenue,1.0,11
+southern avenue,rockville,0.125,21
+southern avenue,shady grove,0.375,22
+southern avenue,shaw howard university,0.875,9
+southern avenue,silver spring,1.0,15
+southern avenue,southern avenue,1.75,0
+southern avenue,stadium armory,0.375,10
+southern avenue,suitland,7.5,2
+southern avenue,u street,0.75,10
+southern avenue,union station,0.375,9
+southern avenue,vienna,0.25,16
+southern avenue,waterfront,0.5,4
+southern avenue,west hyattsville,0.125,14
+southern avenue,north bethesda,0.125,19
+southern avenue,woodley park,0.375,11
+stadium armory,addison road,2.5,3
+stadium armory,anacostia,1.625,8
+stadium armory,ballston-mu,0.25,12
+stadium armory,benning road,4.5,1
+stadium armory,bethesda,0.25,16
+stadium armory,braddock road,0.125,11
+stadium armory,brookland cua,0.125,12
+stadium armory,capitol heights,2.0,2
+stadium armory,capitol south,0.125,3
+stadium armory,columbia heights,2.125,11
+stadium armory,congress heights,0.75,9
+stadium armory,court house,0.125,9
+stadium armory,crystal city,0.5,8
+stadium armory,deanwood,2.0,2
+stadium armory,dunn loring,0.625,15
+stadium armory,dupont circle,0.5,10
+stadium armory,east falls church,0.125,13
+stadium armory,eastern market,1.75,2
+stadium armory,farragut west,0.125,10
+stadium armory,federal center sw,0.375,4
+stadium armory,foggy bottom gwu,0.75,9
+stadium armory,fort totten,0.375,13
+stadium armory,gallery place,0.25,7
+stadium armory,georgia avenue petworth,0.375,12
+stadium armory,glenmont,0.125,18
+stadium armory,l'enfant plaza,0.125,5
+stadium armory,landover,1.75,4
+stadium armory,largo,1.0,5
+stadium armory,mcpherson square,1.375,9
+stadium armory,metro center,0.75,8
+stadium armory,minnesota avenue,0.75,1
+stadium armory,morgan boulevard,0.75,4
+stadium armory,mount vernon square,0.5,8
+stadium armory,navy yard ballpark,0.125,7
+stadium armory,naylor road,0.375,11
+stadium armory,new carrollton,2.375,5
+stadium armory,noma gallaudet u,0.25,10
+stadium armory,pentagon city,0.25,7
+stadium armory,potomac avenue,1.125,1
+stadium armory,hyattsville crossing,0.125,15
+stadium armory,national airport,0.125,9
+stadium armory,rhode island avenue,0.5,11
+stadium armory,rosslyn,0.25,8
+stadium armory,silver spring,0.5,15
+stadium armory,southern avenue,0.75,10
+stadium armory,stadium armory,1.25,0
+stadium armory,suitland,0.25,12
+stadium armory,tenleytown au,0.375,14
+stadium armory,u street,1.125,10
+stadium armory,union station,0.125,9
+stadium armory,vienna,0.25,16
+stadium armory,waterfront,0.5,6
+stadium armory,west falls church,0.25,14
+stadium armory,west hyattsville,0.125,14
+stadium armory,woodley park,0.5,11
+suitland,addison road,0.125,15
+suitland,anacostia,5.25,4
+suitland,archives,0.125,8
+suitland,benning road,0.75,13
+suitland,braddock road,0.625,13
+suitland,branch avenue,4.25,1
+suitland,brookland cua,0.125,14
+suitland,capitol heights,0.375,14
+suitland,college park university of maryland,0.25,18
+suitland,columbia heights,1.0,13
+suitland,congress heights,2.0,3
+suitland,court house,0.125,11
+suitland,crystal city,0.125,10
+suitland,deanwood,0.125,14
+suitland,dunn loring,0.125,17
+suitland,dupont circle,0.25,12
+suitland,eastern market,0.25,10
+suitland,farragut north,0.25,11
+suitland,farragut west,0.25,12
+suitland,forest glen,0.25,18
+suitland,fort totten,2.375,15
+suitland,franconia springfield,0.375,16
+suitland,gallery place,1.875,9
+suitland,georgia avenue petworth,0.625,14
+suitland,glenmont,0.125,20
+suitland,greenbelt,0.375,19
+suitland,grosvenor strathmore,0.125,20
+suitland,huntington,0.125,16
+suitland,judiciary square,0.125,10
+suitland,king street old town,0.125,14
+suitland,landover,0.25,16
+suitland,largo,0.625,17
+suitland,morgan boulevard,0.25,16
+suitland,mount vernon square,0.25,10
+suitland,navy yard ballpark,1.75,5
+suitland,naylor road,2.0,1
+suitland,new carrollton,0.625,17
+suitland,noma gallaudet u,0.75,12
+suitland,pentagon,0.125,8
+suitland,potomac avenue,0.375,11
+suitland,hyattsville crossing,0.375,17
+suitland,rhode island avenue,0.375,13
+suitland,rockville,0.125,23
+suitland,shady grove,0.625,24
+suitland,shaw howard university,0.625,11
+suitland,silver spring,0.25,17
+suitland,southern avenue,1.75,2
+suitland,stadium armory,0.5,12
+suitland,suitland,3.5,0
+suitland,takoma,0.375,16
+suitland,u street,1.5,12
+suitland,union station,0.625,11
+suitland,van dorn street,0.125,15
+suitland,waterfront,0.75,6
+suitland,wheaton,0.125,19
+suitland,woodley park,0.25,13
+takoma,addison road,0.125,17
+takoma,anacostia,0.625,12
+takoma,ballston-mu,0.125,16
+takoma,benning road,0.125,15
+takoma,bethesda,0.125,16
+takoma,branch avenue,0.25,17
+takoma,brookland cua,2.625,2
+takoma,capitol heights,0.125,16
+takoma,clarendon,0.25,14
+takoma,cleveland park,0.125,12
+takoma,college park university of maryland,0.375,4
+takoma,columbia heights,1.75,3
+takoma,congress heights,0.25,13
+takoma,crystal city,0.125,12
+takoma,dupont circle,1.875,10
+takoma,east falls church,0.25,17
+takoma,farragut north,0.125,9
+takoma,farragut west,0.25,10
+takoma,foggy bottom gwu,0.375,11
+takoma,forest glen,1.375,2
+takoma,fort totten,2.0,1
+takoma,franconia springfield,0.125,18
+takoma,friendship heights,0.25,15
+takoma,gallery place,0.75,7
+takoma,georgia avenue petworth,1.0,2
+takoma,glenmont,3.125,4
+takoma,greenbelt,0.375,5
+takoma,grosvenor strathmore,0.375,18
+takoma,judiciary square,0.125,6
+takoma,l'enfant plaza,0.25,9
+takoma,landover,0.125,18
+takoma,mcpherson square,0.125,9
+takoma,metro center,0.375,8
+takoma,minnesota avenue,0.375,15
+takoma,mount vernon square,0.25,6
+takoma,naylor road,0.375,15
+takoma,new carrollton,0.625,19
+takoma,noma gallaudet u,1.625,4
+takoma,pentagon,0.5,10
+takoma,hyattsville crossing,0.125,3
+takoma,national airport,0.125,13
+takoma,rhode island avenue,1.25,3
+takoma,rockville,0.125,21
+takoma,rosslyn,0.125,12
+takoma,shady grove,0.25,22
+takoma,shaw howard university,0.625,5
+takoma,silver spring,1.75,1
+takoma,southern avenue,0.125,14
+takoma,stadium armory,0.375,14
+takoma,suitland,0.25,16
+takoma,takoma,2.375,0
+takoma,tenleytown au,0.5,14
+takoma,u street,2.125,4
+takoma,union station,2.0,5
+takoma,van ness udc,0.25,13
+takoma,waterfront,0.125,10
+takoma,west hyattsville,1.0,2
+takoma,wheaton,3.0,3
+takoma,woodley park,0.875,11
+tenleytown au,addison road,0.125,17
+tenleytown au,anacostia,0.5,12
+tenleytown au,ballston-mu,0.25,14
+tenleytown au,bethesda,7.375,2
+tenleytown au,braddock road,0.25,15
+tenleytown au,branch avenue,0.375,17
+tenleytown au,brookland cua,0.75,12
+tenleytown au,capitol heights,0.5,16
+tenleytown au,capitol south,0.375,11
+tenleytown au,cheverly,0.25,17
+tenleytown au,cleveland park,1.75,2
+tenleytown au,college park university of maryland,0.25,16
+tenleytown au,columbia heights,1.375,11
+tenleytown au,congress heights,0.125,13
+tenleytown au,court house,0.25,11
+tenleytown au,crystal city,0.25,12
+tenleytown au,deanwood,0.25,16
+tenleytown au,dupont circle,11.5,4
+tenleytown au,east falls church,0.25,15
+tenleytown au,eastern market,0.875,12
+tenleytown au,farragut north,2.0,5
+tenleytown au,federal triangle,0.25,7
+tenleytown au,foggy bottom gwu,0.75,9
+tenleytown au,forest glen,0.125,16
+tenleytown au,fort totten,2.5,13
+tenleytown au,franconia springfield,0.125,18
+tenleytown au,friendship heights,2.75,1
+tenleytown au,gallery place,2.125,7
+tenleytown au,georgia avenue petworth,0.75,12
+tenleytown au,glenmont,0.625,18
+tenleytown au,greenbelt,0.375,17
+tenleytown au,grosvenor strathmore,5.75,4
+tenleytown au,judiciary square,0.125,8
+tenleytown au,king street old town,0.125,16
+tenleytown au,largo,0.125,19
+tenleytown au,mcpherson square,0.25,7
+tenleytown au,medical center,0.75,3
+tenleytown au,metro center,1.375,6
+tenleytown au,minnesota avenue,0.25,15
+tenleytown au,mount vernon square,0.5,8
+tenleytown au,navy yard ballpark,0.375,11
+tenleytown au,naylor road,0.125,15
+tenleytown au,new carrollton,1.5,19
+tenleytown au,noma gallaudet u,1.625,10
+tenleytown au,pentagon city,1.375,11
+tenleytown au,potomac avenue,0.125,13
+tenleytown au,national airport,0.25,13
+tenleytown au,rhode island avenue,1.75,11
+tenleytown au,rockville,2.875,7
+tenleytown au,rosslyn,0.25,10
+tenleytown au,shady grove,4.0,8
+tenleytown au,silver spring,1.625,15
+tenleytown au,stadium armory,1.0,14
+tenleytown au,suitland,0.125,16
+tenleytown au,takoma,1.0,14
+tenleytown au,tenleytown au,4.25,0
+tenleytown au,twinbrook,3.125,6
+tenleytown au,u street,0.75,10
+tenleytown au,union station,2.25,9
+tenleytown au,van dorn street,0.125,17
+tenleytown au,van ness udc,3.0,1
+tenleytown au,vienna,0.875,18
+tenleytown au,virginia square gmu,0.125,13
+tenleytown au,west falls church,0.625,16
+tenleytown au,west hyattsville,0.625,14
+tenleytown au,wheaton,1.125,17
+tenleytown au,north bethesda,2.5,5
+tenleytown au,woodley park,6.875,3
+twinbrook,addison road,0.125,23
+twinbrook,ballston-mu,0.375,20
+twinbrook,bethesda,2.875,4
+twinbrook,clarendon,0.125,18
+twinbrook,cleveland park,0.25,8
+twinbrook,deanwood,0.125,22
+twinbrook,dunn loring,0.125,23
+twinbrook,dupont circle,2.625,10
+twinbrook,east falls church,0.125,21
+twinbrook,eastern market,0.25,18
+twinbrook,farragut north,1.125,11
+twinbrook,foggy bottom gwu,0.125,15
+twinbrook,fort totten,0.25,19
+twinbrook,franconia springfield,0.125,24
+twinbrook,friendship heights,1.0,5
+twinbrook,gallery place,1.25,13
+twinbrook,georgia avenue petworth,0.25,18
+twinbrook,glenmont,0.125,24
+twinbrook,grosvenor strathmore,0.875,2
+twinbrook,judiciary square,0.25,14
+twinbrook,largo,0.125,25
+twinbrook,medical center,0.125,3
+twinbrook,metro center,0.5,12
+twinbrook,mount vernon square,0.125,14
+twinbrook,navy yard ballpark,0.125,17
+twinbrook,naylor road,0.25,21
+twinbrook,noma gallaudet u,0.125,16
+twinbrook,pentagon city,0.125,17
+twinbrook,national airport,0.5,19
+twinbrook,rhode island avenue,0.375,17
+twinbrook,rockville,2.0,1
+twinbrook,rosslyn,0.125,16
+twinbrook,shady grove,9.625,2
+twinbrook,silver spring,0.125,21
+twinbrook,suitland,0.125,22
+twinbrook,takoma,0.25,20
+twinbrook,tenleytown au,0.625,6
+twinbrook,twinbrook,1.0,0
+twinbrook,u street,0.125,16
+twinbrook,union station,0.875,15
+twinbrook,van ness udc,0.625,7
+twinbrook,vienna,0.125,24
+twinbrook,west hyattsville,0.125,20
+twinbrook,wheaton,0.125,23
+twinbrook,north bethesda,1.0,1
+twinbrook,woodley park,1.75,9
+u street,addison road,2.0,13
+u street,anacostia,16.0,8
+u street,archives,3.75,4
+u street,ballston-mu,20.875,12
+u street,benning road,5.875,11
+u street,bethesda,21.375,12
+u street,braddock road,17.0,11
+u street,branch avenue,13.125,13
+u street,brookland cua,12.0,4
+u street,capitol heights,1.625,12
+u street,capitol south,5.125,7
+u street,cheverly,2.25,13
+u street,clarendon,12.125,10
+u street,cleveland park,4.125,8
+u street,college park university of maryland,36.125,6
+u street,columbia heights,55.75,1
+u street,congress heights,6.75,9
+u street,court house,16.375,9
+u street,crystal city,32.5,8
+u street,deanwood,2.875,12
+u street,dunn loring,8.625,15
+u street,dupont circle,9.125,6
+u street,east falls church,19.125,13
+u street,eastern market,10.875,8
+u street,eisenhower avenue,6.875,13
+u street,farragut north,4.125,5
+u street,farragut west,3.25,6
+u street,federal center sw,0.5,6
+u street,foggy bottom gwu,14.25,7
+u street,forest glen,8.625,6
+u street,fort totten,114.5,3
+u street,franconia springfield,17.0,14
+u street,friendship heights,11.875,11
+u street,gallery place,55.0,3
+u street,georgia avenue petworth,56.875,2
+u street,glenmont,16.75,8
+u street,greenbelt,27.375,7
+u street,grosvenor strathmore,16.625,14
+u street,huntington,20.125,14
+u street,judiciary square,0.375,4
+u street,king street old town,25.5,12
+u street,l'enfant plaza,15.25,5
+u street,landover,1.5,14
+u street,largo,5.375,15
+u street,mcpherson square,0.125,5
+u street,medical center,2.125,13
+u street,metro center,3.375,4
+u street,minnesota avenue,2.625,11
+u street,morgan boulevard,2.75,14
+u street,mount vernon square,22.625,2
+u street,navy yard ballpark,25.25,7
+u street,naylor road,6.625,11
+u street,new carrollton,10.25,15
+u street,noma gallaudet u,8.75,6
+u street,pentagon,5.125,6
+u street,pentagon city,54.0,7
+u street,potomac avenue,12.625,9
+u street,hyattsville crossing,25.5,5
+u street,national airport,0.5,9
+u street,rhode island avenue,5.375,5
+u street,rockville,7.5,17
+u street,rosslyn,24.75,8
+u street,shady grove,21.0,18
+u street,shaw howard university,4.375,1
+u street,silver spring,62.75,5
+u street,smithsonian,0.5,6
+u street,southern avenue,5.875,10
+u street,stadium armory,4.375,10
+u street,suitland,8.25,12
+u street,takoma,13.375,4
+u street,tenleytown au,15.875,10
+u street,twinbrook,6.625,16
+u street,u street,35.75,0
+u street,union station,14.125,5
+u street,van dorn street,8.125,13
+u street,van ness udc,10.25,9
+u street,vienna,25.625,16
+u street,virginia square gmu,7.0,11
+u street,waterfront,31.5,6
+u street,west falls church,6.25,14
+u street,west hyattsville,19.0,4
+u street,wheaton,12.625,7
+u street,north bethesda,6.0,15
+u street,woodley park,5.375,7
+union station,addison road,0.625,12
+union station,anacostia,3.0,7
+union station,ballston-mu,7.0,11
+union station,benning road,0.875,10
+union station,bethesda,9.0,11
+union station,braddock road,1.0,10
+union station,branch avenue,1.75,12
+union station,brookland cua,25.375,3
+union station,capitol heights,0.5,11
+union station,cheverly,0.375,12
+union station,clarendon,1.125,9
+union station,cleveland park,6.375,7
+union station,college park university of maryland,2.75,7
+union station,columbia heights,10.75,6
+union station,congress heights,1.25,8
+union station,court house,3.25,8
+union station,crystal city,4.75,7
+union station,deanwood,0.625,11
+union station,dunn loring,2.75,14
+union station,dupont circle,40.25,5
+union station,east falls church,5.125,12
+union station,eastern market,1.875,7
+union station,eisenhower avenue,2.0,12
+union station,farragut north,7.75,4
+union station,farragut west,0.25,5
+union station,federal triangle,0.125,4
+union station,foggy bottom gwu,7.875,6
+union station,forest glen,7.625,7
+union station,fort totten,17.0,4
+union station,franconia springfield,5.5,13
+union station,friendship heights,6.5,10
+union station,gallery place,10.625,2
+union station,georgia avenue petworth,5.125,5
+union station,glenmont,11.125,9
+union station,greenbelt,3.875,8
+union station,grosvenor strathmore,8.0,13
+union station,huntington,2.25,13
+union station,judiciary square,0.5,1
+union station,king street old town,3.25,11
+union station,l'enfant plaza,0.5,4
+union station,landover,0.75,13
+union station,largo,1.125,14
+union station,mcpherson square,1.125,4
+union station,medical center,0.875,12
+union station,metro center,7.625,3
+union station,minnesota avenue,0.375,10
+union station,morgan boulevard,0.875,13
+union station,mount vernon square,1.875,3
+union station,navy yard ballpark,0.625,6
+union station,naylor road,1.625,10
+union station,new carrollton,1.75,14
+union station,noma gallaudet u,4.625,1
+union station,pentagon,1.5,5
+union station,pentagon city,4.5,6
+union station,potomac avenue,0.375,8
+union station,hyattsville crossing,3.625,6
+union station,national airport,0.5,8
+union station,rhode island avenue,3.25,2
+union station,rockville,5.0,16
+union station,rosslyn,19.75,7
+union station,shady grove,18.125,17
+union station,shaw howard university,0.625,4
+union station,silver spring,34.375,6
+union station,southern avenue,1.875,9
+union station,stadium armory,0.125,9
+union station,suitland,1.25,11
+union station,takoma,9.375,5
+union station,tenleytown au,9.5,9
+union station,twinbrook,3.5,15
+union station,u street,4.625,5
+union station,union station,15.5,0
+union station,van dorn street,1.0,12
+union station,van ness udc,8.75,8
+union station,vienna,9.75,15
+union station,virginia square gmu,2.0,10
+union station,waterfront,2.0,5
+union station,west falls church,2.5,13
+union station,west hyattsville,1.625,5
+union station,wheaton,7.0,8
+union station,north bethesda,2.0,14
+union station,woodley park,11.75,6
+van dorn street,archives,0.125,9
+van dorn street,ballston-mu,0.25,13
+van dorn street,braddock road,0.5,2
+van dorn street,capitol south,0.25,10
+van dorn street,clarendon,1.0,11
+van dorn street,cleveland park,0.5,15
+van dorn street,columbia heights,0.625,14
+van dorn street,court house,0.125,10
+van dorn street,crystal city,0.75,5
+van dorn street,east falls church,0.25,14
+van dorn street,eastern market,0.25,11
+van dorn street,farragut west,0.625,11
+van dorn street,federal center sw,0.125,9
+van dorn street,foggy bottom gwu,0.5,10
+van dorn street,fort totten,0.375,16
+van dorn street,franconia springfield,1.375,1
+van dorn street,friendship heights,0.25,18
+van dorn street,gallery place,0.125,10
+van dorn street,georgia avenue petworth,0.5,15
+van dorn street,greenbelt,0.25,20
+van dorn street,grosvenor strathmore,0.25,21
+van dorn street,huntington,1.625,3
+van dorn street,king street old town,1.0,1
+van dorn street,landover,0.125,17
+van dorn street,largo,0.375,18
+van dorn street,mcpherson square,0.5,12
+van dorn street,minnesota avenue,0.125,14
+van dorn street,new carrollton,0.625,18
+van dorn street,noma gallaudet u,0.5,13
+van dorn street,pentagon city,0.25,6
+van dorn street,potomac avenue,0.125,12
+van dorn street,national airport,0.25,4
+van dorn street,rosslyn,0.375,9
+van dorn street,silver spring,0.25,18
+van dorn street,suitland,0.125,15
+van dorn street,twinbrook,0.25,23
+van dorn street,van dorn street,0.875,0
+van dorn street,van ness udc,0.125,16
+van dorn street,vienna,0.375,17
+van dorn street,woodley park,0.5,14
+van ness udc,ballston-mu,0.375,13
+van ness udc,bethesda,3.5,3
+van ness udc,braddock road,0.125,14
+van ness udc,branch avenue,0.125,16
+van ness udc,brookland cua,0.625,11
+van ness udc,capitol south,0.125,10
+van ness udc,cleveland park,0.25,1
+van ness udc,college park university of maryland,0.25,15
+van ness udc,columbia heights,0.625,10
+van ness udc,congress heights,0.25,12
+van ness udc,court house,0.375,10
+van ness udc,crystal city,0.375,11
+van ness udc,dupont circle,8.875,3
+van ness udc,eastern market,0.125,11
+van ness udc,farragut north,1.625,4
+van ness udc,farragut west,0.125,7
+van ness udc,forest glen,0.25,15
+van ness udc,fort totten,1.125,12
+van ness udc,franconia springfield,0.25,17
+van ness udc,friendship heights,1.125,2
+van ness udc,gallery place,2.125,6
+van ness udc,georgia avenue petworth,0.5,11
+van ness udc,glenmont,0.125,17
+van ness udc,greenbelt,0.625,16
+van ness udc,grosvenor strathmore,1.75,5
+van ness udc,huntington,0.25,17
+van ness udc,judiciary square,0.25,7
+van ness udc,king street old town,0.25,15
+van ness udc,l'enfant plaza,0.125,8
+van ness udc,largo,0.25,18
+van ness udc,medical center,0.125,4
+van ness udc,metro center,0.375,5
+van ness udc,minnesota avenue,0.125,14
+van ness udc,mount vernon square,0.5,7
+van ness udc,noma gallaudet u,0.875,9
+van ness udc,pentagon city,0.625,10
+van ness udc,potomac avenue,0.125,12
+van ness udc,hyattsville crossing,0.125,14
+van ness udc,national airport,0.375,12
+van ness udc,rhode island avenue,0.25,10
+van ness udc,rockville,0.875,8
+van ness udc,rosslyn,0.375,9
+van ness udc,shady grove,1.375,9
+van ness udc,shaw howard university,0.5,8
+van ness udc,silver spring,0.875,14
+van ness udc,stadium armory,0.125,13
+van ness udc,takoma,0.5,13
+van ness udc,tenleytown au,2.625,1
+van ness udc,twinbrook,1.25,7
+van ness udc,u street,0.25,9
+van ness udc,union station,2.25,8
+van ness udc,van dorn street,0.25,16
+van ness udc,van ness udc,3.0,0
+van ness udc,vienna,0.375,17
+van ness udc,west falls church,0.125,15
+van ness udc,west hyattsville,0.625,13
+van ness udc,wheaton,0.125,16
+van ness udc,north bethesda,0.875,6
+van ness udc,woodley park,4.5,2
+vienna,anacostia,0.25,14
+vienna,ballston-mu,3.0,4
+vienna,bethesda,0.25,20
+vienna,braddock road,0.125,15
+vienna,capitol south,0.125,13
+vienna,clarendon,1.875,6
+vienna,college park university of maryland,0.125,22
+vienna,columbia heights,0.25,17
+vienna,court house,1.75,7
+vienna,crystal city,0.25,12
+vienna,dunn loring,0.625,1
+vienna,dupont circle,0.625,14
+vienna,east falls church,0.5,3
+vienna,eastern market,0.875,14
+vienna,farragut west,1.25,10
+vienna,foggy bottom gwu,1.5,9
+vienna,fort totten,0.375,19
+vienna,franconia springfield,0.25,18
+vienna,gallery place,0.25,13
+vienna,georgia avenue petworth,0.25,18
+vienna,glenmont,0.125,24
+vienna,grosvenor strathmore,0.25,22
+vienna,king street old town,0.125,16
+vienna,largo,0.25,21
+vienna,mcpherson square,2.375,11
+vienna,metro center,1.125,12
+vienna,minnesota avenue,0.375,17
+vienna,mount vernon square,0.5,14
+vienna,navy yard ballpark,0.125,13
+vienna,naylor road,0.25,17
+vienna,new carrollton,0.875,21
+vienna,noma gallaudet u,0.5,16
+vienna,pentagon city,0.375,11
+vienna,national airport,0.375,13
+vienna,rhode island avenue,0.125,17
+vienna,rockville,0.125,25
+vienna,rosslyn,1.0,8
+vienna,shady grove,0.25,26
+vienna,shaw howard university,0.125,15
+vienna,silver spring,0.375,21
+vienna,southern avenue,0.25,16
+vienna,stadium armory,0.5,16
+vienna,suitland,0.25,18
+vienna,takoma,0.25,20
+vienna,tenleytown au,0.125,18
+vienna,u street,0.625,16
+vienna,union station,0.625,15
+vienna,van dorn street,0.25,17
+vienna,vienna,10.0,0
+vienna,virginia square gmu,0.75,5
+vienna,waterfront,0.375,12
+vienna,west falls church,1.375,2
+vienna,wheaton,0.125,23
+vienna,north bethesda,0.125,23
+vienna,woodley park,0.375,15
+virginia square gmu,bethesda,0.125,15
+virginia square gmu,braddock road,0.5,10
+virginia square gmu,branch avenue,0.125,14
+virginia square gmu,brookland cua,0.125,13
+virginia square gmu,capitol south,0.75,8
+virginia square gmu,clarendon,1.0,1
+virginia square gmu,cleveland park,0.125,11
+virginia square gmu,columbia heights,0.75,12
+virginia square gmu,court house,1.625,2
+virginia square gmu,crystal city,0.125,7
+virginia square gmu,dunn loring,1.125,4
+virginia square gmu,dupont circle,0.375,9
+virginia square gmu,east falls church,1.5,2
+virginia square gmu,eastern market,1.375,9
+virginia square gmu,eisenhower avenue,0.25,12
+virginia square gmu,farragut west,0.75,5
+virginia square gmu,foggy bottom gwu,1.25,4
+virginia square gmu,forest glen,0.25,17
+virginia square gmu,fort totten,0.375,14
+virginia square gmu,franconia springfield,0.25,13
+virginia square gmu,friendship heights,0.25,14
+virginia square gmu,grosvenor strathmore,0.125,17
+virginia square gmu,huntington,0.375,13
+virginia square gmu,king street old town,1.375,11
+virginia square gmu,landover,0.125,15
+virginia square gmu,mcpherson square,2.0,6
+virginia square gmu,metro center,0.75,7
+virginia square gmu,naylor road,0.125,12
+virginia square gmu,pentagon,0.25,5
+virginia square gmu,pentagon city,0.5,6
+virginia square gmu,potomac avenue,0.125,10
+virginia square gmu,rosslyn,0.875,3
+virginia square gmu,shady grove,0.25,21
+virginia square gmu,shaw howard university,0.125,10
+virginia square gmu,silver spring,0.125,16
+virginia square gmu,smithsonian,1.25,7
+virginia square gmu,stadium armory,0.25,11
+virginia square gmu,takoma,0.125,15
+virginia square gmu,tenleytown au,0.125,13
+virginia square gmu,twinbrook,0.125,19
+virginia square gmu,union station,0.5,10
+virginia square gmu,van dorn street,0.25,12
+virginia square gmu,vienna,1.375,5
+virginia square gmu,virginia square gmu,2.5,0
+virginia square gmu,west falls church,0.75,3
+virginia square gmu,west hyattsville,0.125,15
+waterfront,addison road,0.375,9
+waterfront,anacostia,7.625,2
+waterfront,archives,0.75,2
+waterfront,ballston-mu,0.875,8
+waterfront,benning road,3.875,7
+waterfront,braddock road,1.0,7
+waterfront,branch avenue,0.875,7
+waterfront,brookland cua,0.375,8
+waterfront,capitol heights,1.25,8
+waterfront,capitol south,0.125,3
+waterfront,cleveland park,0.5,8
+waterfront,college park university of maryland,0.625,12
+waterfront,columbia heights,9.375,7
+waterfront,congress heights,1.875,3
+waterfront,court house,0.875,5
+waterfront,crystal city,0.625,4
+waterfront,deanwood,0.5,8
+waterfront,dunn loring,0.25,11
+waterfront,dupont circle,1.5,6
+waterfront,east falls church,1.0,9
+waterfront,eastern market,2.25,4
+waterfront,eisenhower avenue,0.5,9
+waterfront,farragut north,0.5,5
+waterfront,federal center sw,0.25,2
+waterfront,federal triangle,0.125,3
+waterfront,foggy bottom gwu,0.75,5
+waterfront,forest glen,0.375,12
+waterfront,fort totten,4.75,9
+waterfront,franconia springfield,0.625,10
+waterfront,friendship heights,0.875,11
+waterfront,gallery place,9.375,3
+waterfront,georgia avenue petworth,4.75,8
+waterfront,glenmont,0.75,14
+waterfront,greenbelt,0.125,13
+waterfront,grosvenor strathmore,1.375,14
+waterfront,huntington,2.125,10
+waterfront,king street old town,1.625,8
+waterfront,l'enfant plaza,0.5,1
+waterfront,landover,0.125,10
+waterfront,largo,1.0,11
+waterfront,mcpherson square,0.5,5
+waterfront,metro center,0.375,4
+waterfront,minnesota avenue,0.75,7
+waterfront,mount vernon square,1.75,4
+waterfront,navy yard ballpark,2.25,1
+waterfront,naylor road,2.5,5
+waterfront,new carrollton,0.375,11
+waterfront,noma gallaudet u,0.5,6
+waterfront,pentagon,0.25,2
+waterfront,pentagon city,1.625,3
+waterfront,potomac avenue,0.625,5
+waterfront,hyattsville crossing,1.25,11
+waterfront,national airport,0.125,5
+waterfront,rhode island avenue,1.0,7
+waterfront,rockville,0.875,17
+waterfront,rosslyn,0.25,4
+waterfront,shady grove,0.875,18
+waterfront,shaw howard university,3.125,5
+waterfront,silver spring,1.625,11
+waterfront,southern avenue,2.875,4
+waterfront,stadium armory,0.625,6
+waterfront,suitland,3.5,6
+waterfront,takoma,0.5,10
+waterfront,tenleytown au,0.875,10
+waterfront,twinbrook,0.625,16
+waterfront,u street,6.5,6
+waterfront,union station,1.0,5
+waterfront,van dorn street,0.375,9
+waterfront,van ness udc,1.0,9
+waterfront,vienna,0.375,12
+waterfront,virginia square gmu,0.125,7
+waterfront,waterfront,3.125,0
+waterfront,west falls church,0.75,10
+waterfront,west hyattsville,1.0,10
+waterfront,wheaton,0.25,13
+waterfront,north bethesda,0.25,15
+waterfront,woodley park,0.625,7
+west falls church,ballston-mu,1.5,2
+west falls church,braddock road,0.125,13
+west falls church,branch avenue,0.25,17
+west falls church,capitol heights,0.125,16
+west falls church,capitol south,0.125,11
+west falls church,cheverly,0.25,17
+west falls church,clarendon,0.625,4
+west falls church,college park university of maryland,0.125,20
+west falls church,columbia heights,0.375,15
+west falls church,court house,0.75,5
+west falls church,crystal city,0.375,10
+west falls church,deanwood,0.25,16
+west falls church,dunn loring,1.375,1
+west falls church,dupont circle,0.25,12
+west falls church,east falls church,1.0,1
+west falls church,eastern market,0.125,12
+west falls church,farragut north,0.125,11
+west falls church,farragut west,1.0,8
+west falls church,foggy bottom gwu,1.0,7
+west falls church,fort totten,0.5,17
+west falls church,friendship heights,0.5,17
+west falls church,gallery place,0.25,11
+west falls church,georgia avenue petworth,0.5,16
+west falls church,huntington,0.25,16
+west falls church,mcpherson square,1.375,9
+west falls church,medical center,0.125,19
+west falls church,metro center,0.875,10
+west falls church,mount vernon square,0.375,12
+west falls church,noma gallaudet u,0.875,14
+west falls church,national airport,0.125,11
+west falls church,rockville,0.125,23
+west falls church,rosslyn,0.25,6
+west falls church,shady grove,0.375,24
+west falls church,silver spring,0.375,19
+west falls church,southern avenue,0.125,14
+west falls church,suitland,0.125,16
+west falls church,twinbrook,0.125,22
+west falls church,u street,0.125,14
+west falls church,union station,0.125,13
+west falls church,van dorn street,0.125,15
+west falls church,van ness udc,0.125,15
+west falls church,vienna,3.0,2
+west falls church,virginia square gmu,0.125,3
+west falls church,west falls church,2.375,0
+west falls church,woodley park,0.75,13
+west hyattsville,addison road,0.125,17
+west hyattsville,anacostia,0.5,12
+west hyattsville,branch avenue,0.625,17
+west hyattsville,brookland cua,0.25,2
+west hyattsville,college park university of maryland,1.75,2
+west hyattsville,columbia heights,2.25,3
+west hyattsville,congress heights,0.375,13
+west hyattsville,deanwood,0.125,16
+west hyattsville,eastern market,0.25,12
+west hyattsville,forest glen,0.25,4
+west hyattsville,fort totten,1.75,1
+west hyattsville,gallery place,0.625,7
+west hyattsville,georgia avenue petworth,0.75,2
+west hyattsville,glenmont,0.25,6
+west hyattsville,greenbelt,1.25,3
+west hyattsville,king street old town,0.25,16
+west hyattsville,landover,0.125,18
+west hyattsville,largo,0.25,19
+west hyattsville,minnesota avenue,0.25,15
+west hyattsville,mount vernon square,0.5,6
+west hyattsville,navy yard ballpark,0.125,11
+west hyattsville,naylor road,0.625,15
+west hyattsville,noma gallaudet u,0.25,4
+west hyattsville,pentagon city,0.5,11
+west hyattsville,potomac avenue,0.5,13
+west hyattsville,hyattsville crossing,0.875,1
+west hyattsville,national airport,0.125,13
+west hyattsville,rhode island avenue,0.5,3
+west hyattsville,rosslyn,0.125,12
+west hyattsville,shady grove,0.25,22
+west hyattsville,shaw howard university,0.625,5
+west hyattsville,silver spring,0.125,3
+west hyattsville,southern avenue,0.125,14
+west hyattsville,suitland,0.5,16
+west hyattsville,u street,1.625,4
+west hyattsville,union station,0.125,5
+west hyattsville,van ness udc,0.25,13
+west hyattsville,west hyattsville,1.875,0
+west hyattsville,wheaton,0.375,5
+wheaton,addison road,0.25,20
+wheaton,anacostia,0.125,15
+wheaton,bethesda,0.125,19
+wheaton,braddock road,0.125,18
+wheaton,branch avenue,0.125,20
+wheaton,brookland cua,1.25,5
+wheaton,clarendon,0.125,17
+wheaton,cleveland park,0.125,15
+wheaton,college park university of maryland,0.25,7
+wheaton,columbia heights,1.0,6
+wheaton,congress heights,0.125,16
+wheaton,crystal city,0.125,15
+wheaton,deanwood,0.125,19
+wheaton,dupont circle,1.0,13
+wheaton,east falls church,0.125,20
+wheaton,farragut north,0.25,12
+wheaton,farragut west,0.25,13
+wheaton,forest glen,0.625,1
+wheaton,fort totten,2.375,4
+wheaton,friendship heights,0.125,18
+wheaton,gallery place,1.125,10
+wheaton,georgia avenue petworth,0.625,5
+wheaton,glenmont,6.75,1
+wheaton,greenbelt,0.375,8
+wheaton,huntington,0.125,21
+wheaton,judiciary square,0.125,9
+wheaton,mcpherson square,0.25,12
+wheaton,metro center,0.75,11
+wheaton,minnesota avenue,0.25,18
+wheaton,mount vernon square,0.25,9
+wheaton,naylor road,0.125,18
+wheaton,new carrollton,0.875,22
+wheaton,noma gallaudet u,1.375,7
+wheaton,pentagon city,0.125,14
+wheaton,potomac avenue,0.125,16
+wheaton,hyattsville crossing,0.5,6
+wheaton,rhode island avenue,0.75,6
+wheaton,rosslyn,0.375,15
+wheaton,shady grove,0.625,25
+wheaton,shaw howard university,0.125,8
+wheaton,silver spring,3.125,2
+wheaton,southern avenue,0.625,17
+wheaton,suitland,0.25,19
+wheaton,takoma,1.375,3
+wheaton,tenleytown au,0.125,17
+wheaton,twinbrook,0.125,23
+wheaton,u street,1.0,7
+wheaton,union station,1.0,8
+wheaton,van dorn street,0.125,20
+wheaton,van ness udc,0.25,16
+wheaton,vienna,0.25,23
+wheaton,west falls church,0.25,21
+wheaton,west hyattsville,0.625,5
+wheaton,wheaton,2.125,0
+wheaton,north bethesda,0.125,22
+wheaton,woodley park,1.125,14
+north bethesda,addison road,0.375,22
+north bethesda,anacostia,0.375,17
+north bethesda,ballston-mu,0.75,19
+north bethesda,benning road,0.25,20
+north bethesda,bethesda,2.5,3
+north bethesda,branch avenue,0.375,22
+north bethesda,brookland cua,0.25,17
+north bethesda,cleveland park,0.875,7
+north bethesda,columbia heights,1.0,16
+north bethesda,deanwood,0.125,21
+north bethesda,dunn loring,0.25,22
+north bethesda,dupont circle,1.75,9
+north bethesda,east falls church,0.125,20
+north bethesda,eastern market,1.0,17
+north bethesda,eisenhower avenue,0.125,22
+north bethesda,farragut north,0.5,10
+north bethesda,forest glen,0.125,21
+north bethesda,fort totten,2.0,18
+north bethesda,friendship heights,2.375,4
+north bethesda,gallery place,1.25,12
+north bethesda,georgia avenue petworth,0.25,17
+north bethesda,glenmont,0.5,23
+north bethesda,grosvenor strathmore,0.375,1
+north bethesda,king street old town,0.25,21
+north bethesda,landover,0.5,23
+north bethesda,largo,0.375,24
+north bethesda,metro center,0.25,11
+north bethesda,mount vernon square,0.875,13
+north bethesda,naylor road,0.25,20
+north bethesda,new carrollton,0.75,24
+north bethesda,noma gallaudet u,0.5,15
+north bethesda,pentagon city,0.125,16
+north bethesda,potomac avenue,0.5,18
+north bethesda,hyattsville crossing,0.375,20
+north bethesda,national airport,0.125,18
+north bethesda,rhode island avenue,0.375,16
+north bethesda,rockville,5.375,2
+north bethesda,rosslyn,0.25,15
+north bethesda,shady grove,4.5,3
+north bethesda,shaw howard university,0.875,14
+north bethesda,silver spring,0.375,20
+north bethesda,southern avenue,0.375,19
+north bethesda,suitland,0.125,21
+north bethesda,takoma,0.125,19
+north bethesda,tenleytown au,0.625,5
+north bethesda,twinbrook,2.75,1
+north bethesda,u street,0.875,15
+north bethesda,union station,1.375,14
+north bethesda,van dorn street,0.125,22
+north bethesda,van ness udc,0.875,6
+north bethesda,virginia square gmu,0.125,18
+north bethesda,west hyattsville,0.125,19
+north bethesda,wheaton,0.375,22
+north bethesda,north bethesda,1.625,0
+north bethesda,woodley park,1.5,8
+woodley park,addison road,1.375,14
+woodley park,anacostia,1.875,9
+woodley park,ballston-mu,7.5,11
+woodley park,benning road,1.0,12
+woodley park,bethesda,38.875,5
+woodley park,braddock road,1.0,12
+woodley park,branch avenue,3.375,14
+woodley park,brookland cua,3.625,9
+woodley park,capitol heights,0.5,13
+woodley park,capitol south,0.25,8
+woodley park,cheverly,1.5,14
+woodley park,clarendon,2.5,9
+woodley park,cleveland park,4.875,1
+woodley park,college park university of maryland,2.5,13
+woodley park,columbia heights,0.5,8
+woodley park,congress heights,0.875,10
+woodley park,court house,3.625,8
+woodley park,crystal city,4.375,9
+woodley park,deanwood,0.25,13
+woodley park,dunn loring,4.0,14
+woodley park,dupont circle,12.125,1
+woodley park,east falls church,5.875,12
+woodley park,eastern market,2.5,9
+woodley park,eisenhower avenue,0.875,14
+woodley park,farragut north,5.125,2
+woodley park,federal center sw,0.125,7
+woodley park,foggy bottom gwu,2.375,6
+woodley park,forest glen,2.375,13
+woodley park,fort totten,6.75,10
+woodley park,franconia springfield,5.25,15
+woodley park,friendship heights,20.625,4
+woodley park,gallery place,7.75,4
+woodley park,georgia avenue petworth,0.875,9
+woodley park,glenmont,7.0,15
+woodley park,greenbelt,1.5,14
+woodley park,grosvenor strathmore,35.25,7
+woodley park,huntington,2.25,15
+woodley park,judiciary square,1.375,5
+woodley park,king street old town,5.0,13
+woodley park,l'enfant plaza,0.25,6
+woodley park,landover,1.375,15
+woodley park,largo,2.25,16
+woodley park,mcpherson square,0.25,4
+woodley park,medical center,3.625,6
+woodley park,metro center,5.875,3
+woodley park,minnesota avenue,0.25,12
+woodley park,morgan boulevard,0.5,15
+woodley park,mount vernon square,0.875,5
+woodley park,navy yard ballpark,1.125,8
+woodley park,naylor road,1.25,12
+woodley park,new carrollton,6.875,16
+woodley park,noma gallaudet u,5.375,7
+woodley park,pentagon,1.75,7
+woodley park,pentagon city,5.125,8
+woodley park,potomac avenue,1.75,10
+woodley park,hyattsville crossing,1.5,12
+woodley park,national airport,1.0,10
+woodley park,rhode island avenue,2.25,8
+woodley park,rockville,18.5,10
+woodley park,rosslyn,5.875,7
+woodley park,shady grove,38.625,11
+woodley park,shaw howard university,0.375,6
+woodley park,silver spring,20.625,12
+woodley park,southern avenue,1.375,11
+woodley park,stadium armory,0.625,11
+woodley park,suitland,4.0,13
+woodley park,takoma,6.125,11
+woodley park,tenleytown au,24.5,3
+woodley park,twinbrook,15.625,9
+woodley park,u street,0.625,7
+woodley park,union station,11.625,6
+woodley park,van dorn street,3.25,14
+woodley park,van ness udc,18.625,2
+woodley park,vienna,12.75,15
+woodley park,virginia square gmu,1.5,10
+woodley park,waterfront,0.875,7
+woodley park,west falls church,2.125,13
+woodley park,west hyattsville,0.375,11
+woodley park,wheaton,4.875,14
+woodley park,north bethesda,12.875,8
+woodley park,woodley park,11.875,0

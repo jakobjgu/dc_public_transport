@@ -1,0 +1,88 @@
+version: 2
+
+models:
+  
+  - name: mart_entry_volume_by_station_and_period
+    description: >
+      Aggregate model showing entry volume by station, day type, and time period,
+      including total entries, average entries, trip counts, and average trip lengths.
+    columns:
+      - name: station
+        description: Name of the entry station.
+        tests:
+          - not_null
+      - name: day_type
+        description: Type of day (e.g., weekday, sat, sun, late).
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['weekday', 'saturday', 'sunday']
+      - name: trip_time
+        description: Time period of entry (e.g., AM Peak, PM Peak, Late Night).
+        tests:
+          - accepted_values:
+             values: ['PM Peak', 'AM Peak', 'Evening', 'Midday', 'Late Night']
+      - name: average_entries
+        description: Average number of riders entering the station during the specified period and day.
+      - name: sum_entries
+        description: Total number of riders entering the station during the specified period and day.
+      - name: trips_from_this_station
+        description: Count of distinct trips originating from the station during the specified period and day.
+      - name: average_number_of_stops_from_this_station
+        description: Average number of stops for trips starting from the station.
+  
+  - name: mart_exit_volume_by_station_and_period
+    description: >
+      Aggregate model showing exit volume by station, day type, and time period,
+      including total exits, average exits, trip counts, and average trip lengths.
+    columns:
+      - name: station
+        description: Name of the exit station.
+        tests:
+          - not_null
+      - name: day_type
+        description: Type of day (e.g., weekday, sat, sun, late).
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['weekday', 'saturday', 'sunday']
+      - name: trip_time
+        description: Time period of exit (e.g., AM Peak, PM Peak, Late Night).
+        tests:
+          - accepted_values:
+             values: ['PM Peak', 'AM Peak', 'Evening', 'Midday', 'Late Night']
+      - name: average_exits
+        description: Average number of riders exiting the station during the specified period and day.
+      - name: sum_exits
+        description: Total number of riders exiting the station during the specified period and day.
+      - name: trips_to_this_station
+        description: Count of distinct trips terminating in the station during the specified period and day.
+      - name: average_number_of_stops_to_this_station
+        description: Average number of stops for trips ending in the station.
+
+  - name: mart_weekday_weekend_ratio_by_station_and_daytime
+    description: >
+      Calculates the ratio of weekday to weekend ridership per station and time of day, 
+      excluding late night periods. This helps identify stations with higher relative usage 
+      on weekdays compared to weekends.
+    columns:
+      - name: entrance_station
+        description: Station where riders enter the system.
+        tests:
+          - not_null
+      - name: time_of_day
+        description: Time period of entry excluding late night.
+        tests:
+          - not_null
+      - name: weekday_entrances
+        description: Total number of weekday entries at the station during the specified time.
+        tests:
+          - not_null
+      - name: weekend_entrances
+        description: Total number of weekend (Saturday and Sunday) entries at the station during the specified time.
+        tests:
+          - not_null
+      - name: weekday_to_weekend_ratio
+        description: Ratio of weekday entries to weekend entries for a given station and time of day.
+        tests:
+          - not_null
