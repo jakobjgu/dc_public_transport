@@ -82,7 +82,6 @@ for node in graph.nodes():
 
         - default size for nodes? Because at non-am periods there is very little traffic and nodes have no volume
         - how to publish this or share it with others?
-        - how to initiate a git repo from here with this project?
 
 # Edge traces
 edge_x = []
