@@ -1,5 +1,6 @@
 __pycache__
 dctrans/
+.transport_env
 logs/
 .env
 .venv

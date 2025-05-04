@@ -80,8 +80,7 @@ for node in graph.nodes():
         node_size.append(volume * 0.002)  # Adjust scaling factor as needed
         graph.nodes[node]["color"] = node_color
 
-        - default size for nodes? Because at non-am periods there is very little traffic and nodes have no volume
-        - how to publish this or share it with others?
+        # - default size for nodes? Because at non-am periods there is very little traffic and nodes have no volume
 
 # Edge traces
 edge_x = []
