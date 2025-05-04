@@ -17,6 +17,9 @@ quick_test:
 streamlit_viz:
 	streamlit run visualizations/streamlit_app.py
 
+streamlit_viz_ec2:
+	streamlit run visualizations/streamlit_app.py --server.address=0.0.0.0 --server.port=8501
+
 docs:
 	cd $(DBT_FOLDER) && \
 	dbt docs generate --target $(DBT_TARGET)
