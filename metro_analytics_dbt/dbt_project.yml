@@ -37,7 +37,7 @@ models:
     staging:
       stations:
         stg_stations__station_list:
-          +materialized: view
+          +materialized: table
       wmata_ridership:
         stg_wmata_ridership__all_days:
           +materialized: table
