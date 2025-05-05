@@ -6,7 +6,7 @@ import hashlib
 import subprocess
 sys.path.append("../dc_public_transport")
 from settings import GITHUB_WEBHOOK_SECRET
-# this is ANOTHER test change, to see if the webhook from github is successfully delivered after merging to main
+# hopefully the last test change, to see if the webhook from github is successfully delivered after merging to main
 
 app = Flask(__name__)
 
