@@ -1,8 +1,10 @@
 from flask import Flask, request, abort
 import json
+import sys
 import hmac
 import hashlib
 import subprocess
+sys.path.append("../dc_public_transport")
 from settings import GITHUB_WEBHOOK_SECRET
 
 app = Flask(__name__)
