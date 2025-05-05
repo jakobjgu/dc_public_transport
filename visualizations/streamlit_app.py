@@ -1,6 +1,7 @@
 import streamlit as st
 import networkx as nx
 import pandas as pd
+import numpy as np
 import plotly.graph_objects as go
 import sys
 import pickle
@@ -48,7 +49,6 @@ filtered_exits = exit_df[
 # Map: station name -> exit volume
 exit_volume_map = dict(zip(filtered_exits["station"], filtered_exits["sum_exits"]))
 
-
 # Map color by metro line
 line_colors = {
     'red': '#be1337',  # Red
@@ -76,11 +76,10 @@ for node in graph.nodes():
         node_y.append(lat)
         node_text.append(node)
         node_color.append(line_colors.get(line, "gray"))
-        volume = exit_volume_map.get(node.lower(), 200)
-        node_size.append(volume * 0.002)  # Adjust scaling factor as needed
+        volume = exit_volume_map.get(node.lower(), 10)
+        scaled_size = max(volume * 0.003, 2)  # Ensure a minimum node size of 3
+        node_size.append(scaled_size)
         graph.nodes[node]["color"] = node_color
-
-        # - default size for nodes? Because at non-am periods there is very little traffic and nodes have no volume
 
 # Edge traces
 edge_x = []
