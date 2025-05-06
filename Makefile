@@ -20,6 +20,12 @@ streamlit_viz:
 streamlit_viz_ec2:
 	streamlit run visualizations/streamlit_app.py --server.address=0.0.0.0 --server.port=8501
 
+flask_ec2:
+	python flask_api/app.py --host 0.0.0.0 --port 5000
+
+react_viz_ec2:
+	serve -s build -l 0.0.0.0:3000
+
 docs:
 	cd $(DBT_FOLDER) && \
 	dbt docs generate --target $(DBT_TARGET)

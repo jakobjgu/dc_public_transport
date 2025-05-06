@@ -12,4 +12,4 @@ def create_app():
 if __name__ == "__main__":
     app = create_app()
     print(app.url_map)  # sanity-check registered routes
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=False)
