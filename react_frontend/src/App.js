@@ -35,7 +35,8 @@ function App() {
   const [zoomScale, setZoomScale] = useState(1);
 
   useEffect(() => {
-    fetch('/api/graph')
+    // fetch('/api/graph')
+    fetch('http://3.85.243.81:5000/api/graph')
       .then(res => res.json())
       .then(({ nodes, links }) => {
         // 1. Build a Mercator projection fitting your data to the canvas
