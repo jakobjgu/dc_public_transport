@@ -2,6 +2,7 @@ __pycache__
 .DS_Store
 dctrans/
 .transport_env
+.vscode/
 logs/
 .env
 .venv
