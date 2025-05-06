@@ -65,3 +65,7 @@ def get_graph():
         for u, v, attrs in G.edges(data=True)
     ]
     return jsonify({"nodes": nodes, "links": links})
+
+@api_bp.route('/ping', methods=['GET'])
+def ping():
+    return jsonify({"message":"pong"})
