@@ -19,7 +19,7 @@ else:
 # Expand the ~ to the full home directory path
 base_path = os.path.expanduser(base_path)
 
-BASE_PROJECT_ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_PROJECT_ROOT_DIR=os.getenv("PROJECT_ROOT_DIR")
 BASE_PROJECT_SOURCE_FILES_DIR=os.getenv("PROJECT_SOURCE_FILES_BASE_DIR")
 BASE_PROJECT_TRANSFORMED_FILES_DIR=os.getenv("PROJECT_TRANSFORMED_FILES_BASE_DIR")
 BASE_PROJECT_DBT_DIR=os.getenv("PROJECT_DBT_BASE_DIR")

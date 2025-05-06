@@ -5,9 +5,11 @@ from api.routes import api_bp
 
 def create_app():
     app = Flask(__name__)
-    CORS(app)                          # ← allow all origins
+    CORS(app, resources={r"/api/*": {"origins": "*"}})
     app.register_blueprint(api_bp)
     return app
 
 if __name__ == "__main__":
-    create_app().run(debug=True)
+    app = create_app()
+    print(app.url_map)  # sanity-check registered routes
+    app.run(debug=True)
