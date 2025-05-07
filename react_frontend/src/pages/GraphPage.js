@@ -25,7 +25,7 @@ export default function GraphPage() {
 
   // Fetch graph (nodes+links+volumes)
   useEffect(() => {
-    fetch(`http://localhost:5001/api/${dataset}`)
+    fetch(`http://${window.location.hostname}:5001/api/${dataset}`)
       .then(res => res.json())
       .then(({ nodes, links }) => {
         // 1. Build a Mercator projection fitting your data to the canvas
