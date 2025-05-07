@@ -22,10 +22,14 @@ def load_exit_volumes():
     df = con.execute("SELECT * FROM mart_exit_volume_by_station_and_period").fetch_df()
     return df
 
+def load_entry_volumes():
+    con = duckdb.connect(f"{PROJECT_DBT_DIR}/dev.duckdb")
+    df = con.execute("SELECT * FROM mart_entry_volume_by_station_and_period").fetch_df()
+    return df
 
-@api_bp.route('/graph', methods=['GET'])
-# @cross_origin()    # ← ensure CORS on this route
-def get_graph():
+
+@api_bp.route('/exits', methods=['GET'])
+def get_exits():
 
     # Load station-usage data from duckdb
     df = load_exit_volumes()
@@ -35,6 +39,48 @@ def get_graph():
         index='station',
         columns=['day_type','trip_time'],
         values='average_exits',
+        fill_value=0
+    )
+    .to_dict(orient='index')  # { station: { (day, time): value, ... }, ... }
+    )
+
+    # transform into nested { day: { time: value, ... }, ... }
+    volumes = {}
+    for station, dt_map in pt.items():
+        nested = {}
+        for (day, time), val in dt_map.items():
+            nested.setdefault(day, {})[time] = val
+        volumes[station] = nested
+
+    G = load_graph()
+
+    nodes = []
+    for n, attrs in G.nodes(data=True):
+        nodes.append({
+            "id": n,
+            "lat": attrs['lat'],
+            "lon": attrs['lon'],
+            "line": attrs['line'],
+            "volumes": volumes.get(n, {})   # nested day → time → value
+        })
+
+    links = [
+        {"source": u, "target": v, **attrs}
+        for u, v, attrs in G.edges(data=True)
+    ]
+    return jsonify({"nodes": nodes, "links": links})
+
+@api_bp.route('/entries', methods=['GET'])
+def get_entries():
+
+    # Load station-usage data from duckdb
+    df = load_entry_volumes()
+    # pivot df so each station maps to {(day, time): value}
+    pt = (
+    df.pivot_table(
+        index='station',
+        columns=['day_type','trip_time'],
+        values='average_entries',
         fill_value=0
     )
     .to_dict(orient='index')  # { station: { (day, time): value, ... }, ... }
