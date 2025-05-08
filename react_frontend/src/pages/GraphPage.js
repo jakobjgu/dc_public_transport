@@ -24,8 +24,10 @@ export default function GraphPage() {
   const height = window.innerHeight;
 
   // Fetch graph (nodes+links+volumes)
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
-    fetch(`http://${window.location.hostname}:5001/api/${dataset}`)
+    // fetch(`http://${window.location.hostname}:5001/api/${dataset}`)
+    fetch(`/api/${dataset}`)
       .then(res => res.json())
       .then(({ nodes, links }) => {
         // 1. Build a Mercator projection fitting your data to the canvas
