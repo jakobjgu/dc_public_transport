@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Link, Navigate } from 'react-router-dom';
 import GraphPage from './pages/GraphPage';
 
 function App() {
@@ -10,6 +10,8 @@ function App() {
         <Link to="/graph/entries">Entries</Link>
       </nav>
       <Routes>
+        {/* Redirect root → /graph/exits */}
+        <Route path="/" element={<Navigate to="/graph/exits" replace />} />
         <Route path="/graph/:dataset" element={<GraphPage />} />
       </Routes>
     </BrowserRouter>
