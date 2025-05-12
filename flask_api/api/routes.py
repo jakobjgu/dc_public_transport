@@ -10,7 +10,7 @@ import duckdb
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 from settings import (PROJECT_ROOT_DIR,PROJECT_DBT_DIR)
 
-api_bp = Blueprint('api', __name__, url_prefix='/api')
+api_bp = Blueprint('graph', __name__, url_prefix='/graph')
 
 def load_graph():
     p = os.path.join(PROJECT_ROOT_DIR, 'transformed_data', 'dc_metro_graph.pickle')

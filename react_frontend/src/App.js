@@ -1,34 +1,23 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route, Link, Navigate } from 'react-router-dom';
-import GraphPage from './pages/GraphPage';
+/**
+ * App.js
+ * ──────
+ * Top-level SPA component. 
+ * Keeps `dataset` in state (null | "entries" | "exits") and
+ * switches between:
+ *  - LandingPage (dataset === null)
+ *  - GraphPage   (dataset set)
+ */
 
-function App() {
-  return (
-    <BrowserRouter>
-      <nav style={{ padding: '1em', background: '#f0f0f0' }}>
-        <Link to="/graph/exits" style={{ marginRight: '1em' }}>Exits</Link>
-        <Link to="/graph/entries">Entries</Link>
-      </nav>
-      <Routes>
-        {/* Redirect root → /graph/exits */}
-        <Route path="/" element={<Navigate to="/graph/exits" replace />} />
-        <Route path="/graph/:dataset" element={<GraphPage />} />
-      </Routes>
-    </BrowserRouter>
+import React, { useState } from 'react';
+import LandingPage from './pages/LandingPage';
+import GraphPage   from './pages/GraphPage';
+
+export default function App() {
+  const [dataset, setDataset] = useState(null);
+
+  return dataset === null ? (
+    <LandingPage onSelect={setDataset} />
+  ) : (
+    <GraphPage dataset={dataset} onBack={() => setDataset(null)} />
   );
 }
-
-export default App;
-
-
-// todo:
-// - explain the different react components?
-// - use nginx and /or reverse proxy
-// - improve UI layout (HTML?) -> buttons are ugly
-// - check EC2 usage
-// - Use different routes to serve different datasets
-//   - use entrances as opposed to exits.
-//   - edge-width to represent average trip lenghts from station to station.
-//   - Or maybe better: selector dropdown to pick station in a static map -> highlight the originator stations that end in the station-of-interest
-//   - Also different react frontends? Or Multipage dashboard?
-// - Finalize github.io and deploy!

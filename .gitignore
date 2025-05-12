@@ -10,3 +10,6 @@ env/
 venv/
 server/server_commands.txt
 react_frontend/build/
+project-to-do.txt
+project-workflow.txt
+insightdatallc-lambda/

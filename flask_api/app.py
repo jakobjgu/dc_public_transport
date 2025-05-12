@@ -5,7 +5,7 @@ from api.routes import api_bp
 
 def create_app():
     app = Flask(__name__)
-    CORS(app, resources={r"/api/*": {"origins": "*"}})
+    CORS(app, resources={r"/graph/*": {"origins": "*"}})
     app.register_blueprint(api_bp)
     return app
 
