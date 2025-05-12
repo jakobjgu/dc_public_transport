@@ -132,3 +132,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 MIT © Insight Data LLC
+
+Probably going to move the React frontend components into a different repo
