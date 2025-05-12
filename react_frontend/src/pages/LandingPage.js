@@ -1,18 +1,13 @@
-// import React from 'react';
+/**
+ * LandingPage.js
+ * ─────────────
+ * Hero splash with translucent white box over a full-screen background image.
+ * Explains app purpose and lets user pick "Entries" or "Exits".
+ *
+ * Props:
+ *  - onSelect(dataset: "entries" | "exits")  → callback to parent to switch view
+ */
 
-// export default function LandingPage({ onSelect }) {
-//   return (
-//     <div style={{ padding: '2rem' }}>
-//       <h1>Insight Data LLC</h1>
-//       <button onClick={() => onSelect('entries')} style={{ marginRight: '1rem' }}>
-//         Entries
-//       </button>
-//       <button onClick={() => onSelect('exits')}>Exits</button>
-//     </div>
-//   );
-// }
-
-// src/pages/LandingPage.js
 import React from 'react';
 import background from '../assets/hero-bg.png'; // put your image in src/assets/
 

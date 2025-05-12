@@ -1,3 +1,17 @@
+/**
+ * GraphPage.js
+ * ───────────
+ * Renders an interactive network graph of either "entries" or "exits" volumes.
+ *
+ * Props:
+ *  - dataset:   string  ("entries" or "exits")
+ *  - onBack():  callback to return to LandingPage
+ *
+ * Fetches JSON from `/graph/${dataset}`, projects lat/lon to x/y via d3-geo,
+ * then renders with react-force-graph-2d. Provides controls for day-type
+ * and trip-time to rescale node sizes.
+ */
+
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import ForceGraph2D from 'react-force-graph-2d';
 import { geoMercator } from 'd3-geo';
