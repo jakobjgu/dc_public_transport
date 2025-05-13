@@ -1,6 +1,6 @@
 import duckdb
 import sys
-sys.path.append("../dc_public_transport")
+sys.path.append("../dc_metro")
 from settings import PROJECT_TRANSFORMED_FILES_DIR
 
 mart_dim_stations_query = f"""

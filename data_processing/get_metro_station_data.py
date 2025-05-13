@@ -10,13 +10,12 @@ import sys
 from pathlib import Path
 
 # Add your local modules
-sys.path.append("../dc_public_transport")
-sys.path.append("../dc_public_transport/data_processing")
+sys.path.append("../dc_metro")
 
 from settings import WMATA_DEMO_API_KEY
 
 # Output path
-output_csv = Path("../dc_public_transport//source_files/metro_data/station_coordinates.csv")
+output_csv = Path("../dc_metro/source_files/metro_data/station_coordinates.csv")
 
 # Set up API request headers
 headers = {"api_key": WMATA_DEMO_API_KEY}
