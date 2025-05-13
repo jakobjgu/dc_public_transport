@@ -5,7 +5,7 @@ The original xlxs files used for this project were downloaded from
 
 import pandas as pd
 import sys
-sys.path.append("../dc_public_transport")
+sys.path.append("../dc_metro")
 from settings import (
     PROJECT_SOURCE_FILES_DIR
     )

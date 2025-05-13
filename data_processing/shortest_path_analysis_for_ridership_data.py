@@ -4,8 +4,7 @@ import pickle
 import pandas as pd
 import boto3
 import sys
-sys.path.append("../dc_public_transport")
-sys.path.append("../dc_public_transport/data_processing")
+sys.path.append("../dc_metro")
 from settings import (
     PROJECT_SOURCE_FILES_DIR,
     PROJECT_TRANSFORMED_FILES_DIR,
@@ -144,79 +143,6 @@ def add_shortest_trip_length(s3_client):
     except Exception as e:
         print(f"Push to S3 unsuccessful because: {e}")
 
-    ############################ Graph visualization #######################################
-
-    # load the Graph (for layout and display development, so that the graph does not have to be re-created avery time)
-    with open(f"{PROJECT_TRANSFORMED_FILES_DIR}/dc_metro_graph.pickle", "rb") as f:
-        G = pickle.load(f)
-
-    # Metro line color mapping
-    line_colors = {
-        'red': '#e41a1c',
-        'blue': '#377eb8',
-        'green': '#4daf4a',
-        'yellow': '#ffff33',
-        'orange': '#ff7f00',
-        'silver': '#999999'
-    }
-
-    # Build a station-to-color dictionary
-    station_colors = {}
-
-    def assign_color(line, stations):
-        for station in stations:
-            # If station is served by multiple lines, we keep the first one assigned
-            station_colors.setdefault(station, line_colors[line])
-
-    # Assign colors
-    assign_color('red', red_stations)
-    assign_color('blue', blue_stations)
-    assign_color('green', green_stations)
-    assign_color('yellow', yellow_stations)
-    assign_color('orange', orange_stations)
-    assign_color('silver', silver_stations)
-
-    # Create list of colors in graph node order
-    node_colors = [station_colors.get(node, '#d3d3d3') for node in G.nodes()]
-
-    # Get positions from lat/lon (can swap lat/lon depending on desired axis orientation)
-    pos = {node: (data["lon"], data["lat"]) for node, data in G.nodes(data=True)}
-
-    plt.figure(figsize=(16, 16))
-    nx.draw(G, pos, node_color=node_colors, with_labels=False, node_size=100)
-    nx.draw_networkx_labels(G, pos, font_size=6)
-    plt.axis("off")
-    plt.title("DC Metro Map by Line")
-    plt.tight_layout()
-    plt.savefig(f"{PROJECT_SOURCE_FILES_DIR}/images/metro_network_graph.png", dpi=300, bbox_inches='tight')
-    plt.show()
-
-    # Adjust the spring_layout parameters
-    # pos = nx.spring_layout(
-    #     G,
-    #     seed=42,           # keep layout consistent across runs
-    #     k=0.4,             # spacing between nodes (higher = more spread out)
-    #     iterations=100     # more iterations = better convergence
-    # )
-    # pos = nx.kamada_kawai_layout(G)
-
-    # plt.figure(figsize=(20, 15))  # increase figure size for better spacing
-    # nx.draw_networkx_nodes(G, pos, node_size=300, node_color=node_colors, alpha=0.9)
-    # nx.draw_networkx_edges(G, pos, edge_color='gray', width=1)
-
-    # # Make labels more readable
-    # nx.draw_networkx_labels(G,
-    #                         pos,
-    #                         font_size=9,
-    #                         font_family='sans-serif',
-    #                         verticalalignment='center',
-    #                         horizontalalignment='center')
-
-    # plt.title("Metro Network Graph (Improved Layout)", fontsize=16)
-    # plt.axis('off')
-    # plt.tight_layout()
-    # plt.savefig("metro_network_graph_improved.png", dpi=300, bbox_inches='tight')
-    # plt.show()
 
 if __name__ == "__main__":
     print("Main is triggered")

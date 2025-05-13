@@ -7,8 +7,7 @@ and then cleaned in this script (metro_analytics.ipynb).
 import pandas as pd
 import boto3
 import sys
-sys.path.append("../dc_public_transport")
-sys.path.append("../dc_public_transport/data_processing")
+sys.path.append("../dc_metro")
 from settings import (
     S3_BUCKET,
     PROJECT_SOURCE_FILES_DIR
