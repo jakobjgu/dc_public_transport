@@ -32,19 +32,4 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 models:
   metro_analytics_dbt:
-
-  # staging tables
-    staging:
-      stations:
-        stg_stations__station_list:
-          +materialized: table
-      wmata_ridership:
-        stg_wmata_ridership__all_days:
-          +materialized: table
-        base:
-          +materialized: view
-          
-
-  # marts
-    marts:
-      +materialized: table
+    +materialized: table

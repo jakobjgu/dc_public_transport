@@ -1,5 +1,5 @@
 SELECT DISTINCT
-    station_name,
+    station_name as station,
     station_id,
     metroline AS line_name,
     lat,

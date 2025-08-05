@@ -9,7 +9,7 @@ WITH all_data AS (
 SELECT
     ent_station,
     ext_station,
-    ent_time_period,
+    ent_time_period as trip_time,
     day_type,
     riders,
     trip_length

@@ -24,7 +24,7 @@ weekends as (
 weekday_weekend_ratio as (
     SELECT
         wd.ent_station as entrance_station,
-        wd.ent_time_period as time_of_day,
+        wd.ent_time_period as trip_time,
         wd.sum_riders as weekday_entrances,
         we.sum_riders as weekend_entrances,
         wd.sum_riders / we.sum_riders as weekday_to_weekend_ratio
